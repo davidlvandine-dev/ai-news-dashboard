@@ -1,0 +1,19 @@
+# Logs
+*.log
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data snapshots (generated at runtime)
+data/snapshots/
+data/index.json
+
+# Runtime files
+*.pid
+
+# OS
+.DS_Store
+Thumbs.db

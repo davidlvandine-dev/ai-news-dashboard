@@ -1,0 +1,14 @@
+[Unit]
+Description=AI News Dashboard
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/dave/ai-news-dashboard
+ExecStart=/usr/bin/python3 -m http.server 8765 --bind 0.0.0.0
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

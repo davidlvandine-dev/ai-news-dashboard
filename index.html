@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI News Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Daily archive</p>
+        <h1>AI News Dashboard</h1>
+      </div>
+      <div class="toolbar" aria-label="Dashboard controls">
+        <div class="view-toggle" aria-label="Dashboard view">
+          <button id="newsViewButton" class="active" type="button" data-view="news">News</button>
+          <button id="ipoViewButton" type="button" data-view="ipo">IPO Tracker</button>
+          <button id="partnershipViewButton" type="button" data-view="partnerships">Partnerships</button>
+        </div>
+        <label class="field">
+          <span>Date</span>
+          <select id="snapshotSelect"></select>
+        </label>
+        <label class="field search">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="Company, source, topic">
+        </label>
+      </div>
+    </header>
+
+    <main>
+      <section class="summary-band" aria-live="polite">
+        <div>
+          <p class="eyebrow">Latest snapshot</p>
+          <h2 id="snapshotTitle">Loading...</h2>
+        </div>
+        <div class="metrics">
+          <div>
+            <strong id="companyCount">0</strong>
+            <span>companies</span>
+          </div>
+          <div>
+            <strong id="itemCount">0</strong>
+            <span>news items</span>
+          </div>
+          <div>
+            <strong id="sourceCount">0</strong>
+            <span>sources</span>
+          </div>
+          <div>
+            <strong id="ipoCount">0</strong>
+            <span>IPO tracked</span>
+          </div>
+          <div>
+            <strong id="partnershipCount">0</strong>
+            <span>partnerships</span>
+          </div>
+        </div>
+      </section>
+
+      <section id="companyGrid" class="company-grid dashboard-view active" aria-label="Company news"></section>
+
+      <section id="ipoTracker" class="ipo-layout dashboard-view" aria-label="IPO tracker">
+        <div class="ipo-visualization-panel">
+          <div class="ipo-visualization-head">
+            <div>
+              <p class="eyebrow">IPO progress map</p>
+              <h3>Start to listing</h3>
+            </div>
+            <p class="ipo-legend">
+              <span class="legend-chip confirmed">Confirmed</span>
+              <span class="legend-chip reported">Reported</span>
+              <span class="legend-chip unverified">Unverified</span>
+            </p>
+          </div>
+          <div id="ipoStageLegend" class="ipo-stage-legend" aria-hidden="true"></div>
+          <div id="ipoRaceList" class="ipo-race-list" role="listbox" aria-label="IPO progress lanes"></div>
+        </div>
+        <div id="ipoList" class="ipo-list" role="listbox" aria-label="IPO companies"></div>
+        <article class="ipo-detail" aria-live="polite">
+          <p class="category" id="ipoStage">Select a company</p>
+          <h3 id="ipoCompany">IPO Tracker</h3>
+          <p id="ipoStatusText">Choose a company to see its current IPO status, process stage, and latest article.</p>
+          <dl class="ipo-facts">
+            <div>
+              <dt>Process</dt>
+              <dd id="ipoProcess">-</dd>
+            </div>
+            <div>
+              <dt>Last Checked</dt>
+              <dd id="ipoUpdated">-</dd>
+            </div>
+            <div>
+              <dt>Confidence</dt>
+              <dd id="ipoConfidence">-</dd>
+            </div>
+          </dl>
+          <a id="ipoArticleLink" class="article-button" target="_blank" rel="noreferrer">Open latest IPO article</a>
+          <p class="ipo-note" id="ipoNote"></p>
+        </article>
+      </section>
+
+      <section id="partnershipTracker" class="tracker-layout dashboard-view" aria-label="Partnership tracker">
+        <div id="partnershipList" class="tracker-list" role="listbox" aria-label="AI partnerships"></div>
+        <article class="tracker-detail" aria-live="polite">
+          <p class="category" id="partnershipType">Select a relationship</p>
+          <h3 id="partnershipName">Partnerships</h3>
+          <p id="partnershipStatusText">Choose a relationship to see the contract type, companies involved, and latest source.</p>
+          <dl class="tracker-facts">
+            <div>
+              <dt>Companies</dt>
+              <dd id="partnershipCompanies">-</dd>
+            </div>
+            <div>
+              <dt>Terms</dt>
+              <dd id="partnershipTerms">-</dd>
+            </div>
+            <div>
+              <dt>Last Checked</dt>
+              <dd id="partnershipUpdated">-</dd>
+            </div>
+            <div>
+              <dt>Confidence</dt>
+              <dd id="partnershipConfidence">-</dd>
+            </div>
+          </dl>
+          <a id="partnershipArticleLink" class="article-button" target="_blank" rel="noreferrer">Open latest source</a>
+          <p class="tracker-note" id="partnershipNote"></p>
+        </article>
+      </section>
+    </main>
+
+    <template id="companyCardTemplate">
+      <article class="company-card">
+        <div class="company-head">
+          <div>
+            <p class="category"></p>
+            <h3></h3>
+          </div>
+          <span class="badge"></span>
+        </div>
+        <p class="summary"></p>
+        <ul class="news-list"></ul>
+      </article>
+    </template>
+
+    <template id="newsItemTemplate">
+      <li>
+        <div class="news-item-head">
+          <h4></h4>
+          <a target="_blank" rel="noreferrer">Source</a>
+        </div>
+        <p></p>
+      </li>
+    </template>
+
+    <button id="backToTop" class="back-to-top" aria-label="Back to top">↑</button>
+    <script src="app.js"></script>
+  </body>
+</html>
