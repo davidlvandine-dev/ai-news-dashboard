@@ -6,7 +6,10 @@
       "Bash(git -C /home/dave/ai-news-dashboard branch -m master main)",
       "Bash(git rm *)",
       "Bash(git commit -m ' *)",
-      "Bash(gh repo *)"
+      "Bash(gh repo *)",
+      "Bash(crontab -l)",
+      "Bash(sudo crontab -l)",
+      "Bash(git push *)"
     ]
   }
 }
