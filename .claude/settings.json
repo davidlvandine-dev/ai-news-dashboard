@@ -12,7 +12,10 @@
       "Bash(git push *)",
       "Bash(npm --version)",
       "Read(//home/dave/homedash/backend/**)",
-      "Bash(systemctl status *)"
+      "Bash(systemctl status *)",
+      "Bash(find /home/dave/homedash/frontend -name \"*.html\" | head -5 && find /home/dave/homedash/frontend/src -name \"*.tsx\" -o -name \"*.ts\" | grep -i nav | head -10)",
+      "Read(//home/dave/homedash/frontend/**)",
+      "Read(//home/dave/homedash/frontend/src/**)"
     ]
   }
 }
