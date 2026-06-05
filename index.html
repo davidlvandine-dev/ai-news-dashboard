@@ -30,10 +30,13 @@
     </header>
 
     <main>
+      <div id="companyFilters" class="company-filters" aria-label="Filter by company"></div>
+
       <section class="summary-band" aria-live="polite">
         <div>
           <p class="eyebrow">Latest snapshot</p>
           <h2 id="snapshotTitle">Loading...</h2>
+          <p id="freshnessText" class="freshness-text"></p>
         </div>
         <div class="metrics">
           <div>
@@ -58,6 +61,8 @@
           </div>
         </div>
       </section>
+
+      <p id="filterStatus" class="filter-status" aria-live="polite"></p>
 
       <section id="companyGrid" class="company-grid dashboard-view active" aria-label="Company news"></section>
 

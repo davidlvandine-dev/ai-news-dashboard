@@ -276,8 +276,13 @@ main {
   text-decoration: underline;
 }
 
+.news-item-head a::after {
+  content: " ↗";
+  font-size: 0.75em;
+}
+
 .news-item-head a:visited {
-  color: var(--muted);
+  color: #7c5fa0;
 }
 
 .news-list p {
@@ -724,6 +729,68 @@ main {
   margin: 16px 0 0;
   color: var(--muted);
   font-size: 0.93rem;
+}
+
+.freshness-text {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.company-filters {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  padding: 14px 0 4px;
+}
+
+.filter-chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--panel);
+  color: var(--muted);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 700;
+  padding: 4px 12px;
+  transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease;
+  white-space: nowrap;
+}
+
+.filter-chip:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.filter-chip.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #ffffff;
+}
+
+.filter-status {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-size: 0.84rem;
+  min-height: 1.2em;
+}
+
+.new-badge {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 6px;
+  padding: 1px 6px;
+  border-radius: 999px;
+  background: #daf2e8;
+  color: #16634f;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
 }
 
 .metric-total {

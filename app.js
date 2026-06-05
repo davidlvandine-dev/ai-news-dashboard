@@ -11,6 +11,9 @@ const els = {
   select: document.querySelector("#snapshotSelect"),
   search: document.querySelector("#searchInput"),
   title: document.querySelector("#snapshotTitle"),
+  freshnessText: document.querySelector("#freshnessText"),
+  companyFilters: document.querySelector("#companyFilters"),
+  filterStatus: document.querySelector("#filterStatus"),
   companyCount: document.querySelector("#companyCount"),
   itemCount: document.querySelector("#itemCount"),
   sourceCount: document.querySelector("#sourceCount"),
@@ -49,9 +52,11 @@ const els = {
 
 let snapshots = [];
 let currentSnapshot = null;
+let previousSnapshot = null;
 let currentView = "news";
 let selectedIpoCompany = null;
 let selectedPartnership = null;
+let activeFilters = new Set();
 
 const IPO_STAGES = [
   { key: "watchlist", label: "Watchlist" },
@@ -100,6 +105,16 @@ function formatDate(dateText) {
     day: "numeric",
     year: "numeric"
   }).format(new Date(year, month - 1, day));
+}
+
+function formatFreshness(generatedAt) {
+  if (!generatedAt) return null;
+  const diffMs = Date.now() - new Date(generatedAt).getTime();
+  const hours = Math.floor(diffMs / 3_600_000);
+  if (hours < 1) return "Generated less than an hour ago";
+  if (hours < 24) return `Generated ${hours} hour${hours === 1 ? "" : "s"} ago`;
+  const days = Math.floor(hours / 24);
+  return `Generated ${days} day${days === 1 ? "" : "s"} ago`;
 }
 
 function matchesQuery(company, query) {
@@ -264,6 +279,50 @@ function buildIpoStageLegend() {
   els.ipoStageLegend.append(finish);
 }
 
+function buildCompanyFilters(snapshot) {
+  els.companyFilters.replaceChildren();
+
+  const allBtn = document.createElement("button");
+  allBtn.className = "filter-chip" + (activeFilters.size === 0 ? " active" : "");
+  allBtn.type = "button";
+  allBtn.textContent = "All";
+  allBtn.addEventListener("click", () => {
+    activeFilters.clear();
+    updateFilterChips();
+    if (currentSnapshot) renderSnapshot(currentSnapshot);
+  });
+  els.companyFilters.append(allBtn);
+
+  snapshot.companies.forEach((company) => {
+    const chip = document.createElement("button");
+    chip.className = "filter-chip" + (activeFilters.has(company.name) ? " active" : "");
+    chip.type = "button";
+    chip.textContent = company.name;
+    chip.dataset.company = company.name;
+    chip.addEventListener("click", () => {
+      if (activeFilters.has(company.name)) {
+        activeFilters.delete(company.name);
+      } else {
+        activeFilters.add(company.name);
+      }
+      updateFilterChips();
+      if (currentSnapshot) renderSnapshot(currentSnapshot);
+    });
+    els.companyFilters.append(chip);
+  });
+}
+
+function updateFilterChips() {
+  els.companyFilters.querySelectorAll(".filter-chip").forEach((chip) => {
+    const company = chip.dataset.company;
+    if (!company) {
+      chip.classList.toggle("active", activeFilters.size === 0);
+    } else {
+      chip.classList.toggle("active", activeFilters.has(company));
+    }
+  });
+}
+
 function setView(view) {
   currentView = view;
   els.viewButtons.forEach((button) => {
@@ -277,7 +336,12 @@ function setView(view) {
 function renderSnapshot(snapshot) {
   currentSnapshot = snapshot;
   const query = els.search.value.trim();
-  const companies = snapshot.companies.filter((company) => matchesQuery(company, query));
+
+  let companies = snapshot.companies.filter((company) => matchesQuery(company, query));
+  if (activeFilters.size > 0) {
+    companies = companies.filter((company) => activeFilters.has(company.name));
+  }
+
   const ipoEntries = (snapshot.ipoTracker || []).filter((entry) => ipoMatchesQuery(entry, query));
   const partnershipEntries = (snapshot.partnershipTracker || []).filter((entry) => partnershipMatchesQuery(entry, query));
   const itemCount = companies.reduce((sum, company) => sum + company.items.length, 0);
@@ -288,11 +352,18 @@ function renderSnapshot(snapshot) {
   const totalPartnerships = (snapshot.partnershipTracker || []).length;
 
   els.title.textContent = `${formatDate(snapshot.date)} - ${snapshot.title || "AI news"}`;
+  els.freshnessText.textContent = formatFreshness(snapshot.generatedAt) || "";
+
   setMetric(els.companyCount, companies.length, totalCompanies);
   setMetric(els.itemCount, itemCount, totalItemCount);
   els.sourceCount.textContent = sourceCount(companies, ipoEntries, partnershipEntries);
   setMetric(els.ipoCount, ipoEntries.length, totalIpo);
   setMetric(els.partnershipCount, partnershipEntries.length, totalPartnerships);
+
+  const isFiltered = query || activeFilters.size > 0;
+  els.filterStatus.textContent = (isFiltered && companies.length !== totalCompanies)
+    ? `Showing ${companies.length} of ${totalCompanies} companies`
+    : "";
 
   els.grid.replaceChildren();
   renderIpoTracker(snapshot, ipoEntries);
@@ -307,6 +378,9 @@ function renderSnapshot(snapshot) {
   }
 
   companies.forEach((company) => {
+    const prevCompany = previousSnapshot?.companies.find((c) => c.name === company.name);
+    const prevHeadlines = new Set((prevCompany?.items || []).map((i) => i.headline));
+
     const card = els.companyTemplate.content.firstElementChild.cloneNode(true);
     card.querySelector(".category").textContent = company.category;
     card.querySelector("h3").textContent = company.name;
@@ -316,7 +390,16 @@ function renderSnapshot(snapshot) {
     const list = card.querySelector(".news-list");
     company.items.forEach((item) => {
       const row = els.newsTemplate.content.firstElementChild.cloneNode(true);
-      row.querySelector("h4").textContent = item.headline;
+      const headline = row.querySelector("h4");
+      headline.textContent = item.headline;
+
+      if (previousSnapshot && !prevHeadlines.has(item.headline)) {
+        const badge = document.createElement("span");
+        badge.className = "new-badge";
+        badge.textContent = "NEW";
+        headline.prepend(badge);
+      }
+
       row.querySelector("p").textContent = item.detail;
       const link = row.querySelector("a");
       link.href = item.sourceUrl;
@@ -549,7 +632,18 @@ async function handleSnapshotChange() {
   if (!selected) return;
   document.body.classList.add("loading");
   try {
-    renderSnapshot(await loadSnapshot(selected.path));
+    const currentIdx = snapshots.findIndex((s) => s.date === selected.date);
+    const prevEntry = currentIdx < snapshots.length - 1 ? snapshots[currentIdx + 1] : null;
+
+    const [snap, prev] = await Promise.all([
+      loadSnapshot(selected.path),
+      prevEntry ? loadSnapshot(prevEntry.path).catch(() => null) : Promise.resolve(null)
+    ]);
+
+    previousSnapshot = prev;
+    activeFilters.clear();
+    buildCompanyFilters(snap);
+    renderSnapshot(snap);
   } finally {
     document.body.classList.remove("loading");
   }
