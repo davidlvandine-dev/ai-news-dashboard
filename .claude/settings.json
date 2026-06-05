@@ -5,7 +5,8 @@
       "Bash(git add *)",
       "Bash(git -C /home/dave/ai-news-dashboard branch -m master main)",
       "Bash(git rm *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(gh repo *)"
     ]
   }
 }
