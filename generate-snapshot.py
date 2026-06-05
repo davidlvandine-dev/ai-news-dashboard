@@ -41,6 +41,12 @@ COMPANIES = [
     "xAI",
     "Broadcom",
     "Palantir",
+    "Apple",
+    "AMD",
+    "Perplexity AI",
+    "CoreWeave",
+    "Mistral AI",
+    "Tesla",
 ]
 
 SCHEMA = """
