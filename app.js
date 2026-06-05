@@ -10,6 +10,8 @@ const els = {
   viewButtons: document.querySelectorAll("[data-view]"),
   select: document.querySelector("#snapshotSelect"),
   search: document.querySelector("#searchInput"),
+  refreshButton: document.querySelector("#refreshButton"),
+  updateBanner: document.querySelector("#updateBanner"),
   title: document.querySelector("#snapshotTitle"),
   freshnessText: document.querySelector("#freshnessText"),
   companyFilters: document.querySelector("#companyFilters"),
@@ -717,5 +719,78 @@ window.addEventListener("scroll", () => {
 els.backToTop.addEventListener("click", () => {
   window.scrollTo({ top: 0, behavior: "smooth" });
 });
+
+// --- Refresh button ---
+
+function setUpdateState(running) {
+  els.refreshButton.disabled = running;
+  els.refreshButton.textContent = running ? "Updating…" : "Refresh";
+  els.updateBanner.hidden = !running;
+  els.updateBanner.classList.remove("done");
+  if (running) els.updateBanner.textContent = "Fetching latest AI news — this may take a minute…";
+}
+
+function showUpdateDone() {
+  els.updateBanner.hidden = false;
+  els.updateBanner.classList.add("done");
+  els.updateBanner.textContent = "Update complete — new snapshot loaded.";
+  setTimeout(() => { els.updateBanner.hidden = true; }, 5000);
+}
+
+els.refreshButton?.addEventListener("click", async () => {
+  setUpdateState(true);
+  try {
+    const res = await fetch("/api/refresh", { method: "POST" });
+    if (!res.ok) {
+      const body = await res.json().catch(() => ({}));
+      setUpdateState(false);
+      els.updateBanner.hidden = false;
+      els.updateBanner.textContent = body.error || "Refresh request failed.";
+    }
+  } catch {
+    setUpdateState(false);
+  }
+});
+
+// --- Server-Sent Events: live update notifications ---
+
+function connectSSE() {
+  const evtSource = new EventSource("/api/events");
+
+  evtSource.addEventListener("status", (e) => {
+    const { running } = JSON.parse(e.data);
+    setUpdateState(running);
+  });
+
+  evtSource.addEventListener("snapshot", async () => {
+    // New snapshot written — reload the index and switch to latest
+    try {
+      const index = await loadIndex();
+      const updated = [...index.snapshots].sort((a, b) => b.date.localeCompare(a.date));
+      const latestDate = updated[0]?.date;
+
+      if (latestDate && latestDate !== snapshots[0]?.date) {
+        snapshots = updated;
+        const option = document.createElement("option");
+        option.value = latestDate;
+        option.textContent = updated[0].label || formatDate(latestDate);
+        els.select.prepend(option);
+      }
+
+      els.select.value = index.latest || snapshots[0]?.date;
+      await handleSnapshotChange();
+      showUpdateDone();
+    } catch {
+      // Silent — user can manually select latest
+    }
+  });
+
+  evtSource.onerror = () => {
+    // Browser will auto-reconnect; nothing to do
+  };
+}
+
+// Only connect SSE when served from the Node.js server
+if (window.location.protocol !== 'file:') connectSSE();
 
 boot();

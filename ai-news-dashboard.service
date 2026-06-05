@@ -6,7 +6,7 @@ Wants=network-online.target
 [Service]
 Type=simple
 WorkingDirectory=/home/dave/ai-news-dashboard
-ExecStart=/usr/bin/python3 -m http.server 8765 --bind 0.0.0.0
+ExecStart=/usr/bin/node /home/dave/ai-news-dashboard/server.js
 Restart=on-failure
 RestartSec=5
 

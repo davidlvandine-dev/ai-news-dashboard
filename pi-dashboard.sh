@@ -29,7 +29,7 @@ start_dashboard() {
   fi
 
   cd "$ROOT_DIR"
-  nohup python3 -m http.server "$PORT" --bind "$HOST" > "$LOG_FILE" 2>&1 &
+  nohup node "$ROOT_DIR/server.js" > "$LOG_FILE" 2>&1 &
   echo "$!" > "$PID_FILE"
   sleep 1
 
