@@ -9,7 +9,10 @@
       "Bash(gh repo *)",
       "Bash(crontab -l)",
       "Bash(sudo crontab -l)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(npm --version)",
+      "Read(//home/dave/homedash/backend/**)",
+      "Bash(systemctl status *)"
     ]
   }
 }
