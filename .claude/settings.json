@@ -15,7 +15,29 @@
       "Bash(systemctl status *)",
       "Bash(find /home/dave/homedash/frontend -name \"*.html\" | head -5 && find /home/dave/homedash/frontend/src -name \"*.tsx\" -o -name \"*.ts\" | grep -i nav | head -10)",
       "Read(//home/dave/homedash/frontend/**)",
-      "Read(//home/dave/homedash/frontend/src/**)"
+      "Read(//home/dave/homedash/frontend/src/**)",
+      "Read(//etc/cron.d/**)",
+      "Read(//etc/cron.daily/**)",
+      "Read(//etc/cron.hourly/**)",
+      "Read(//home/dave/**)",
+      "Bash(env)",
+      "Bash(codex --version)",
+      "Bash(ls -la ~/.config/codex/ 2>/dev/null || echo \"no codex config for dave\"; ls -la /root/.config/codex/ 2>/dev/null || echo \"no codex config for root\")",
+      "Read(//root/.config/**)",
+      "Bash(codex --help)",
+      "Bash(python3 -c ' *)",
+      "Skill(claude-api)",
+      "Skill(claude-api:*)",
+      "Bash(chmod +x /home/dave/ai-news-dashboard/update-news.sh)",
+      "Bash(claude --version)",
+      "Bash(command -v claude)",
+      "Read(//usr/local/**)",
+      "Bash(sudo ln -sf /home/dave/.vscode-server/extensions/anthropic.claude-code-2.1.168-linux-arm64/resources/native-binary/claude /usr/local/bin/claude)",
+      "Bash(git config *)",
+      "Bash(gh auth *)",
+      "Bash(git -C /home/dave/ai-news-dashboard push --dry-run)",
+      "Bash(env -i HOME=/home/dave PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin which claude)",
+      "Bash(./update-news.sh)"
     ]
   }
 }

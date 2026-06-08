@@ -2,6 +2,7 @@
 set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+export CODEX_HOME=/home/dave/.codex
 LOG_DIR="$ROOT_DIR/logs"
 LOCK_FILE="$ROOT_DIR/.update-with-codex.lock"
 TODAY="$(date +%F)"
