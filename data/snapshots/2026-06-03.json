@@ -1,0 +1,672 @@
+{
+  "date": "2026-06-03",
+  "generatedAt": "2026-06-03T18:00:00-04:00",
+  "title": "Top AI Companies Daily News",
+  "companies": [
+    {
+      "name": "NVIDIA",
+      "category": "AI chips and infrastructure",
+      "summary": "NVIDIA's latest disclosures still center on hyperscale AI infrastructure, but the company is also pushing physical AI, enterprise agent workstations, and semiconductor-manufacturing workflows.",
+      "items": [
+        {
+          "headline": "NVIDIA said TSMC is using its AI stack across chip design and fabs",
+          "detail": "NVIDIA said TSMC is applying CUDA-X libraries, Metropolis, and TAO across lithography, process simulation, advanced process control, and automated defect inspection to improve fab productivity and yield.",
+          "sourceTitle": "NVIDIA Newsroom",
+          "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-and-tsmc-bring-ai-into-fabs-to-advance-semiconductor-design-and-manufacturing",
+          "publishedDate": "2026-05-31"
+        },
+        {
+          "headline": "NVIDIA launched DGX Station for Windows for local frontier-agent workloads",
+          "detail": "The company introduced DGX Station for Windows, a GB300 Grace Blackwell-based deskside AI supercomputer designed to run frontier-scale agent workloads locally inside Windows environments.",
+          "sourceTitle": "NVIDIA Newsroom",
+          "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-dgx-station-for-windows-puts-a-trillion-parameter-ai-supercomputer-on-every-enterprise-desk",
+          "publishedDate": "2026-05-31"
+        },
+        {
+          "headline": "Q1 FY2027 results reinforced continued AI factory demand",
+          "detail": "NVIDIA reported Q1 FY2027 revenue of $81.6 billion and data center revenue of $75.2 billion, pointing to sustained hyperscaler and enterprise demand for AI systems.",
+          "sourceTitle": "NVIDIA Newsroom",
+          "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027",
+          "publishedDate": "2026-05-20"
+        }
+      ]
+    },
+    {
+      "name": "Alphabet / Google DeepMind",
+      "category": "Foundation models, search, cloud, and AI research",
+      "summary": "Google is pushing Gemini, Antigravity, and AI search together while adding new TPU capacity and making agentic workflows a core product narrative.",
+      "items": [
+        {
+          "headline": "Google I/O 2026 put Gemini 3.5 and agents at the center of the stack",
+          "detail": "Google's I/O roundup emphasized Gemini 3.5 Flash, Gemini Omni, Antigravity, and broader AI product rollouts across search, workspace, shopping, and developer workflows.",
+          "sourceTitle": "Google Blog",
+          "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+          "publishedDate": "2026-05-20"
+        },
+        {
+          "headline": "Google detailed Antigravity 2.0 and managed agents for developers",
+          "detail": "Google DeepMind said Antigravity 2.0, Managed Agents in the Gemini API, and Google AI Studio updates are meant to move developers from prompts to production agent systems.",
+          "sourceTitle": "Google Blog",
+          "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights",
+          "publishedDate": "2026-05-19"
+        },
+        {
+          "headline": "Google and Blackstone formed a TPU cloud joint venture",
+          "detail": "Google said Blackstone is making an initial $5 billion equity commitment for a new TPU-focused cloud business with expected 500MW of capacity beginning in 2027.",
+          "sourceTitle": "Google Blog",
+          "sourceUrl": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/",
+          "publishedDate": "2026-05-19"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "category": "Cloud AI, copilots, and enterprise software",
+      "summary": "Microsoft is framing Azure, Foundry, GitHub, Microsoft 365, and security as one governed operating system for enterprise agents rather than a collection of separate copilots.",
+      "items": [
+        {
+          "headline": "Microsoft said enterprise winners will be defined by the system around AI",
+          "detail": "Microsoft argued that the next competitive moat is a governed agent platform spanning Azure, GitHub, Microsoft IQ, Fabric, Foundry, Windows, Security, and Microsoft 365.",
+          "sourceTitle": "The Official Microsoft Blog",
+          "sourceUrl": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+          "publishedDate": "2026-06-02"
+        },
+        {
+          "headline": "Build 2026 highlighted new model and agent experiences",
+          "detail": "Microsoft's Build post emphasized Work IQ APIs, MAI-Image-2.5, and agent-centric developer tooling aimed at turning AI from demos into production workflows.",
+          "sourceTitle": "The Official Microsoft Blog",
+          "sourceUrl": "https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work/",
+          "publishedDate": "2026-06-02"
+        },
+        {
+          "headline": "Microsoft said the bottleneck has shifted from pilots to execution",
+          "detail": "The company said large customers are now focused on enterprise rollout, repeatability, and measured business outcomes rather than whether to adopt AI at all.",
+          "sourceTitle": "The Official Microsoft Blog",
+          "sourceUrl": "https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator/",
+          "publishedDate": "2026-05-21"
+        }
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "category": "Foundation models and AI products",
+      "summary": "OpenAI is broadening Codex beyond engineering teams while scaling deployment channels across AWS and continuing to position compute as its core strategic advantage.",
+      "items": [
+        {
+          "headline": "OpenAI expanded Codex beyond software teams",
+          "detail": "OpenAI said more than 5 million people now use Codex weekly and introduced role-specific plugins, annotations, and shareable internal apps and sites for broader knowledge-work use cases.",
+          "sourceTitle": "OpenAI",
+          "sourceUrl": "https://openai.com/index/codex-for-every-role-tool-workflow/",
+          "publishedDate": "2026-06-02"
+        },
+        {
+          "headline": "OpenAI frontier models and Codex reached general availability on AWS",
+          "detail": "OpenAI said its frontier models and Codex are now generally available on AWS, giving enterprises a production path through Bedrock and existing AWS governance and procurement workflows.",
+          "sourceTitle": "OpenAI",
+          "sourceUrl": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+          "publishedDate": "2026-06-01"
+        },
+        {
+          "headline": "OpenAI launched a dedicated deployment company for complex enterprise rollouts",
+          "detail": "OpenAI said the new OpenAI Deployment Company will embed forward-deployed engineers inside organizations to redesign important workflows around frontier AI systems.",
+          "sourceTitle": "OpenAI",
+          "sourceUrl": "https://openai.com/index/openai-launches-the-deployment-company/",
+          "publishedDate": "2026-05-11"
+        }
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "category": "Foundation models and AI safety",
+      "summary": "Anthropic is pairing product releases and security positioning with capital raising and a now-confirmed move into the IPO pipeline.",
+      "items": [
+        {
+          "headline": "Anthropic expanded Project Glasswing to roughly 150 more organizations",
+          "detail": "Anthropic said Project Glasswing is expanding beyond its initial partner cohort after participants reported finding more than 10,000 high- or critical-severity software flaws using Claude Mythos Preview.",
+          "sourceTitle": "Anthropic",
+          "sourceUrl": "https://www.anthropic.com/news/expanding-project-glasswing",
+          "publishedDate": "2026-06-02"
+        },
+        {
+          "headline": "Anthropic confirmed a confidential draft S-1 submission",
+          "detail": "Anthropic said it confidentially submitted a draft Form S-1 to the SEC for a proposed IPO, moving its listing process from speculation into confirmed company disclosure.",
+          "sourceTitle": "Anthropic",
+          "sourceUrl": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+          "publishedDate": "2026-06-01"
+        },
+        {
+          "headline": "Anthropic released Claude Opus 4.8",
+          "detail": "Anthropic said Opus 4.8 improves coding, agentic tasks, and long-running collaboration, while also adding dynamic workflows and effort controls across Claude surfaces.",
+          "sourceTitle": "Anthropic",
+          "sourceUrl": "https://www.anthropic.com/news/claude-opus-4-8",
+          "publishedDate": "2026-05-28"
+        },
+        {
+          "headline": "Anthropic raised a $65 billion Series H round",
+          "detail": "Anthropic said the financing values the company at $965 billion post-money and is intended to fund safety research, product expansion, and more compute for Claude.",
+          "sourceTitle": "Anthropic",
+          "sourceUrl": "https://www.anthropic.com/news/series-h",
+          "publishedDate": "2026-05-28"
+        }
+      ]
+    },
+    {
+      "name": "Meta",
+      "category": "Open models, consumer AI, and infrastructure",
+      "summary": "Meta's current AI push combines consumer-facing AI features with aggressive infrastructure diversification across custom silicon, cloud partners, and wearables.",
+      "items": [
+        {
+          "headline": "Meta launched Incognito Chat with Meta AI",
+          "detail": "Meta introduced a private AI chat mode on WhatsApp and the Meta AI app, saying conversations are processed in a secure environment that even Meta cannot access.",
+          "sourceTitle": "Meta Newsroom",
+          "sourceUrl": "https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/",
+          "publishedDate": "2026-05-13"
+        },
+        {
+          "headline": "Meta said its AI wearables are becoming accessibility tools",
+          "detail": "Meta highlighted new features and third-party developer tooling for its AI glasses, positioning wearables as a more practical everyday interface for hands-free AI.",
+          "sourceTitle": "Meta Newsroom",
+          "sourceUrl": "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/",
+          "publishedDate": "2026-05-18"
+        },
+        {
+          "headline": "Meta expanded its custom-silicon roadmap for AI workloads",
+          "detail": "Meta said it is developing and deploying four new generations of MTIA chips over two years, with a portfolio approach that keeps custom silicon at the center of its AI infrastructure strategy.",
+          "sourceTitle": "Meta Newsroom",
+          "sourceUrl": "https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/",
+          "publishedDate": "2026-03-11"
+        }
+      ]
+    },
+    {
+      "name": "Amazon / AWS",
+      "category": "Cloud AI and AI infrastructure",
+      "summary": "AWS is leaning into custom silicon, large-scale AI infrastructure, and frontier-model distribution as it tries to be both a compute supplier and a model marketplace.",
+      "items": [
+        {
+          "headline": "AWS said Project Rainier is now operational with Anthropic workloads running",
+          "detail": "AWS said Project Rainier came online with nearly half a million Trainium2 chips and that Anthropic is already using the cluster, with Claude now running on more than 1 million Trainium2 chips overall.",
+          "sourceTitle": "About Amazon",
+          "sourceUrl": "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster",
+          "publishedDate": null
+        },
+        {
+          "headline": "AWS expanded Bedrock distribution for OpenAI models and Codex",
+          "detail": "AWS said the OpenAI relationship now includes frontier OpenAI models on Bedrock, Codex on Bedrock, and Amazon Bedrock Managed Agents powered by OpenAI.",
+          "sourceTitle": "About Amazon",
+          "sourceUrl": "https://www.aboutamazon.com/news/aws/bedrock-openai-models",
+          "publishedDate": "2026-04-28"
+        },
+        {
+          "headline": "Amazon committed $110 million to university AI research on Trainium",
+          "detail": "Amazon said its Build on Trainium program will fund university-led work on AI architectures, ML libraries, and large-scale Trainium optimizations intended to flow back into the open ecosystem.",
+          "sourceTitle": "About Amazon",
+          "sourceUrl": "https://www.aboutamazon.com/news/aws/amazon-trainium-investment-university-ai-research/",
+          "publishedDate": "2026-05-15"
+        }
+      ]
+    },
+    {
+      "name": "xAI",
+      "category": "Foundation models and AI infrastructure",
+      "summary": "xAI is iterating quickly on Grok's coding and workflow products while leaning on its SpaceX integration and large-cluster narrative as strategic differentiators.",
+      "items": [
+        {
+          "headline": "xAI launched Grok Build 0.1 on API in public beta",
+          "detail": "xAI said `grok-build-0.1` is its fastest coding model so far, tuned for agentic coding, debugging, web development, and MCP workflows, and served at more than 100 tokens per second.",
+          "sourceTitle": "xAI",
+          "sourceUrl": "https://x.ai/news/grok-build-0-1",
+          "publishedDate": "2026-05-28"
+        },
+        {
+          "headline": "xAI rolled out Grok Build as a terminal-based coding agent",
+          "detail": "The company launched Grok Build in early beta for SuperGrok and X Premium Plus subscribers, emphasizing plan-mode workflows, clean diffs, and parallel subagents.",
+          "sourceTitle": "xAI",
+          "sourceUrl": "https://x.ai/news/grok-build-cli",
+          "publishedDate": "2026-05-25"
+        },
+        {
+          "headline": "xAI introduced persistent Skills across Grok surfaces",
+          "detail": "xAI said Skills let Grok remember formatting rules and workflow instructions across web and mobile, including built-in document, presentation, spreadsheet, and PDF capabilities.",
+          "sourceTitle": "xAI",
+          "sourceUrl": "https://x.ai/news/grok-skills",
+          "publishedDate": "2026-05-18"
+        }
+      ]
+    },
+    {
+      "name": "Broadcom",
+      "category": "AI networking, custom silicon, and infrastructure software",
+      "summary": "Broadcom remains leveraged to hyperscaler AI buildouts through networking and custom silicon, while also pushing enterprise AI runtime and edge-AI infrastructure products.",
+      "items": [
+        {
+          "headline": "Broadcom showcased a new broadband edge AI portfolio",
+          "detail": "Broadcom said its latest lineup combines 50G PON, Wi-Fi 8, and integrated NPU capabilities to support low-latency localized AI workloads across homes and enterprises.",
+          "sourceTitle": "Broadcom Investor Relations",
+          "sourceUrl": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-connects-ai-edge-comprehensive-multi-gig-broadband-and",
+          "publishedDate": "2026-06-01"
+        },
+        {
+          "headline": "Broadcom promoted end-to-end components for gigawatt-scale AI clusters",
+          "detail": "At OFC 2026, Broadcom highlighted its XPU, Ethernet, optics, SerDes, DSP, and PCIe portfolio as an open and power-efficient fabric for larger AI infrastructure deployments.",
+          "sourceTitle": "Broadcom Investor Relations",
+          "sourceUrl": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-showcases-industry-leading-solutions-scaling-ai",
+          "publishedDate": "2026-03-12"
+        },
+        {
+          "headline": "Broadcom's Q1 results showed continued AI semiconductor acceleration",
+          "detail": "Broadcom reported record Q1 FY2026 revenue and said AI semiconductor revenue reached $8.4 billion, up 106% year over year, driven by custom accelerators and AI networking.",
+          "sourceTitle": "Broadcom Investor Relations",
+          "sourceUrl": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-first-quarter-fiscal-year-2026-financial",
+          "publishedDate": "2026-03-04"
+        }
+      ]
+    },
+    {
+      "name": "Palantir",
+      "category": "Operational AI and data platforms",
+      "summary": "Palantir's recent AIP updates keep pushing the company as a governed deployment layer that can host frontier models from multiple providers inside enterprise and government workflows.",
+      "items": [
+        {
+          "headline": "Palantir made registered bring-your-own-model support generally available in AIP",
+          "detail": "Palantir said customers can register a model once in Control Panel and have it appear across AIP applications with standard permissions, rate limits, and observability.",
+          "sourceTitle": "Palantir",
+          "sourceUrl": "https://www.palantir.com/docs/foundry/announcements/release-notes/2026",
+          "publishedDate": "2026-05-21"
+        },
+        {
+          "headline": "Palantir added GPT-5.5 to AIP",
+          "detail": "Palantir said GPT-5.5 is now available in AIP from both Azure and OpenAI for supported enrollments, continuing its strategy of exposing leading frontier models inside governed workflows.",
+          "sourceTitle": "Palantir",
+          "sourceUrl": "https://www.palantir.com/docs/foundry/announcements/2026-05/",
+          "publishedDate": "2026-05-05"
+        },
+        {
+          "headline": "Palantir broadened Claude and Gemini access in regulated environments",
+          "detail": "Palantir release notes said additional Claude and Gemini frontier models are now accessible from AIP applications in IL2 and IL4 enrollments through Google Vertex.",
+          "sourceTitle": "Palantir",
+          "sourceUrl": "https://www.palantir.com/docs/foundry/announcements/release-notes/",
+          "publishedDate": "2026-05-12"
+        }
+      ]
+    }
+  ],
+  "ipoTracker": [
+    {
+      "company": "Anthropic",
+      "stage": "Confidential S-1 submitted",
+      "status": "Confirmed filing",
+      "process": "Anthropic announced on June 1, 2026 that it confidentially submitted a draft Form S-1 to the SEC. The next visible step would be SEC review followed by a public filing if the company proceeds.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed by company",
+      "note": "No ticker, exchange, price range, share count, or launch date has been disclosed.",
+      "latestArticle": {
+        "title": "Anthropic confidentially submits draft S-1 to the SEC",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+        "publishedDate": "2026-06-01"
+      }
+    },
+    {
+      "company": "OpenAI",
+      "stage": "IPO preparation",
+      "status": "Reported preparation, not confirmed filed",
+      "process": "Reuters reported on May 20, 2026 that OpenAI was preparing to confidentially file for a U.S. IPO in the coming weeks. This run did not find an OpenAI announcement or SEC confirmation that a filing had actually been submitted as of June 3, 2026.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Reported by Reuters",
+      "note": "Treat OpenAI as pre-filing until the company or the SEC confirms a submission.",
+      "latestArticle": {
+        "title": "OpenAI aiming for speedy IPO, source says, as market awaits SpaceX filing",
+        "source": "Reuters via Investing.com",
+        "url": "https://www.investing.com/news/stock-market-news/openai-preparing-to-file-for-ipo-soon-wsj-reports-4701915",
+        "publishedDate": "2026-05-20"
+      }
+    },
+    {
+      "company": "SpaceX / xAI",
+      "stage": "Public-market process reported for parent company",
+      "status": "Reported SpaceX IPO filing; no standalone xAI filing found",
+      "process": "Current credible coverage points to SpaceX pursuing an IPO, with xAI exposure now tied to the SpaceX structure rather than a separate xAI listing. This run did not find evidence of a standalone xAI S-1.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Reported by major outlets, but not directly opened from SEC in this run",
+      "note": "Track SpaceX as the AI-linked public-market vehicle unless xAI re-separates or files independently.",
+      "latestArticle": {
+        "title": "SpaceX plans to raise $75B in its IPO",
+        "source": "Axios",
+        "url": "https://www.axios.com/2026/06/03/spacex-ipo-raise",
+        "publishedDate": "2026-06-03"
+      }
+    },
+    {
+      "company": "Cerebras Systems",
+      "stage": "Public company",
+      "status": "IPO completed",
+      "process": "Cerebras completed its Nasdaq IPO in mid-May 2026 after previously filing and amending its registration statement with the SEC. The company is now trading publicly under ticker CBRS.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed by company, SEC, and market listing sources",
+      "note": "Keep Cerebras in the tracker as a fresh AI-infrastructure comparable rather than an upcoming candidate.",
+      "latestArticle": {
+        "title": "Cerebras Systems Announces Closing of Initial Public Offering",
+        "source": "Nasdaq",
+        "url": "https://www.nasdaq.com/press-release/cerebras-systems-announces-closing-initial-public-offering-2026-05-15",
+        "publishedDate": "2026-05-15"
+      }
+    },
+    {
+      "company": "Databricks",
+      "stage": "Large-cap IPO watchlist candidate",
+      "status": "No confirmed filing",
+      "process": "Databricks remains one of the most credible large AI-data software IPO candidates after its February 2026 financing round, but this run did not find a confirmed SEC filing or company disclosure of a confidential submission.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Watchlist; best recent evidence is funding and market reporting",
+      "note": "Status remains private-company preparation rather than filed.",
+      "latestArticle": {
+        "title": "Databricks raises $5 billion in latest funding, defying software selloff",
+        "source": "Reuters via Investing.com",
+        "url": "https://m.investing.com/news/stock-market-news/databricks-valued-at-134-billion-in-latest-fundraise-cnbc-reports-4494367?ampMode=1",
+        "publishedDate": "2026-02-09"
+      }
+    },
+    {
+      "company": "Scale AI",
+      "stage": "Tracker-claim territory",
+      "status": "Unverified filing claim",
+      "process": "Some IPO-tracker sites claim Scale AI filed an S-1 in March 2026, but this run did not find matching confirmation from Scale AI, the SEC, Reuters, or another primary credible source. That keeps Scale AI below the threshold for a confirmed or even credibly reported filing status.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Low until verified",
+      "note": "Do not treat tracker-only claims as confirmed filing evidence.",
+      "latestArticle": {
+        "title": "Scale AI IPO 2026: $14B Valuation, Date & How to Invest",
+        "source": "TechStackIPO",
+        "url": "https://www.techstackipo.com/ipo/scale-ai",
+        "publishedDate": null
+      }
+    }
+  ],
+  "partnershipTracker": [
+    {
+      "relationship": "Anthropic - xAI / SpaceXAI",
+      "companies": [
+        "Anthropic",
+        "xAI",
+        "SpaceXAI"
+      ],
+      "type": "Compute capacity contract",
+      "status": "Confirmed compute partnership",
+      "terms": "xAI said SpaceXAI signed an agreement to provide Anthropic access to Colossus 1. Anthropic also expressed interest in developing multiple gigawatts of orbital AI compute capacity. Public reporting has attached larger financial figures, but those figures were not confirmed in the official post.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed relationship; financial terms not confirmed",
+      "note": "The official source confirms the compute access and orbital-compute interest, not specific reported dollar amounts.",
+      "latestArticle": {
+        "title": "New Compute Partnership with Anthropic",
+        "source": "xAI",
+        "url": "https://x.ai/news/anthropic-compute-partnership",
+        "publishedDate": "2026-05-06"
+      }
+    },
+    {
+      "relationship": "Anthropic - Amazon / AWS",
+      "companies": [
+        "Anthropic",
+        "Amazon",
+        "AWS"
+      ],
+      "type": "Cloud and custom-silicon compute",
+      "status": "Confirmed expanded collaboration",
+      "terms": "Anthropic said the updated agreement secures up to 5GW of AWS capacity for training and deploying Claude, including Trainium2 capacity in 2026 and nearly 1GW of Trainium2 and Trainium3 capacity by the end of 2026.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed by company",
+      "note": "AWS remains Anthropic's core public cloud and custom-chip infrastructure partner alongside Bedrock distribution.",
+      "latestArticle": {
+        "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+        "publishedDate": "2026-04-20"
+      }
+    },
+    {
+      "relationship": "Anthropic - Google - Broadcom",
+      "companies": [
+        "Anthropic",
+        "Google",
+        "Broadcom"
+      ],
+      "type": "TPU capacity and silicon supply",
+      "status": "Confirmed compute expansion",
+      "terms": "Anthropic said it signed a new agreement with Google and Broadcom for multiple gigawatts of next-generation TPU capacity expected to start coming online in 2027.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed by company",
+      "note": "This is a confirmed strategic compute expansion that complements, rather than replaces, Anthropic's AWS relationship.",
+      "latestArticle": {
+        "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+        "publishedDate": "2026-04-06"
+      }
+    },
+    {
+      "relationship": "Anthropic - Microsoft - NVIDIA",
+      "companies": [
+        "Anthropic",
+        "Microsoft",
+        "NVIDIA"
+      ],
+      "type": "Cloud, model distribution, investment, and GPU optimization",
+      "status": "Confirmed strategic partnerships",
+      "terms": "Microsoft said Anthropic is scaling Claude on Azure and working with NVIDIA systems as part of a broader strategic partnership package that included capital support and model distribution.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed by Microsoft",
+      "note": "This should be read as one leg of Anthropic's multi-cloud, multi-supplier infrastructure strategy.",
+      "latestArticle": {
+        "title": "Microsoft, NVIDIA and Anthropic announce strategic partnerships",
+        "source": "Microsoft",
+        "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+        "publishedDate": "2025-11-18"
+      }
+    },
+    {
+      "relationship": "OpenAI - Microsoft",
+      "companies": [
+        "OpenAI",
+        "Microsoft"
+      ],
+      "type": "Cloud, product distribution, and IP licensing",
+      "status": "Confirmed amended partnership",
+      "terms": "OpenAI said Microsoft remains its primary cloud partner and keeps a non-exclusive IP license through 2032, while OpenAI can now serve products across any cloud provider.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed by company",
+      "note": "The April 27, 2026 amendment loosened exclusivity without ending Azure-first operating priority where Microsoft can support the required capabilities.",
+      "latestArticle": {
+        "title": "The next phase of the Microsoft OpenAI partnership",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+        "publishedDate": "2026-04-27"
+      }
+    },
+    {
+      "relationship": "OpenAI - Amazon",
+      "companies": [
+        "OpenAI",
+        "Amazon"
+      ],
+      "type": "Cloud, model distribution, and strategic infrastructure partnership",
+      "status": "Confirmed strategic partnership",
+      "terms": "OpenAI and AWS said the relationship now includes OpenAI models on Bedrock, Codex on Bedrock, and Amazon Bedrock Managed Agents powered by OpenAI. Earlier AWS disclosures also described a multi-year compute commitment from OpenAI to AWS infrastructure.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed by company",
+      "note": "Use current official language for the operating expansion, while treating older reported dollar values as separate from the latest product-level announcement.",
+      "latestArticle": {
+        "title": "OpenAI frontier models and Codex are now available on AWS",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+        "publishedDate": "2026-06-01"
+      }
+    },
+    {
+      "relationship": "OpenAI - NVIDIA",
+      "companies": [
+        "OpenAI",
+        "NVIDIA"
+      ],
+      "type": "GPU infrastructure and strategic supplier relationship",
+      "status": "Confirmed strategic partnership; latest operating update is broader",
+      "terms": "OpenAI's most recent infrastructure update said NVIDIA remains the foundation of its infrastructure, with the training fleet and most inference continuing to run on NVIDIA GPUs. The formal multi-gigawatt strategic partnership itself was announced earlier.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed by company",
+      "note": "Relationship is clearly confirmed, but the freshest source is an operating update rather than a new contract announcement.",
+      "latestArticle": {
+        "title": "OpenAI raises $122 billion to accelerate the next phase of AI",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+        "publishedDate": "2026-03-31"
+      }
+    },
+    {
+      "relationship": "OpenAI - AMD",
+      "companies": [
+        "OpenAI",
+        "AMD"
+      ],
+      "type": "GPU capacity partnership",
+      "status": "Confirmed strategic partnership",
+      "terms": "OpenAI previously said the companies agreed on a multi-generation 6GW AMD GPU deployment beginning with an initial MI450 rollout in the second half of 2026.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed by company",
+      "note": "No newer official OpenAI update superseded the prior partnership announcement in this run.",
+      "latestArticle": {
+        "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/openai-amd-strategic-partnership/",
+        "publishedDate": "2025-10-06"
+      }
+    },
+    {
+      "relationship": "OpenAI - Oracle / SoftBank / CoreWeave",
+      "companies": [
+        "OpenAI",
+        "Oracle",
+        "SoftBank",
+        "CoreWeave"
+      ],
+      "type": "Data-center and leased compute platform",
+      "status": "Confirmed platform; structure evolving",
+      "terms": "OpenAI continues to describe Stargate as its long-term compute platform spanning Oracle, SoftBank, CoreWeave, and related infrastructure partners, with capacity targets and site mix still evolving as projects come online.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed platform; evolving structure",
+      "note": "Treat Stargate as a living infrastructure network rather than a static one-time joint venture.",
+      "latestArticle": {
+        "title": "Building the compute infrastructure for the Intelligence Age",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/",
+        "publishedDate": "2026-04-29"
+      }
+    },
+    {
+      "relationship": "Meta - CoreWeave",
+      "companies": [
+        "Meta",
+        "CoreWeave"
+      ],
+      "type": "AI cloud capacity contract",
+      "status": "Confirmed expanded agreement",
+      "terms": "CoreWeave said Meta expanded the relationship to provide AI cloud capacity through December 2032 for approximately $21 billion, including some initial NVIDIA Vera Rubin deployments.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed by CoreWeave",
+      "note": "Use confirmed public-disclosure language here rather than reported-only phrasing.",
+      "latestArticle": {
+        "title": "CoreWeave and Meta Announce $21 Billion Expanded AI Infrastructure Agreement",
+        "source": "CoreWeave",
+        "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-and-Meta-Announce-21-Billion-Expanded-AI-Infrastructure-Agreement/default.aspx",
+        "publishedDate": "2026-04-09"
+      }
+    },
+    {
+      "relationship": "Anthropic - CoreWeave",
+      "companies": [
+        "Anthropic",
+        "CoreWeave"
+      ],
+      "type": "GPU cloud capacity contract",
+      "status": "Confirmed multi-year agreement",
+      "terms": "CoreWeave said Anthropic will use its cloud platform to run Claude workloads at production scale under a multi-year agreement, with infrastructure rolling out in phases starting later in 2026. Financial terms were not disclosed.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed by CoreWeave",
+      "note": "This is a confirmed operating relationship, but public financial terms remain undisclosed.",
+      "latestArticle": {
+        "title": "CoreWeave Announces Multi-Year Agreement With Anthropic",
+        "source": "CoreWeave",
+        "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Multi-Year-Agreement-With-Anthropic/",
+        "publishedDate": "2026-04-10"
+      }
+    },
+    {
+      "relationship": "Anthropic - Palantir - AWS",
+      "companies": [
+        "Anthropic",
+        "Palantir",
+        "AWS"
+      ],
+      "type": "Government and defense deployment partnership",
+      "status": "Confirmed deployment partnership",
+      "terms": "Palantir said the companies are bringing Claude to U.S. government intelligence and defense users inside Palantir products running on AWS infrastructure.",
+      "lastChecked": "2026-06-03",
+      "confidence": "Confirmed by Palantir",
+      "note": "This is a deployment and go-to-market relationship for regulated workloads, not a hyperscale compute-procurement contract.",
+      "latestArticle": {
+        "title": "Anthropic and Palantir Partner to Bring Claude AI Models to AWS for U.S. Government Intelligence and Defense Operations",
+        "source": "Palantir",
+        "url": "https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/",
+        "publishedDate": "2024-11-07"
+      }
+    }
+  ],
+  "sources": [
+    "https://nvidianews.nvidia.com/news/nvidia-and-tsmc-bring-ai-into-fabs-to-advance-semiconductor-design-and-manufacturing",
+    "https://nvidianews.nvidia.com/news/nvidia-dgx-station-for-windows-puts-a-trillion-parameter-ai-supercomputer-on-every-enterprise-desk",
+    "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027",
+    "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-developer-highlights",
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/blackstone-tpu-cloud/",
+    "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+    "https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work/",
+    "https://blogs.microsoft.com/blog/2026/05/21/from-ai-pilots-to-enterprise-impact-why-execution-is-the-new-differentiator/",
+    "https://openai.com/index/codex-for-every-role-tool-workflow/",
+    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "https://openai.com/index/openai-launches-the-deployment-company/",
+    "https://www.anthropic.com/news/expanding-project-glasswing",
+    "https://www.anthropic.com/news/confidential-draft-s1-sec",
+    "https://www.anthropic.com/news/claude-opus-4-8",
+    "https://www.anthropic.com/news/series-h",
+    "https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/",
+    "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/",
+    "https://about.fb.com/news/2026/03/expanding-metas-custom-silicon-to-power-our-ai-workloads/",
+    "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster",
+    "https://www.aboutamazon.com/news/aws/bedrock-openai-models",
+    "https://www.aboutamazon.com/news/aws/amazon-trainium-investment-university-ai-research/",
+    "https://x.ai/news/grok-build-0-1",
+    "https://x.ai/news/grok-build-cli",
+    "https://x.ai/news/grok-skills",
+    "https://investors.broadcom.com/news-releases/news-release-details/broadcom-connects-ai-edge-comprehensive-multi-gig-broadband-and",
+    "https://investors.broadcom.com/news-releases/news-release-details/broadcom-showcases-industry-leading-solutions-scaling-ai",
+    "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-first-quarter-fiscal-year-2026-financial",
+    "https://www.palantir.com/docs/foundry/announcements/release-notes/2026",
+    "https://www.palantir.com/docs/foundry/announcements/2026-05/",
+    "https://www.palantir.com/docs/foundry/announcements/release-notes/",
+    "https://www.investing.com/news/stock-market-news/openai-preparing-to-file-for-ipo-soon-wsj-reports-4701915",
+    "https://www.axios.com/2026/06/03/spacex-ipo-raise",
+    "https://www.nasdaq.com/press-release/cerebras-systems-announces-closing-initial-public-offering-2026-05-15",
+    "https://m.investing.com/news/stock-market-news/databricks-valued-at-134-billion-in-latest-fundraise-cnbc-reports-4494367?ampMode=1",
+    "https://www.techstackipo.com/ipo/scale-ai",
+    "https://x.ai/news/anthropic-compute-partnership",
+    "https://www.anthropic.com/news/anthropic-amazon-compute",
+    "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+    "https://openai.com/index/next-phase-of-microsoft-partnership/",
+    "https://openai.com/index/accelerating-the-next-phase-ai/",
+    "https://openai.com/index/openai-amd-strategic-partnership/",
+    "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/",
+    "https://investors.coreweave.com/news/news-details/2026/CoreWeave-and-Meta-Announce-21-Billion-Expanded-AI-Infrastructure-Agreement/default.aspx",
+    "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Multi-Year-Agreement-With-Anthropic/",
+    "https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/"
+  ]
+}
