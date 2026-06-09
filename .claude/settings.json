@@ -37,7 +37,14 @@
       "Bash(gh auth *)",
       "Bash(git -C /home/dave/ai-news-dashboard push --dry-run)",
       "Bash(env -i HOME=/home/dave PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin which claude)",
-      "Bash(./update-news.sh)"
+      "Bash(./update-news.sh)",
+      "Bash(sudo ufw status)",
+      "Bash(sudo iptables -L INPUT -n --line-numbers)",
+      "Bash(awk '{print $1}')",
+      "Bash(npm run *)"
+    ],
+    "additionalDirectories": [
+      "/home/dave/homedash/frontend/src/components"
     ]
   }
 }

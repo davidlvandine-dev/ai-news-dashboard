@@ -112,7 +112,7 @@ function formatDate(dateText) {
 function formatFreshness(generatedAt) {
   if (!generatedAt) return null;
   const diffMs = Date.now() - new Date(generatedAt).getTime();
-  const hours = Math.floor(diffMs / 3_600_000);
+  const hours = Math.floor(diffMs / 3600000);
   if (hours < 1) return "Generated less than an hour ago";
   if (hours < 24) return `Generated ${hours} hour${hours === 1 ? "" : "s"} ago`;
   const days = Math.floor(hours / 24);
@@ -144,9 +144,9 @@ function ipoMatchesQuery(entry, query) {
     entry.stage,
     entry.process,
     entry.note,
-    entry.latestArticle?.title,
-    entry.latestArticle?.source,
-    entry.latestArticle?.url
+    entry.latestArticle && entry.latestArticle.title,
+    entry.latestArticle && entry.latestArticle.source,
+    entry.latestArticle && entry.latestArticle.url
   ].join(" ").toLowerCase();
 
   return haystack.includes(query.toLowerCase());
@@ -162,9 +162,9 @@ function partnershipMatchesQuery(entry, query) {
     entry.note,
     entry.confidence,
     ...(entry.companies || []),
-    entry.latestArticle?.title,
-    entry.latestArticle?.source,
-    entry.latestArticle?.url
+    entry.latestArticle && entry.latestArticle.title,
+    entry.latestArticle && entry.latestArticle.source,
+    entry.latestArticle && entry.latestArticle.url
   ].join(" ").toLowerCase();
 
   return haystack.includes(query.toLowerCase());
@@ -173,8 +173,8 @@ function partnershipMatchesQuery(entry, query) {
 function sourceCount(companies, ipoEntries, partnershipEntries) {
   const urls = [
     ...companies.flatMap((company) => company.items.map((item) => item.sourceUrl)),
-    ...ipoEntries.map((entry) => entry.latestArticle?.url),
-    ...partnershipEntries.map((entry) => entry.latestArticle?.url)
+    ...ipoEntries.map((entry) => entry.latestArticle && entry.latestArticle.url),
+    ...partnershipEntries.map((entry) => entry.latestArticle && entry.latestArticle.url)
   ].filter(Boolean);
 
   return new Set(urls).size;
@@ -282,7 +282,7 @@ function buildIpoStageLegend() {
 }
 
 function buildCompanyFilters(snapshot) {
-  els.companyFilters.replaceChildren();
+  els.companyFilters.innerHTML = "";
 
   const allBtn = document.createElement("button");
   allBtn.className = "filter-chip" + (activeFilters.size === 0 ? " active" : "");
@@ -367,7 +367,7 @@ function renderSnapshot(snapshot) {
     ? `Showing ${companies.length} of ${totalCompanies} companies`
     : "";
 
-  els.grid.replaceChildren();
+  els.grid.innerHTML = "";
   renderIpoTracker(snapshot, ipoEntries);
   renderPartnershipTracker(snapshot, partnershipEntries);
 
@@ -380,8 +380,8 @@ function renderSnapshot(snapshot) {
   }
 
   companies.forEach((company) => {
-    const prevCompany = previousSnapshot?.companies.find((c) => c.name === company.name);
-    const prevHeadlines = new Set((prevCompany?.items || []).map((i) => i.headline));
+    const prevCompany = previousSnapshot && previousSnapshot.companies.find((c) => c.name === company.name);
+    const prevHeadlines = new Set((prevCompany && prevCompany.items || []).map((i) => i.headline));
 
     const card = els.companyTemplate.content.firstElementChild.cloneNode(true);
     card.querySelector(".category").textContent = company.category;
@@ -414,8 +414,8 @@ function renderSnapshot(snapshot) {
 }
 
 function renderIpoTracker(snapshot, entries) {
-  els.ipoList.replaceChildren();
-  els.ipoRaceList.replaceChildren();
+  els.ipoList.innerHTML = "";
+  els.ipoRaceList.innerHTML = "";
   buildIpoStageLegend();
 
   if (!entries.length) {
@@ -516,7 +516,7 @@ function renderIpoTracker(snapshot, entries) {
 }
 
 function renderPartnershipTracker(snapshot, entries) {
-  els.partnershipList.replaceChildren();
+  els.partnershipList.innerHTML = "";
 
   if (!entries.length) {
     const empty = document.createElement("p");
@@ -585,11 +585,11 @@ function renderPartnershipDetail(entry) {
   els.partnershipStatusText.textContent = entry.status;
   els.partnershipCompanies.textContent = (entry.companies || []).join(", ");
   els.partnershipTerms.textContent = entry.terms || "-";
-  els.partnershipUpdated.textContent = entry.lastChecked || currentSnapshot?.date || "-";
+  els.partnershipUpdated.textContent = entry.lastChecked || (currentSnapshot && currentSnapshot.date) || "-";
   els.partnershipConfidence.textContent = entry.confidence || "-";
   els.partnershipNote.textContent = entry.note || "";
 
-  if (entry.latestArticle?.url) {
+  if (entry.latestArticle && entry.latestArticle.url) {
     els.partnershipArticleLink.href = entry.latestArticle.url;
     els.partnershipArticleLink.textContent = entry.latestArticle.title || "Open latest source";
   } else {
@@ -616,11 +616,11 @@ function renderIpoDetail(entry) {
   els.ipoCompany.textContent = entry.company;
   els.ipoStatusText.textContent = entry.status;
   els.ipoProcess.textContent = entry.process;
-  els.ipoUpdated.textContent = entry.lastChecked || currentSnapshot?.date || "-";
+  els.ipoUpdated.textContent = entry.lastChecked || (currentSnapshot && currentSnapshot.date) || "-";
   els.ipoConfidence.textContent = entry.confidence || "-";
   els.ipoNote.textContent = entry.note || "";
 
-  if (entry.latestArticle?.url) {
+  if (entry.latestArticle && entry.latestArticle.url) {
     els.ipoArticleLink.href = entry.latestArticle.url;
     els.ipoArticleLink.textContent = entry.latestArticle.title || "Open latest IPO article";
   } else {
@@ -659,7 +659,8 @@ function addListboxKeyNav(container, rowSelector) {
     if (idx === -1) return;
     e.preventDefault();
     const next = e.key === "ArrowDown" ? idx + 1 : idx - 1;
-    rows[Math.max(0, Math.min(next, rows.length - 1))]?.focus();
+    var target = rows[Math.max(0, Math.min(next, rows.length - 1))];
+    if (target) target.focus();
   });
 }
 
@@ -668,16 +669,15 @@ async function boot() {
     const index = await loadIndex();
     snapshots = [...index.snapshots].sort((a, b) => b.date.localeCompare(a.date));
 
-    els.select.replaceChildren(
-      ...snapshots.map((snapshot) => {
-        const option = document.createElement("option");
-        option.value = snapshot.date;
-        option.textContent = snapshot.label || formatDate(snapshot.date);
-        return option;
-      })
-    );
+    els.select.innerHTML = "";
+    snapshots.forEach(function(snapshot) {
+      const option = document.createElement("option");
+      option.value = snapshot.date;
+      option.textContent = snapshot.label || formatDate(snapshot.date);
+      els.select.appendChild(option);
+    });
 
-    els.select.value = index.latest || snapshots[0]?.date;
+    els.select.value = index.latest || (snapshots[0] && snapshots[0].date);
     await handleSnapshotChange();
   } catch (error) {
     els.title.textContent = "Dashboard data could not be loaded";
@@ -688,7 +688,9 @@ async function boot() {
     retry.className = "retry-button";
     retry.textContent = "Try again";
     retry.addEventListener("click", () => boot());
-    els.grid.replaceChildren(p, retry);
+    els.grid.innerHTML = "";
+    els.grid.appendChild(p);
+    els.grid.appendChild(retry);
   }
 }
 
@@ -704,7 +706,7 @@ addListboxKeyNav(els.ipoRaceList, ".ipo-race-row");
 addListboxKeyNav(els.partnershipList, ".tracker-row");
 
 document.addEventListener("keydown", (e) => {
-  const tag = document.activeElement?.tagName;
+  const tag = document.activeElement && document.activeElement.tagName;
   if (e.key === "/" && tag !== "INPUT" && tag !== "SELECT" && tag !== "TEXTAREA") {
     e.preventDefault();
     els.search.focus();
@@ -737,7 +739,7 @@ function showUpdateDone() {
   setTimeout(() => { els.updateBanner.hidden = true; }, 5000);
 }
 
-els.refreshButton?.addEventListener("click", async () => {
+if (els.refreshButton) els.refreshButton.addEventListener("click", async () => {
   setUpdateState(true);
   try {
     const res = await fetch("/api/refresh", { method: "POST" });
@@ -767,9 +769,9 @@ function connectSSE() {
     try {
       const index = await loadIndex();
       const updated = [...index.snapshots].sort((a, b) => b.date.localeCompare(a.date));
-      const latestDate = updated[0]?.date;
+      const latestDate = updated[0] && updated[0].date;
 
-      if (latestDate && latestDate !== snapshots[0]?.date) {
+      if (latestDate && latestDate !== (snapshots[0] && snapshots[0].date)) {
         snapshots = updated;
         const option = document.createElement("option");
         option.value = latestDate;
@@ -777,7 +779,7 @@ function connectSSE() {
         els.select.prepend(option);
       }
 
-      els.select.value = index.latest || snapshots[0]?.date;
+      els.select.value = index.latest || (snapshots[0] && snapshots[0].date);
       await handleSnapshotChange();
       showUpdateDone();
     } catch {
