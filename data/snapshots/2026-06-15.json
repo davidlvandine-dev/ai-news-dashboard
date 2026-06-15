@@ -1,0 +1,1032 @@
+{
+  "date": "2026-06-15",
+  "generatedAt": "2026-06-15T08:00:00.000-04:00",
+  "title": "Top AI Companies Daily News",
+  "companies": [
+    {
+      "name": "NVIDIA",
+      "category": "AI chips and infrastructure",
+      "summary": "NVIDIA's week centered on Vera Rubin NVL72 infrastructure reaching the hands of cloud providers and AI labs. Major cloud partners — AWS, Google Cloud, Microsoft Azure, and OCI — confirmed H2 2026 deployments, while CoreWeave completed the industry-first Vera Rubin NVL72 bring-up in under 6.5 hours. LG Group joined the AI factory ecosystem with a broad multi-domain collaboration.",
+      "items": [
+        {
+          "headline": "AWS, Google Cloud, Microsoft Azure, and OCI confirmed as first Vera Rubin NVL72 cloud providers for H2 2026",
+          "detail": "NVIDIA said the first cloud providers to deploy Vera Rubin NVL72 instances will be AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure, and NVIDIA Cloud Partners including CoreWeave, Lambda, Nebius, and Nscale, with availability expected in the second half of 2026.",
+          "sourceTitle": "NVIDIA Newsroom",
+          "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform",
+          "publishedDate": "2026-06-01"
+        },
+        {
+          "headline": "CoreWeave completed the industry-first Vera Rubin NVL72 bring-up in under 6.5 hours",
+          "detail": "CoreWeave became the first AI cloud provider to bring up and validate an NVIDIA Vera Rubin NVL72 rack — delivered via a Dell Technologies PowerEdge XE9812 server — completing the process in under 6.5 hours, a milestone for NVIDIA's next-generation infrastructure rollout.",
+          "sourceTitle": "CoreWeave Investor Relations",
+          "sourceUrl": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Completes-Industry-First-Bring-Up-and-Validation-of-NVIDIA-Vera-Rubin-NVL72/default.aspx",
+          "publishedDate": "2026-06-01"
+        },
+        {
+          "headline": "NVIDIA and LG Group announced a broad AI factory collaboration spanning robotics, autonomous driving, and GPU cloud",
+          "detail": "NVIDIA and LG Group announced a joint AI factory initiative to accelerate LG's AI-driven businesses across robotics, autonomous driving, data center technologies, and GPU cloud services, deepening NVIDIA's industrial and consumer electronics AI ecosystem.",
+          "sourceTitle": "NVIDIA Newsroom",
+          "sourceUrl": "https://nvidianews.nvidia.com/news/latest",
+          "publishedDate": "2026-06-02"
+        },
+        {
+          "headline": "NVIDIA and SK hynix detailed a co-development memory roadmap for Vera Rubin, RTX Spark, and Jetson Thor",
+          "detail": "NVIDIA and SK hynix detailed their multiyear next-generation memory co-development program targeting Vera Rubin AI supercomputers, Vera CPUs, RTX Spark AI PCs, and Jetson Thor robotics platforms, applying AI to semiconductor chip design and fab operations through NVIDIA CUDA-X and Omniverse tools.",
+          "sourceTitle": "NVIDIA Newsroom",
+          "sourceUrl": "https://nvidianews.nvidia.com/news/sk-hynix-ai-factory",
+          "publishedDate": "2026-06-07"
+        }
+      ]
+    },
+    {
+      "name": "Alphabet / Google DeepMind",
+      "category": "Foundation models, search, cloud, and AI research",
+      "summary": "Google's week was headlined by the WWDC 2026 confirmation that Siri AI in iOS 27 will run on a custom Google Gemini model — a distribution win covering more than one billion Apple devices. Gemini 3.5 Flash reached general availability as the company's strongest agentic model, and the Gemini API added Managed Agents for cloud-hosted autonomous agents.",
+      "items": [
+        {
+          "headline": "Apple confirmed Google Gemini as the AI backbone of the rebuilt Siri in iOS 27",
+          "detail": "Apple's WWDC 2026 announcement confirmed that Siri AI in iOS 27 runs on a custom 1.2-trillion-parameter Google Gemini model under a reported $1 billion per year licensing deal, giving Google deep system-wide distribution across more than one billion Apple devices starting in fall 2026.",
+          "sourceTitle": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "Gemini 3.5 Flash reached general availability as Google's most capable agentic model",
+          "detail": "Google released Gemini 3.5 Flash as a GA model, describing it as the most intelligent in the Gemini family for sustained frontier performance on agentic and coding tasks; the Gemini API also added Managed Agents in public preview for building stateful, cloud-hosted autonomous agents.",
+          "sourceTitle": "Google AI for Developers",
+          "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "Google launched Managed Agents in the Gemini API for stateful cloud-hosted autonomous agent workflows",
+          "detail": "Google's Managed Agents — launched in public preview — lets developers build and deploy autonomous agents running in Google-hosted secure Linux sandboxes, supporting long-running multi-step workflows with built-in state management and security controls.",
+          "sourceTitle": "Google AI for Developers",
+          "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog",
+          "publishedDate": "2026-06-10"
+        },
+        {
+          "headline": "Google rolled out Deep Think, Deep Research, Gemini Live, and Gemini Omni in June API updates",
+          "detail": "Google added Deep Think for multi-step reasoning, Deep Research for source gathering, Gemini Live for real-time voice, and Gemini Omni for mixed media creation to the Gemini API in June 2026, positioning Gemini as a connected work system across developer and consumer surfaces.",
+          "sourceTitle": "Google AI for Developers",
+          "sourceUrl": "https://ai.google.dev/gemini-api/docs/changelog",
+          "publishedDate": "2026-06-11"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "category": "Cloud AI, copilots, and enterprise software",
+      "summary": "Microsoft's AI momentum after Build 2026 is translating into enterprise adoption, with Copilot surpassing 5 million paid seats on the strength of an NHS contract and declining Azure AI costs. The June 2026 Product Terms update formalizes universal AI compliance definitions across all Azure services, while AMD's presence at Build 2026 signals continued GPU diversification on Azure.",
+      "items": [
+        {
+          "headline": "Microsoft Copilot surpassed 5 million paid seats driven by NHS contract and lower Azure AI costs",
+          "detail": "Analysts upgraded their Copilot outlook citing a landmark NHS contract, surging enterprise adoption, and declining Azure AI infrastructure costs; Copilot Business Standard and Copilot Business Premium became permanent SKUs effective July 1, 2026, cementing the product line.",
+          "sourceTitle": "Windows News AI",
+          "sourceUrl": "https://windowsnews.ai/article/microsoft-copilot-reappraised-in-2026-nhs-deal-paid-seats-and-azure-costs.425493",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "Microsoft's June 2026 Product Terms introduced universal AI compliance definitions across all Azure services",
+          "detail": "Microsoft's June 2026 Product Terms update added a unified 'Microsoft Azure AI Services' definition ensuring cross-cutting AI terms — covering acceptable use, data handling, and safety requirements — apply to all Azure services incorporating AI components.",
+          "sourceTitle": "SAMexpert Blog",
+          "sourceUrl": "https://samexpert.com/microsoft-product-terms-june-2026/",
+          "publishedDate": "2026-06-10"
+        },
+        {
+          "headline": "AMD demonstrated Instinct MI300X GPU instances and Windows ML DxCG integration at Microsoft Build 2026",
+          "detail": "AMD showcased cloud MI300X GPU instances on Azure with 192 GB HBM3 for large model inference, video generation, and multi-step agent workloads at Microsoft Build 2026, alongside a Windows ML DxCG integration preview enabling more efficient ML graph mapping to AMD GPU backends.",
+          "sourceTitle": "AMD Developer Resources",
+          "sourceUrl": "https://www.amd.com/en/developer/resources/technical-articles/2026/amd-at-microsoft-build-2026.html",
+          "publishedDate": "2026-06-03"
+        },
+        {
+          "headline": "iOS 27 AI Extensions marketplace — confirmed in developer beta code — is still planned for September release",
+          "detail": "As of June 15, MacRumors confirmed the iOS 27 developer beta contains code for the AI Extensions marketplace allowing Claude, Gemini, and ChatGPT in Siri, withheld from the WWDC keynote reportedly due to EU regulatory concerns; the feature preserves Claude's and ChatGPT's Siri placement alongside existing Microsoft Copilot integrations.",
+          "sourceTitle": "MacRumors",
+          "sourceUrl": "https://www.macrumors.com/2026/06/15/three-unannounced-ios-27-features-are-still-coming/",
+          "publishedDate": "2026-06-15"
+        }
+      ]
+    },
+    {
+      "name": "OpenAI",
+      "category": "Foundation models and AI products",
+      "summary": "OpenAI's biggest development this week was confirming its own confidential S-1 filing with the SEC on June 8, targeting a September 2026 IPO with Goldman Sachs and Morgan Stanley as lead banks. GPT-5.6 launched as the new default for paid ChatGPT tiers, while GPT-4.5 is being retired on June 27.",
+      "items": [
+        {
+          "headline": "OpenAI confirmed its own confidential S-1 SEC filing on June 8, targeting a September 2026 IPO",
+          "detail": "OpenAI publicly confirmed it filed a confidential draft registration statement with the SEC on June 8, 2026 — proactively announcing it by saying 'We expect it to leak so we're just announcing it.' Goldman Sachs and Morgan Stanley are the lead underwriters, with a September 2026 debut targeted at a reported $852 billion valuation.",
+          "sourceTitle": "OpenAI",
+          "sourceUrl": "https://openai.com/index/openai-submits-confidential-s-1/",
+          "publishedDate": "2026-06-08"
+        },
+        {
+          "headline": "GPT-5.6 launched in early June as the new default for ChatGPT Plus and the OpenAI API",
+          "detail": "OpenAI shipped GPT-5.6 — bringing improved token efficiency, advanced multi-step agentic reasoning, and enhanced UI generation — as the new default model for ChatGPT Plus and the OpenAI API; GPT-4.5 was announced for retirement from ChatGPT on June 27, 2026.",
+          "sourceTitle": "OpenAI",
+          "sourceUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "OpenAI introduced ChatGPT personalization improvements for Go and Free tiers on June 9",
+          "detail": "OpenAI's June 9 release notes show personalization improvements rolling out to ChatGPT Go and Free tiers, building on the Dreaming memory system introduced June 3 that better retains user preferences and context across long conversation horizons.",
+          "sourceTitle": "OpenAI Help Center",
+          "sourceUrl": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "Apple's iOS 27 Extensions framework ends ChatGPT's exclusive Siri placement while keeping the integration on the open marketplace",
+          "detail": "The iOS 27 Extensions marketplace — confirmed in developer beta code as of June 15 — allows users to select Claude, Gemini, or Grok alongside ChatGPT inside Siri and Apple Intelligence, ending the prior single-provider arrangement while keeping ChatGPT as one of the launch options on the new open platform.",
+          "sourceTitle": "MacRumors",
+          "sourceUrl": "https://www.macrumors.com/2026/06/15/three-unannounced-ios-27-features-are-still-coming/",
+          "publishedDate": "2026-06-15"
+        }
+      ]
+    },
+    {
+      "name": "Anthropic",
+      "category": "Foundation models and AI safety",
+      "summary": "Anthropic had its most consequential week of 2026: Claude Fable 5 — its most capable publicly available model — launched June 9, only to be suspended three days later by a US government export-control directive triggered by a reported Mythos jailbreak. The IPO track continues with the confidential S-1 under SEC review and an October listing window still intact.",
+      "items": [
+        {
+          "headline": "Anthropic released Claude Fable 5 on June 9 as its most powerful publicly available model",
+          "detail": "Fable 5, Anthropic's first Mythos-class model released to the general public, delivers state-of-the-art performance across software engineering, knowledge work, vision, scientific research, and multi-day agentic tasks, with a 1 million token context window, 128K max output tokens, and scores more than 10% higher than Claude Opus 4.8 on several frontier benchmarks.",
+          "sourceTitle": "Anthropic",
+          "sourceUrl": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "US government export-control directive on June 12 required Anthropic to suspend Fable 5 and Mythos 5 foreign access",
+          "detail": "Anthropic received a national-security export-control directive at 5:21pm ET on June 12 requiring suspension of all foreign-national access to Claude Fable 5 and Mythos 5, triggered by a claim from another company that it had jailbroken Mythos, alarming the Commerce Department; all other Claude models remained unaffected.",
+          "sourceTitle": "Anthropic",
+          "sourceUrl": "https://www.anthropic.com/news/fable-mythos-access",
+          "publishedDate": "2026-06-12"
+        },
+        {
+          "headline": "Anthropic's confidential S-1 remains under SEC review with an October 2026 IPO window",
+          "detail": "Anthropic filed its confidential draft Form S-1 on June 1, 2026 after closing a $65 billion Series H at a $965 billion valuation; no share count, price range, ticker, or exchange has been disclosed; the June 12 export control suspension is a new material development that will require disclosure in the public S-1.",
+          "sourceTitle": "Fortune",
+          "sourceUrl": "https://fortune.com/2026/06/01/anthropic-s1-confidential/",
+          "publishedDate": "2026-06-01"
+        },
+        {
+          "headline": "Anthropic launched 20+ legal MCP connectors and 12 practice-area plugins for law firms",
+          "detail": "Anthropic expanded Claude's legal ecosystem with more than 20 new MCP connectors and 12 practice-area plugins covering research, contracts, discovery, matter management, and legal aid, enabling law firms and in-house teams to connect Claude across existing legal tooling workflows.",
+          "sourceTitle": "Anthropic",
+          "sourceUrl": "https://releasebot.io/updates/anthropic/claude",
+          "publishedDate": "2026-06-10"
+        }
+      ]
+    },
+    {
+      "name": "Meta",
+      "category": "Open models, consumer AI, and infrastructure",
+      "summary": "Meta's AI story this week centers on the community tension around Muse Spark — its proprietary successor to the open Llama family — as developers seek migration paths. The $21 billion CoreWeave agreement targets Vera Rubin NVL72 for inference at scale, and Meta continues its international Llama Impact Grant program even as the open-source future of its model roadmap remains unclear.",
+      "items": [
+        {
+          "headline": "Meta's Muse Spark API launch is planned for June 2026 while open-source community seeks Llama migration paths",
+          "detail": "Meta's proprietary Muse Spark model — the first release from Meta Superintelligence Labs, powering Meta AI on smart glasses, the Meta AI app, and Meta.ai — is expected to launch its developer API in June 2026; the closed-source shift from the open Llama lineage has triggered concern among open-source AI developers.",
+          "sourceTitle": "Open Source For You",
+          "sourceUrl": "https://www.opensourceforu.com/2026/06/muse-spark-delay-raises-questions-over-metas-ai-monetisation-plans/",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "Meta announced 10 international Llama Impact Grant recipients as the open-source AI program continues",
+          "detail": "Meta announced the 10 international recipients of its second Llama Impact Grant cycle, continuing investment in the open-source AI community even as its primary frontier model strategy shifted to the proprietary Muse Spark series.",
+          "sourceTitle": "Meta AI Blog",
+          "sourceUrl": "https://ai.meta.com/blog/llamacon-llama-news/",
+          "publishedDate": "2026-06-10"
+        },
+        {
+          "headline": "Meta's $21 billion CoreWeave deal targets NVIDIA Vera Rubin NVL72 deployments for inference at scale",
+          "detail": "The April 2026 $21 billion Meta-CoreWeave agreement extending through 2032 specifically targets AI inference at scale for Facebook, Instagram, and WhatsApp workloads, including initial NVIDIA Vera Rubin NVL72 platform deployments optimized for Meta's high-volume, latency-sensitive needs.",
+          "sourceTitle": "CoreWeave Investor Relations",
+          "sourceUrl": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-and-Meta-Announce-21-Billion-Expanded-AI-Infrastructure-Agreement/default.aspx",
+          "publishedDate": "2026-04-09"
+        },
+        {
+          "headline": "Meta said it hopes to open-source future Muse versions but provided no timeline",
+          "detail": "Following the shift from open Llama to proprietary Muse Spark, The New Stack reported that Meta hopes to eventually open-source future Muse model versions but provided no concrete timeline, leaving the open-source AI ecosystem without a clear roadmap for continued access to Meta's frontier capabilities.",
+          "sourceTitle": "The New Stack",
+          "sourceUrl": "https://thenewstack.io/meta-abandons-llama-spark/",
+          "publishedDate": "2026-06-09"
+        }
+      ]
+    },
+    {
+      "name": "Amazon / AWS",
+      "category": "Cloud AI and AI infrastructure",
+      "summary": "AWS is expanding its multi-model AI hub with a new Cerebras partnership for the fastest AI inference on Bedrock, while the OpenAI frontier model GA launch on June 1 completed a major distribution milestone. The Anthropic-Amazon expanded Trainium deal secures up to 5GW of capacity through Trainium4, and the AWS Summit Washington D.C. is scheduled June 30–July 1.",
+      "items": [
+        {
+          "headline": "AWS and Cerebras announced a partnership to deliver the fastest AI inference on Amazon Bedrock",
+          "detail": "AWS and Cerebras announced a collaboration bringing the industry-fastest AI inference to Amazon Bedrock, combining AWS Trainium-optimized prefill with Cerebras CS-3 decode; the service is expected to launch in the coming months.",
+          "sourceTitle": "About Amazon",
+          "sourceUrl": "https://www.aboutamazon.com/news/aws/aws-cerebras-ai-inference",
+          "publishedDate": "2026-06-10"
+        },
+        {
+          "headline": "Anthropic-Amazon expanded deal secures up to 5GW of Trainium2/3/4 compute over 10 years",
+          "detail": "The April 2026 Anthropic-Amazon agreement commits more than $100 billion over 10 years to AWS, securing up to 5 GW of Trainium2, Trainium3, and Trainium4 capacity for training and running Claude models, with nearly 1 GW of Trainium2 and Trainium3 capacity expected online by end of 2026.",
+          "sourceTitle": "Anthropic",
+          "sourceUrl": "https://www.anthropic.com/news/anthropic-amazon-compute",
+          "publishedDate": "2026-04-20"
+        },
+        {
+          "headline": "AWS Summit Washington D.C. scheduled June 30–July 1 with agentic AI and public sector focus",
+          "detail": "Amazon's annual Washington D.C. Summit will run June 30–July 1 at the Walter E. Washington Convention Center, featuring sessions on agentic AI and supercomputing tailored for government and public sector organizations.",
+          "sourceTitle": "AWS",
+          "sourceUrl": "https://aws.amazon.com/events/summits/washington-dc/",
+          "publishedDate": "2026-06-05"
+        },
+        {
+          "headline": "OpenAI models GPT-5.5, GPT-5.4, and Codex are now generally available on Amazon Bedrock",
+          "detail": "OpenAI's frontier models and Codex are fully GA on Amazon Bedrock with pricing matching OpenAI first-party rates and no additional fees; usage counts toward existing AWS cloud commitments and runs within AWS governance, compliance, and security workflows.",
+          "sourceTitle": "About Amazon",
+          "sourceUrl": "https://www.aboutamazon.com/news/aws/bedrock-openai-models",
+          "publishedDate": "2026-06-01"
+        }
+      ]
+    },
+    {
+      "name": "xAI",
+      "category": "Foundation models and AI infrastructure",
+      "summary": "xAI's parent SpaceX completed the largest IPO in history on June 12, with SPCX pricing at $135/share and closing up 19% at $160.95 — giving Grok, Colossus compute, and X platform AI exposure to public markets for the first time. Grok V9-Medium at 1.5 trillion parameters is expected in mid-June, and the Grok Build Plugin Marketplace launched in public beta.",
+      "items": [
+        {
+          "headline": "SpaceX debuted as SPCX on Nasdaq on June 12 in history's largest IPO, making xAI/Grok publicly accessible",
+          "detail": "SpaceX priced at $135/share and raised $75 billion at a $1.75 trillion valuation, closing its first trading day up 19% at $160.95 — the largest IPO ever recorded; because xAI was merged into SpaceX in February 2026, all AI exposure including Grok models, Colossus AI clusters, and X platform capabilities is now publicly traded via SPCX.",
+          "sourceTitle": "CNBC",
+          "sourceUrl": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+          "publishedDate": "2026-06-12"
+        },
+        {
+          "headline": "Grok V9-Medium at 1.5 trillion parameters completed training and is expected mid-June",
+          "detail": "xAI completed training of Grok V9-Medium — three times the size of the current 500-billion-parameter production model — with supervised fine-tuning and reinforcement learning underway; the model targets coding benchmark leadership and was trained on Cursor developer workflows, with a public release expected in mid-June 2026.",
+          "sourceTitle": "TechTimes",
+          "sourceUrl": "https://www.techtimes.com/articles/317328/20260528/grok-ai-new-model-triples-parameter-count-targets-coding-lead-release-expected-mid-june.htm",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "xAI launched the Grok Build Plugin Marketplace in public beta with MongoDB, Vercel, and Sentry",
+          "detail": "xAI launched the built-in Grok Build Plugin Marketplace for its AI coding assistant, allowing users to browse, install, and update plugins without leaving the terminal; launch partners include MongoDB, Vercel, Sentry, Chrome DevTools, Cloudflare, and Superpowers.",
+          "sourceTitle": "xAI",
+          "sourceUrl": "https://releasebot.io/updates/xai",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "A former xAI engineer filed suit on June 10 claiming he was fired for raising AI safety concerns about Grok",
+          "detail": "A former xAI engineer filed suit against xAI and SpaceX claiming he was terminated in retaliation for raising alarms about Grok's AI safety practices — a significant governance story that emerged days before SpaceX's historic IPO debut.",
+          "sourceTitle": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+          "publishedDate": "2026-06-10"
+        }
+      ]
+    },
+    {
+      "name": "Broadcom",
+      "category": "AI networking, custom silicon, and infrastructure software",
+      "summary": "Broadcom's Q2 FY2026 results confirmed another record quarter with AI chip revenue up 143% to $10.8 billion, but Q3 guidance of $16 billion came in below analyst expectations of $17.2 billion, causing a roughly 12% stock decline. The company disclosed six confirmed core custom-silicon AI customers — including Anthropic, Google, Meta, and OpenAI — and targets $100 billion in annual AI chip revenue by fiscal 2027.",
+      "items": [
+        {
+          "headline": "Broadcom Q2 FY2026 AI chip revenue hit $10.8 billion, up 143% year over year",
+          "detail": "Broadcom's Q2 FY2026 results showed consolidated revenue up 48% YoY to a record $22.2 billion, with AI chip revenue up 143% to $10.8 billion driven by custom AI accelerators and AI networking silicon; AI bookings exceeded $30 billion in the quarter.",
+          "sourceTitle": "Broadcom Investor Relations",
+          "sourceUrl": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-second-quarter-fiscal-year-2026-financial",
+          "publishedDate": "2026-06-03"
+        },
+        {
+          "headline": "Broadcom Q3 AI chip guidance of $16 billion missed analyst consensus of $17.2 billion, triggering a 12% stock drop",
+          "detail": "Despite the record Q2 result, Broadcom's Q3 AI guidance of $16 billion — representing 200%+ YoY growth — came in roughly $1.2 billion below Wall Street consensus; full-year FY2026 AI guidance of approximately $56 billion was maintained, with a $100 billion-plus AI chip target reiterated for FY2027.",
+          "sourceTitle": "Yahoo Finance",
+          "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/broadcom-q2-2026-earnings-ai-111613207.html",
+          "publishedDate": "2026-06-03"
+        },
+        {
+          "headline": "Broadcom disclosed six core custom-silicon AI customers including Anthropic, Google, Meta, and OpenAI",
+          "detail": "CEO Hock Tan confirmed Broadcom now serves six core custom-silicon AI customers including Anthropic, Google, Meta, and OpenAI, and that the company is shifting to a chips-only delivery model rather than providing complete integrated AI systems as previously indicated.",
+          "sourceTitle": "CNBC",
+          "sourceUrl": "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
+          "publishedDate": "2026-06-03"
+        },
+        {
+          "headline": "Broadcom carries a $73 billion AI backlog targeting $100 billion in annual chip revenue by FY2027",
+          "detail": "Broadcom's $73 billion AI bookings backlog supports its long-term target of $100 billion-plus in annual AI chip revenue by FY2027; Q3 guidance of $16 billion implies roughly $29.4 billion total quarterly revenue, representing 84% YoY consolidated growth.",
+          "sourceTitle": "StockTitan",
+          "sourceUrl": "https://www.stocktitan.net/news/AVGO/broadcom-q2-2026-revenue-up-48-guides-to-294b.html",
+          "publishedDate": "2026-06-03"
+        }
+      ]
+    },
+    {
+      "name": "Palantir",
+      "category": "Operational AI and data platforms",
+      "summary": "Palantir faces a significant new risk as the Pentagon moved to classify it as a supply chain risk — threatening existing and future government contracts — while its Maven Smart System AI targeting platform was simultaneously designated an official DoD program of record. The Google Cloud Marketplace Gemini-AIP integration went live in June, expanding enterprise options.",
+      "items": [
+        {
+          "headline": "Pentagon moved to classify Palantir as a supply chain risk, threatening major government contracts",
+          "detail": "The Pentagon moved to designate Palantir as a supply chain risk — a classification threatening existing and future government contracts including a $200 million defense agreement; Palantir indicated it will contest the designation, creating a significant near-term risk to its government AI business.",
+          "sourceTitle": "Yahoo Finance",
+          "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/multibillion-dollar-defense-contracts-palantir-140000191.html",
+          "publishedDate": "2026-06-11"
+        },
+        {
+          "headline": "Palantir's Maven Smart System was designated an official DoD program of record in 2026",
+          "detail": "The U.S. Department of Defense formally designated Palantir's Maven Smart System — an AI-enabled targeting platform integrating computer vision across satellite and drone feeds for the Army, Air Force, Space Force, Navy, and Marine Corps — as an official DoD program of record.",
+          "sourceTitle": "Phemex Academy",
+          "sourceUrl": "https://phemex.com/academy/palantir-pltr-stock-2026",
+          "publishedDate": "2026-06-10"
+        },
+        {
+          "headline": "Palantir US government revenue grew 84% year over year to $687 million in Q1 2026",
+          "detail": "Palantir's Q1 2026 results showed US government revenue up 84% YoY to $687 million, driven by AIP deployments across defense, intelligence, and civilian agencies; full-year 2026 guidance of $7.2 billion implies 61% revenue growth.",
+          "sourceTitle": "SEC",
+          "sourceUrl": "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000026/a2026q1ex991pressrelease.htm",
+          "publishedDate": "2026-05-05"
+        },
+        {
+          "headline": "Palantir-Google Cloud Marketplace Gemini-AIP integration went live for enterprise customers in June",
+          "detail": "Building on the June 4 AIPCon 10 announcement, the Palantir Foundry and AIP integration on Google Cloud Marketplace — including two-way BigQuery-Foundry integrations and deep Gemini-AIP connectivity — became available to enterprise customers in June 2026, with Eaton already using the combination in production.",
+          "sourceTitle": "BusinessWire",
+          "sourceUrl": "https://www.businesswire.com/news/home/20260604907574/en/Palantir-Announces-Availability-on-Google-Cloud-Marketplace-Including-Two-Way-Integrations-between-BigQuery-and-Foundry-and-Deep-Connectivity-between-Gemini-and-AIP",
+          "publishedDate": "2026-06-04"
+        }
+      ]
+    },
+    {
+      "name": "Apple",
+      "category": "Consumer AI, devices, and platform",
+      "summary": "Apple's WWDC 2026 delivered a fundamental AI reset: Siri rebuilt on Google Gemini is the headline, while the iOS 27 Extensions framework — confirmed in developer beta code but withheld from the keynote — will open Apple Intelligence to Claude, ChatGPT, and Grok in September. China and EU availability of Siri AI are deferred pending regulatory approvals.",
+      "items": [
+        {
+          "headline": "Apple introduced Siri AI rebuilt on Google Gemini at WWDC 2026 with deep system-wide context",
+          "detail": "Apple unveiled the rebuilt Siri AI in iOS 27, powered by a custom Google Gemini model, featuring deep system-wide personal context, on-screen awareness, and multi-step task handling across apps and services; Siri AI features require iPhone 15 Pro or iPhone 16 or later at fall 2026 launch.",
+          "sourceTitle": "Apple Newsroom",
+          "sourceUrl": "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "iOS 27 developer beta launched immediately at WWDC with public beta in July and GA in September",
+          "detail": "Apple's iOS 27 developer beta was released the same day as the WWDC keynote; the public beta is scheduled for July 2026 with general availability in September, supporting iPhone 11 and later.",
+          "sourceTitle": "Macworld",
+          "sourceUrl": "https://www.macworld.com/article/2986799/ios-27-new-iphone-features-release-date-beta-compatiblity-apple-intelligence-siri.html",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "iOS 27 Extensions framework for Claude, Gemini, and ChatGPT confirmed in developer beta code but withheld from WWDC keynote",
+          "detail": "As of June 15, MacRumors confirmed the iOS 27 developer beta contains underlying support for the AI Extensions marketplace allowing users to choose Claude, Gemini, Grok, or ChatGPT inside Siri, but Apple withheld the feature from the keynote reportedly due to EU regulatory concerns; the feature remains planned for the September general release.",
+          "sourceTitle": "MacRumors",
+          "sourceUrl": "https://www.macrumors.com/2026/06/15/three-unannounced-ios-27-features-are-still-coming/",
+          "publishedDate": "2026-06-15"
+        },
+        {
+          "headline": "Siri AI and Apple Intelligence will not be available in China or the EU at iOS 27 launch",
+          "detail": "Apple confirmed that the new Siri AI — running on Google Gemini — will not be available in China while regulatory approvals are pending, and will not be available in the EU at launch, consistent with Digital Markets Act compliance constraints across iOS, iPadOS, and watchOS.",
+          "sourceTitle": "Apple Newsroom",
+          "sourceUrl": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+          "publishedDate": "2026-06-09"
+        }
+      ]
+    },
+    {
+      "name": "AMD",
+      "category": "AI accelerators, CPUs, and data center silicon",
+      "summary": "AMD is executing on its multi-gigawatt GPU supply commitments with MI450 samples shipping to lead customers ahead of H2 2026 production deployments. The MI430X set a new FP64 HPC performance record, and AMD's Advancing AI 2026 event at Moscone Center on July 23 is the next major showcase for MI-series GPU progress and the MI500 roadmap.",
+      "items": [
+        {
+          "headline": "AMD confirmed MI450 GPU samples shipping to lead customers for H2 2026 production deployment",
+          "detail": "AMD CEO Dr. Lisa Su confirmed that Instinct MI450 GPU samples are being sent to lead customers and remain on track for production deployments in H2 2026 in the Helios rack configuration, supporting the initial 1 GW tranche of AMD's 6 GW commitments to both OpenAI and Meta.",
+          "sourceTitle": "WCCFTech",
+          "sourceUrl": "https://wccftech.com/amd-sampling-mi450-gpus-engaged-with-customers-on-mi500-largest-ai-deployments-are-for-inference/",
+          "publishedDate": "2026-06-05"
+        },
+        {
+          "headline": "AMD Advancing AI 2026 is set for July 23 at San Francisco Moscone Center",
+          "detail": "AMD's annual Advancing AI event will be held in-person and via global livestream from the San Francisco Moscone Center on July 23, 2026, providing AMD's open AI ecosystem with blueprints for building, deploying, and scaling AI on AMD hardware; the event is expected to include MI450 deployment updates and an MI500 preview.",
+          "sourceTitle": "AMD Newsroom",
+          "sourceUrl": "https://ir.amd.com/news-events/press-releases/detail/1283/amd-announces-advancing-ai-2026",
+          "publishedDate": "2026-06-05"
+        },
+        {
+          "headline": "AMD Instinct MI430X set a new performance record for FP64 HPC workloads",
+          "detail": "AMD published details showing the Instinct MI430X GPU sets a new performance record for FP64 high-performance computing workloads; the successor MI500 series, built on AMD CDNA 6 architecture with 2nm process technology and HBM4E memory, is targeting 2027 availability.",
+          "sourceTitle": "AMD Blog",
+          "sourceUrl": "https://www.amd.com/en/blogs/2026/amd-sets-new-bar-for-hpc-with-amd-instinct-mi430x-gpu.html",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "AMD committed £2 billion over five years for UK AI infrastructure and academic partnerships",
+          "detail": "AMD announced a commitment to invest up to £2 billion over five years in the United Kingdom spanning data centers, sovereign AI infrastructure, and academic partnerships including a new collaboration with Imperial College London on AI-enabled scientific discovery.",
+          "sourceTitle": "GuruFocus",
+          "sourceUrl": "https://www.gurufocus.com/news/8905568/amd-plans-2-billion-investment-in-uks-ai-infrastructure",
+          "publishedDate": "2026-06-08"
+        }
+      ]
+    },
+    {
+      "name": "Perplexity AI",
+      "category": "AI search and agentic computing",
+      "summary": "Perplexity's CEO confirmed a 2028 IPO target while announcing annualized revenue has surpassed $500 million, up 335% year over year, with more than 100 million monthly active users and 20,000+ enterprise clients. A $750 million Microsoft Azure infrastructure deal gives the company independent compute scale to expand its Perplexity Computer platform.",
+      "items": [
+        {
+          "headline": "Perplexity CEO confirmed a 2028 IPO target, passing on the 2026 AI IPO wave",
+          "detail": "Perplexity CEO Aravind Srinivas told CNBC on June 9 that the company's IPO target is 2028, unchanged despite the concurrent Anthropic, OpenAI, and SpaceX IPO activity; Srinivas praised the AI IPO wave but said Perplexity would benefit from waiting until its revenue growth trajectory is fully established.",
+          "sourceTitle": "CNBC",
+          "sourceUrl": "https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "Perplexity ARR surpassed $500 million as of April 2026, up 335% year over year",
+          "detail": "Perplexity disclosed annualized recurring revenue of $500 million as of April 2026 — a 335% YoY increase — with more than 100 million monthly active users and more than 20,000 enterprise clients; a February 2026 usage-based pricing layer on top of subscriptions doubled revenue in a single quarter.",
+          "sourceTitle": "PYMNTS",
+          "sourceUrl": "https://www.pymnts.com/news/ipo/2026/perplexity-ceo-cheers-openai-anthropic-listings-plans-2028-ipo/",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "Perplexity signed a $750 million Microsoft Azure infrastructure deal for independent compute capacity",
+          "detail": "Perplexity signed a $750 million compute infrastructure agreement with Microsoft Azure, giving the AI search company independent compute capacity to scale its Perplexity Computer platform across enterprise and consumer workloads without relying on a single cloud provider.",
+          "sourceTitle": "OpenTools",
+          "sourceUrl": "https://opentools.ai/news/perplexity-personal-computer-windows-launch",
+          "publishedDate": "2026-06-10"
+        }
+      ]
+    },
+    {
+      "name": "CoreWeave",
+      "category": "AI cloud infrastructure",
+      "summary": "CoreWeave established a major infrastructure milestone by completing the industry-first Vera Rubin NVL72 bring-up on June 1, driving a 14% single-day stock surge. Russell 3000 inclusion is confirmed for June 27. A $3.1 billion delayed-draw term loan closed in May, and 22 analysts rate the stock a buy with an average $138.56 price target.",
+      "items": [
+        {
+          "headline": "CoreWeave completed the industry-first Vera Rubin NVL72 bring-up and validation in under 6.5 hours",
+          "detail": "CoreWeave became the first AI cloud provider to bring up and validate an NVIDIA Vera Rubin NVL72 rack — delivered via a Dell Technologies PowerEdge XE9812 server — completing the process in under 6.5 hours; the announcement drove a 14% single-day stock surge.",
+          "sourceTitle": "CoreWeave Investor Relations",
+          "sourceUrl": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Completes-Industry-First-Bring-Up-and-Validation-of-NVIDIA-Vera-Rubin-NVL72/default.aspx",
+          "publishedDate": "2026-06-01"
+        },
+        {
+          "headline": "CoreWeave confirmed for Russell 3000 Index inclusion effective June 27, 2026",
+          "detail": "CoreWeave will be added to the Russell 3000 Index after market close on June 27, 2026, following its appearance on FTSE Russell's preliminary additions list on May 22; the inclusion is expected to trigger passive-fund buying as index funds adjust portfolios.",
+          "sourceTitle": "GuruFocus",
+          "sourceUrl": "https://www.gurufocus.com/news/8882482/coreweave-crwv-and-iren-limited-iren-join-russell-3000-index",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "CoreWeave closed a $3.1 billion delayed-draw term loan to fund customer-backed AI infrastructure",
+          "detail": "CoreWeave closed a $3.1 billion delayed-draw term loan on May 18 priced at SOFR + 4.50%, rated Ba2/BB+; the oversubscribed deal is backed by long-term customer contracts and supports CoreWeave's continued AI infrastructure expansion across its Meta and Anthropic commitments.",
+          "sourceTitle": "Yahoo Finance",
+          "sourceUrl": "https://finance.yahoo.com/markets/stocks/articles/coreweave-3-1b-hpc-loan-080934235.html",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "22 analysts rate CoreWeave a buy with an average 12-month price target of $138.56",
+          "detail": "The analyst community holds 22 buy ratings on CoreWeave with an average 12-month price target of $138.56; Q2 2026 results will be the next key test, as Q2 guidance came in below consensus when reported alongside the Q1 beat, triggering an initial 12% post-earnings decline.",
+          "sourceTitle": "CoinCentral",
+          "sourceUrl": "https://coincentral.com/coreweave-crwv-stock-jumps-on-russell-3000-entry-and-fresh-analyst-upgrades/",
+          "publishedDate": "2026-06-10"
+        }
+      ]
+    },
+    {
+      "name": "Mistral AI",
+      "category": "Open and enterprise foundation models",
+      "summary": "Mistral is expanding its Vibe platform with cloud-hosted remote agents powered by Mistral Medium 3.5 — scoring 77.6% on SWE-Bench Verified — while opening a 10 MW Les Ulis, France inference data center in Q3 2026. The company continues releasing model weights on Hugging Face even as Vibe enterprise features remain proprietary.",
+      "items": [
+        {
+          "headline": "Mistral launched cloud-hosted remote agents in Vibe powered by Mistral Medium 3.5",
+          "detail": "Mistral released cloud-hosted remote agents inside its Vibe platform (formerly Le Chat), running asynchronously in isolated sandboxes with GitHub and Slack integrations; the underlying Mistral Medium 3.5 is a 128B dense model with a 256K context window scoring 77.6% on SWE-Bench Verified.",
+          "sourceTitle": "Mistral AI",
+          "sourceUrl": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/",
+          "publishedDate": "2026-06-05"
+        },
+        {
+          "headline": "Mistral presented at AI Now Summit 2026, outlining infrastructure expansion and industrial AI partnerships",
+          "detail": "Mistral used the AI Now Summit 2026 to outline its expanded data center push — including the 10 MW Les Ulis, France inference facility opening in Q3 2026 — alongside new industrial AI partnerships and its strategy to challenge established AI providers in enterprise markets.",
+          "sourceTitle": "Mistral AI",
+          "sourceUrl": "https://mistral.ai/news/ai-now-summit-2026/",
+          "publishedDate": "2026-06-10"
+        },
+        {
+          "headline": "Mistral Vibe is available on the web, VS Code extension, and CLI with Work Mode and Code Mode",
+          "detail": "Following the Le Chat to Vibe rebrand, the platform is accessible via the Mistral Vibe web app, a VS Code extension, and a CLI terminal; Work Mode handles long-running inbox, calendar, and research tasks while Code Mode takes coding assignments from request to merged pull request.",
+          "sourceTitle": "VentureBeat",
+          "sourceUrl": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
+          "publishedDate": "2026-06-01"
+        },
+        {
+          "headline": "Mistral Medium 3.5 released as open weights on Hugging Face",
+          "detail": "Mistral released the full weights of Mistral Medium 3.5 — its 128B dense model — on Hugging Face under the mistralai/Mistral-Medium-3.5-128B repository, continuing its open-weights commitment even as Vibe enterprise features remain proprietary.",
+          "sourceTitle": "Hugging Face",
+          "sourceUrl": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+          "publishedDate": "2026-06-05"
+        }
+      ]
+    },
+    {
+      "name": "Tesla",
+      "category": "Autonomous vehicles, robotics, and applied AI",
+      "summary": "Tesla is converting its Fremont Model S/X production line into an Optimus Gen 3 factory targeting low-volume production in summer 2026. FSD v14.3.4 rolled out June 13 with Cybertruck Smart Summon and Denmark approval. The AI5 chip taped out in April targets late 2026 engineering samples, with AI6 tapeout planned for December.",
+      "items": [
+        {
+          "headline": "Tesla began converting Fremont Model S/X production line into an Optimus Gen 3 robot factory",
+          "detail": "Tesla is repurposing its Fremont Model S and Model X production lines into an Optimus Gen 3 humanoid robot factory, with low-volume production targeted to begin summer 2026 and high-volume production in 2027; the initial line is designed for capacity of 1 million robots per year.",
+          "sourceTitle": "TechTimes",
+          "sourceUrl": "https://www.techtimes.com/articles/318071/20260609/tesla-turning-its-model-s-line-optimus-robot-factorygen-3-targets-2026-production-start.htm",
+          "publishedDate": "2026-06-09"
+        },
+        {
+          "headline": "Tesla rolled out FSD v14.3.4 on June 13 with Cybertruck Smart Summon and Denmark approval",
+          "detail": "Tesla began rolling out FSD v14.3.4 on June 13, adding Actually Smart Summon for Cybertruck and new destination parking options; Denmark also granted provisional FSD Supervised approval, making it the fourth European country to greenlight the system.",
+          "sourceTitle": "Tesla Oracle",
+          "sourceUrl": "https://www.teslaoracle.com/2026/06/13/tesla-starts-the-rollout-of-fsd-v14-3-4-2026-14-6-10-official-release-notes-rollout-status/",
+          "publishedDate": "2026-06-13"
+        },
+        {
+          "headline": "Tesla's AI5 chip taped out in April 2026 with engineering samples targeted for late 2026",
+          "detail": "Tesla's AI5 chip — delivering approximately 5x the useful compute of AI4, with 8x raw compute and 9x on-chip memory — completed tape-out in April 2026; it targets Optimus robotics and supercomputer clusters, with engineering samples expected late 2026 and dual-sourced TSMC/Samsung production in mid-2027.",
+          "sourceTitle": "Electrek",
+          "sourceUrl": "https://electrek.co/2026/04/15/tesla-ai5-chip-taped-out-musk-ai6-dojo3/",
+          "publishedDate": "2026-04-15"
+        },
+        {
+          "headline": "Elon Musk confirmed AI6 tapeout targeted for December 2026 with AI7 in planning",
+          "detail": "Elon Musk detailed that Tesla's AI6 chip tapeout is planned for December 2026, with the AI7 generation already in planning, extending a chip roadmap that also covers Dojo 3 supercomputer integration and Optimus robotics AI capabilities.",
+          "sourceTitle": "EV",
+          "sourceUrl": "https://eletric-vehicles.com/tesla/musk-details-ai6-and-ai6-5-chip-performance-and-production-plans/",
+          "publishedDate": "2026-06-10"
+        }
+      ]
+    }
+  ],
+  "ipoTracker": [
+    {
+      "company": "Anthropic",
+      "stage": "Confidential S-1 submitted",
+      "status": "Confirmed company filing step; October 2026 target",
+      "process": "Anthropic filed its confidential draft Form S-1 on June 1, 2026 after closing a $65 billion Series H at a $965 billion valuation. The October 2026 listing window is widely reported; no share count, price range, ticker, or exchange has been disclosed. The June 12 US government export-control suspension of Fable 5 and Mythos 5 is a new material development that will require disclosure in the public S-1.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by company announcement",
+      "note": "The Fable 5/Mythos 5 export control suspension is the most material new development since the June 1 filing and will affect the IPO narrative.",
+      "latestArticle": {
+        "title": "Anthropic files to go public",
+        "source": "Fortune",
+        "url": "https://fortune.com/2026/06/01/anthropic-s1-confidential/",
+        "publishedDate": "2026-06-01"
+      }
+    },
+    {
+      "company": "OpenAI",
+      "stage": "Confidential S-1 submitted",
+      "status": "Confirmed SEC filing — company self-disclosed on June 8",
+      "process": "OpenAI publicly confirmed its own confidential S-1 filing with the SEC on June 8, 2026, stating 'We expect it to leak so we're just announcing it.' Goldman Sachs and Morgan Stanley are the lead underwriters. The company is targeting a September 2026 debut with a possible slip to early 2027 pending SEC feedback. Raised at an $852 billion valuation in recent financing.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by company self-disclosure",
+      "note": "OpenAI's proactive disclosure strategy — announcing the filing before it leaked — reflects a new public-company communications posture ahead of the roadshow.",
+      "latestArticle": {
+        "title": "OpenAI submits confidential S-1",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+        "publishedDate": "2026-06-08"
+      }
+    },
+    {
+      "company": "SpaceX / xAI",
+      "stage": "Public company — IPO completed June 12, 2026",
+      "status": "SPCX trading on Nasdaq; $75B raised; largest IPO in history",
+      "process": "SpaceX priced at $135/share on June 11, raising $75 billion at a $1.75 trillion valuation — the largest IPO ever recorded. Shares closed the first trading day (June 12) up 19% at $160.95. Because xAI was merged into SpaceX in February 2026, all AI exposure — including Grok models, Colossus AI clusters, and X platform capabilities — is now publicly traded via ticker SPCX on Nasdaq.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed; public company as of June 12, 2026",
+      "note": "SPCX is now the primary public-market vehicle for AI investors seeking Grok/xAI exposure. Track alongside CRWV and CBRS as the post-IPO AI infrastructure comparable set.",
+      "latestArticle": {
+        "title": "SpaceX IPO: SPCX live updates",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        "publishedDate": "2026-06-12"
+      }
+    },
+    {
+      "company": "Cerebras Systems",
+      "stage": "Public company",
+      "status": "IPO completed May 14–15, 2026; CBRS trading on Nasdaq",
+      "process": "Cerebras completed its Nasdaq IPO on May 14, 2026 under ticker CBRS at $185/share. As of June 15, the stock is trading around $216 — above its IPO price but well off the post-IPO peak above $380. Q1 2026 earnings are scheduled for release after market close on June 23. Morgan Stanley initiated at Overweight ($250 target); Needham initiated Buy ($300 target); analyst average target approximately $294.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed; public company",
+      "note": "Q1 2026 earnings on June 23 will be Cerebras' first quarterly earnings release as a public company and a key stock catalyst.",
+      "latestArticle": {
+        "title": "Cerebras Systems sets date for first quarterly earnings release",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-sets-date-first-200300630.html",
+        "publishedDate": "2026-06-10"
+      }
+    },
+    {
+      "company": "CoreWeave",
+      "stage": "Public company",
+      "status": "IPO completed March 2026; CRWV trading on Nasdaq",
+      "process": "CoreWeave completed its IPO in March 2026 and trades on Nasdaq as CRWV. Russell 3000 inclusion is confirmed for June 27, expected to trigger passive-fund buying. Q1 2026 revenue was approximately $2.08 billion (doubled YoY) but Q2 guidance came in below analyst consensus. The company closed a $3.1 billion delayed-draw term loan in May and holds 22 buy ratings with an average analyst target of $138.56.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed; public company",
+      "note": "Russell 3000 inclusion on June 27 is the next near-term catalyst. Q2 results will test whether the below-consensus guidance was conservative.",
+      "latestArticle": {
+        "title": "CoreWeave stock jumps on Russell 3000 entry and fresh analyst upgrades",
+        "source": "CoinCentral",
+        "url": "https://coincentral.com/coreweave-crwv-stock-jumps-on-russell-3000-entry-and-fresh-analyst-upgrades/",
+        "publishedDate": "2026-06-10"
+      }
+    },
+    {
+      "company": "Databricks",
+      "stage": "Watchlist candidate — CEO explicitly ruled out 2026",
+      "status": "No filing; IPO deferred to 2027 or later by CEO statement",
+      "process": "Databricks CEO Ali Ghodsi publicly stated that 2026 is 'a terrible year to go public,' citing the SpaceX, Anthropic, and OpenAI trifecta absorbing more than $200 billion in IPO capital. The company has $4.8 billion ARR growing 55%+ year over year with positive free cash flow and a $134 billion valuation from its latest funding round.",
+      "lastChecked": "2026-06-15",
+      "confidence": "CEO-stated deferral; no filing",
+      "note": "IPO timing expectations updated to 2027 or later based on CEO's June 2026 statement.",
+      "latestArticle": {
+        "title": "Databricks CEO: 2026 is 'a terrible year to go public'",
+        "source": "The Next Web",
+        "url": "https://thenextweb.com/news/databricks-ceo-calls-2026-a-terrible-year-to-go-public-as-spacex-anthropic-and-openai-prepare-to-absorb-200-billion-in-ipo-capital",
+        "publishedDate": "2026-06-05"
+      }
+    },
+    {
+      "company": "Scale AI",
+      "stage": "Tracker-claim territory",
+      "status": "Unverified filing claim; no primary source confirmation",
+      "process": "Some IPO tracker sites claim Scale AI filed an S-1 in March 2026, but no matching confirmation from Scale AI, the SEC, Reuters, or another credible primary source has been found as of June 15, 2026.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Low until verified by primary source",
+      "note": "Do not treat tracker-only claims as confirmed or credibly reported filing evidence.",
+      "latestArticle": {
+        "title": "Scale AI IPO 2026: $14B Valuation, Date & How to Invest",
+        "source": "TechStackIPO",
+        "url": "https://www.techstackipo.com/ipo/scale-ai",
+        "publishedDate": null
+      }
+    },
+    {
+      "company": "Perplexity AI",
+      "stage": "High-growth private company — 2028 IPO target confirmed",
+      "status": "No confirmed IPO filing; CEO confirmed 2028 target on June 9",
+      "process": "Perplexity CEO Aravind Srinivas confirmed on June 9 that the company's IPO target is 2028. ARR surpassed $500 million (335% YoY growth) as of April 2026, with more than 100 million monthly active users and 20,000+ enterprise clients. The company signed a $750 million Microsoft Azure infrastructure deal in June.",
+      "lastChecked": "2026-06-15",
+      "confidence": "No filing; 2028 target confirmed by CEO",
+      "note": "Perplexity is the highest-profile AI search company explicitly targeting a 2028 listing, with strong revenue growth supporting that timeline.",
+      "latestArticle": {
+        "title": "Perplexity CEO cheers OpenAI, Anthropic listings, plans 2028 IPO",
+        "source": "PYMNTS",
+        "url": "https://www.pymnts.com/news/ipo/2026/perplexity-ceo-cheers-openai-anthropic-listings-plans-2028-ipo/",
+        "publishedDate": "2026-06-09"
+      }
+    },
+    {
+      "company": "Hugging Face",
+      "stage": "Watchlist candidate",
+      "status": "Unverified IPO claim — not confirmed by primary source",
+      "process": "Aggregated sources from the week of June 9–15 contain a claim of a Hugging Face Nasdaq debut under ticker HFCE at $42/share raising $2.1 billion, but this could not be verified through Hugging Face's official newsroom, the SEC, Reuters, or Bloomberg as of June 15. Treat as unverified until confirmed by a credible primary source.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Low — unverified claim; no primary-source confirmation",
+      "note": "Do not report the Hugging Face HFCE ticker or IPO as confirmed until verified by Hugging Face or the SEC.",
+      "latestArticle": {
+        "title": "50 Top AI Funded Startups (June 2026)",
+        "source": "AI Funding Tracker",
+        "url": "https://aifundingtracker.com/top-50-ai-startups/",
+        "publishedDate": "2026-06-01"
+      }
+    }
+  ],
+  "partnershipTracker": [
+    {
+      "relationship": "Anthropic - xAI / SpaceXAI",
+      "companies": ["Anthropic", "xAI", "SpaceXAI"],
+      "type": "Compute capacity contract",
+      "status": "Confirmed compute partnership",
+      "terms": "xAI said SpaceXAI signed an agreement to provide Anthropic access to Colossus 1. Anthropic expressed interest in developing multiple gigawatts of orbital AI compute capacity. Public financial terms were not disclosed. With xAI now part of the publicly traded SpaceX (SPCX), the partnership is between Anthropic and a public company.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed relationship; financial terms not confirmed",
+      "note": "xAI is now part of SpaceX (SPCX, Nasdaq) following the February 2026 merger. No new developments this week.",
+      "latestArticle": {
+        "title": "New Compute Partnership with Anthropic",
+        "source": "xAI",
+        "url": "https://x.ai/news/anthropic-compute-partnership",
+        "publishedDate": "2026-05-06"
+      }
+    },
+    {
+      "relationship": "Anthropic - Amazon / AWS",
+      "companies": ["Anthropic", "Amazon", "AWS"],
+      "type": "Cloud and custom-silicon compute",
+      "status": "Confirmed expanded collaboration",
+      "terms": "The April 2026 expanded agreement commits more than $100 billion over 10 years to AWS, securing up to 5 GW of Trainium2, Trainium3, and Trainium4 capacity for training and running Claude. Project Rainier is fully operational with nearly half a million Trainium2 chips and Anthropic already running workloads; nearly 1 GW of Trainium2 and Trainium3 capacity is expected online by end of 2026.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by company and partner",
+      "note": "AWS remains Anthropic's core public cloud and custom-chip infrastructure partner. The new AWS-Cerebras partnership on Bedrock creates a complementary inference option but does not change the Anthropic-AWS relationship.",
+      "latestArticle": {
+        "title": "Anthropic and Amazon expanded compute partnership",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+        "publishedDate": "2026-04-20"
+      }
+    },
+    {
+      "relationship": "Anthropic - Google - Broadcom",
+      "companies": ["Anthropic", "Google", "Broadcom"],
+      "type": "TPU capacity and silicon supply",
+      "status": "Confirmed compute expansion",
+      "terms": "Anthropic signed a new agreement with Google and Broadcom for multiple gigawatts of next-generation TPU capacity expected to start coming online in 2027. No new developments this week.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by company",
+      "note": "The 2027 capacity timeline remains the current state. The Gemini-Siri deal deepens Google-Apple ties but is separate from this compute arrangement.",
+      "latestArticle": {
+        "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+        "publishedDate": "2026-04-06"
+      }
+    },
+    {
+      "relationship": "Anthropic - Microsoft - NVIDIA",
+      "companies": ["Anthropic", "Microsoft", "NVIDIA"],
+      "type": "Cloud, model distribution, investment, and GPU optimization",
+      "status": "Confirmed strategic partnerships",
+      "terms": "Microsoft is scaling Claude on Azure and made investment commitments alongside NVIDIA. NVIDIA's first Vera CPU systems were hand-delivered to Anthropic in June 2026, adding a CPU dimension to the GPU infrastructure relationship. No new announcements this week.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by Microsoft and NVIDIA",
+      "note": "NVIDIA's Vera CPU delivery to Anthropic remains the most recent infrastructure milestone in this multi-party relationship.",
+      "latestArticle": {
+        "title": "Vera Arrives: NVIDIA's First CPU Built for Agents Lands at Top AI Labs",
+        "source": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+        "publishedDate": "2026-06-01"
+      }
+    },
+    {
+      "relationship": "OpenAI - Microsoft",
+      "companies": ["OpenAI", "Microsoft"],
+      "type": "Cloud, product distribution, and IP licensing",
+      "status": "Confirmed amended partnership",
+      "terms": "OpenAI said Microsoft remains its primary cloud partner, with OpenAI products shipping first on Azure unless Microsoft cannot support the needed capabilities. Microsoft's non-exclusive IP license runs through 2032. Microsoft's Build 2026 MAI model launches signal product-level diversification within the Azure-first commercial arrangement. Microsoft Copilot now routes across OpenAI and MAI models per customer preference.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by company",
+      "note": "OpenAI's S-1 filing does not alter the commercial arrangement with Microsoft. No new changes this week.",
+      "latestArticle": {
+        "title": "The next phase of the Microsoft OpenAI partnership",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/next-phase-of-microsoft-partnership/",
+        "publishedDate": "2026-04-27"
+      }
+    },
+    {
+      "relationship": "OpenAI - Amazon",
+      "companies": ["OpenAI", "Amazon"],
+      "type": "Cloud, model distribution, and strategic infrastructure partnership",
+      "status": "Confirmed strategic partnership — GA distribution live",
+      "terms": "OpenAI's frontier models (GPT-5.5, GPT-5.4) and Codex are generally available on AWS Bedrock as of June 1, 2026, with pricing matching OpenAI first-party rates. OpenAI also holds a 2 GW Trainium capacity contract through AWS. GPT-5.6, released in early June, is expected on Bedrock.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by company",
+      "note": "The June 1 GA launch marks the full distribution phase of the OpenAI-AWS partnership. No new announcements this week.",
+      "latestArticle": {
+        "title": "OpenAI frontier models and Codex are now available on AWS",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+        "publishedDate": "2026-06-01"
+      }
+    },
+    {
+      "relationship": "OpenAI - NVIDIA",
+      "companies": ["OpenAI", "NVIDIA"],
+      "type": "GPU infrastructure and strategic supplier relationship",
+      "status": "Confirmed strategic partnership",
+      "terms": "NVIDIA agreed to deploy at least 10GW of NVIDIA systems for OpenAI infrastructure, with the first gigawatt targeted for H2 2026 on Vera Rubin. NVIDIA's first Vera CPU systems were also delivered to OpenAI in June 2026. Cloud providers including AWS, GCP, Azure, and OCI will deliver Vera Rubin instances in H2 2026 supporting OpenAI's model infrastructure.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by company",
+      "note": "Vera Rubin cloud partner deployments in H2 2026 are the next major milestones for the 10GW partnership timeline.",
+      "latestArticle": {
+        "title": "OpenAI and NVIDIA Announce Strategic Partnership to Deploy 10 Gigawatts of NVIDIA Systems",
+        "source": "NVIDIA Newsroom",
+        "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+        "publishedDate": "2025-09-22"
+      }
+    },
+    {
+      "relationship": "OpenAI - AMD",
+      "companies": ["OpenAI", "AMD"],
+      "type": "GPU capacity partnership",
+      "status": "Confirmed strategic partnership — samples shipping",
+      "terms": "OpenAI and AMD agreed on a multi-generation 6GW AMD GPU deployment beginning with an initial MI450 rollout in H2 2026. AMD CEO Dr. Lisa Su confirmed MI450 samples are shipping to lead customers. A 160-million-share AMD warrant vests on milestone achievement.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by company; samples shipping per CEO",
+      "note": "AMD's Advancing AI 2026 event on July 23 may provide additional MI450 deployment progress updates for OpenAI.",
+      "latestArticle": {
+        "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/openai-amd-strategic-partnership/",
+        "publishedDate": "2025-10-06"
+      }
+    },
+    {
+      "relationship": "OpenAI - Oracle / SoftBank / CoreWeave",
+      "companies": ["OpenAI", "Oracle", "SoftBank", "CoreWeave"],
+      "type": "Data-center and leased compute platform (Stargate)",
+      "status": "Confirmed platform; structure evolving",
+      "terms": "OpenAI continues to describe Stargate as its long-term compute platform spanning Oracle, SoftBank, CoreWeave, and related infrastructure partners. Five additional US data center sites have been announced, bringing total planned Stargate capacity to nearly 7 GW and $400B+ committed over three years. CoreWeave's public-company status adds new financial transparency to its role in the network.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed platform; evolving structure",
+      "note": "No new Stargate site or financing announcements this week. CoreWeave's Russell 3000 inclusion on June 27 further institutionalizes its role.",
+      "latestArticle": {
+        "title": "Building the compute infrastructure for the Intelligence Age",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/",
+        "publishedDate": "2026-04-29"
+      }
+    },
+    {
+      "relationship": "Meta - CoreWeave",
+      "companies": ["Meta", "CoreWeave"],
+      "type": "AI cloud capacity contract",
+      "status": "Confirmed expanded agreement",
+      "terms": "CoreWeave said Meta expanded the relationship to provide AI cloud capacity through December 2032 for about $21 billion, including initial NVIDIA Vera Rubin NVL72 deployments for Meta's high-volume Facebook, Instagram, and WhatsApp inference workloads.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by CoreWeave",
+      "note": "CoreWeave's first Vera Rubin NVL72 bring-up is a direct enabler of the Vera Rubin phase of this contract. No new developments this week.",
+      "latestArticle": {
+        "title": "CoreWeave and Meta Announce $21 Billion Expanded AI Infrastructure Agreement",
+        "source": "CoreWeave",
+        "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-and-Meta-Announce-21-Billion-Expanded-AI-Infrastructure-Agreement/default.aspx",
+        "publishedDate": "2026-04-09"
+      }
+    },
+    {
+      "relationship": "Anthropic - CoreWeave",
+      "companies": ["Anthropic", "CoreWeave"],
+      "type": "GPU cloud capacity contract",
+      "status": "Confirmed multi-year agreement",
+      "terms": "CoreWeave said Anthropic will use its cloud platform to run Claude workloads at production scale under a multi-year agreement, with infrastructure rolling out in phases beginning later in 2026. Financial terms were not disclosed. CoreWeave's Vera Rubin NVL72 capability is a key enabler for future Claude model deployments on this contract.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by CoreWeave",
+      "note": "CoreWeave's Vera Rubin NVL72 bring-up completion is a direct milestone for the Anthropic deployment timeline.",
+      "latestArticle": {
+        "title": "CoreWeave Announces Multi-Year Agreement With Anthropic",
+        "source": "CoreWeave",
+        "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Multi-Year-Agreement-With-Anthropic/",
+        "publishedDate": "2026-04-10"
+      }
+    },
+    {
+      "relationship": "Anthropic - Palantir - AWS",
+      "companies": ["Anthropic", "Palantir", "AWS"],
+      "type": "Government and defense deployment partnership",
+      "status": "Active with new risk — Pentagon supply chain designation threat",
+      "terms": "Palantir said the companies are bringing Claude to U.S. government intelligence and defense users inside Palantir products running on AWS infrastructure. The Pentagon moved this week to classify Palantir as a supply chain risk, threatening existing and future government contracts; Palantir indicated it will contest the designation. The June 12 export control suspension of Fable 5/Mythos 5 adds further sensitivity to the government AI contract picture.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed partnership; new Pentagon risk introduced June 11",
+      "note": "The Pentagon supply chain risk designation is the most significant near-term threat to this partnership's government-contract pipeline and should be tracked closely.",
+      "latestArticle": {
+        "title": "Pentagon designates Palantir supply chain risk threatening multibillion-dollar defense contracts",
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/multibillion-dollar-defense-contracts-palantir-140000191.html",
+        "publishedDate": "2026-06-11"
+      }
+    },
+    {
+      "relationship": "Apple - OpenAI",
+      "companies": ["Apple", "OpenAI"],
+      "type": "AI model integration and distribution",
+      "status": "Active but transitioning to open marketplace model",
+      "terms": "Apple and OpenAI maintain an existing integration agreement bringing ChatGPT into Siri and Apple Intelligence. The iOS 27 Extensions framework — confirmed in developer beta code as of June 15 but withheld from the WWDC keynote — will open Siri to Claude, Gemini, and Grok alongside ChatGPT when iOS 27 releases in September 2026, moving ChatGPT from exclusive to one of several marketplace options.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by Apple announcement; Extensions framework confirmed in beta code",
+      "note": "The September 2026 GA release of iOS 27 with the Extensions marketplace is the next major milestone for this relationship.",
+      "latestArticle": {
+        "title": "Three unannounced iOS 27 features are still coming",
+        "source": "MacRumors",
+        "url": "https://www.macrumors.com/2026/06/15/three-unannounced-ios-27-features-are-still-coming/",
+        "publishedDate": "2026-06-15"
+      }
+    },
+    {
+      "relationship": "AMD - Microsoft",
+      "companies": ["AMD", "Microsoft"],
+      "type": "AI compute and cloud GPU partnership",
+      "status": "Active strategic relationship",
+      "terms": "AMD showcased MI300X GPU instances on Azure and announced the Windows ML DxCG integration preview at Microsoft Build 2026 (June 2–3). Microsoft deploys AMD silicon within Azure infrastructure for AI inference workloads alongside NVIDIA hardware. No new public announcement this week.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Ongoing relationship; no new announced terms this week",
+      "note": "AMD's Advancing AI 2026 event on July 23 may include additional Microsoft-related partnership disclosures.",
+      "latestArticle": {
+        "title": "AMD at Microsoft Build 2026",
+        "source": "AMD Developer Resources",
+        "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/amd-at-microsoft-build-2026.html",
+        "publishedDate": "2026-06-03"
+      }
+    },
+    {
+      "relationship": "AMD - Meta",
+      "companies": ["AMD", "Meta"],
+      "type": "Multi-generation GPU infrastructure partnership",
+      "status": "Confirmed 6GW multi-year agreement — samples shipping",
+      "terms": "AMD and Meta announced a 6-gigawatt strategic partnership covering multiple generations of AMD Instinct GPUs. The first deployment uses a custom AMD Instinct MI450-based GPU with AMD EPYC Venice CPUs, with shipments beginning in H2 2026. AMD CEO confirmed MI450 samples are now shipping to lead customers. The agreement includes a 160-million-share warrant giving Meta a potential 10% stake in AMD.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by both companies; samples shipping per CEO",
+      "note": "MI450 sample shipments to lead customers are the most recent milestone. No new June 9–15 announcements.",
+      "latestArticle": {
+        "title": "AMD and Meta Announce Expanded Strategic Partnership to Deploy 6 Gigawatts of AMD GPUs",
+        "source": "AMD",
+        "url": "https://ir.amd.com/news-events/press-releases/detail/1279/amd-and-meta-announce-expanded-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus",
+        "publishedDate": "2026-02-24"
+      }
+    },
+    {
+      "relationship": "CoreWeave - NVIDIA",
+      "companies": ["CoreWeave", "NVIDIA"],
+      "type": "Infrastructure equity investment and multi-generational GPU supply",
+      "status": "Confirmed deep strategic partnership — Vera Rubin milestone reached",
+      "terms": "NVIDIA invested $2 billion in CoreWeave Class A common stock and the companies committed to accelerating the buildout of more than 5GW of AI factories by 2030. CoreWeave completed the industry-first Vera Rubin NVL72 bring-up on June 1, establishing CoreWeave as NVIDIA's premier early-adopter cloud partner for the Vera Rubin generation. The partnership includes early adoption of Vera CPUs, Rubin GPUs, and Bluefield storage systems.",
+      "lastChecked": "2026-06-15",
+      "confidence": "Confirmed by both companies",
+      "note": "The Vera Rubin NVL72 bring-up completion is the most significant partnership milestone since the January 2026 investment announcement.",
+      "latestArticle": {
+        "title": "CoreWeave Completes Industry-First Bring-Up and Validation of NVIDIA Vera Rubin NVL72",
+        "source": "CoreWeave Investor Relations",
+        "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Completes-Industry-First-Bring-Up-and-Validation-of-NVIDIA-Vera-Rubin-NVL72/default.aspx",
+        "publishedDate": "2026-06-01"
+      }
+    }
+  ],
+  "sources": [
+    "https://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform",
+    "https://nvidianews.nvidia.com/news/sk-hynix-ai-factory",
+    "https://nvidianews.nvidia.com/news/latest",
+    "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+    "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+    "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Completes-Industry-First-Bring-Up-and-Validation-of-NVIDIA-Vera-Rubin-NVL72/default.aspx",
+    "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "https://ai.google.dev/gemini-api/docs/changelog",
+    "https://windowsnews.ai/article/microsoft-copilot-reappraised-in-2026-nhs-deal-paid-seats-and-azure-costs.425493",
+    "https://samexpert.com/microsoft-product-terms-june-2026/",
+    "https://www.amd.com/en/developer/resources/technical-articles/2026/amd-at-microsoft-build-2026.html",
+    "https://www.macrumors.com/2026/06/15/three-unannounced-ios-27-features-are-still-coming/",
+    "https://openai.com/index/openai-submits-confidential-s-1/",
+    "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "https://openai.com/index/next-phase-of-microsoft-partnership/",
+    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "https://openai.com/index/openai-amd-strategic-partnership/",
+    "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/",
+    "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "https://www.anthropic.com/news/fable-mythos-access",
+    "https://fortune.com/2026/06/01/anthropic-s1-confidential/",
+    "https://releasebot.io/updates/anthropic/claude",
+    "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "https://www.anthropic.com/news/anthropic-amazon-compute",
+    "https://x.ai/news/anthropic-compute-partnership",
+    "https://www.opensourceforu.com/2026/06/muse-spark-delay-raises-questions-over-metas-ai-monetisation-plans/",
+    "https://ai.meta.com/blog/llamacon-llama-news/",
+    "https://investors.coreweave.com/news/news-details/2026/CoreWeave-and-Meta-Announce-21-Billion-Expanded-AI-Infrastructure-Agreement/default.aspx",
+    "https://thenewstack.io/meta-abandons-llama-spark/",
+    "https://www.aboutamazon.com/news/aws/aws-cerebras-ai-inference",
+    "https://www.anthropic.com/news/anthropic-amazon-compute",
+    "https://aws.amazon.com/events/summits/washington-dc/",
+    "https://www.aboutamazon.com/news/aws/bedrock-openai-models",
+    "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+    "https://www.techtimes.com/articles/317328/20260528/grok-ai-new-model-triples-parameter-count-targets-coding-lead-release-expected-mid-june.htm",
+    "https://releasebot.io/updates/xai",
+    "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+    "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-second-quarter-fiscal-year-2026-financial",
+    "https://finance.yahoo.com/markets/stocks/articles/broadcom-q2-2026-earnings-ai-111613207.html",
+    "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
+    "https://www.stocktitan.net/news/AVGO/broadcom-q2-2026-revenue-up-48-guides-to-294b.html",
+    "https://finance.yahoo.com/markets/stocks/articles/multibillion-dollar-defense-contracts-palantir-140000191.html",
+    "https://phemex.com/academy/palantir-pltr-stock-2026",
+    "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000026/a2026q1ex991pressrelease.htm",
+    "https://www.businesswire.com/news/home/20260604907574/en/Palantir-Announces-Availability-on-Google-Cloud-Marketplace-Including-Two-Way-Integrations-between-BigQuery-and-Foundry-and-Deep-Connectivity-between-Gemini-and-AIP",
+    "https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/",
+    "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+    "https://www.macworld.com/article/2986799/ios-27-new-iphone-features-release-date-beta-compatiblity-apple-intelligence-siri.html",
+    "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+    "https://wccftech.com/amd-sampling-mi450-gpus-engaged-with-customers-on-mi500-largest-ai-deployments-are-for-inference/",
+    "https://ir.amd.com/news-events/press-releases/detail/1283/amd-announces-advancing-ai-2026",
+    "https://www.amd.com/en/blogs/2026/amd-sets-new-bar-for-hpc-with-amd-instinct-mi430x-gpu.html",
+    "https://www.gurufocus.com/news/8905568/amd-plans-2-billion-investment-in-uks-ai-infrastructure",
+    "https://ir.amd.com/news-events/press-releases/detail/1279/amd-and-meta-announce-expanded-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus",
+    "https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html",
+    "https://www.pymnts.com/news/ipo/2026/perplexity-ceo-cheers-openai-anthropic-listings-plans-2028-ipo/",
+    "https://opentools.ai/news/perplexity-personal-computer-windows-launch",
+    "https://www.gurufocus.com/news/8882482/coreweave-crwv-and-iren-limited-iren-join-russell-3000-index",
+    "https://finance.yahoo.com/markets/stocks/articles/coreweave-3-1b-hpc-loan-080934235.html",
+    "https://coincentral.com/coreweave-crwv-stock-jumps-on-russell-3000-entry-and-fresh-analyst-upgrades/",
+    "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Multi-Year-Agreement-With-Anthropic/",
+    "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/",
+    "https://mistral.ai/news/ai-now-summit-2026/",
+    "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
+    "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+    "https://www.techtimes.com/articles/318071/20260609/tesla-turning-its-model-s-line-optimus-robot-factorygen-3-targets-2026-production-start.htm",
+    "https://www.teslaoracle.com/2026/06/13/tesla-starts-the-rollout-of-fsd-v14-3-4-2026-14-6-10-official-release-notes-rollout-status/",
+    "https://electrek.co/2026/04/15/tesla-ai5-chip-taped-out-musk-ai6-dojo3/",
+    "https://eletric-vehicles.com/tesla/musk-details-ai6-and-ai6-5-chip-performance-and-production-plans/",
+    "https://investors.cerebras.ai/node/7001/pdf",
+    "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-sets-date-first-200300630.html",
+    "https://thenextweb.com/news/databricks-ceo-calls-2026-a-terrible-year-to-go-public-as-spacex-anthropic-and-openai-prepare-to-absorb-200-billion-in-ipo-capital",
+    "https://www.techstackipo.com/ipo/scale-ai",
+    "https://aifundingtracker.com/top-50-ai-startups/",
+    "https://news.northeastern.edu/2026/06/08/anthropic-openai-spacex-ipo-race/"
+  ]
+}

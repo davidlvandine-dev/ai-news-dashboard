@@ -41,7 +41,13 @@
       "Bash(sudo ufw status)",
       "Bash(sudo iptables -L INPUT -n --line-numbers)",
       "Bash(awk '{print $1}')",
-      "Bash(npm run *)"
+      "Bash(npm run *)",
+      "Bash(sudo tee /usr/local/bin/claude)",
+      "Bash(sudo chmod +x /usr/local/bin/claude)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('expires_at:', d.get\\('expiresAt','n/a'\\)\\); print\\('has_token:', bool\\(d.get\\('accessToken'\\) or d.get\\('token'\\)\\)\\)\")",
+      "Bash(curl -s --max-time 10 https://api.anthropic.com/v1/models -o /dev/null -w \"%{http_code}\")",
+      "Bash(timeout 15 /home/dave/.vscode-server/extensions/anthropic.claude-code-2.1.177-linux-arm64/resources/native-binary/claude --version)"
     ],
     "additionalDirectories": [
       "/home/dave/homedash/frontend/src/components"
