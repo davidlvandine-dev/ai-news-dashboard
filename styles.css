@@ -1,4 +1,53 @@
 :root {
+  color-scheme: dark;
+  --bg: #0a0c0f;
+  --ink: #e8eaf0;
+  --muted: #8891a4;
+  --line: #262b35;
+  --panel: #111318;
+  --accent: #2dd4bf;
+  --accent-2: #fbbf24;
+  --accent-3: #4a9eff;
+  --shadow: 0 14px 34px rgba(0, 0, 0, 0.5);
+
+  --topbar-bg: #111318;
+  --badge-bg: #15302c;
+  --row-bg: #181c23;
+  --empty-bg: #111318;
+  --hover-bg: #181c23;
+  --hover-accent-bg: #1e232c;
+  --visited-link: #a78bfa;
+
+  --legend-confirmed-bg: rgba(52, 211, 153, 0.15);
+  --legend-confirmed-color: #34d399;
+  --legend-reported-bg: rgba(251, 191, 36, 0.15);
+  --legend-reported-color: #fbbf24;
+  --legend-unverified-bg: rgba(167, 139, 250, 0.15);
+  --legend-unverified-color: #a78bfa;
+
+  --banner-warn-bg: rgba(251, 191, 36, 0.12);
+  --banner-warn-border: #fbbf24;
+  --banner-warn-color: #fbbf24;
+  --banner-done-bg: rgba(52, 211, 153, 0.12);
+  --banner-done-border: #34d399;
+  --banner-done-color: #34d399;
+
+  --new-badge-bg: rgba(52, 211, 153, 0.15);
+  --new-badge-color: #34d399;
+
+  --ipo-vis-bg: radial-gradient(circle at top left, rgba(45, 212, 191, 0.08), transparent 28%), linear-gradient(180deg, #111318 0%, #0a0c0f 100%);
+  --ipo-track-grad: linear-gradient(90deg, #262b35 0%, #1e232c 72%, #2dd4bf 100%);
+  --ipo-stage-dot-bg: #4a5165;
+  --ipo-race-track-bg: #1e232c;
+  --ipo-stop-border: #262b35;
+  --ipo-stop-passed-bg: rgba(74, 158, 255, 0.25);
+  --ipo-stop-current-bg: rgba(45, 212, 191, 0.25);
+
+  --accent-4: #f87171;
+  --accent-5: #a78bfa;
+}
+
+:root[data-theme="light"] {
   color-scheme: light;
   --bg: #f7f8f5;
   --ink: #1d2522;
@@ -9,6 +58,42 @@
   --accent-2: #a43f31;
   --accent-3: #385a9d;
   --shadow: 0 14px 34px rgba(25, 35, 31, 0.09);
+
+  --topbar-bg: #fffefa;
+  --badge-bg: #e6f2ef;
+  --row-bg: rgba(255, 255, 255, 0.92);
+  --empty-bg: rgba(255, 255, 255, 0.58);
+  --hover-bg: #f5f7f5;
+  --hover-accent-bg: #f0faf8;
+  --visited-link: #7c5fa0;
+
+  --legend-confirmed-bg: #daf2e8;
+  --legend-confirmed-color: #16634f;
+  --legend-reported-bg: #fbe7ca;
+  --legend-reported-color: #8a4d11;
+  --legend-unverified-bg: #ece8ee;
+  --legend-unverified-color: #65596f;
+
+  --banner-warn-bg: #fef9e7;
+  --banner-warn-border: #f0d070;
+  --banner-warn-color: #7a5c00;
+  --banner-done-bg: #daf2e8;
+  --banner-done-border: #a0d8c0;
+  --banner-done-color: #16634f;
+
+  --new-badge-bg: #daf2e8;
+  --new-badge-color: #16634f;
+
+  --ipo-vis-bg: radial-gradient(circle at top left, rgba(15, 118, 110, 0.08), transparent 28%), linear-gradient(180deg, #fffdfa 0%, #ffffff 100%);
+  --ipo-track-grad: linear-gradient(90deg, #cfdad5 0%, #dbe7e2 72%, #0f766e 100%);
+  --ipo-stage-dot-bg: #9cb5ad;
+  --ipo-race-track-bg: #e5ebe5;
+  --ipo-stop-border: #cad6cf;
+  --ipo-stop-passed-bg: #dfe8fb;
+  --ipo-stop-current-bg: #dff3ef;
+
+  --accent-4: #7c4d13;
+  --accent-5: #6f5278;
 }
 
 * {
@@ -21,6 +106,7 @@ body {
   color: var(--ink);
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   line-height: 1.5;
+  transition: background 0.15s ease, color 0.15s ease;
 }
 
 .topbar {
@@ -30,7 +116,27 @@ body {
   gap: 24px;
   padding: 28px 32px 22px;
   border-bottom: 1px solid var(--line);
-  background: #fffefa;
+  background: var(--topbar-bg);
+}
+
+.theme-toggle {
+  align-self: flex-end;
+  min-height: 40px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--ink);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 800;
+  padding: 8px 14px;
+  white-space: nowrap;
+}
+
+.theme-toggle:hover {
+  border-color: var(--accent);
+  color: var(--accent);
 }
 
 .eyebrow,
@@ -172,17 +278,17 @@ h2 {
 
 .update-banner {
   padding: 10px 32px;
-  background: #fef9e7;
-  border-bottom: 1px solid #f0d070;
-  color: #7a5c00;
+  background: var(--banner-warn-bg);
+  border-bottom: 1px solid var(--banner-warn-border);
+  color: var(--banner-warn-color);
   font-size: 0.9rem;
   font-weight: 600;
 }
 
 .update-banner.done {
-  background: #daf2e8;
-  border-color: #a0d8c0;
-  color: #16634f;
+  background: var(--banner-done-bg);
+  border-color: var(--banner-done-border);
+  color: var(--banner-done-color);
 }
 
 main {
@@ -207,7 +313,7 @@ main {
   min-width: 108px;
   padding: 11px 14px;
   border-left: 4px solid var(--accent);
-  background: rgba(255, 255, 255, 0.7);
+  background: var(--row-bg);
 }
 
 .metrics div:nth-child(2) {
@@ -219,11 +325,11 @@ main {
 }
 
 .metrics div:nth-child(4) {
-  border-color: #7c4d13;
+  border-color: var(--accent-4);
 }
 
 .metrics div:nth-child(5) {
-  border-color: #6f5278;
+  border-color: var(--accent-5);
 }
 
 .metrics strong,
@@ -284,7 +390,7 @@ main {
   width: 32px;
   height: 32px;
   border-radius: 50%;
-  background: #e6f2ef;
+  background: var(--badge-bg);
   color: var(--accent);
   font-weight: 800;
 }
@@ -339,7 +445,7 @@ main {
 }
 
 .news-item-head a:visited {
-  color: #7c5fa0;
+  color: var(--visited-link);
 }
 
 .news-list p {
@@ -354,7 +460,7 @@ main {
   border: 1px dashed var(--line);
   border-radius: 8px;
   color: var(--muted);
-  background: rgba(255, 255, 255, 0.58);
+  background: var(--empty-bg);
 }
 
 .ipo-layout.active {
@@ -377,9 +483,7 @@ main {
   padding: 18px;
   border: 1px solid var(--line);
   border-radius: 8px;
-  background:
-    radial-gradient(circle at top left, rgba(15, 118, 110, 0.08), transparent 28%),
-    linear-gradient(180deg, #fffdfa 0%, #ffffff 100%);
+  background: var(--ipo-vis-bg);
   box-shadow: var(--shadow);
 }
 
@@ -413,18 +517,18 @@ main {
 }
 
 .legend-chip.confirmed {
-  background: #daf2e8;
-  color: #16634f;
+  background: var(--legend-confirmed-bg);
+  color: var(--legend-confirmed-color);
 }
 
 .legend-chip.reported {
-  background: #fbe7ca;
-  color: #8a4d11;
+  background: var(--legend-reported-bg);
+  color: var(--legend-reported-color);
 }
 
 .legend-chip.unverified {
-  background: #ece8ee;
-  color: #65596f;
+  background: var(--legend-unverified-bg);
+  color: var(--legend-unverified-color);
 }
 
 .ipo-stage-legend {
@@ -441,7 +545,7 @@ main {
   top: 15px;
   height: 4px;
   border-radius: 999px;
-  background: linear-gradient(90deg, #cfdad5 0%, #dbe7e2 72%, #0f766e 100%);
+  background: var(--ipo-track-grad);
 }
 
 .ipo-stage-edge,
@@ -471,11 +575,11 @@ main {
   left: 50%;
   width: 12px;
   height: 12px;
-  border: 3px solid #ffffff;
+  border: 3px solid var(--panel);
   border-radius: 50%;
-  background: #9cb5ad;
+  background: var(--ipo-stage-dot-bg);
   transform: translateX(-50%);
-  box-shadow: 0 0 0 1px rgba(29, 37, 34, 0.08);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.15);
 }
 
 .ipo-stage-stop-label {
@@ -512,7 +616,7 @@ main {
   width: 3px;
   height: 46px;
   border-radius: 999px;
-  background: #9cb5ad;
+  background: var(--ipo-stage-dot-bg);
 }
 
 .ipo-stage-edge.start::before {
@@ -534,7 +638,7 @@ main {
   gap: 12px;
   border: 1px solid var(--line);
   border-radius: 8px;
-  background: rgba(255, 255, 255, 0.92);
+  background: var(--row-bg);
   color: var(--ink);
   cursor: pointer;
   font: inherit;
@@ -543,15 +647,15 @@ main {
 }
 
 .ipo-race-row.confirmed {
-  border-left: 5px solid #1f8a63;
+  border-left: 5px solid var(--legend-confirmed-color);
 }
 
 .ipo-race-row.reported {
-  border-left: 5px solid #d08a28;
+  border-left: 5px solid var(--legend-reported-color);
 }
 
 .ipo-race-row.unverified {
-  border-left: 5px solid #7a6a86;
+  border-left: 5px solid var(--legend-unverified-color);
 }
 
 .ipo-race-row[aria-selected="true"] {
@@ -589,7 +693,7 @@ main {
   top: 11px;
   height: 8px;
   border-radius: 999px;
-  background: #e5ebe5;
+  background: var(--ipo-race-track-bg);
 }
 
 .ipo-race-lane::after {
@@ -610,21 +714,21 @@ main {
   left: calc(8px + ((100% - 26px) / (var(--stage-count) - 1)) * var(--stage-index));
   width: 22px;
   height: 22px;
-  border: 3px solid #cad6cf;
+  border: 3px solid var(--ipo-stop-border);
   border-radius: 50%;
-  background: #ffffff;
+  background: var(--panel);
   transform: translateX(-50%);
 }
 
 .ipo-stop.passed {
   border-color: var(--accent-3);
-  background: #dfe8fb;
+  background: var(--ipo-stop-passed-bg);
 }
 
 .ipo-stop.current {
   border-color: var(--accent);
-  background: #dff3ef;
-  box-shadow: 0 0 0 5px rgba(15, 118, 110, 0.12);
+  background: var(--ipo-stop-current-bg);
+  box-shadow: 0 0 0 5px rgba(45, 212, 191, 0.15);
 }
 
 .ipo-stop.current::after {
@@ -669,7 +773,7 @@ main {
 
 .ipo-row:hover,
 .tracker-row:hover {
-  background: #f5f7f5;
+  background: var(--hover-bg);
 }
 
 .ipo-row[aria-selected="true"],
@@ -842,8 +946,8 @@ main {
   margin-right: 6px;
   padding: 1px 6px;
   border-radius: 999px;
-  background: #daf2e8;
-  color: #16634f;
+  background: var(--new-badge-bg);
+  color: var(--new-badge-color);
   font-size: 0.68rem;
   font-weight: 800;
   letter-spacing: 0.04em;
@@ -882,7 +986,7 @@ body.loading main {
 }
 
 .retry-button:hover {
-  background: #f0faf8;
+  background: var(--hover-accent-bg);
 }
 
 .back-to-top {
@@ -915,7 +1019,7 @@ body.loading main {
 }
 
 .back-to-top:hover {
-  background: #f0faf8;
+  background: var(--hover-accent-bg);
   color: var(--accent);
 }
 

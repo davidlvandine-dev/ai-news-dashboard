@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>AI News Dashboard</title>
     <link rel="stylesheet" href="styles.css">
+    <script>
+      (function () {
+        var saved = localStorage.getItem("theme");
+        if (saved === "light") document.documentElement.setAttribute("data-theme", "light");
+      })();
+    </script>
   </head>
   <body>
     <header class="topbar">
@@ -28,6 +34,7 @@
           <input id="searchInput" type="search" placeholder="Company, source, topic">
         </label>
         <button id="refreshButton" class="refresh-button" type="button" title="Fetch latest AI news now">Refresh</button>
+        <button id="themeToggle" class="theme-toggle" type="button" title="Toggle light/dark mode">🌙 Dark</button>
       </div>
     </header>
     <div id="updateBanner" class="update-banner" aria-live="polite" hidden></div>

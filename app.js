@@ -49,7 +49,8 @@ const els = {
   partnershipNote: document.querySelector("#partnershipNote"),
   companyTemplate: document.querySelector("#companyCardTemplate"),
   newsTemplate: document.querySelector("#newsItemTemplate"),
-  backToTop: document.querySelector("#backToTop")
+  backToTop: document.querySelector("#backToTop"),
+  themeToggle: document.querySelector("#themeToggle")
 };
 
 let snapshots = [];
@@ -791,6 +792,34 @@ function connectSSE() {
     // Browser will auto-reconnect; nothing to do
   };
 }
+
+// --- Theme toggle ---
+
+function applyTheme(theme) {
+  if (theme === "light") {
+    document.documentElement.setAttribute("data-theme", "light");
+    if (els.themeToggle) els.themeToggle.textContent = "☀️ Light";
+  } else {
+    document.documentElement.removeAttribute("data-theme");
+    if (els.themeToggle) els.themeToggle.textContent = "🌙 Dark";
+  }
+}
+
+function initTheme() {
+  var saved = localStorage.getItem("theme") || "dark";
+  applyTheme(saved);
+}
+
+if (els.themeToggle) {
+  els.themeToggle.addEventListener("click", function () {
+    var current = localStorage.getItem("theme") || "dark";
+    var next = current === "light" ? "dark" : "light";
+    localStorage.setItem("theme", next);
+    applyTheme(next);
+  });
+}
+
+initTheme();
 
 // Only connect SSE when served from the Node.js server
 if (window.location.protocol !== 'file:') connectSSE();

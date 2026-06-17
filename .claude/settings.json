@@ -47,7 +47,11 @@
       "Bash(echo \"exit: $?\")",
       "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('expires_at:', d.get\\('expiresAt','n/a'\\)\\); print\\('has_token:', bool\\(d.get\\('accessToken'\\) or d.get\\('token'\\)\\)\\)\")",
       "Bash(curl -s --max-time 10 https://api.anthropic.com/v1/models -o /dev/null -w \"%{http_code}\")",
-      "Bash(timeout 15 /home/dave/.vscode-server/extensions/anthropic.claude-code-2.1.177-linux-arm64/resources/native-binary/claude --version)"
+      "Bash(timeout 15 /home/dave/.vscode-server/extensions/anthropic.claude-code-2.1.177-linux-arm64/resources/native-binary/claude --version)",
+      "Bash(sudo -n which claude)",
+      "Bash(awk '/^:root/,/^}/{next} {print NR\": \"$0}' /home/dave/ai-news-dashboard/styles.css)",
+      "Bash(grep -E \"#[0-9a-fA-F]{3,6}|rgba\\\\\\(\")",
+      "Bash(node --check /home/dave/ai-news-dashboard/app.js)"
     ],
     "additionalDirectories": [
       "/home/dave/homedash/frontend/src/components"
