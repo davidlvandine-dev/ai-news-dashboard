@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generatedAt": "2026-06-17T08:00:00.000-04:00",
+  "generatedAt": "2026-06-17T11:30:00.000-04:00",
   "title": "Top AI Companies Daily News",
   "companies": [
     {
@@ -121,10 +121,10 @@
           "publishedDate": "2026-06-12"
         },
         {
-          "headline": "Sam Altman joined Amodei and Hassabis at the G7 summit in Évian on June 17",
-          "detail": "OpenAI CEO Sam Altman attended the G7 summit AI working sessions in Évian-les-Bains alongside Anthropic's Amodei and Google DeepMind's Hassabis, as G7 leaders debated a 'trusted partners' framework for selective access to advanced US AI models in response to the Fable 5/Mythos 5 export-control suspension.",
+          "headline": "Sam Altman called for an 'international forum' for AI governance standards at the G7 summit",
+          "detail": "OpenAI CEO Sam Altman attended the G7 summit AI working sessions in Évian-les-Bains alongside Anthropic's Amodei and Google DeepMind's Hassabis — around a dozen tech executives joined heads of state — and specifically called for an 'international forum for discussion' that would establish AI testing standards, provide impartial expert risk analysis, and serve as a venue for cooperation among nations, responding directly to G7 allies' concerns about US AI export control power demonstrated by the Fable 5/Mythos 5 suspension.",
           "sourceTitle": "CNBC",
-          "sourceUrl": "https://www.cnbc.com/2026/06/17/g7-trump-ai-tech-leaders-openai-anthropic-google.html",
+          "sourceUrl": "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
           "publishedDate": "2026-06-17"
         }
       ]
@@ -135,9 +135,9 @@
       "summary": "Dario Amodei attended the G7 summit in Évian-les-Bains (June 15–17) as G7 leaders debated a 'trusted partners' framework responding directly to the June 12 Fable 5/Mythos 5 export-control suspension — which Western allies have cited as proof of US AI 'kill switch' fears. Fortune's June 16 analysis identified the government's demonstrated power to suspend model access as Anthropic's new primary IPO risk. Cybersecurity leaders published a joint statement urging the White House to restore Fable/Mythos access. The Pentagon has migrated at least two-thirds of its AI workflows off Anthropic's models despite the ongoing court injunction.",
       "items": [
         {
-          "headline": "Dario Amodei attended the G7 summit in Évian as leaders debated a 'trusted partners' AI framework",
-          "detail": "Anthropic CEO Dario Amodei attended the 52nd G7 summit in Évian-les-Bains (June 15–17) alongside Sam Altman and Demis Hassabis; G7 members discussed a 'trusted partners' framework for allied nations to retain selective access to advanced US AI models after the June 12 Fable 5/Mythos 5 suspension confirmed Europe's AI kill-switch fears.",
-          "sourceTitle": "CNBC / Euronews",
+          "headline": "Dario Amodei attended the G7 summit in Évian as US Commerce Secretary Lutnick pitched a 'trusted partners' AI framework with a September follow-on meeting",
+          "detail": "Anthropic CEO Dario Amodei attended the 52nd G7 summit in Évian-les-Bains (June 15–17) alongside Sam Altman and Demis Hassabis; US Commerce Secretary Howard Lutnick took the lead in pitching a 'trusted partners' exemption framework to G7 counterparts that would allow vetted entities from allied countries to regain access to Fable 5, Mythos 5, and similar frontier models. G7 members agreed a platform will be set up within the next month among Western democracies, with leaders planning to meet again in September to finalize terms. French President Macron said the Anthropic situation raised fears that the Trump administration could block non-US companies from accessing AI models even in friendly nations.",
+          "sourceTitle": "CNBC / G7 / Cryptobriefing",
           "sourceUrl": "https://www.cnbc.com/2026/06/17/g7-trump-ai-tech-leaders-openai-anthropic-google.html",
           "publishedDate": "2026-06-17"
         },
@@ -195,7 +195,7 @@
     {
       "name": "Amazon / AWS",
       "category": "Cloud AI and AI infrastructure",
-      "summary": "AWS Summit New York 2026 opened at the Javits Center on June 17 with three major product reveals: Kiro (an agentic IDE built on VS Code that writes specs before code), Amazon Bedrock AgentCore (now generally available for enterprise agent deployment), and Amazon Quick (a cross-app AI assistant with a desktop app and Free/Plus pricing). Separately, the AWS Weekly Roundup for June 15 noted Gemma 4 on Bedrock, the Kiro Pro Max tier, and the AWS FinOps Agent entering preview.",
+      "summary": "AWS Summit New York 2026 opened at the Javits Center on June 17 with a full agentic AI stack: Kiro (an agentic IDE using aerospace-grade EARS notation that runs each session in a Firecracker microVM), Amazon Bedrock AgentCore GA, Amazon Quick, AWS Continuum (AI-native security service for code vulnerabilities in gated preview), AWS Context (knowledge graph service for agent data access), and Amazon S3 Annotations (up to 1 GB of mutable metadata per object for AI agents). Southwest Airlines announced AWS as its preferred cloud partner, committing to transition from on-premises to a cloud and agent-native architecture by 2028.",
       "items": [
         {
           "headline": "AWS Summit New York 2026 opened June 17 with Kiro, AgentCore GA, and Amazon Quick revealed",
@@ -217,19 +217,26 @@
           "sourceTitle": "AWS News Blog",
           "sourceUrl": "https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-finops-agent-in-preview-gemma-4-on-bedrock-kiro-pro-max-and-more-june-15-2026/",
           "publishedDate": "2026-06-15"
+        },
+        {
+          "headline": "AWS launched Continuum, Context, and S3 Annotations — and signed Southwest Airlines as preferred cloud partner",
+          "detail": "AWS Summit NY revealed AWS Continuum (an AI-native security service that continuously discovers, prioritizes, validates, and remediates code vulnerabilities, gated preview), AWS Context (a knowledge-graph service that maps relationships across enterprise data so agents can access governed business rules at runtime), and Amazon S3 Annotations (attaches up to 1 GB of mutable, queryable context directly to objects for agent workflows). Southwest Airlines simultaneously announced AWS as its preferred cloud partner, committing to transition from a largely on-premises environment to a cloud- and agent-enabled architecture by 2028.",
+          "sourceTitle": "AWS News Blog",
+          "sourceUrl": "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/",
+          "publishedDate": "2026-06-17"
         }
       ]
     },
     {
       "name": "xAI",
       "category": "Foundation models and AI infrastructure",
-      "summary": "SpaceX (SPCX) shares reached $201.80 by June 17, up nearly 50% from the $135 IPO price in just five trading days — the largest IPO in history at $1.75 trillion. xAI (operating as the SpaceXAI division) launched Grok inside the Warp terminal on June 15 and shipped a Gopuff shopping assistant called Go powered by Grok text, audio, and image models. The whistleblower lawsuit filed by former engineer Devin Kim over Grok safety concerns continues in Santa Clara County court.",
+      "summary": "SpaceX (SPCX) reached an all-time high of $225.64 on June 16 — up 67% from the $135 IPO price — before pulling back on June 17 to approximately $201–206 amid a warning from a former Nasdaq chief that the stock 'is not trading on fundamentals.' xAI (operating as the SpaceXAI division) launched Grok inside the Warp terminal on June 15 and shipped a Gopuff shopping assistant called Go powered by Grok text, audio, and image models. The whistleblower lawsuit filed by former engineer Devin Kim over Grok safety concerns continues in Santa Clara County court.",
       "items": [
         {
-          "headline": "SpaceX (SPCX) reached $201.80 on June 17, up nearly 50% from the $135 IPO price in five trading days",
-          "detail": "SpaceX shares, which debuted at $135 on June 12 in the largest IPO in history ($75 billion raised, $1.75 trillion valuation), climbed to approximately $201.80 by June 17 — up roughly 50% from the IPO price — driven by market enthusiasm, a US-Iran ceasefire, and MSCI index inclusion on June 13.",
-          "sourceTitle": "Investing.com UK / TradingView",
-          "sourceUrl": "https://uk.investing.com/equities/spacex",
+          "headline": "SpaceX (SPCX) hit an all-time high of $225.64 on June 16, then pulled back to ~$201–206 on June 17",
+          "detail": "SpaceX shares debuted at $135 on June 12 in the largest IPO in history ($75 billion raised, $1.75 trillion valuation), climbed to an all-time high of $225.64 on June 16, then pulled back on June 17 to approximately $201–206 — still up ~50% from the IPO price in five trading days. A former Nasdaq chief warned the stock 'is not trading on fundamentals,' while MSCI inclusion on June 13 and a US-Iran ceasefire contributed to the early momentum.",
+          "sourceTitle": "TradingKey / Investing.com UK",
+          "sourceUrl": "https://www.tradingkey.com/analysis/stocks/us-stocks/261972394-spacex-stock-forecast-spcx-falls-from-225-to-206-is-the-rally-running-out-tradingkey",
           "publishedDate": "2026-06-17"
         },
         {
@@ -426,7 +433,7 @@
     {
       "name": "Mistral AI",
       "category": "Open and enterprise foundation models",
-      "summary": "Mistral CEO Arthur Mensch attended the G7 summit in Évian and publicly positioned his company as a trustworthy open-source alternative after Anthropic's Fable 5/Mythos 5 export suspension alarmed European governments. The company is in talks to raise €3 billion (~$3.5 billion) at a ~€20 billion (~$23 billion) valuation — nearly double its September 2025 mark. ARR crossed $400 million in early 2026, and the Les Ulis, France inference data center remains on track for Q3 2026.",
+      "summary": "Mistral CEO Arthur Mensch wrote on June 17 that the company 'got put in the spotlight in the last few days' and that Mistral exists to provide AI access 'outside of centralised control exercised by states or corporations' — directly capitalizing on alarm over the US Fable 5/Mythos 5 export suspension. Mensch also attended the G7 summit in Évian. The company is in talks to raise €3 billion (~$3.5 billion) at a ~€20 billion valuation — nearly double its September 2025 mark — with ASML currently the largest shareholder at ~11% after its €1.3 billion investment. ARR crossed $400 million in early 2026, and the Les Ulis, France inference data center remains on track for Q3 2026.",
       "items": [
         {
           "headline": "Mistral CEO pitched open-source AI sovereignty at the G7 after Anthropic's export-control suspension",
@@ -514,15 +521,15 @@
     {
       "company": "SpaceX / xAI",
       "stage": "Public company — IPO completed June 12, 2026",
-      "status": "SPCX trading at ~$201.80 on June 17, up ~50% from $135 IPO price in five trading days",
-      "process": "SpaceX priced at $135/share on June 11, raising $75 billion at a $1.75 trillion valuation in the largest IPO ever recorded; shares closed the first day (June 12) up 19% at $160.95, and climbed to approximately $201.80 by June 17 — nearly 50% above the IPO price — helped by MSCI inclusion on June 13, a US-Iran ceasefire, and sustained AI infrastructure enthusiasm. Because xAI was folded entirely into SpaceX (now operating as the SpaceXAI division) in February 2026, all Grok/AI exposure trades via ticker SPCX.",
+      "status": "SPCX hit ATH of $225.64 on June 16, pulled back to ~$201–206 on June 17; former Nasdaq chief warns it 'is not trading on fundamentals'",
+      "process": "SpaceX priced at $135/share on June 11, raising $75 billion at a $1.75 trillion valuation in the largest IPO ever recorded; shares closed the first day (June 12) up 19% at $160.95, reached an all-time high of $225.64 on June 16 (up 67% from IPO price), then pulled back on June 17 to approximately $201–206 amid a warning from a former Nasdaq chief that the stock is not trading on fundamentals. MSCI inclusion on June 13 and a US-Iran ceasefire contributed to the early momentum. Because xAI was folded entirely into SpaceX (now operating as the SpaceXAI division) in February 2026, all Grok/AI exposure trades via ticker SPCX.",
       "lastChecked": "2026-06-17",
       "confidence": "Confirmed; public company as of June 12, 2026",
-      "note": "SPCX at ~$201.80 is up ~50% from the IPO price in just five trading days; track alongside CRWV and CBRS as the post-IPO AI infrastructure comparable set.",
+      "note": "SPCX ATH was $225.64 on June 16; June 17 pullback toward $201–206 is the first meaningful correction since the IPO. Track alongside CRWV and CBRS as the post-IPO AI infrastructure comparable set.",
       "latestArticle": {
-        "title": "SpaceX stock reaches $201.80 on June 17",
-        "source": "Investing.com / TradingView",
-        "url": "https://uk.investing.com/equities/spacex",
+        "title": "SpaceX Stock Forecast: SPCX Falls From $225 to $206 as Former Nasdaq Chief Warns It's Not Trading on Fundamentals",
+        "source": "TradingKey",
+        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/261972394-spacex-stock-forecast-spcx-falls-from-225-to-206-is-the-rally-running-out-tradingkey",
         "publishedDate": "2026-06-17"
       }
     },
@@ -957,6 +964,18 @@
     "https://cryptobriefing.com/g7-trusted-partners-us-ai-models/",
     "https://www.techpolicy.press/g7-summit-set-to-kick-off-amidst-allies-widening-rift-over-ai-sovereignty/",
     "https://www.thehill.com/homenews/ap/ap-international/ap-the-latest-g7-summit-focuses-on-contentious-future-of-ai-and-us-dominance-of-the-industry/",
-    "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html"
+    "https://www.cnbc.com/2026/06/03/broadcom-avgo-earnings-report-q2-2026.html",
+    "https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2026/",
+    "https://www.aboutamazon.com/news/aws/aws-summit-nyc-2026-ai-agents",
+    "https://www.techtimes.com/articles/318546/20260617/aws-summit-new-york-2026-kiro-brings-aerospace-spec-standards-ai-coding.htm",
+    "https://cryptobriefing.com/g7-trusted-partners-us-ai-models/",
+    "https://www.euronews.com/my-europe/2026/06/17/ai-takes-centre-stage-at-g7-as-western-fears-over-us-kill-switch-get-real",
+    "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
+    "https://www.thenationalnews.com/news/europe/2026/06/17/g7-pitches-trusted-partnership-to-ai-chiefs-in-a-bid-for-frontier-model-sharing/",
+    "https://japan.kantei.go.jp/105/diplomatic/202606/17evian2.html",
+    "https://www.tradingkey.com/analysis/stocks/us-stocks/261972394-spacex-stock-forecast-spcx-falls-from-225-to-206-is-the-rally-running-out-tradingkey",
+    "https://letsdatascience.com/news/mistral-pitches-open-source-ai-after-anthropic-ban-beb96449",
+    "https://andrew.ooo/answers/fable-5-mythos-5-export-control-suspension-june-2026/",
+    "https://cybersecuritynews.com/claude-mythos-5-and-fable-5-export/"
   ]
 }
