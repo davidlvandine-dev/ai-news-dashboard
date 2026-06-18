@@ -1,6 +1,6 @@
 {
   "date": "2026-06-18",
-  "generatedAt": "2026-06-18T10:02:10.000Z",
+  "generatedAt": "2026-06-18T21:43:56.000Z",
   "title": "Top AI Companies Daily News",
   "companies": [
     {
@@ -125,7 +125,7 @@
     {
       "name": "Anthropic",
       "category": "Foundation models and AI safety",
-      "summary": "Fable 5 and Mythos 5 remain offline globally as of June 18 \u2014 the US Commerce Department's June 12 export control directive has not been reversed despite the G7 \u00c9vian summit adopting a 'trusted partners' framework and scheduling a September follow-on meeting. No official restoration date has been announced. The Pentagon has reportedly migrated at least two-thirds of its AI workflows off Anthropic's models. Fortune identified the government's ability to suspend model access as Anthropic's new primary IPO risk; cybersecurity industry leaders have urged the White House to restore access.",
+      "summary": "Fable 5 and Mythos 5 remain offline globally as of June 18 \u2014 but co-founder Jack Clark told Bloomberg the company is now in daily discussions with the Trump administration to resolve the dispute. Clark outlined Anthropic's vision for AI safety in a June 18 Bloomberg interview, signaling active diplomatic progress. The Pentagon has reportedly migrated at least two-thirds of its AI workflows off Anthropic's models. Fortune identified the government's ability to suspend model access as Anthropic's primary IPO risk. On the product side, Anthropic shipped Claude Workload Identity Federation (keyless authentication across API/SDK/Claude Code) and Claude Design updates; a service disruption affecting thousands of users was reported around 3 AM ET on June 18.",
       "items": [
         {
           "headline": "Fable 5 and Mythos 5 remain globally offline as of June 18; no restoration date announced",
@@ -149,18 +149,25 @@
           "publishedDate": "2026-06-16"
         },
         {
-          "headline": "Cybersecurity leaders urged the US government to restore Fable 5 and Mythos 5 access",
-          "detail": "A coalition of cybersecurity industry leaders published a joint statement urging the White House to restore access to Fable 5 and Mythos 5, arguing the suspension harms allied-nation defenders more than adversaries and disrupts global cybersecurity research and incident response.",
-          "sourceTitle": "Bank Info Security",
-          "sourceUrl": "https://www.bankinfosecurity.com/restore-fable-mythos-access-cybersecurity-leaders-urge-a-31986",
-          "publishedDate": "2026-06-16"
+          "headline": "Anthropic co-founder Jack Clark said the company is in daily discussions with the Trump administration to resolve Fable 5 and Mythos 5 export controls",
+          "detail": "In a June 18 Bloomberg interview, Anthropic co-founder Jack Clark confirmed active daily dialogue with the Trump administration. Clark declined to share specifics but said Anthropic and the government share a goal of addressing national security challenges \u2014 signaling the most concrete diplomatic progress since the June 12 suspension. Clark also outlined Anthropic's broader vision for bolstering AI model safety.",
+          "sourceTitle": "Bloomberg",
+          "sourceUrl": "https://www.bloomberg.com/news/articles/2026-06-18/anthropic-lays-out-vision-for-how-to-bolster-ai-models-safety",
+          "publishedDate": "2026-06-18"
+        },
+        {
+          "headline": "Anthropic shipped Claude Workload Identity Federation and Claude Design updates",
+          "detail": "Anthropic released Workload Identity Federation for the Claude Platform \u2014 generally available keyless authentication across API endpoints, SDKs, and Claude Code. Claude Design also shipped updates: tighter Claude Code sync, direct canvas editing, stronger layout controls, and more tool connections for smoother design-to-code handoff. A separate service disruption was reported by thousands of users around 3 AM ET on June 18.",
+          "sourceTitle": "Anthropic / Releasebot",
+          "sourceUrl": "https://releasebot.io/updates/anthropic",
+          "publishedDate": "2026-06-18"
         }
       ]
     },
     {
       "name": "Meta",
       "category": "Open models, consumer AI, and infrastructure",
-      "summary": "Meta signed a deal to lease a 168 MW AI data center from Reliance Industries in Jamnagar, India, contracting nearly 1 GW of renewable energy from Indian providers CleanMax and Fourth Partner Energy alongside it. The Muse Spark developer API remains delayed with only limited partner testing underway. Mark Zuckerberg's June 12 memo acknowledging Meta 'made mistakes' in its AI overhaul \u2014 which has displaced ~8,000 employees and reassigned 7,000 more \u2014 remains the defining internal narrative as 2026 capex guidance of $115\u2013135 billion stays intact.",
+      "summary": "Meta launched 'AI Mode' on Facebook on June 15 \u2014 a new search experience that synthesizes answers from public posts across Groups and Reels. Separately, Meta's internal AI token-cost crisis became public: employees consumed 73.7 trillion tokens in ~30 days on a leaderboard called 'Claudeonomics,' prompting Meta to announce 'AI Gateway,' a centralized spending cap and monitoring platform. The Jamnagar, India data center (168 MW, Reliance Industries) remains under construction. 2026 capex guidance of $115\u2013135 billion is unchanged.",
       "items": [
         {
           "headline": "Meta leased a 168 MW AI data center from Reliance Industries in Jamnagar, India",
@@ -170,18 +177,18 @@
           "publishedDate": "2026-06-10"
         },
         {
-          "headline": "Meta's Muse Spark developer API remains delayed; limited partner testing only as of mid-June",
-          "detail": "Meta's Muse Spark model \u2014 available publicly at meta.ai since April 8 \u2014 has not yet launched a public developer API due to bugs found in partner testing and additional infrastructure requirements. A small set of early partners are testing the API; Meta still aims for a June API release but no endpoints have been documented publicly.",
-          "sourceTitle": "Let's Data Science",
-          "sourceUrl": "https://letsdatascience.com/news/meta-delays-developer-release-of-muse-spark-api-fb13c57c",
-          "publishedDate": "2026-06-12"
+          "headline": "Meta launched 'AI Mode' on Facebook \u2014 a new search experience synthesizing answers from public posts",
+          "detail": "Meta introduced AI Mode on Facebook on June 15, letting users ask questions in plain language and receive synthesized answers drawn from public posts, Groups, and Reels across the platform. The feature uses Meta AI to surface community-sourced knowledge rather than static web results \u2014 positioning Facebook as an AI-powered information layer for Meta's 3.2 billion daily active users.",
+          "sourceTitle": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+          "publishedDate": "2026-06-15"
         },
         {
-          "headline": "Zuckerberg acknowledged Meta 'made mistakes' as AI overhaul reshapes 20% of its workforce",
-          "detail": "In a June 12 memo, Zuckerberg acknowledged that Meta has 'made mistakes' during its AI transformation, which has displaced approximately 8,000 employees (~10% of the workforce) and reassigned 7,000 more to AI-focused teams \u2014 the largest restructuring in company history tied to a single technology bet. Meta's 2026 AI capex guidance of $115\u2013135 billion remains unchanged.",
-          "sourceTitle": "Fox Business",
-          "sourceUrl": "https://www.foxbusiness.com/technology/mark-zuckerberg-admits-meta-made-mistakes-ai-overhaul-reshapes-workforce",
-          "publishedDate": "2026-06-12"
+          "headline": "Meta capped internal AI token spending after employees consumed 73.7 trillion tokens in a month",
+          "detail": "Meta's internal AI-usage leaderboard 'Claudeonomics' revealed employees consumed 73.7 trillion tokens in roughly 30 days, driving costs toward billions annually. Meta announced it will dismantle the leaderboard and replace it with a centralized 'AI Gateway' platform enforcing per-team budgets and real-time spend monitoring. The episode highlighted a broader tech-industry tension between AI productivity mandates and ballooning token costs as agentic AI consumes up to 1,000\u00d7 more tokens than standard AI.",
+          "sourceTitle": "Digitimes / Tom's Hardware",
+          "sourceUrl": "https://www.digitimes.com/news/a20260617PD230/meta-ai-cost-business-2026.html",
+          "publishedDate": "2026-06-17"
         }
       ]
     },
@@ -216,7 +223,7 @@
     {
       "name": "xAI",
       "category": "Foundation models and AI infrastructure",
-      "summary": "SpaceX (SPCX) is trading around $191.82 on June 18 \u2014 down from its June 16 all-time high of $225.64 \u2014 after the company announced the acquisition of Anysphere (Cursor AI) for $60 billion in an all-stock deal just four days after the largest IPO in history. The Devin Kim whistleblower lawsuit over Grok safety concerns continues in Santa Clara County court. xAI (operating as the SpaceXAI division) continues shipping Grok features and expanding developer integrations.",
+      "summary": "SpaceX (SPCX) is trading around $191.82 on June 18 \u2014 down from its June 16 all-time high of $225.64 \u2014 after announcing the $60 billion all-stock acquisition of Anysphere (Cursor AI). On the model distribution side, Grok 4.3 went generally available on Amazon Bedrock on June 15 with a 1-million-token context window and configurable reasoning effort; and on June 18 at the Databricks Data + AI Summit, xAI announced native Grok availability on Databricks Agent Bricks. The Devin Kim whistleblower lawsuit over Grok safety concerns continues in Santa Clara County Superior Court.",
       "items": [
         {
           "headline": "SpaceX confirmed a $60 billion all-stock acquisition of Anysphere (Cursor AI) on June 16",
@@ -233,11 +240,18 @@
           "publishedDate": "2026-06-18"
         },
         {
-          "headline": "Former xAI engineer Devin Kim's whistleblower lawsuit over Grok safety continues in California court",
-          "detail": "The whistleblower retaliation lawsuit filed June 9 by former xAI engineer Devin Kim \u2014 alleging he was fired after flagging discriminatory bias, misinformation risks, and potential weapons-related misuse of Grok \u2014 continues in Santa Clara County Superior Court as the first major internal-safety legal action against the company.",
-          "sourceTitle": "TechCrunch",
-          "sourceUrl": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-          "publishedDate": "2026-06-10"
+          "headline": "Grok 4.3 went generally available on Amazon Bedrock with a 1-million-token context window",
+          "detail": "xAI's Grok 4.3 became generally available on Amazon Bedrock on June 15, 2026. The model runs on Mantle \u2014 Amazon's new inference engine optimized for price-performance \u2014 and features a 1-million-token context window, configurable reasoning effort (none/low/medium/high), the lowest hallucination rate among frontier models in Amazon's benchmarks, and full support for tool calling, structured output, and response streaming.",
+          "sourceTitle": "AWS / xAI",
+          "sourceUrl": "https://aws.amazon.com/about-aws/whats-new/2026/06/grok-amazon-bedrock/",
+          "publishedDate": "2026-06-15"
+        },
+        {
+          "headline": "Grok became natively available on Databricks Agent Bricks at the 2026 Data + AI Summit",
+          "detail": "At the Databricks 2026 Data + AI Summit on June 18, SpaceXAI and Databricks announced native Grok availability in Databricks Agent Bricks. Grok models connect directly to context stored in the Databricks Lakehouse, eliminating a separate API integration and making Grok available alongside other frontier and open-source models in a single governed platform.",
+          "sourceTitle": "xAI / Basenor",
+          "sourceUrl": "https://x.ai/news/grok-databricks",
+          "publishedDate": "2026-06-18"
         }
       ]
     },
@@ -300,7 +314,7 @@
     {
       "name": "Apple",
       "category": "Consumer AI, devices, and platform",
-      "summary": "iOS 27 developer beta is live following WWDC 2026 with a rebuilt Siri AI featuring persistent cross-session memory, on-screen awareness, and expanded Visual Intelligence. The iOS 27 Extensions framework \u2014 which would let users choose ChatGPT, Claude, or Gemini inside Siri \u2014 is built and present in the developer beta but disabled on the backend, pending DMA regulatory resolution in the EU and legal clarity with OpenAI, which is exploring a breach-of-contract action over ChatGPT placement. Siri AI will not launch in the EU or China at iOS 27's fall release.",
+      "summary": "iOS 27 developer beta is live with a rebuilt Siri AI (persistent memory, on-screen awareness, Visual Intelligence). The iOS 27 Extensions framework letting users choose ChatGPT, Claude, or Gemini inside Siri is built but disabled pending DMA resolution and legal clarity with OpenAI. A new development: President Trump stated publicly that Intel will manufacture chips for Apple \u2014 a potential shift from Apple's primary reliance on TSMC that sent Intel stock sharply higher on June 18. Siri AI will not launch in the EU or China at iOS 27's fall release.",
       "items": [
         {
           "headline": "Apple introduced Siri AI at WWDC 2026 with persistent memory, on-screen awareness, and Visual Intelligence",
@@ -315,6 +329,13 @@
           "sourceTitle": "The Next Web / Let's Data Science",
           "sourceUrl": "https://thenextweb.com/news/apple-siri-extensions-third-party-ai-missing-wwdc",
           "publishedDate": "2026-06-14"
+        },
+        {
+          "headline": "President Trump stated Intel will manufacture chips for Apple, sending Intel stock sharply higher",
+          "detail": "President Trump said publicly on June 18 that Intel will produce chips for Apple \u2014 a potential shift from Apple's near-exclusive reliance on TSMC for its most advanced silicon. Intel stock surged on the report as investors weighed whether the deal would apply to future iPhone or Mac chips. Apple and Intel have not officially confirmed specifics; Trump's statement was made in the context of the administration's domestic manufacturing push.",
+          "sourceTitle": "Yahoo Finance",
+          "sourceUrl": "https://finance.yahoo.com/technology/article/intel-stock-soars-on-reported-apple-deal-as-turnaround-continues-to-pay-off-143423447.html",
+          "publishedDate": "2026-06-18"
         }
       ]
     },
@@ -377,7 +398,7 @@
     {
       "name": "CoreWeave",
       "category": "AI cloud infrastructure",
-      "summary": "CoreWeave (CRWV) is trading around $118.98 on June 18, up nearly 10% over June 16\u201317 ahead of Nasdaq-100 Index inclusion before market open on June 22 \u2014 just 15 months after its March 2025 IPO. Russell 3000 inclusion follows on June 27. Both inclusions trigger mandatory passive-fund buying across $800B+ in QQQ index assets. The company's contracted revenue backlog is approaching $131 billion by Q2 end (analyst estimate), anchored by the $21B Meta deal, the Anthropic multi-year agreement, and a new $2.2 billion contracted hyperscale data center project.",
+      "summary": "CoreWeave (CRWV) is trading around $117 on June 18 \u2014 a fourth straight day of gains (+18.87% over the week) as traders front-run Nasdaq-100 inclusion before market open on June 22, followed by Russell 3000 inclusion on June 27. A June 18 report (24/7 Wall St.) identified approximately $32 billion in new contracted commitments added since the Q1 report, pushing the total backlog toward ~$131 billion. The company's capex floor for 2026 was raised to $31 billion to accommodate Vera Rubin NVL72 additions for Meta, Anthropic, and OpenAI.",
       "items": [
         {
           "headline": "CoreWeave confirmed for Nasdaq-100 entry before market open June 22; Russell 3000 June 27",
@@ -394,11 +415,11 @@
           "publishedDate": "2026-05-07"
         },
         {
-          "headline": "CoreWeave raised its 2026 capex floor to $31 billion amid Vera Rubin NVL72 capacity additions",
-          "detail": "CoreWeave raised the lower bound of its 2026 capital expenditure forecast to $31 billion, citing higher component costs as it adds Vera Rubin NVL72 compute capacity to serve the growing backlog from Meta, Anthropic, and OpenAI. CRWV shares are trading around $118.98 on June 18 with a $62.87 billion market cap.",
-          "sourceTitle": "Inc. / FX Leaders",
-          "sourceUrl": "https://www.fxleaders.com/news/2026/06/17/coreweave-soars-10-toward-nasdaq-100-inclusion-as-ai-backlog-nears-131-billion/",
-          "publishedDate": "2026-06-17"
+          "headline": "CoreWeave added ~$32 billion to its contracted backlog ahead of Nasdaq-100 inclusion",
+          "detail": "A June 18 analysis (24/7 Wall St.) estimated CoreWeave has added roughly $32 billion in new contracted commitments since reporting $99.4 billion at end-Q1, pushing the total backlog toward ~$131 billion. The additions are driven by Vera Rubin NVL72 deployments for Meta, Anthropic, and OpenAI. CRWV is trading around $117 on June 18 \u2014 up 18.87% over the past week \u2014 with Nasdaq-100 inclusion confirmed for June 22 and Russell 3000 for June 27.",
+          "sourceTitle": "24/7 Wall St.",
+          "sourceUrl": "https://247wallst.com/investing/2026/06/18/coreweave-just-added-32-billion-to-its-ai-backlog-ahead-of-joining-the-nasdaq-100-is-crwv-a-buy-at-117/",
+          "publishedDate": "2026-06-18"
         }
       ]
     },
@@ -464,10 +485,10 @@
       "company": "Anthropic",
       "stage": "Confidential S-1 submitted",
       "status": "Confirmed filing; October 2026 target; Fable/Mythos export suspension now flagged as primary IPO risk",
-      "process": "Anthropic confirmed its confidential draft Form S-1 submission to the SEC on June 1, 2026, after closing a $65 billion Series H at a ~$965 billion post-money valuation (May 28). An October 2026 listing window is widely reported. As of June 18, the Fable 5/Mythos 5 export control suspension (effective June 12) remains in effect with no restoration date \u2014 Fortune identified the government's demonstrated power to suspend model access as a novel material IPO risk Anthropic must disclose in its public S-1. G7 leaders agreed to establish a 'trusted partners' platform within one month and meet again in September, but no access has been restored.",
+      "process": "Anthropic confirmed its confidential draft Form S-1 submission to the SEC on June 1, 2026, after closing a $65 billion Series H at a ~$965 billion post-money valuation (May 28). An October 2026 listing window is widely reported. The Fable 5/Mythos 5 export control suspension (effective June 12) remains in effect as of June 18, but co-founder Jack Clark told Bloomberg the company is in daily discussions with the Trump administration \u2014 the most concrete progress signal since the suspension. Fortune identified the government's demonstrated power to suspend model access as a novel material IPO risk Anthropic must disclose in its public S-1. G7 leaders agreed to a 'trusted partners' platform within one month with a September follow-on, but no access has been restored.",
       "lastChecked": "2026-06-18",
       "confidence": "Confirmed by company announcement",
-      "note": "The Fable/Mythos export suspension is the dominant IPO narrative risk as of June 18. G7 'trusted partners' framework is a potential path to resolution but no timeline exists for restoration.",
+      "note": "Jack Clark's Bloomberg interview (June 18) signaling daily discussions with the Trump administration is the most positive development since the suspension. The G7 'trusted partners' framework and the daily-discussions signal together represent incremental progress, but no timeline exists for restoration.",
       "latestArticle": {
         "title": "Anthropic's IPO pitch has a new problem: The government can shut it down",
         "source": "Fortune",
@@ -523,8 +544,8 @@
     {
       "company": "CoreWeave",
       "stage": "Public company \u2014 recently completed IPO",
-      "status": "CRWV trading ~$118.98 on June 18; joining Nasdaq-100 June 22 and Russell 3000 June 27",
-      "process": "CoreWeave completed its IPO in March 2025 (priced at $40/share) and trades on Nasdaq as CRWV. Shares are trading around $118.98 on June 18, up nearly 10% over June 16\u201317, ahead of Nasdaq-100 inclusion before market open June 22 \u2014 just 15 months post-IPO \u2014 followed by Russell 3000 inclusion June 27. Q1 2026 revenue was $2.1 billion (+112% YoY). Contracted backlog is approaching $131 billion (analyst estimate). 2026 capex floor raised to $31 billion.",
+      "status": "CRWV trading ~$117 on June 18; joining Nasdaq-100 June 22 and Russell 3000 June 27; ~$32B in new backlog commitments reported June 18",
+      "process": "CoreWeave completed its IPO in March 2025 (priced at $40/share) and trades on Nasdaq as CRWV. Shares are trading around $117 on June 18 (+18.87% over the past week), ahead of Nasdaq-100 inclusion before market open June 22 and Russell 3000 June 27. Q1 2026 revenue was $2.1 billion (+112% YoY). Contracted backlog has grown by approximately $32 billion since end-Q1, approaching ~$131 billion total. 2026 capex floor raised to $31 billion for Vera Rubin NVL72 additions.",
       "lastChecked": "2026-06-18",
       "confidence": "Confirmed; public company",
       "note": "Back-to-back index inclusions (Nasdaq-100 June 22, Russell 3000 June 27) create near-term passive-fund buying pressure. The $131B backlog and Q1 revenue growth trajectory make CRWV the strongest post-IPO AI infrastructure comps alongside SPCX and CBRS.",
@@ -606,10 +627,10 @@
       ],
       "type": "Compute capacity contract",
       "status": "Confirmed compute partnership",
-      "terms": "SpaceXAI (formerly xAI, now the AI division of publicly traded SpaceX) signed an agreement to provide Anthropic access to Colossus 1 compute capacity, with Anthropic expressing interest in developing multiple gigawatts of orbital AI compute capacity. Public financial terms remain undisclosed. SPCX's $60B acquisition of Cursor (pending close) and ongoing post-IPO trajectory are the primary contextual changes since the last check.",
+      "terms": "SpaceXAI (formerly xAI, now the AI division of publicly traded SpaceX) signed an agreement to provide Anthropic access to Colossus 1 compute capacity, with Anthropic expressing interest in developing multiple gigawatts of orbital AI compute capacity. Public financial terms remain undisclosed. SPCX's $60B acquisition of Cursor (pending close) is ongoing. On the Grok distribution side, Grok 4.3 went GA on Amazon Bedrock (June 15) and Grok became natively available on Databricks Agent Bricks (June 18) \u2014 expanding SpaceXAI's enterprise AI footprint independently of the Anthropic compute partnership.",
       "lastChecked": "2026-06-18",
       "confidence": "Confirmed relationship; financial terms not confirmed",
-      "note": "No new partnership terms announced; SPCX's $60B Cursor acquisition is the most significant structural change to the SpaceXAI entity since last week.",
+      "note": "Grok 4.3 on Bedrock and Grok on Databricks (both this week) are significant new distribution milestones for SpaceXAI's model business, distinct from the Colossus compute partnership with Anthropic.",
       "latestArticle": {
         "title": "New Compute Partnership with Anthropic",
         "source": "xAI",
@@ -992,6 +1013,19 @@
     "https://ir.amd.com/news-events/press-releases/detail/1260/amd-and-openai-announce-strategic-partnership-to-deploy-6-gigawatts-of-amd-gpus",
     "https://www.cnbc.com/2026/03/06/amazon-aws-anthropic-claude-pentagon-blacklist.html",
     "https://cryptobriefing.com/g7-trusted-partners-us-ai-models/",
-    "https://www.indexbox.io/blog/g7-leaders-confront-us-ai-kill-switch-fears-after-anthropic-export-restrictions/"
+    "https://www.indexbox.io/blog/g7-leaders-confront-us-ai-kill-switch-fears-after-anthropic-export-restrictions/",
+    "https://www.bloomberg.com/news/articles/2026-06-18/anthropic-lays-out-vision-for-how-to-bolster-ai-models-safety",
+    "https://releasebot.io/updates/anthropic",
+    "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "https://www.digitimes.com/news/a20260617PD230/meta-ai-cost-business-2026.html",
+    "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cost-crisis-hits-tech-giants-as-employee-tokenmaxxing-backfires-agentic-ai-eats-up-to-1000x-more-tokens-than-standard-ai-sparks-corporate-pullback-at-microsoft-meta-and-amazon",
+    "https://aws.amazon.com/about-aws/whats-new/2026/06/grok-amazon-bedrock/",
+    "https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-xai-grok-4-3.html",
+    "https://x.ai/news/grok-databricks",
+    "https://www.basenor.com/blogs/news/xai-grok-lands-on-databricks-at-the-2026-data-ai-summit",
+    "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-ai-traffic-monetization/",
+    "https://247wallst.com/investing/2026/06/18/coreweave-just-added-32-billion-to-its-ai-backlog-ahead-of-joining-the-nasdaq-100-is-crwv-a-buy-at-117/",
+    "https://finance.yahoo.com/technology/article/intel-stock-soars-on-reported-apple-deal-as-turnaround-continues-to-pay-off-143423447.html"
   ]
 }
