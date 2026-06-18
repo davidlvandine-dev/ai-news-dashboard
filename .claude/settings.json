@@ -51,10 +51,37 @@
       "Bash(sudo -n which claude)",
       "Bash(awk '/^:root/,/^}/{next} {print NR\": \"$0}' /home/dave/ai-news-dashboard/styles.css)",
       "Bash(grep -E \"#[0-9a-fA-F]{3,6}|rgba\\\\\\(\")",
-      "Bash(node --check /home/dave/ai-news-dashboard/app.js)"
+      "Bash(node --check /home/dave/ai-news-dashboard/app.js)",
+      "Bash(awk '/\\\\.ipo-/{flag=1} flag{print NR\": \"$0} /^}/{if\\(flag && /^}/\\) print \"---\"}' /home/dave/ai-news-dashboard/styles.css)",
+      "Bash(grep -n \"#[0-9a-fA-F]\\\\{3,6\\\\}\\\\|rgba\\(\" /home/dave/ai-news-dashboard/styles.css)",
+      "Bash(curl -s -I http://localhost:8765/styles.css)",
+      "Bash(curl -s -I http://localhost:8765/app.js)",
+      "Bash(sudo systemctl restart ai-news-dashboard)",
+      "Bash(sudo pkill -f \"node.*server.js\")",
+      "Bash(sudo node /home/dave/ai-news-dashboard/server.js)",
+      "Bash(curl -sI http://localhost:8765/)",
+      "Bash(systemctl list-units *)",
+      "Bash(/usr/local/lib/claude-code/claude --version)",
+      "Bash(env -i HOME=/home/dave PATH=/usr/bin:/bin /home/dave/ai-news-dashboard/update-news.sh)",
+      "Bash(sudo systemctl restart homedash)",
+      "Bash(curl -s http://localhost/api/github/family/tasks)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('open:', len\\(d.get\\('open',[]\\)\\), '| closed_this_week:', len\\(d.get\\('closed_this_week',[]\\)\\)\\)\")",
+      "Bash(python3 -m json.tool)",
+      "Bash(sudo systemctl restart homedash.service)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(list\\(d.keys\\(\\)\\)\\)\")",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('keys:', list\\(d.keys\\(\\)\\)\\); print\\('open:', len\\(d.get\\('open',[]\\)\\)\\); print\\('closed_this_week:', len\\(d.get\\('closed_this_week',[]\\)\\)\\)\")",
+      "Bash(systemctl cat *)",
+      "Bash(systemctl is-active *)",
+      "Bash(curl -s http://localhost:80/api/github/family/tasks)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('keys:', list\\(d.keys\\(\\)\\)\\); print\\('open tasks:', len\\(d.get\\('open',[]\\)\\)\\); print\\('closed_this_week:', len\\(d.get\\('closed_this_week',[]\\)\\)\\)\")",
+      "Bash(python3 -c \"import json; d=json.load\\(open\\('/home/dave/ai-news-dashboard/data/snapshots/2026-06-17.json'\\)\\); print\\('generatedAt:', d.get\\('generatedAt'\\)\\)\")",
+      "Bash(curl -s http://localhost:8765/data/snapshots/2026-06-17.json)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('served generatedAt:', d.get\\('generatedAt'\\)\\)\")"
     ],
     "additionalDirectories": [
-      "/home/dave/homedash/frontend/src/components"
+      "/home/dave/homedash/frontend/src/components",
+      "/home/dave/homedash/backend/services",
+      "/home/dave/homedash/frontend/src/hooks"
     ]
   }
 }

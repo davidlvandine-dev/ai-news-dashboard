@@ -66,7 +66,7 @@ function serveFile(req, res) {
     const isData = urlPath.startsWith('/data/');
     res.writeHead(200, {
       'Content-Type': MIME_TYPES[ext] || 'application/octet-stream',
-      'Cache-Control': isData ? 'no-store' : 'public, max-age=3600',
+      'Cache-Control': 'no-store',
     });
     fs.createReadStream(filePath).pipe(res);
   });

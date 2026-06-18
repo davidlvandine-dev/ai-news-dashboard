@@ -798,10 +798,10 @@ function connectSSE() {
 function applyTheme(theme) {
   if (theme === "light") {
     document.documentElement.setAttribute("data-theme", "light");
-    if (els.themeToggle) els.themeToggle.textContent = "☀️ Light";
+    if (els.themeToggle) els.themeToggle.textContent = "🌙 Dark mode";
   } else {
     document.documentElement.removeAttribute("data-theme");
-    if (els.themeToggle) els.themeToggle.textContent = "🌙 Dark";
+    if (els.themeToggle) els.themeToggle.textContent = "☀️ Light mode";
   }
 }
 

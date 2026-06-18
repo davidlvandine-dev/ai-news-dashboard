@@ -2,6 +2,7 @@
 set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+export PATH="/usr/local/bin:/usr/bin:/bin:$PATH"
 LOG_DIR="$ROOT_DIR/logs"
 LOCK_FILE="$ROOT_DIR/.update-news.lock"
 TODAY="$(date +%F)"
@@ -41,6 +42,17 @@ Update data/index.json so latest points to $TODAY and the snapshots list include
 Validate both JSON files before finishing."
 
   claude --dangerously-skip-permissions -p "$PROMPT"
+
+  # Stamp the actual generation time — Claude tends to invent a time
+  GENERATED_AT="$(date -u +%Y-%m-%dT%H:%M:%S.000Z)"
+  python3 -c "
+import json, sys
+with open('data/snapshots/$TODAY.json') as f:
+    d = json.load(f)
+d['generatedAt'] = '$GENERATED_AT'
+with open('data/snapshots/$TODAY.json', 'w') as f:
+    json.dump(d, f, indent=2)
+"
 
   python3 -m json.tool "data/index.json" >/dev/null
   python3 -m json.tool "data/snapshots/$TODAY.json" >/dev/null
