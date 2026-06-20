@@ -1,12 +1,12 @@
 {
   "date": "2026-06-20",
-  "generatedAt": "2026-06-20T09:59:27.000Z",
+  "generatedAt": "2026-06-20T21:42:35.000Z",
   "title": "Top AI Companies Daily News",
   "companies": [
     {
       "name": "NVIDIA",
       "category": "AI chips and infrastructure",
-      "summary": "VivaTech GTC Paris closed June 20 with Jensen Huang confirming more than 20 European AI factories in build-out and unveiling Mistral Compute \u2014 a sovereign AI GPU cloud platform built with Mistral AI for European customers. Foxconn showcased NVIDIA Vera Rubin NVL72 rack-scale systems and announced a co-manufacturing partnership with France's Bull. NVIDIA's FY2026 AI semiconductor revenue target remains approximately $56 billion; the SK Telecom phased gigawatt-scale Korea AI cloud and Vera Rubin production at Anthropic, OpenAI, and SpaceXAI continue on schedule.",
+      "summary": "VivaTech GTC Paris closed June 20 with Jensen Huang confirming more than 20 European AI factories in build-out and unveiling Mistral Compute \u2014 a sovereign AI GPU cloud platform built with Mistral AI for European customers. Foxconn showcased NVIDIA Vera Rubin NVL72 rack-scale systems and announced a co-manufacturing partnership with France's Bull. NVIDIA's ENPIRE system \u2014 released June 17 by the GEAR Lab \u2014 enables AI coding agents to autonomously run physical robot experiments with a 99% success rate, with no human in the loop between iterations. NVIDIA's FY2026 AI semiconductor revenue target remains approximately $56 billion; Vera Rubin CPUs are in production at Anthropic, OpenAI, and SpaceXAI.",
       "items": [
         {
           "headline": "NVIDIA and Mistral AI unveiled Mistral Compute, a sovereign AI GPU cloud for Europe, at VivaTech",
@@ -23,11 +23,11 @@
           "publishedDate": "2026-06-20"
         },
         {
-          "headline": "NVIDIA's SK Telecom Korea AI cloud and Vera Rubin production at top AI labs continue on schedule",
-          "detail": "NVIDIA's phased gigawatt-scale Korea AI cloud partnership with SK Telecom \u2014 first AI factory slated for 2027 \u2014 remains on track. Vera Rubin CPUs are in production at Anthropic, OpenAI, and SpaceXAI; H2 2026 remains the target for first cloud-scale Vera Rubin deployments. NVIDIA's FY2026 AI semiconductor revenue target of approximately $56 billion is unchanged.",
-          "sourceTitle": "NVIDIA Newsroom",
-          "sourceUrl": "https://nvidianews.nvidia.com/news/sk-telecom-ai-infrastructure",
-          "publishedDate": "2026-06-08"
+          "headline": "NVIDIA ENPIRE: AI coding agents run autonomous physical robot experiments at 99% success rate",
+          "detail": "NVIDIA's GEAR Lab (in collaboration with CMU and UC Berkeley) released ENPIRE \u2014 a closed-loop framework that hands the entire robotics research cycle to AI coding agents: resetting physical scenes, running hardware trials, verifying outcomes, and rewriting code with no human required between iterations. Agent teams achieved a 99% pass@8 success rate on demanding contact-rich tasks including seating a GPU into a motherboard slot and tying a zip tie. ENPIRE is the first documented system where frontier coding agents conduct 'physical autoresearch' on real hardware rather than simulation, with an open-source release planned.",
+          "sourceTitle": "NVIDIA Research / TechTimes",
+          "sourceUrl": "https://www.techtimes.com/articles/318587/20260617/nvidia-enpire-closes-loop-ai-agents-now-run-robotics-research-real-hardware.htm",
+          "publishedDate": "2026-06-17"
         }
       ]
     },
@@ -118,7 +118,7 @@
     {
       "name": "Anthropic",
       "category": "Foundation models and AI safety",
-      "summary": "Day 8 of the Fable 5 and Mythos 5 global suspension, with June 20 marking the Fable 5 subscriber refund cutoff. Trump told Axios after his G7 meeting with CEO Dario Amodei that he no longer views Anthropic as a national security threat \u2014 the strongest positive U.S. government signal since the June 12 suspension \u2014 but no executive order or Commerce Department reversal has been issued as of June 20. The Globe and Mail reported active deal-making between Anthropic and Trump administration officials. Revenue run rate has surpassed $30 billion. Amodei and Google DeepMind's Demis Hassabis jointly called for a U.S.-led AI coalition at G7.",
+      "summary": "Day 8 of the Fable 5 and Mythos 5 global suspension, with June 20 marking the Fable 5 subscriber refund cutoff. Trump told Axios after his G7 meeting with CEO Dario Amodei that he no longer views Anthropic as a national security threat \u2014 the strongest positive U.S. government signal since the June 12 suspension \u2014 but no executive order or Commerce Department reversal has been issued as of June 20. The Globe and Mail reported active deal-making between Anthropic and Trump administration officials toward a joint risk framework. Beginning June 23, Fable 5 moves to a credit-based model ($10/$50 per million tokens) rather than subscription access. Revenue run rate has surpassed $30 billion. Amodei and Google DeepMind's Demis Hassabis jointly called for a U.S.-led AI coalition at G7.",
       "items": [
         {
           "headline": "Trump told Axios he no longer views Anthropic as a national security threat after G7 meeting with Amodei",
@@ -128,10 +128,10 @@
           "publishedDate": "2026-06-20"
         },
         {
-          "headline": "June 20 Fable 5 refund cutoff: day 8 of suspension with no formal restoration yet announced",
-          "detail": "The June 20 subscriber refund cutoff has arrived for users who paid for Fable 5 access between June 9-14, with both Fable 5 and Mythos 5 still offline globally. The free trial window closes June 22. Security experts previously called the White House's reported zero-jailbreak precondition technically impossible for any frontier model. Anthropic's revenue run rate has surpassed $30 billion, suggesting other Claude models remain commercially active.",
-          "sourceTitle": "Tech Jacks Solutions / TechCrunch",
-          "sourceUrl": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+          "headline": "June 20 Fable 5 refund cutoff: day 8 of suspension; credit-based access model starts June 23",
+          "detail": "The June 20 subscriber refund cutoff has arrived for users who paid for Fable 5 access between June 9-14, with both Fable 5 and Mythos 5 still offline globally. The free trial window closes June 22. Beginning June 23, Fable 5 transitions to a credit-based access model priced at $10/million input tokens and $50/million output tokens \u2014 roughly half the cost of Claude Mythos Preview but a significant premium over standard Claude models. Anthropic intends to restore Fable 5 as a standard subscription feature once capacity allows. Security experts previously called the White House's reported zero-jailbreak precondition technically impossible for any frontier model. Anthropic's revenue run rate has surpassed $30 billion, suggesting other Claude models remain commercially active.",
+          "sourceTitle": "TechCrunch / Developers Digest",
+          "sourceUrl": "https://www.developersdigest.tech/blog/claude-fable-5-june-22-deadline",
           "publishedDate": "2026-06-20"
         },
         {
@@ -950,7 +950,10 @@
   "sources": [
     "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
     "https://www.euronews.com/next/2026/06/18/from-foxconn-to-nvidia-why-france-is-so-attractive-for-europes-ai-infrastructure",
-    "https://nvidianews.nvidia.com/news/sk-telecom-ai-infrastructure",
+    "https://www.techtimes.com/articles/318587/20260617/nvidia-enpire-closes-loop-ai-agents-now-run-robotics-research-real-hardware.htm",
+    "https://research.nvidia.com/labs/gear/enpire/",
+    "https://www.developersdigest.tech/blog/claude-fable-5-june-22-deadline",
+    "https://www.theglobeandmail.com/business/article-anthropic-trump-officials-deal-restore-fable-5-mythos-5/",
     "https://www.cnbc.com/2026/06/17/anthropic-amodei-google-hassabis-us-ai-coalition-g7.html",
     "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
     "https://appleinsider.com/articles/26/06/11/if-your-iphone-or-mac-has-apple-intelligence-youre-getting-siri-ai",
