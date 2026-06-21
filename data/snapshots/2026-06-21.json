@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "generatedAt": "2026-06-21T09:47:00.000Z",
+  "generatedAt": "2026-06-21T21:42:11.000Z",
   "title": "Top AI Companies Daily News",
   "companies": [
     {
@@ -90,12 +90,12 @@
     {
       "name": "OpenAI",
       "category": "Foundation models and AI products",
-      "summary": "GPT-5.6 has not launched as of June 21; prediction markets now assign 71% probability to a June 22-28 release. Amazon dropped a nearly finished Hollywood film about Sam Altman due to the $50 billion OpenAI deal relationship. A Black Duck Security study found Claude Code reached 63% developer adoption (vs. GitHub Copilot at 83%), reflecting broad AI coding tool penetration. OpenAI's confidential S-1 was filed June 8; CFO Sarah Friar has reportedly expressed concern about 2026 readiness with a potential delay to 2027. The Astral acquisition (uv, ruff) is being integrated into Codex for full software development lifecycle coverage.",
+      "summary": "GPT-5.6 has not officially launched as of June 21, but multiple developers report noticeably faster ChatGPT Pro responses consistent with a soft rollout ahead of announcement; prediction markets assign 71% probability to a June 22-28 release. Sensor Tower found ChatGPT's global AI assistant market share fell to 46.4% in late May \u2014 the first time below 50% \u2014 with Gemini at 27.7% and Claude at 10.3%. Amazon dropped a nearly finished Hollywood film about Sam Altman due to the $50 billion OpenAI deal relationship. OpenAI's confidential S-1 was filed June 8; CFO Sarah Friar has reportedly expressed concern about 2026 readiness with a potential delay to 2027. The Astral acquisition (uv, ruff) is being integrated into Codex for full software development lifecycle coverage.",
       "items": [
         {
-          "headline": "GPT-5.6 not launched June 21; markets assign 71% probability to June 22-28 release window",
-          "detail": "GPT-5.6 did not launch on June 21, 2026. Prediction markets now assign 71% probability to a public release before June 28 and 24% to no release by month-end. OpenAI chief scientist Jakub Pachocki previously described GPT-5.6 as a 'meaningful leap' with a 1.5 million token context window, improved agentic workflow performance, stronger UI generation, and better token efficiency \u2014 developed in approximately six weeks following GPT-5.5. Mini, standard, and Pro variants with updated voice mode are expected.",
-          "sourceTitle": "Polymarket / Geeky Gadgets",
+          "headline": "GPT-5.6 leaking into ChatGPT Pro before official launch; markets assign 71% probability to June 22-28 window; ChatGPT market share fell below 50%",
+          "detail": "GPT-5.6 did not officially launch as of June 21, 2026, but multiple developers on X and Reddit reported noticeably faster, more capable ChatGPT Pro responses consistent with a soft rollout of GPT-5.6 ahead of a formal announcement. Prediction markets assign 71% probability to a public launch before June 28 and 24% to no release by month-end. OpenAI chief scientist Jakub Pachocki previously described GPT-5.6 as a 'meaningful leap' with a 1.5 million token context window, stronger agentic workflows, and better token efficiency. Separately, Sensor Tower's 2026 State of AI Report found ChatGPT's share of the global AI assistant market fell to 46.4% by late May \u2014 the first time below 50% \u2014 with Gemini at 27.7% and Claude at 10.3%.",
+          "sourceTitle": "Polymarket / Sensor Tower / Releasebot",
           "sourceUrl": "https://polymarket.com/event/when-will-gpt-5pt6-be-released",
           "publishedDate": "2026-06-21"
         },
@@ -118,7 +118,7 @@
     {
       "name": "Anthropic",
       "category": "Foundation models and AI safety",
-      "summary": "Day 9 of the Fable 5 and Mythos 5 global suspension. Fable 5 remains offline globally; the June 22 free trial window close is the next key date. Anthropic's updated privacy policy (effective July 8) allows collection of government-issued ID, biometrics, and facial geometry \u2014 creating a potential path to restore Fable 5 access for verified US citizens without a full formal Commerce Department reversal. Trump's June 20 post-G7 Axios statement that Anthropic is no longer a national security threat has not yet produced a formal executive order or Commerce Department action. Revenue run rate has surpassed $30 billion. Anthropic began limited biometric ID testing via Persona on April 14.",
+      "summary": "Day 9 of the Fable 5 and Mythos 5 global suspension. Fable 5 resurfaced inside the Claude Android app's coding interface on June 21 \u2014 returning a 'server is temporarily rate-limiting requests' error rather than the prior offline message, the strongest early-restoration signal yet. The Economist reported this week that NSA Director testimony cited Mythos breaching nearly all classified systems in hours \u2014 now the most-cited official justification for the ban. Anthropic's updated privacy policy (effective July 8) creates a biometric ID verification path for US citizens. The White House June 2 Executive Order tasks NSA, Treasury, and CISA with a classified benchmarking process and a 30-day pre-release review window. Prediction markets give 57% odds of US restoration before July 1. Revenue run rate has surpassed $30 billion.",
       "items": [
         {
           "headline": "Anthropic's July 8 privacy policy update enables biometric ID verification as potential Fable access path for US citizens",
@@ -128,10 +128,10 @@
           "publishedDate": "2026-06-21"
         },
         {
-          "headline": "Fable 5 and Mythos 5 remain offline; June 22 free trial window closes tomorrow; credit model starts June 23",
-          "detail": "Day 9 of the Fable 5 and Mythos 5 global suspension: both models remain unavailable to all users worldwide as of June 21. The Fable 5 free trial window closes June 22. Beginning June 23, Fable 5 transitions to a credit-based access model priced at $10/million input tokens and $50/million output tokens for users who purchase credits. The June 20 subscriber refund processing cutoff has passed. Trump's Axios statement (June 20) that Anthropic is no longer a national security threat has not yet been followed by any formal executive order or Commerce Department reversal. Prediction markets give Fable 5 a roughly 50% chance of US restoration by June 30.",
-          "sourceTitle": "Developers Digest / Manifold Markets",
-          "sourceUrl": "https://www.developersdigest.tech/blog/claude-fable-5-june-22-deadline",
+          "headline": "Fable 5 resurfaces in Claude Android app; NSA Director testimony cites Mythos breaching classified systems; 57% odds of US restoration by July 1",
+          "detail": "On June 21, developers reported Fable 5 reappearing in the Claude Android app's coding interface model selector, with invocation attempts returning a changed error message: 'server is temporarily rate-limiting requests' rather than the prior hard-offline message \u2014 the strongest early-restoration signal since the June 12 suspension began. The Economist reported this week that the NSA Director testified Mythos breached nearly all classified systems within hours of testing, now the most-cited official justification for the ban. The White House June 2 Executive Order tasks NSA, Treasury, and CISA with building a classified AI benchmarking process and a voluntary framework requiring 30 days of pre-release review. Prediction markets (Polymarket) assign 57% odds of Fable 5 US restoration before July 1. The Fable 5 free trial window closes June 22; the credit-based model ($10/$50 per million input/output tokens) starts June 23.",
+          "sourceTitle": "TechTimes / Polymarket / The Economist",
+          "sourceUrl": "https://www.techtimes.com/articles/318783/20260621/claude-fable-5-resurfaces-android-app-nsa-breach-testimony-reshapes-ban.htm",
           "publishedDate": "2026-06-21"
         },
         {
@@ -456,26 +456,26 @@
     {
       "company": "Anthropic",
       "stage": "Confidential S-1 submitted",
-      "status": "Confirmed filing; Fable/Mythos ban enters day 9; biometric ID path to restoration taking shape; Trump signal positive but no formal reversal",
-      "process": "Anthropic confirmed its confidential draft Form S-1 submission to the SEC on June 1, 2026, after closing a $65 billion Series H at a ~$965 billion post-money valuation (May 28). An October 2026 listing window is widely reported. As of June 21, Fable 5 and Mythos 5 remain offline globally (day 9 of suspension). Trump told Axios after a G7 meeting with CEO Dario Amodei (June 20) that he no longer views Anthropic as a national security threat \u2014 the strongest positive government signal since the ban began. No executive order or formal Commerce Department reversal has been issued. The Fable 5 free trial window closes June 22 (tomorrow). Anthropic's July 8 privacy policy update creates a biometric ID verification pathway potentially enabling Fable access for verified US citizens. Revenue run rate has surpassed $30 billion. Fortune identified government power to suspend model access as a primary IPO risk \u2014 the biometric ID policy is Anthropic's structural response to that risk.",
+      "status": "Confirmed filing; Fable/Mythos ban day 9; Fable 5 resurfaced in Android app; NSA Director testimony reshapes ban rationale; 57% odds of US restoration by July 1",
+      "process": "Anthropic confirmed its confidential draft Form S-1 submission to the SEC on June 1, 2026, after closing a $65 billion Series H at a ~$965 billion post-money valuation (May 28). An October 2026 listing window is widely reported. As of June 21, Fable 5 and Mythos 5 remain offline globally (day 9 of suspension) though Fable 5 resurfaced in the Claude Android app's coding interface with a changed 'rate-limiting' error \u2014 an early-restoration signal. The Economist reported the NSA Director testified Mythos breached nearly all classified systems in hours, providing the clearest official rationale for the ban to date. The White House June 2 Executive Order creates a classified AI benchmarking process and 30-day pre-release review framework as a potential path toward managed restoration. Trump told Axios (June 20) he no longer views Anthropic as a national security threat. Polymarket gives 57% odds of US restoration before July 1. The Fable 5 free trial window closes June 22 (tomorrow); biometric ID verification via Anthropic's July 8 privacy policy update provides a compliant US-access path without a full formal reversal. Revenue run rate has surpassed $30 billion.",
       "lastChecked": "2026-06-21",
       "confidence": "Confirmed by company announcement",
-      "note": "The July 8 biometric ID verification policy is the key new development \u2014 it creates a compliant pathway to restore Fable access for US-verified users without requiring a full formal reversal. Watch June 22 (trial window close) and July 8 (privacy policy effective date) as the next key dates.",
+      "note": "Fable 5 resurfacing in Android (June 21) and NSA Director testimony are the two key new developments. Watch June 22 (trial window close), June 23 (credit model start), and July 8 (biometric ID policy effective) as restoration pathway milestones.",
       "latestArticle": {
-        "title": "Anthropic's new privacy policy offers US consumers a way around the Fable ban",
-        "source": "CIO / The Register",
-        "url": "https://www.cio.com/article/4185510/anthropics-new-privacy-policy-offers-us-consumers-a-way-around-fable-ban.html",
+        "title": "Claude Fable 5 Resurfaces in Android App as NSA Breach Testimony Reshapes Ban",
+        "source": "TechTimes",
+        "url": "https://www.techtimes.com/articles/318783/20260621/claude-fable-5-resurfaces-android-app-nsa-breach-testimony-reshapes-ban.htm",
         "publishedDate": "2026-06-21"
       }
     },
     {
       "company": "OpenAI",
       "stage": "Confidential S-1 submitted",
-      "status": "Confirmed SEC filing June 8; CFO may push to 2027; GPT-5.6 not yet launched; 71% odds of June 22-28 release",
-      "process": "OpenAI confirmed its confidential S-1 filing with the SEC on June 8, 2026. Goldman Sachs, Morgan Stanley, and JPMorgan are leading the offering. CEO Sam Altman told staff he expects a listing within the next year; however, CFO Sarah Friar has reportedly expressed concern about operational and compliance readiness, with a potential delay to 2027. An internal September-November 2026 window has been discussed but no date is set. GPT-5.6 has not launched as of June 21; prediction markets now give 71% probability to a June 22-28 release, which could serve as a pre-IPO product catalyst. Amazon dropped a Hollywood film about Sam Altman due to the $50B OpenAI deal relationship \u2014 illustrating the scope of OpenAI's commercial reach.",
+      "status": "Confirmed SEC filing June 8; CFO may push to 2027; GPT-5.6 soft-rolling in Pro tier; 71% odds of June 22-28 official launch; ChatGPT market share below 50% for first time",
+      "process": "OpenAI confirmed its confidential S-1 filing with the SEC on June 8, 2026. Goldman Sachs, Morgan Stanley, and JPMorgan are leading the offering. CEO Sam Altman told staff he expects a listing within the next year; however, CFO Sarah Friar has reportedly expressed concern about operational and compliance readiness, with a potential delay to 2027. An internal September-November 2026 window has been discussed but no date is set. GPT-5.6 has not officially launched as of June 21, though multiple Pro users report noticeably different response quality consistent with a soft rollout; prediction markets give 71% probability to a formal June 22-28 release. Sensor Tower found ChatGPT's global AI assistant market share fell to 46.4% in late May \u2014 the first time below 50% \u2014 a metric likely to feature in S-1 risk factors. Amazon dropped a Hollywood film about Sam Altman due to the $50B OpenAI deal relationship.",
       "lastChecked": "2026-06-21",
       "confidence": "Confirmed by company self-disclosure",
-      "note": "GPT-5.6 not yet launched as of June 21; tomorrow (June 22) is the leading prediction market target date. CFO pushback on 2026 IPO timing remains the key risk signal to monitor.",
+      "note": "GPT-5.6 soft-rolling into Pro tier as of June 21; tomorrow (June 22) is the leading market target for formal launch. The sub-50% ChatGPT market share figure is a new competitive data point with direct S-1 implications.",
       "latestArticle": {
         "title": "OpenAI's CFO reportedly wants to delay the IPO from 2026 to 2027",
         "source": "Gizmodo",
@@ -1009,6 +1009,15 @@
     "https://www.macrumors.com/2026/06/04/apple-siri-rely-on-google-nvidia-chips/",
     "https://www.amd.com/en/developer/resources/technical-articles/2026/amd-at-microsoft-build-2026.html",
     "https://www.amd.com/en/newsroom/press-releases/2026-2-24-amd-and-meta-announce-expanded-strategic-partnersh.html",
-    "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/"
+    "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
+    "https://www.techtimes.com/articles/318783/20260621/claude-fable-5-resurfaces-android-app-nsa-breach-testimony-reshapes-ban.htm",
+    "https://explainx.ai/blog/is-fable-5-back-2026",
+    "https://polymarket.com/event/claude-fable-5-restored-for-us-customers-by-20260613193753196",
+    "https://www.globenewswire.com/news-release/2026/06/09/3309310/0/en/Cerebras-Systems-Sets-Date-of-First-Quarter-2026-Financial-Results.html",
+    "https://releasebot.io/updates/openai",
+    "https://unrot.co/blogs/ai-news-today-june-21-2026",
+    "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Agreement-to-Power-Perplexitys-AI-Inference-Workloads/default.aspx",
+    "https://news.skhynix.com/multi-year-tech-partnership-with-nvidia/",
+    "https://www.gurufocus.com/news/8924499/spacex-spcx-receives-lowest-esg-rating-ahead-of-public-offering"
   ]
 }
