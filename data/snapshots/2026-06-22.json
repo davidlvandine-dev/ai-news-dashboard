@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generatedAt": "2026-06-22T09:59:25.000Z",
+  "generatedAt": "2026-06-22T21:45:34.000Z",
   "title": "Top AI Companies Daily News",
   "companies": [
     {
@@ -34,7 +34,7 @@
     {
       "name": "Alphabet / Google DeepMind",
       "category": "Foundation models, search, cloud, and AI research",
-      "summary": "Gemini 3.5 Flash remains the default model in the Gemini consumer app, AI Mode in Search, and Vertex/Gemini API at $1.50/$9 per million input/output tokens. Gemini 3.5 Pro \u2014 committed for a June release by CEO Sundar Pichai at Google I/O \u2014 is still in limited preview for select Vertex AI enterprise customers as of June 19, with eight days remaining on the self-imposed June 30 window. Pro targets a 2-million-token context window, a Deep Think reasoning mode, and frontier multimodal understanding. Apple's reported $1 billion per year Gemini deal powering a rebuilt Siri AI remains Google DeepMind's largest known enterprise model distribution contract, with a September 2026 launch on Google Cloud NVIDIA Blackwell infrastructure.",
+      "summary": "Gemini 3.5 Flash remains the default model in the Gemini consumer app, AI Mode in Search, and Vertex/Gemini API at $1.50/$9 per million input/output tokens. Gemini 3.5 Pro \u2014 committed for a June release by CEO Sundar Pichai at Google I/O \u2014 is still in limited preview for select Vertex AI enterprise customers as of June 19, with 8 days remaining on the self-imposed June 30 window. Apple's reported $1 billion per year Gemini deal powering a rebuilt Siri AI remains Google DeepMind's largest known enterprise model distribution contract, with a September 2026 launch on Google Cloud NVIDIA Blackwell infrastructure. Android 17 shipped June 16 to Pixel 6\u201310a with Gemini Omni integration, Lyria 3 music generation, and AudioLM translation; third-party AI APIs are now open to developers. John Jumper's departure to Anthropic is a notable talent loss for Google DeepMind.",
       "items": [
         {
           "headline": "Gemini 3.5 Pro in limited enterprise preview with 8 days to June 30 self-imposed deadline",
@@ -56,6 +56,13 @@
           "sourceTitle": "AppleInsider / MacRumors",
           "sourceUrl": "https://appleinsider.com/articles/26/06/11/if-your-iphone-or-mac-has-apple-intelligence-youre-getting-siri-ai",
           "publishedDate": "2026-06-11"
+        },
+        {
+          "headline": "Android 17 launched June 16 with Gemini Omni integration, Lyria 3 music generation, and AudioLM translation",
+          "detail": "Google released Android 17 on June 16 to Pixel 6 through Pixel 10a devices, with Gemini Omni as the core AI upgrade \u2014 enabling persistent, context-aware AI assistance across the OS. Android 17 also ships Lyria 3 music generation and AudioLM real-time translation. Third-party AI APIs are now open to developers, allowing ChatGPT, Claude, and other assistants to integrate as alternatives to Gemini on Android devices.",
+          "sourceTitle": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+          "publishedDate": "2026-06-16"
         }
       ]
     },
@@ -90,7 +97,7 @@
     {
       "name": "OpenAI",
       "category": "Foundation models and AI products",
-      "summary": "The GPT-5.6 prediction market window opened today (June 22), though OpenAI has made no official announcement; prediction markets now give 42% probability to a June 22\u201328 launch and 58% to no release by June 28, a reversal from yesterday's 71%/29% split. Noam Shazeer \u2014 co-inventor of the Transformer attention mechanism \u2014 joined OpenAI on June 18 as Lead for Architecture Research, its highest-profile researcher hire in years. GPT-5.6's internal release candidate (codename 'kindle-alpha') briefly appeared on the Design Arena testing platform before being pulled. OpenAI's confidential S-1 was filed June 8; CFO Sarah Friar has reportedly expressed concern about 2026 readiness with a potential delay to 2027. ChatGPT's global AI assistant market share fell to 46.4% in late May \u2014 the first time below 50% \u2014 with Gemini at 27.7% and Claude at 10.3%.",
+      "summary": "The GPT-5.6 prediction market window opened today (June 22), though OpenAI has made no official announcement; Polymarket assigns 42% probability to a June 22\u201328 launch. OpenAI launched Patch the Planet and GPT-5.5-Cyber today \u2014 a defensive-security initiative with Trail of Bits and HackerOne covering 30+ open-source projects including cURL, Go, and Python. A coalition of 42 state attorneys general opened a formal probe into OpenAI on June 12, four days after its confidential S-1 filing. Noam Shazeer \u2014 co-inventor of the Transformer attention mechanism \u2014 joined OpenAI on June 18 as Lead for Architecture Research, its highest-profile researcher hire in years. CFO Sarah Friar has reportedly expressed concern about 2026 readiness with a potential delay to 2027. ChatGPT's global AI assistant market share fell to 46.4% in late May \u2014 the first time below 50% \u2014 with Gemini at 27.7% and Claude at 10.3%.",
       "items": [
         {
           "headline": "GPT-5.6 launch window opens today; prediction markets now 42% for June 22\u201328 release; Noam Shazeer joins as Lead for Architecture Research",
@@ -107,18 +114,25 @@
           "publishedDate": "2026-06-20"
         },
         {
-          "headline": "Amazon dropped a nearly finished Hollywood film about Sam Altman citing the $50 billion OpenAI deal",
-          "detail": "Amazon dropped a nearly finished Hollywood film about OpenAI CEO Sam Altman, reportedly due to the $50 billion OpenAI-Amazon cloud deal creating a commercial conflict of interest. The development illustrates how OpenAI's expanding corporate partnerships are reaching into unexpected areas of Amazon's business.",
-          "sourceTitle": "Build Fast With AI",
-          "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-21-2026",
-          "publishedDate": "2026-06-21"
+          "headline": "OpenAI launched Patch the Planet and GPT-5.5-Cyber for open-source defensive security",
+          "detail": "OpenAI launched 'Patch the Planet' on June 22 \u2014 a cybersecurity initiative built with Trail of Bits and HackerOne to find and fix vulnerabilities in widely used open-source software. More than 30 projects are participating, including cURL, Go, Python, and Sigstore. OpenAI also released GPT-5.5-Cyber, a specialized defensive security model, and a Codex Security plugin for vulnerability scanning inside developer workflows \u2014 all under the Daybreak cybersecurity platform.",
+          "sourceTitle": "OpenAI",
+          "sourceUrl": "https://openai.com/index/patch-the-planet/",
+          "publishedDate": "2026-06-22"
+        },
+        {
+          "headline": "Coalition of 42 state attorneys general opened formal probe into OpenAI on June 12",
+          "detail": "A 42-state attorney general coalition led by New York AG Letitia James opened a formal investigation into OpenAI on June 12, 2026 \u2014 four days after OpenAI's confidential S-1 filing. Focus areas include advertising claims, health data handling, treatment of minors, and AI sycophancy as a potential design defect. Subpoenas have already been served. The probe represents a major pre-IPO legal headwind alongside EU AI Act chatbot enforcement beginning August 2, 2026.",
+          "sourceTitle": "TechCrunch",
+          "sourceUrl": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+          "publishedDate": "2026-06-13"
         }
       ]
     },
     {
       "name": "Anthropic",
       "category": "Foundation models and AI safety",
-      "summary": "Day 10 of the Fable 5 and Mythos 5 global suspension. The Fable 5 free-trial window closed today (June 22); the credit-based pricing model \u2014 $10/$50 per million input/output tokens \u2014 begins tomorrow (June 23). Fable 5 resurfaced in the Claude Android app's coding interface on June 21 with a changed 'rate-limiting' error rather than the prior hard-offline message, still the strongest early-restoration signal. Anthropic's Managing Director of International Chris Ciauri said on June 17 he was 'very confident' the models would return 'in coming days'; that date has passed. The White House June 2 Executive Order created a 30-day pre-release review framework. Trump told Axios (June 20) he no longer views Anthropic as a national security threat. Prediction markets give 57% odds of US restoration before July 1. Anthropic's July 8 privacy policy update creates a biometric ID verification path for US citizens. Revenue run rate has surpassed $30 billion.",
+      "summary": "Day 10 of the Fable 5 and Mythos 5 global suspension. The Fable 5 free-trial window closed today (June 22); the credit-based pricing model \u2014 $10/$50 per million input/output tokens \u2014 begins tomorrow (June 23). Fable 5 resurfaced in the Claude Android app's coding interface on June 21 with a changed 'rate-limiting' error, still the strongest early-restoration signal. Trump told Axios (June 20) he no longer views Anthropic as a national security threat. Prediction markets give 57% odds of US restoration before July 1. Nobel Prize\u2013winning chemist John Jumper \u2014 co-creator of AlphaFold and 2024 Nobel laureate \u2014 left Google DeepMind after nine years to join Anthropic (announced June 19\u201320); Anthropic is hosting a science event June 30. Revenue run rate has surpassed $30 billion.",
       "items": [
         {
           "headline": "Fable 5 free-trial window closed today (June 22); credit model at $10/$50 per million tokens starts tomorrow",
@@ -140,6 +154,13 @@
           "sourceTitle": "CIO / Globe and Mail",
           "sourceUrl": "https://www.cio.com/article/4185510/anthropics-new-privacy-policy-offers-us-consumers-a-way-around-fable-ban.html",
           "publishedDate": "2026-06-21"
+        },
+        {
+          "headline": "Nobel laureate John Jumper \u2014 AlphaFold co-creator \u2014 left Google DeepMind to join Anthropic",
+          "detail": "John Jumper, co-creator of AlphaFold and 2024 Nobel Prize laureate in chemistry, left Google DeepMind after nearly nine years to join Anthropic. His specific role at Anthropic has not been disclosed. The move is one of Anthropic's most prominent research hires and signals an expansion into scientific AI. Anthropic is hosting a science-focused event on June 30, likely related to the hire. Jumper's arrival adds to Anthropic's scientific computing ambitions beyond language modeling.",
+          "sourceTitle": "TechCrunch / Bloomberg / CNBC",
+          "sourceUrl": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+          "publishedDate": "2026-06-20"
         }
       ]
     },
@@ -370,11 +391,11 @@
     {
       "name": "CoreWeave",
       "category": "AI cloud infrastructure",
-      "summary": "CoreWeave (CRWV) joined the Nasdaq-100 before market open today, June 22 \u2014 just 15 months post-IPO \u2014 one of the fastest index inclusions in recent tech history. Other June 22 additions: Astera Labs, Nebius Group, Rocket Lab, and Teradyne. CRWV was trading around $117\u2013120 ahead of inclusion, up 18.87% over the prior week. Russell 3000 inclusion follows June 27. Contracted revenue backlog is approaching approximately $131 billion (up ~$32B since end-Q1). The 2026 capex floor was raised to $31 billion for Vera Rubin NVL72 buildout. A new $2.2 billion Chicago-area data-center lease adds contracted revenue visibility. Cerebras Q1 2026 earnings are tomorrow evening (June 23).",
+      "summary": "CoreWeave (CRWV) joined the Nasdaq-100 before market open today, June 22 \u2014 just 15 months post-IPO \u2014 one of the fastest index inclusions in recent tech history. CRWV closed at $117.03, up 9.67% on its first day in the index, as mandatory QQQ and Nasdaq-100 tracking fund buying executed. Other June 22 additions: Astera Labs, Nebius Group, Rocket Lab, and Teradyne. Russell 3000 inclusion follows June 27. Contracted revenue backlog is approaching approximately $131 billion (up ~$32B since end-Q1). The 2026 capex floor was raised to $31 billion for Vera Rubin NVL72 buildout. A new $2.2 billion Chicago-area data-center lease adds contracted revenue visibility. Cerebras Q1 2026 earnings are tomorrow evening (June 23).",
       "items": [
         {
-          "headline": "CoreWeave joined Nasdaq-100 today (June 22) \u2014 one of the fastest index inclusions in recent tech history; Russell 3000 June 27",
-          "detail": "CoreWeave (CRWV) officially joined the Nasdaq-100 Index before market open today, June 22, 2026 \u2014 just 15 months after its IPO at $40 per share, among the fastest index inclusions in recent tech sector history. Other additions: Astera Labs, Nebius Group, Rocket Lab, and Teradyne. CRWV traded around $117\u2013120 ahead of inclusion, up 18.87% over the prior week as traders front-ran mandatory buying from QQQ and Nasdaq-100 tracking funds. Russell 3000 inclusion follows June 27.",
+          "headline": "CoreWeave joined Nasdaq-100 today (June 22) and closed +9.67% at $117.03 on first inclusion day; Russell 3000 follows June 27",
+          "detail": "CoreWeave (CRWV) officially joined the Nasdaq-100 Index before market open today, June 22, 2026 \u2014 just 15 months after its IPO at $40 per share, among the fastest index inclusions in recent tech sector history. CRWV closed at $117.03, up 9.67%, as mandatory buying from QQQ and Nasdaq-100 tracking funds (representing $662B+ in tracked assets) executed. Other additions: Astera Labs, Nebius Group, Rocket Lab, and Teradyne. Russell 3000 inclusion follows June 27.",
           "sourceTitle": "CoreWeave IR / BusinessWire",
           "sourceUrl": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-to-Join-Nasdaq-100-Index/default.aspx",
           "publishedDate": "2026-06-12"
@@ -471,11 +492,11 @@
     {
       "company": "OpenAI",
       "stage": "Confidential S-1 submitted",
-      "status": "Confirmed SEC filing June 8; GPT-5.6 launch window opened today (June 22) \u2014 no official announcement; 42% odds of June 22\u201328 release; Noam Shazeer joined as Lead for Architecture Research; CFO may push to 2027",
-      "process": "OpenAI confirmed its confidential S-1 filing with the SEC on June 8, 2026. Goldman Sachs, Morgan Stanley, and JPMorgan are leading. CEO Sam Altman expects a listing within the next year; CFO Sarah Friar has reportedly expressed concern about operational readiness, with a potential delay to 2027. GPT-5.6's prediction market window opened today (June 22); Polymarket assigns 42% probability to a formal June 22\u201328 release and 58% to no release by June 28. Noam Shazeer \u2014 co-inventor of the Transformer \u2014 joined OpenAI as Lead for Architecture Research on June 18. Sensor Tower found ChatGPT's global AI assistant market share fell to 46.4% by late May \u2014 the first time below 50%. EU AI Act chatbot enforcement begins August 2, 2026, adding compliance milestones to the pre-IPO period.",
+      "status": "Confirmed SEC filing June 8; GPT-5.6 launch window opened today (June 22) \u2014 no official announcement; 42% odds of June 22\u201328 release; Patch the Planet launched today; 42-state AG probe filed June 12; Noam Shazeer joined June 18; CFO may push to 2027",
+      "process": "OpenAI confirmed its confidential S-1 filing with the SEC on June 8, 2026. Goldman Sachs, Morgan Stanley, and JPMorgan are leading. CEO Sam Altman expects a listing within the next year; CFO Sarah Friar has reportedly expressed concern about operational readiness, with a potential delay to 2027. A coalition of 42 state attorneys general (led by NY AG Letitia James) opened a formal probe into OpenAI on June 12, four days after the S-1 filing \u2014 the most significant pre-IPO legal headwind. GPT-5.6's prediction market window opened today; Polymarket assigns 42% probability to a June 22\u201328 release. OpenAI launched Patch the Planet and GPT-5.5-Cyber today under its Daybreak cybersecurity platform. Noam Shazeer joined June 18 as Lead for Architecture Research. EU AI Act chatbot enforcement begins August 2, 2026.",
       "lastChecked": "2026-06-22",
       "confidence": "Confirmed by company self-disclosure",
-      "note": "Noam Shazeer joining (June 18) is the most high-profile researcher hire in years. GPT-5.6 launch window is open as of today. Sub-50% ChatGPT market share and EU AI Act enforcement (August 2) are key S-1 risk factors to watch.",
+      "note": "The 42-state AG probe (June 12) and potential CFO push to 2027 are the key new pre-IPO risk factors. Patch the Planet (June 22) is the most recent positive product development. GPT-5.6 launch window open \u2014 watch for announcement.",
       "latestArticle": {
         "title": "OpenAI's CFO reportedly wants to delay the IPO from 2026 to 2027",
         "source": "Gizmodo",
@@ -516,11 +537,11 @@
     {
       "company": "CoreWeave",
       "stage": "Public company \u2014 recently completed IPO",
-      "status": "CRWV joined Nasdaq-100 today (June 22); Russell 3000 June 27; backlog ~$131B; $2.2B Chicago data-center lease added",
-      "process": "CoreWeave completed its IPO in March 2025 (priced at $40/share) and trades on Nasdaq as CRWV. The stock joined the Nasdaq-100 Index before market open today, June 22, just 15 months post-IPO. Russell 3000 inclusion follows June 27. The company completed a $3.55B high-yield bond deal. Q1 2026 revenue was $2.1 billion (+112% YoY). Contracted backlog is approaching approximately $131 billion. A new $2.2 billion Chicago-area data-center lease adds contracted revenue visibility. 2026 capex floor raised to $31 billion for Vera Rubin NVL72 buildout serving Meta, Anthropic, and OpenAI.",
+      "status": "CRWV closed +9.67% at $117.03 on Nasdaq-100 inclusion day (June 22); Russell 3000 June 27; backlog ~$131B; $2.2B Chicago data-center lease added",
+      "process": "CoreWeave completed its IPO in March 2025 (priced at $40/share) and trades on Nasdaq as CRWV. The stock joined the Nasdaq-100 Index before market open today, June 22, just 15 months post-IPO, and closed at $117.03 (+9.67%) as mandatory fund buying from $662B+ in tracked assets executed. Russell 3000 inclusion follows June 27. Q1 2026 revenue was $2.1 billion (+112% YoY). Contracted backlog is approaching approximately $131 billion. A new $2.2 billion Chicago-area data-center lease adds contracted revenue visibility. 2026 capex floor raised to $31 billion for Vera Rubin NVL72 buildout serving Meta, Anthropic, and OpenAI.",
       "lastChecked": "2026-06-22",
       "confidence": "Confirmed; public company",
-      "note": "Nasdaq-100 inclusion happened today (June 22). The next catalyst is Cerebras Q1 earnings tomorrow (June 23) as the AI infrastructure earnings comparable.",
+      "note": "Nasdaq-100 inclusion completed today at $117.03 (+9.67%). The next catalyst is Cerebras Q1 earnings tomorrow (June 23) as the AI infrastructure earnings comparable.",
       "latestArticle": {
         "title": "Dear CoreWeave Stock Fans, Mark Your Calendars for June 22",
         "source": "Barchart",
@@ -1019,6 +1040,14 @@
     "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
     "https://bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
     "https://www.anthropic.com/news/fable-mythos-access",
-    "https://manifold.markets/predyx_markets/fable-reenabled-for-americans-by-ju"
+    "https://manifold.markets/predyx_markets/fable-reenabled-for-americans-by-ju",
+    "https://openai.com/index/patch-the-planet/",
+    "https://www.axios.com/2026/06/22/openai-rolls-out-more-capable-version-of-cyber-model",
+    "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic",
+    "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+    "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-join-nasdaq-100-015655229.html",
+    "https://intellectia.ai/news/stock/cerebras-systems-q1-2026-earnings-preview"
   ]
 }
