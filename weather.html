@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Weather Radar</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="anonymous">
+    <script>
+      (function () {
+        var saved = localStorage.getItem("theme");
+        if (saved === "light") document.documentElement.setAttribute("data-theme", "light");
+      })();
+    </script>
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Live radar &amp; alerts</p>
+        <h1>Weather Radar</h1>
+        <div class="header-links">
+          <a class="home-link" href="/">AI News Dashboard</a>
+          <a class="home-link" href="http://homedash.local/" target="_blank" rel="noopener noreferrer">HomeDash ↗</a>
+        </div>
+      </div>
+      <div class="toolbar" aria-label="Weather controls">
+        <p id="weatherLastUpdated" class="weather-last-updated"></p>
+        <button id="themeToggle" class="theme-toggle" type="button" title="Toggle light/dark mode">☀️ Light mode</button>
+      </div>
+    </header>
+
+    <div id="alertBanner" class="weather-alert-banner" hidden>
+      <span id="alertBannerIcon" class="weather-alert-icon" aria-hidden="true"></span>
+      <div>
+        <strong id="alertBannerTitle"></strong>
+        <span id="alertBannerSub"></span>
+      </div>
+    </div>
+
+    <main>
+      <section class="weather-map-section">
+        <div id="map" class="weather-map"></div>
+        <div class="radar-controls">
+          <button id="radarPlayPause" class="radar-btn" type="button">⏸ Pause</button>
+          <input id="radarScrubber" class="radar-scrubber" type="range" min="0" value="0">
+          <span id="radarTimeLabel" class="radar-time-label">--:--</span>
+        </div>
+      </section>
+
+      <section class="weather-alerts-section" aria-live="polite">
+        <div class="weather-alerts-head">
+          <p class="eyebrow">NWS active alerts</p>
+          <h2 id="alertsTitle">Loading alerts...</h2>
+        </div>
+        <div id="alertsList" class="alerts-list"></div>
+      </section>
+    </main>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin="anonymous"></script>
+    <script src="weather.js"></script>
+  </body>
+</html>

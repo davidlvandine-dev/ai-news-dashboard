@@ -168,9 +168,15 @@ h2 {
   font-size: 1.45rem;
 }
 
+.header-links {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  margin-top: 4px;
+}
+
 .home-link {
   display: inline-block;
-  margin-top: 4px;
   color: var(--muted);
   font-size: 0.72rem;
   font-weight: 700;
@@ -181,6 +187,12 @@ h2 {
 
 .home-link:hover {
   color: var(--accent);
+}
+
+.home-link + .home-link::before {
+  content: "·";
+  margin-right: 14px;
+  color: var(--line);
 }
 
 .toolbar {
@@ -1106,5 +1118,196 @@ body.loading main {
     right: 16px;
     width: 40px;
     height: 40px;
+  }
+}
+
+/* ============================================================
+   Weather Radar page
+   ============================================================ */
+
+.weather-last-updated {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.8rem;
+  align-self: flex-end;
+}
+
+.weather-alert-banner {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 14px 32px;
+  border-left: 5px solid transparent;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.weather-alert-icon {
+  font-size: 1.2rem;
+  line-height: 1.4;
+  flex-shrink: 0;
+}
+
+.weather-alert-banner strong {
+  margin-right: 4px;
+}
+
+.weather-map-section {
+  margin-bottom: 28px;
+}
+
+.weather-map {
+  height: 55vh;
+  min-height: 340px;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+}
+
+.radar-controls {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 0 4px;
+}
+
+.radar-btn {
+  flex-shrink: 0;
+  min-height: 36px;
+  min-width: 96px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--ink);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.88rem;
+  font-weight: 700;
+  padding: 6px 14px;
+  transition: border-color 0.1s, color 0.1s;
+}
+
+.radar-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.radar-scrubber {
+  flex: 1;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
+.radar-time-label {
+  flex-shrink: 0;
+  min-width: 52px;
+  text-align: right;
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.weather-alerts-head {
+  margin-bottom: 16px;
+}
+
+.alerts-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 16px;
+}
+
+.alert-card {
+  border: 1px solid var(--line);
+  border-left: 4px solid transparent;
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: var(--shadow);
+  padding: 16px 18px;
+}
+
+.alert-card-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.alert-card-title {
+  margin: 2px 0 0;
+  font-size: 1.05rem;
+  line-height: 1.2;
+}
+
+.alert-card-badge {
+  flex-shrink: 0;
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  margin-top: 4px;
+}
+
+.alert-card-headline {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.alert-card-times {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 20px;
+  margin-bottom: 10px;
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.alert-card-details {
+  margin-top: 8px;
+  border-top: 1px solid var(--line);
+  padding-top: 8px;
+}
+
+.alert-card-details summary {
+  cursor: pointer;
+  color: var(--accent-3);
+  font-size: 0.84rem;
+  font-weight: 700;
+  user-select: none;
+}
+
+.alert-card-details summary:hover {
+  text-decoration: underline;
+}
+
+.alert-card-desc {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 0.85rem;
+  line-height: 1.6;
+  white-space: pre-line;
+}
+
+@media (max-width: 760px) {
+  .weather-alert-banner {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  .weather-map {
+    height: 45vh;
+    min-height: 260px;
+  }
+
+  .alerts-list {
+    grid-template-columns: 1fr;
   }
 }

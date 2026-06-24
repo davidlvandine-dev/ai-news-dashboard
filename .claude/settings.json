@@ -76,7 +76,10 @@
       "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('keys:', list\\(d.keys\\(\\)\\)\\); print\\('open tasks:', len\\(d.get\\('open',[]\\)\\)\\); print\\('closed_this_week:', len\\(d.get\\('closed_this_week',[]\\)\\)\\)\")",
       "Bash(python3 -c \"import json; d=json.load\\(open\\('/home/dave/ai-news-dashboard/data/snapshots/2026-06-17.json'\\)\\); print\\('generatedAt:', d.get\\('generatedAt'\\)\\)\")",
       "Bash(curl -s http://localhost:8765/data/snapshots/2026-06-17.json)",
-      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('served generatedAt:', d.get\\('generatedAt'\\)\\)\")"
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\('served generatedAt:', d.get\\('generatedAt'\\)\\)\")",
+      "Bash(node -e \"require\\('fs'\\).readFileSync\\('/home/dave/ai-news-dashboard/weather.js', 'utf8'\\)\")",
+      "Bash(find /etc/systemd/system /lib/systemd/system -name \"*homedash*\" -o -name \"*home-dash*\" 2>/dev/null | head -10)",
+      "Read(//etc/systemd/system/**)"
     ],
     "additionalDirectories": [
       "/home/dave/homedash/frontend/src/components",
