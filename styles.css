@@ -422,6 +422,8 @@ main {
 }
 
 .news-item-head h4 {
+  flex: 1 1 0;
+  min-width: 0;
   margin: 0;
   font-size: 0.98rem;
   line-height: 1.35;
@@ -429,6 +431,10 @@ main {
 
 .news-item-head a {
   flex: 0 0 auto;
+  max-width: 40%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
   color: var(--accent-3);
   font-size: 0.84rem;
   font-weight: 700;
