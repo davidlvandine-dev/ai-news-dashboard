@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generatedAt": "2026-06-27T09:52:37.000Z",
+  "generatedAt": "2026-06-27T21:43:22.000Z",
   "title": "Top AI Companies Daily News",
   "companies": [
     {
@@ -10,9 +10,9 @@
       "items": [
         {
           "headline": "Mythos 5 restored for 100+ US companies/agencies \u2014 Day 15; Fable 5 still offline, talks continue this weekend",
-          "detail": "The US government granted Anthropic permission on June 26 to release Mythos 5 to approximately 100 companies and federal agencies. Commerce Secretary Howard Lutnick wrote in an official letter that he determined 'appropriate safeguards are in place to permit certain trusted partners to access the Claude Mythos 5 Model.' The directive did NOT address Fable 5 \u2014 conversations between Anthropic and the administration are continuing into the weekend of June 27-28, with an eye toward also restoring Fable 5 access. This is the first partial restoration since the June 12 ban, now on Day 15. The ban began after a Senate hearing on June 11 where General Joshua Rudd reported Mythos broke into classified systems 'in hours, not weeks,' citing a narrow jailbreak based on asking the model to read a codebase and fix software flaws.",
-          "sourceTitle": "TechCrunch / CNBC / Fortune",
-          "sourceUrl": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+          "detail": "The US government granted Anthropic permission on June 26 to release Mythos 5 to approximately 100 companies and federal agencies. Commerce Secretary Howard Lutnick wrote in an official letter: 'appropriate safeguards are in place to permit certain trusted partners to access the Claude Mythos 5 Model.' The directive did NOT address Fable 5. Axios reported June 27 (today) that the Trump administration is now close to allowing Anthropic to restore Fable 5 access as well \u2014 insiders expect the limits on Fable 5 could be lifted as soon as this coming week. The Pentagon and NSA still need to give Fable 5 the green light; Anthropic expects conversations with the government to continue over the weekend. The ban began after a Senate hearing on June 11 where General Joshua Rudd reported Mythos broke into classified systems 'in hours, not weeks,' citing a narrow jailbreak.",
+          "sourceTitle": "TechCrunch / CNBC / Axios",
+          "sourceUrl": "https://www.axios.com/2026/06/27/anthropic-fable-5-return-soon",
           "publishedDate": "2026-06-26"
         },
         {
@@ -160,6 +160,13 @@
           "detail": "AWS announced general availability of OpenAI models GPT-5.5, GPT-5.4, and Codex on Amazon Bedrock, broadening the multi-model roster. Grok 4.3 (1M token context, tool calling, structured output, response streaming) remains on Bedrock. The Cerebras-AWS partnership adds CS-3 silicon tier for ultra-fast decode alongside AWS Trainium 3 for prefill. Bedrock AgentCore is SOC 1, 2, and 3 compliant with failure, intent, and trajectory insights GA.",
           "sourceTitle": "About Amazon / Memeburn",
           "sourceUrl": "https://www.aboutamazon.com/news/aws/bedrock-openai-models",
+          "publishedDate": "2026-06-26"
+        },
+        {
+          "headline": "Amazon announces $13B additional India AI/cloud investment \u2014 total $48B committed by 2030",
+          "detail": "Amazon announced on June 26 plans to invest an additional $13 billion to expand AI and cloud infrastructure in India, bringing its total India commitment to $48 billion between 2026 and 2030. The investment covers new AWS data center regions, Trainium chip deployment, and local AI development programs across India's major tech hubs. The announcement follows AWS's $50 billion Stargate investment and reflects Amazon's strategy of expanding AI infrastructure globally across multiple geographies simultaneously.",
+          "sourceTitle": "About Amazon",
+          "sourceUrl": "https://www.aboutamazon.com/news/company-news/amazon-news-today-top-stories-company",
           "publishedDate": "2026-06-26"
         }
       ]
@@ -967,6 +974,12 @@
     "https://www.anthropic.com/news/google-broadcom-partnership-compute",
     "https://www.apollo.com/insights-news/pressreleases/2026/06/apollo-leads-35-billion-capital-solution-for-broadcom-ai-xpv-platform-in-partnership-with-blackstone-and-leading-global-banks-3308896",
     "https://www.axios.com/2026/06/26/openai-gpt-sol-terra-luna-trump",
+    "https://www.axios.com/2026/06/27/anthropic-fable-5-return-soon",
+    "https://fortune.com/2026/06/27/anthropic-mythos-5-ai-model-us-commerce-department-clearance-fable/",
+    "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "https://investors.broadcom.com/news-releases/news-release-details/openai-and-broadcom-unveil-llm-optimized-intelligence-processor",
+    "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "https://www.aboutamazon.com/news/company-news/amazon-news-today-top-stories-company",
     "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html",
     "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
     "https://www.cnbc.com/2026/06/09/perplexity-ipo-2028-as-anthropic-openai-prepare-listings.html",
