@@ -1,6 +1,11 @@
 {
-  "latest": "2026-06-29",
+  "latest": "2026-06-30",
   "snapshots": [
+    {
+      "date": "2026-06-30",
+      "path": "data/snapshots/2026-06-30.json",
+      "label": "June 30, 2026"
+    },
     {
       "date": "2026-06-29",
       "path": "data/snapshots/2026-06-29.json",
