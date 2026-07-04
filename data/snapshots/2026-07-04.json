@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "generatedAt": "2026-07-04T10:05:54.000Z",
+  "generatedAt": "2026-07-04T21:43:06.000Z",
   "title": "Top AI Companies Daily News",
   "companies": [
     {
@@ -23,11 +23,11 @@
           "publishedDate": "2026-07-02"
         },
         {
-          "headline": "Jensen Huang named to UN/ITU AI for Good Global Commission \u2014 launched July 4",
-          "detail": "The UN/ITU AI for Good Global Commission launched on July 4 with Marc Benioff and President Paul Kagame of Rwanda as co-chairs. Founding members include Jensen Huang (NVIDIA), Andy Jassy (Amazon), Brad Smith (Microsoft), Jack Clark (Anthropic), and Aidan Gomez (Cohere). The commission targets the UN Summit of the Future in September 2026 and will develop shared AI governance standards. This represents NVIDIA's first formal multilateral AI governance commitment.",
-          "sourceTitle": "BuildFastWithAI",
-          "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026",
-          "publishedDate": "2026-07-04"
+          "headline": "Jensen Huang named to UN/ITU AI for Good Global Commission \u2014 inaugural meeting July 8 in Geneva",
+          "detail": "The UN/ITU AI for Good Global Commission was announced July 1\u20132, 2026, with Marc Benioff (Salesforce) and President Paul Kagame of Rwanda as co-chairs. Founding members include Jensen Huang (NVIDIA), Andy Jassy (Amazon), Brad Smith (Microsoft), Jack Clark (Anthropic), and Aidan Gomez (Cohere). The inaugural meeting is scheduled July 8 in Geneva during the ITU AI for Good Global Summit. The commission targets the UN Summit of the Future in September 2026 and will develop shared AI governance standards around infrastructure, health, education, food security, and trust.",
+          "sourceTitle": "Axios / Salesforce",
+          "sourceUrl": "https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders",
+          "publishedDate": "2026-07-01"
         }
       ]
     },
@@ -419,7 +419,7 @@
     {
       "name": "Tesla",
       "category": "Autonomous vehicles, robotics, and applied AI",
-      "summary": "Tesla Q2 2026 earnings are scheduled for July 22 at 4:30 PM CT following Q2 deliveries of 480,126 \u2014 the company's best Q2 ever, 18% above consensus. TSLA fell 7.49% on July 2 on 'sell-the-news' dynamics. Markets are closed July 4. Optimus Gen 3 V3 production is targeting late July/August at Fremont. The Cybercab fleet spans approximately 60\u2013100+ units across four cities with a sub-$30K price target for customers within six months.",
+      "summary": "Tesla capped employee AI tool spending at $200/week effective July 6 \u2014 with xAI Grok explicitly exempt \u2014 despite internal reports that Tesla employees prefer Anthropic's Claude over Grok. Q2 2026 earnings are scheduled for July 22 at 4:30 PM CT following Q2 deliveries of 480,126, the company's best Q2 ever. TSLA fell 7.49% on July 2 on 'sell-the-news' dynamics. Markets are closed July 4. Optimus Gen 3 V3 production is targeting late July/August at Fremont.",
       "items": [
         {
           "headline": "Q2 earnings July 22 \u2014 following 480,126 delivery beat (18% above consensus); TSLA fell 7.49%",
@@ -436,11 +436,11 @@
           "publishedDate": "2026-06-30"
         },
         {
-          "headline": "Cybercab fleet ~60-100+ units across 4 cities \u2014 sub-$30K in 6 months; FSD v14.3 deployed",
-          "detail": "The Cybercab active fleet spans approximately 60\u2013100+ units across Austin, Dallas, Houston, and the SF Bay Area with FSD v14.3 (20% reduced inference latency). A Tesla executive confirmed the Cybercab will be priced under $30,000 for customers within six months. EPA filing confirmed: 47.6 kWh battery, 163 kW motor, 418-mile unadjusted range (293-mile adjusted). The service has faced early criticism for long waits and occasional stalled rides. Elon Musk told investors to be 'really patient' with the ramp on June 20.",
-          "sourceTitle": "247 Wall St / Electrek",
-          "sourceUrl": "https://247wallst.com/investing/2026/06/20/elon-musk-just-told-investors-to-be-really-patient-with-optimus-and-robotaxi/",
-          "publishedDate": "2026-06-20"
+          "headline": "Tesla caps employee AI spending at $200/week effective July 6 \u2014 Grok exempt; Tesla staff prefer Claude",
+          "detail": "Tesla announced a $200/week cap on employee spending on third-party AI tools, effective July 6, requiring manager sign-off above the threshold. xAI's Grok and Composer are explicitly exempt from the cap, reflecting Tesla's $2 billion investment in xAI's Series E in January 2026. Despite the internal push, multiple sources report that Grok is unpopular among Tesla employees \u2014 many preferring Anthropic's Claude for software engineering and knowledge work. The cap applies to competing models from Anthropic, OpenAI, and Google. The Cybercab fleet is at ~60\u2013100+ units across Austin, Dallas, Houston, and the SF Bay Area with FSD v14.3 deployed (20% lower inference latency) and a sub-$30K customer price target within six months.",
+          "sourceTitle": "TechTimes / Electrek",
+          "sourceUrl": "https://www.techtimes.com/articles/319710/20260704/tesla-limits-ai-tool-spending-200-weekly-while-musks-grok-stays-exempt.htm",
+          "publishedDate": "2026-07-04"
         }
       ]
     }
@@ -959,6 +959,11 @@
     "https://openai.com/index/openai-amd-strategic-partnership/",
     "https://openai.com/index/next-phase-of-microsoft-partnership/",
     "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-    "https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/"
+    "https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/",
+    "https://www.techtimes.com/articles/319710/20260704/tesla-limits-ai-tool-spending-200-weekly-while-musks-grok-stays-exempt.htm",
+    "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/",
+    "https://winbuzzer.com/2026/07/04/tesla-reportedly-sets-200-weekly-staff-ai-cap-with-xai-carve-xcxwbn/",
+    "https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders",
+    "https://www.salesforce.com/news/press-releases/2026/07/02/ai-for-good-global-commission-announcement/"
   ]
 }
