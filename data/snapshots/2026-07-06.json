@@ -1,397 +1,537 @@
 {
   "date": "2026-07-06",
-  "generatedAt": "2026-07-06T09:57:34.000Z",
+  "generatedAt": "2026-07-06T17:28:46.000Z",
   "title": "Top AI Companies Daily News",
   "companies": [
     {
       "name": "NVIDIA",
       "category": "AI chips and infrastructure",
-      "summary": "Kyber NVL144 \u2014 NVIDIA's next-generation rack system \u2014 has been delayed by more than 12 months to 2028, per SemiAnalysis reporting on July 6, due to PCB midplane manufacturing failures. The NVL576 configuration is also likely delayed; NVL72x2 back-to-back was canceled. The report sent Asian PCB stocks sliding. Vera Rubin production shipments to hyperscalers remain underway from July 2026. Jensen Huang is a founding member of the UN/ITU AI for Good Global Commission with inaugural meeting July 8 in Geneva. NVDA market cap ~$4.7 trillion; FY2026 revenue $215.9B.",
+      "summary": "NVIDIA's AI hardware roadmap faces setbacks, with reports indicating delays for next-generation rack systems until 2028 due to manufacturing issues. Despite this, the broader AI ecosystem is seeing developments like open models driving research, and competitors are also making moves in the space.",
       "items": [
         {
-          "headline": "NVIDIA Kyber NVL144 rack system delayed to 2028 \u2014 PCB midplane manufacturing failures cited",
-          "detail": "SemiAnalysis reported July 6 that NVIDIA's Kyber NVL144 rack architecture has slipped more than 12 months to 2028 because the 78-layer PCB midplane remains too difficult to manufacture at yield. The NVL576 configuration \u2014 intended to link eight racks via optical interconnects \u2014 is also likely delayed or limited to small volumes. The NVL72x2 back-to-back rack architecture was canceled entirely. Jensen Huang had showcased Kyber NVL144 at GTC in March 2026, making the delay just three months after the demo a significant setback. NVIDIA did not respond to CNBC's request for comment. Asian PCB stocks slid on the report. Vera Rubin NVL72 production deployments already underway at hyperscalers are not affected.",
-          "sourceTitle": "CNBC / SemiAnalysis",
-          "sourceUrl": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
+          "headline": "China\u2019s Biren seeks US$900m to fund GPU push and challenge Nvidia",
+          "detail": "Biren is seeking $900 million to fund its GPU efforts and challenge NVIDIA's position in the market.",
+          "sourceTitle": "South China Morning Post",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNamJzWHEycHRlcmhMQ2htS1NmN3dGTVpQN1lHN181OEoyaDlxVnhRbzJoa3NUaDUwM1NJOXpEcGZrTlg5bTBxTkQ3LU9jLXlUNm1rblJEYnlLc3hvYnhhZXhadklpMmR6cXd0M0xvR1VKVkZYMDBSTGVKdjVZVnZRdXBtQ2gwQUlaODlnaXYxMTZINWtCUkxDbmswY25Td3hoR0ZydzgzY3JrbWR0c2ZHeWpaQ09nb3dmcjFaYUNXMFNrOW5SemfSAcYBQVVfeXFMUExpMVVIV2hkSlF4UHlIVDlDNFB1Mk9SMUZkWTk4akZqMFZuaTlPdjkwUjRHY1pfYXZGR1lnZXhzSXVBdmFnNWZsRUtwdVBycS1LdkN4OUktR3I3RUZUVllKSEgwdlU2OVFfMW5jX0xaU28ydkhtZnRDTGlEa2t6V2dEMjZxdUZCbVJ4ZE4ydUNkcjlLRUh4bzV3TnZVak9HOG1Da01kYW00QXNfMVVQTEpNT0tsYkp5UDlVdjRzTGZvMTJ1Zk1n?oc=5",
           "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Vera Rubin production shipments to hyperscalers underway in July 2026",
-          "detail": "NVIDIA confirmed Vera Rubin is in full production with first hyperscaler shipments underway from July 2026. AWS, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure, CoreWeave, Lambda, Nebius, and Nscale are among the first deployers. Vera Rubin delivers 3.5x training performance over Blackwell Ultra, 5x inference performance, and 10x reduction in cost per inference token. The Kyber NVL144 delay does not affect the NVL72 rack already shipping.",
-          "sourceTitle": "NVIDIA Newsroom",
-          "sourceUrl": "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory",
-          "publishedDate": "2026-07-01"
+          "headline": "How Open Models Are Driving AI Research",
+          "detail": "The NVIDIA Blog highlights that open models are playing a significant role in advancing AI research across the industry.",
+          "sourceTitle": "NVIDIA Blog",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ocS1xd1FWS0k5Zm13WVEyVmZwMVQ4OEJQMmpCSUNqWEh2ZjRVLUNSSFYwTEEwUzR1UWRQMG1PTHktdjZJX1d3NQ?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Jensen Huang joins UN/ITU AI for Good Global Commission \u2014 inaugural meeting July 8 in Geneva",
-          "detail": "Jensen Huang is a founding member of the UN/ITU AI for Good Global Commission alongside Andy Jassy (Amazon), Brad Smith (Microsoft), Jack Clark (Anthropic), and Aidan Gomez (Cohere). The inaugural meeting is July 8 in Geneva during the ITU AI for Good Summit (July 7-10), which runs alongside the UN Global Dialogue on AI Governance (July 6-7). The commission targets the UN Summit of the Future in September 2026 and will develop shared standards around AI infrastructure, health, education, food security, and trust.",
-          "sourceTitle": "Axios",
-          "sourceUrl": "https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders",
-          "publishedDate": "2026-07-01"
+          "headline": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says",
+          "detail": "SemiAnalysis reports that NVIDIA's next-generation AI rack system has been pushed back to 2028 due to manufacturing difficulties.",
+          "sourceTitle": "CNBC",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGhueW4xLXNDeFhydjZSckRKN0NFMnFyRTZmZ0hQQm5RSUl6VWo2SlFXalJCdTBoMS0zS3p2YVhuX3R1eHp3ZXppdzl6cVNsZ2hjZUZoTk10bEc0QW9SWDF0amo4YVlrVmlYUk1mdWVvOG9NNU9fU2h5cGlscjg0aFdVMHN0a3dJWi0wRlBDcl9FVWQ4dmd1QnhTRzhWZDZydzJZYtIBqgFBVV95cUxOV0RHLUJJSXhXYjJaekxhYXo0ai1fVjZ3TU01X3dOWUpnVlhDYjJwM3NZQ3R6Yk1FUWFXQTI5R1hseVBiSDFCNUxUQkZTREIzeDNGenVCNWNScEhwMWZZWkRwZVdZbUp3MWhEMjl6ZnpwTW5ENXd2ZENFYVI0WGYwNUxKRmViTGVMTVBuWks0elhlYnJmZkg1RkM5eV9heFpRYnJqOElBVzZsdw?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Nvidia AI Server Delay Report Sends Asian PCB Stocks Sliding",
+          "detail": "A report concerning delays in NVIDIA AI servers caused a dip in the stocks of Asian Printed Circuit Board (PCB) manufacturers.",
+          "sourceTitle": "Bloomberg.com",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR010MWh0S2xEb3ZUOVAxbEJSdFpQcjJNVklpT1JGOUpRdGJxNTlqc2ZXX01IQW8zS3RRRDRYRkVoZXhMbU91WWFCY0JCYWtwRXpuN1FuSWRjS3R6ZmR1ZTJpOTV3ZS1QaVl3LU83dlhhQjFTZW1DOHRPX2RQMFlBTzh2QWVhS3IwSnJpMDh1anE1MDJnU0hzd2ZZal9ieHBiX0M1UkxCYzBVUUFlRmR4bA?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Nvidia CEO Jensen Huang Highlighted a New AI Bottleneck. 3 AI Stocks That Could Benefit.",
+          "detail": "Jensen Huang, NVIDIA's CEO, pointed out a new bottleneck within the AI sector and identified three potential beneficiary stocks.",
+          "sourceTitle": "Yahoo Finance",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXdsWVVmYTNlMGNYVThoRGJRM3RFQzV5UDk4U082Zk1GT3hZU0p0Y3ZYdURTZy1iY241M0NGdG91QWhrNlZZSzVGNlVWN0dGbk45aEJfYk9yMEhqRmszWlJzQTBUdHFoUEl5Szd2eUpLTG5VWEJSTVhhRE9zeUh4TE9QUDhPdTh1cnJma2o0clR4ME5CNDNCV1BnaFIxbnRG?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     },
     {
       "name": "Alphabet / Google DeepMind",
       "category": "Foundation models, search, cloud, and AI research",
-      "summary": "Gemini 3.5 Pro remains unreleased as of July 6 \u2014 now six days past the July 4 Manifold Markets checkpoint (~50% odds) and more than a week past the June 30 window. Gemini 3.5 Flash is the strongest broadly available model. The UN Global Dialogue on AI Governance opened in Geneva today (July 6-7) \u2014 a key policy venue for Google alongside the ITU AI for Good Summit (July 7-10). GOOGL ~$357. DeepMind talent exodus risk continues with Shazeer at OpenAI and Jumper at Anthropic.",
+      "summary": "Google DeepMind is actively developing its AI capabilities, with updates to models like Gemini 3.5 Pro and establishing security taxonomies for AI agents. Furthermore, the company is engaging in broader initiatives such as an 'AI for the Planet' event and marketing its technology through historical placements.",
       "items": [
         {
-          "headline": "Gemini 3.5 Pro still unreleased July 6 \u2014 six days past July 4 checkpoint; September iPhone launch risk widening",
-          "detail": "Gemini 3.5 Pro remains in limited Vertex AI enterprise preview as of July 6, now six days past the July 4 Manifold Markets checkpoint that had ~50% odds of release. Google has confirmed a July launch target with approximate pricing of $2 input / $12 output per million tokens. Key features: 2M token context window, Deep Think reasoning mode, and coding/token-efficiency improvements. The continued delay extends risk for Apple's September iPhone launch, which depends on the rebuilt Gemini-powered Siri in iOS 27. Gemini 3.5 Flash remains the primary broadly available model.",
-          "sourceTitle": "TechTimes / Manifold Markets",
-          "sourceUrl": "https://www.techtimes.com/articles/319318/20260629/gemini-35-pro-cleared-july-launch-fable-5-nears-return-gpt-56-stays-locked.htm",
-          "publishedDate": "2026-06-29"
-        },
-        {
-          "headline": "UN Global Dialogue on AI Governance opens in Geneva July 6-7 \u2014 Google among participating companies",
-          "detail": "The first session of the UN Global Dialogue on AI Governance opened today in Geneva (July 6-7), bringing together all 193 UN member states alongside industry, civil society, and academia. The event runs concurrently with the WSIS Forum 2026 (July 6-10) and the ITU AI for Good Summit (July 7-10). A second session will follow in New York in May 2027. Google, alongside NVIDIA, Microsoft, Amazon, and Anthropic, has representation through the UN/ITU AI for Good Global Commission, with its inaugural meeting on July 8.",
-          "sourceTitle": "UNESCO / UN",
-          "sourceUrl": "https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july",
+          "headline": "Google Delays Gemini 3.5 Pro to July 17 to Upgrade Math",
+          "detail": "The release of Gemini 3.5 Pro has been delayed until July 17th for an upgrade focused on mathematical capabilities.",
+          "sourceTitle": "Geeky Gadgets",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfcjZnQ0RiSXdsZk5xSzVhczNzd1hZeUNXS2JRMXVHSS1RbmkwZmNkcjNrTUc5TldJQ19nTUxtZHk2ZlNUMTBscTlqbmlFQmh6amtqTlNoSjhSbXRnaWR5UUktSkJPcnFZbDhj?oc=5",
           "publishedDate": "2026-07-06"
         },
         {
-          "headline": "DeepMind talent exodus: Shazeer at OpenAI, Jumper active at Anthropic \u2014 GOOGL still ~12% below May ATH",
-          "detail": "Noam Shazeer \u2014 Gemini co-lead, VP Engineering, and Transformer paper co-author \u2014 departed DeepMind for OpenAI in June 2026. John Jumper (Nobel laureate, AlphaFold2 co-creator) is now active at Anthropic. Three additional senior researchers also departed (Jonas Adler, Alexander Pritzel, Arthur Conmy). GOOGL is trading at approximately $357, down ~12% from its May ATH of $408.61. The Gemini 3.5 Pro delay and talent losses remain the primary narrative risks for Google's AI model execution timeline.",
-          "sourceTitle": "CNBC",
-          "sourceUrl": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
-          "publishedDate": "2026-06-22"
+          "headline": "Google Gemini 3.5 Pro Leaks with 2 Million Context Window",
+          "detail": "There are reports circulating about a leak concerning Google Gemini 3.5 Pro featuring a substantial 2 million context window.",
+          "sourceTitle": "Geeky Gadgets",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvb2YxTEs4SG1QaUNxek5xLXYxVUdENGQ0M3QwbEpyUjltVzJFV1hHRk1YTFhITDF4aUJucDlYQ1owcmNlUXNEeVpNYk5LUkZNQlBLMVlsbVJKODFYMklwTUJMbTNVQ2N5bFE?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Google DeepMind Accelerator: AI for the Planet (APAC) 2026",
+          "detail": "Opportunity Desk covered an event focused on 'AI for the Planet' in the APAC region for 2026.",
+          "sourceTitle": "Opportunity Desk",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbDVUYkUtMkNWRHd6ZG9HYk42UWVHWU1DVUgzMmZTWDMtbHNOTXVFOFJxLUQ1dFVzYVNxZUp0N3ZocVZxQmhIUS1kLU1ZYnJTelB0MDJhVXFkS1VHRWcweEFXREhzUHZyYWNGekRycXAxdTd2MHpYZlJqOXdkVU9VRnF6aWdmV245bmxFdnFCMnNROXhIRzAwbmp4TQ?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Google DeepMind establishes taxonomy of six attack types for AI agents",
+          "detail": "Crypto Briefing reported that Google DeepMind has established a taxonomy detailing six different types of attacks targeting AI agents.",
+          "sourceTitle": "Crypto Briefing",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EbEdCVDIzTnZTWjVyc0x1SmtOVXNJbXBIT1RJYklxWV9BQ2lCZzJjeG5Fc1dfS051QjJQWlpBcWJ1VmJvcmNZVmlmZEdESV9KX3dMeElvalpsb25uUnpFYml3Z1J4bmZKM01sYmZwNDVoaGx2d2lz?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Google\u2019s Fourth of July Ad Places Gemini in the Room Where the Declaration of Independence Was Drafted",
+          "detail": "AI Insider noted an advertisement from Google placing Gemini within the historical setting where the Declaration of Independence was drafted.",
+          "sourceTitle": "AI Insider",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR29QYUNoUnZzTW15Vl91b0RST3d6WjVaVmFJazFMcTVzMnRpQzljYTROaGtVRGREY1UzM2ZiYUZGN1YzR1JxSlAzMklGM21xVlpsZEZ3MS1ZSHQ5aEJSUUtkX3FDdHc1WUFLXzhRdlQ1c3F3N1dURTgzTW1MRDVKanVqMzZvRjVuRUVJWS1TWENWbTVKT0t5alVpWDZKcElybktGQzBNS2t5OEJ3ZG1xUUZmaEtUU3owbHN1dzQzNk9peXdWQUNIYVdzaHR3TThiVkpHeER3?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     },
     {
       "name": "Microsoft",
       "category": "Cloud AI, copilots, and enterprise software",
-      "summary": "Microsoft Frontier Co. ($2.5B, ~6,000 embedded engineers) is in its fifth day with inaugural partners Unilever, Novo Nordisk, LSEG, Land O'Lakes, and Accenture confirmed. Copilot Cowork usage-based billing ($0.01/Copilot Credit) is in its sixth day. Claude models in Foundry on NVIDIA GB300 Blackwell Ultra are GA since June 29, with a 40% GB300 capacity expansion planned by September. The White House is advancing voluntary frontier model release standards and an announcement is possible this week. Brad Smith is a founding member of the UN/ITU AI for Good Global Commission.",
+      "summary": "Microsoft is actively integrating AI across its product suite, notably by unifying Copilot into a single application experience for both enterprise and consumer use. Furthermore, the company is making adjustments to its Teams integration following user feedback, while also forming strategic partnerships for advanced agentic AI solutions.",
       "items": [
         {
-          "headline": "Microsoft Frontier Co. day 5 \u2014 Unilever, Novo Nordisk, LSEG, Land O'Lakes, Accenture confirmed as inaugural partners",
-          "detail": "Microsoft's $2.5 billion Frontier Company \u2014 launched July 2 with approximately 6,000 embedded engineers \u2014 confirmed its inaugural enterprise partner roster on July 2: Unilever, Novo Nordisk, London Stock Exchange Group, Land O'Lakes, and Accenture. Led by Rodrigo Kede Lima (former Microsoft Asia president), engineers operate as virtual employees for six-to-twelve-month engagements. The initiative mirrors Amazon's $1B FDE program (June 30) and OpenAI/Anthropic FDE ventures in an industry-wide race to embed AI talent with enterprise customers.",
-          "sourceTitle": "Microsoft Blog / CNBC",
-          "sourceUrl": "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
-          "publishedDate": "2026-07-02"
+          "headline": "Microsoft Plans to Turn its Copilot AI Chatbots Into Unified App",
+          "detail": "This indicates a move toward consolidating various Copilot chatbot functions into one unified application.",
+          "sourceTitle": "Yahoo Finance",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVZlQ3RDaHNrdXlQS3ExRlFuWWlveHVIZUZqTFZrU0Mtd0c0aVJyUERVdUVFdTRmSjROS2lpSDFjR2hHTXlXYktMTE9IYkNUbHZiV0NLekkyMFhHcEg0TDJQcWZXZTVaOFVSanlrbHEyU0QwcnBGX2hrak9wYnFOS205OUZmTHNmUVd4dUJ2RjhjeEFJcFRmdjRn?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "White House advancing voluntary AI governance standards \u2014 announcement possible this week; August 1 benchmark deadline",
-          "detail": "The White House is finalizing voluntary standards for frontier model releases with AI companies including Microsoft, Anthropic, OpenAI, and Google, with an announcement possible as soon as this week. The standards stem from the June 2 executive order 'Promoting Advanced Artificial Intelligence Innovation and Security,' which established a voluntary pre-release access framework where developers provide government access to covered frontier models for 30 days before public release. Deliverables are due by August 1, 2026. The NSA is involved in the classified benchmarking process.",
-          "sourceTitle": "AI Weekly / Freshfields",
-          "sourceUrl": "https://aiweekly.co/alerts/white-house-nears-voluntary-frontier-model-deal-with-top-ai-labs",
-          "publishedDate": "2026-07-05"
+          "headline": "Microsoft Merges Enterprise and Consumer Copilot Apps",
+          "detail": "The company is merging the separate enterprise and consumer versions of its Copilot applications.",
+          "sourceTitle": "PYMNTS.com",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjlERVhXbmtLS2RnNDE5UTRaMVA1azJyZVFxQU82R0RVSExRbEswTE1iRGh6X21QSnRnU25MbGdwek9ha0QwR0Z2a0hlN2lFaUxhQ1B5SkJsbTZIWXNrZHpUZ0JZXzdoejEzNklPaWFwLW1qbVJTVnNaV2Y5RmUxOXJYczJxSFFHMXZ5SnZBQ0VOdk9aWFFMaEtkcE1kQjdSbHVQNlFpVWJwVktxZTFlag?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Copilot Cowork billing day 6; Claude in Foundry GA on GB300; Microsoft evaluating DeepSeek for cost reduction",
-          "detail": "Microsoft Copilot Cowork usage-based billing at $0.01 per Copilot Credit entered its sixth day following July 1 activation. Microsoft is reportedly evaluating DeepSeek V4 as a cost-efficient model within Copilot Cowork alongside Anthropic and OpenAI models \u2014 scoped to some Cowork workloads, not core Foundry or flagship Copilot products. Claude models (Sonnet 4.6, Haiku 4.5, Opus 4.8) in Microsoft Foundry on NVIDIA GB300 Blackwell Ultra GPUs are generally available as of June 29, with a 40% GB300 capacity expansion planned by September.",
-          "sourceTitle": "TechAfrica News",
-          "sourceUrl": "https://techafricanews.com/2026/07/01/microsoft-nvidia-and-anthropic-deepen-ai-collaboration-with-claude-general-availability/",
-          "publishedDate": "2026-07-01"
+          "headline": "Teams now lets organizers easily shut down Copilot, Facilitator, and Recap",
+          "detail": "Organizers in Teams gain new control to easily disable specific AI features like Copilot, Facilitator, and Recap during meetings.",
+          "sourceTitle": "Windows Central",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEtnQkc4TnU3clBIV2tJWGN2M2RDeU1UM1dqR0h3TXE1bmhqVXY2ZTRRVXpwZWR4dFFEUTZuUTBBdW01ZHlWTzJ4NWF4ZDZpZTlrVHNSRVNtNVNIVVVwMU1LRE8zNXVqdkJkR2VEbEl0X3A5M2hrN250UC1zSWV1T3JnMkxnRU1VdWJjUF96VWtmczNERWwwMFRxdHNkeXNhUms0elBfZjZXeU5rckxWQnR0N0NzcGo1dUxjYg?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Copilot Cowork and Dynamics 365 Customer Engagement: What It Means for Sales and Service Teams",
+          "detail": "This highlights the application of Copilot within Dynamics 365 to benefit sales and service teams.",
+          "sourceTitle": "MSDynamicsWorld.com",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOGpwUWxJMmZQU0VCQ0kzVm1hUjZHUFJKQm9Zd0J6WTJuS09JalNFdU51NFAyWUI5WlFqRFVZbml1Yms4LVAxRHUtbTJubmd6VnV5NmdwX19rQkNXbkwxS2tZY0poZ1VYTVM5bnJ4RGMwdWtRUWdjZFNnUzZoQ1JRNGFkLXl2TDVEUFB2SWhGQnNuM0NPV0c2N1Y1MmlGc25XOGpNMTU4ODRnV3hYeXN5YVJ4bkdEVnQzWEJ1VmNEY2R3OWpSeWc?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Microsoft and G42's Inception42 Join Forces on Enterprise Agentic AI",
+          "detail": "Microsoft is partnering with G42's Inception42 to collaborate on developing enterprise agentic AI solutions.",
+          "sourceTitle": "MIT Sloan Management Review Middle East",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmR6aGs5QnBnOWJRX1pzMEZGZnpIZmVLYUg3bWJWb3J4TEJzMG90Y3VaaWFqM2ZaWk1VR2ExUjF1Y19QRXhnS1FISjYtbnVjZTIzRmlwUlBwWkdvVUZkZFdxSFVhR1k0Xy1TcHdhcEVKRVA3NmZocHVMVFBDQ3Jyc3A5VXF5WFdRdFJNVlRFVGFYWk96ZXhSa2RSOFpkVjl4UmFGQw?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     },
     {
       "name": "OpenAI",
-      "category": "Foundation models and AI products",
-      "summary": "GPT-5.6 Sol, Terra, and Luna remain restricted to approximately 20 government-vetted organizations \u2014 day 10 of the limited preview. Broader access is expected July 10-17 (4-11 days away). OpenAI is deploying GPT-5.6 Sol on Cerebras wafer-scale hardware this month at up to 750 tokens per second. The Apple breach-of-contract dispute remains unresolved with outside counsel retained. ChatGPT global AI assistant market share is 46.4% \u2014 the first time below 50%. OpenAI IPO leaning 2027. The 5% U.S. government equity stake proposal remains conceptual.",
+      "category": "Foundation models and consumer/enterprise AI products",
+      "summary": "OpenAI is facing multiple fronts, including legal challenges from families suing over ChatGPT harms and scrutiny regarding its governance structure. On the investment side, a former OpenAI researcher's hedge fund is set to be a key investor in SK Hynix's U.S. listing. Furthermore, Sam Altman has publicly advocated for global AI regulation while also suggesting government ownership stakes in OpenAI.",
       "items": [
         {
-          "headline": "GPT-5.6 Sol/Terra/Luna day 10 \u2014 broader access expected July 10-17; Cerebras deployment imminent",
-          "detail": "GPT-5.6 Sol ($5/$30 per million input/output tokens), Terra ($2.50/$15), and Luna ($1/$6) remain in government-staged limited preview, restricted to approximately 20 organizations under a White House executive order requiring staged deployment benchmarking. Sam Altman confirmed broader access around July 10-17. OpenAI is deploying GPT-5.6 Sol on Cerebras wafer-scale hardware this month at up to 750 tokens per second for select customers. Sol sets new state-of-the-art on Terminal-Bench 2.1 for command-line workflows requiring planning, iteration, and tool coordination.",
-          "sourceTitle": "OpenAI / TechCrunch",
-          "sourceUrl": "https://openai.com/index/previewing-gpt-5-6-sol/",
-          "publishedDate": "2026-06-26"
+          "headline": "A dozen families are now suing OpenAI in SF court over ChatGPT harms",
+          "detail": "Multiple lawsuits have been filed against OpenAI by several families concerning alleged harms related to the use of ChatGPT.",
+          "sourceTitle": "SFGATE",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmZWTndtWkl5akxqQVRkTUxkWHlZOGlzclVDY0FGeXFiMmFXYW81R1JyMEZldEloM0xKeGwxUzdYNEVtc21yb1doRnphTmJFLWZYczdkUHJMX2hjMmpHZ21ORVdRRDJjS1E0Tk9xMjkzTXJBUnI4VWFiNkNxZlNYcG5CSQ?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "OpenAI IPO leaning 2027; 5% government equity stake still conceptual; 42-state AG probe ongoing",
-          "detail": "OpenAI filed a confidential S-1 with the SEC in June 2026, with Goldman Sachs, Morgan Stanley, and JPMorgan leading. The company is leaning toward a 2027 listing \u2014 CFO Sarah Friar cited operational readiness, Stargate cash burn, and SpaceX IPO volatility. The proposed 5% U.S. government equity stake (modeled on Alaska's Permanent Fund, worth ~$42.6-50B at implied valuation) is described as 'conceptual' and could require an act of Congress. A coalition of 42 state AGs opened a formal probe on June 12. ChatGPT global AI assistant market share: 46.4% \u2014 first time below 50%, with Gemini at 27.7% and Claude at 10.3%.",
-          "sourceTitle": "Caproasia / Financial Times",
-          "sourceUrl": "https://www.caproasia.com/2026/07/04/chatgpt-parent-openai-proposes-to-give-5-stake-to-united-states-government-valued-at-50-billion-in-planned-1-trillion-ipo-openai-to-delay-united-states-ipo-to-2027-to-raise-60-billion-at-1-trilli/",
-          "publishedDate": "2026-07-04"
+          "headline": "Sam Altman Wants A Global Referee For AI. He Also Wants The U.S. Government To Own A Piece Of OpenAI.",
+          "detail": "Altman has expressed a desire for global governance over AI and suggested that the U.S. government should hold an ownership stake in OpenAI.",
+          "sourceTitle": "Forbes",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV2RfYlZKUnpiSDMyaVJVQ2Z6cTRQR1ZvMDFuODRIWERKbnlkTXQwVktYQzRSYWV3ZkhxaGpMX2E0d3NhZnR6RXpPdG5LQThUcEFqZzYtOU1NR0FUb0g1NUlnMW5ueDhNeXRJQ3hBLVZiRnRUNkcwd2FWZ09FY19scG1QSlI0UTNRbGVSdkZiZ1lOOHhkS1Z1MmYwb2VFN3NSVjFTWm5YZFloemJtTU5fYXZnOHNDeWJwOXFTR2RhSk1nUXZKLVhjZldwVzF1eWNQYXlTbjNRanRqbVJnOEV4U2tLLU4wQQ?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Apple breach-of-contract dispute unresolved \u2014 outside counsel retained; users shifting from tokenmaxxing to efficiency",
-          "detail": "OpenAI retained outside counsel and continues weighing a formal breach-of-contract notice against Apple over the lack of prime ChatGPT placement in the rebuilt Siri AI powered by Google Gemini. No lawsuit has been filed. The iOS 27 Extensions framework (user choice of ChatGPT, Claude, or Gemini inside Siri) remains disabled pending EU DMA regulatory clarity. CNBC reported that users are shifting from heavy 'tokenmaxxing' behavior to efficiency-focused usage patterns, pressuring OpenAI and Anthropic's average revenue per user assumptions.",
-          "sourceTitle": "MacRumors / CNBC",
-          "sourceUrl": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-          "publishedDate": "2026-06-26"
+          "headline": "Highflying hedge fund run by former OpenAI researcher will be cornerstone investor in SK Hynix U.S. listing",
+          "detail": "A hedge fund managed by a former OpenAI researcher is positioned to be a major investor in the upcoming U.S. listing of SK Hynix.",
+          "sourceTitle": "MarketWatch",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZS1Tbmt6eTF5b0lhT2c4b2I2NVFhS2xWR01kc0l4UlVfbkdGbV9zNEJhdGFmd2pyVFhQNG5TOW5OdnNBaWYycy1oRXh2RnZwdEtVdlV0WDE3STJBdkJyMDNhamRSZEo1WWltSmE0X1pXWElfbk4tWHdGNXY0WlczOXpZc2lkR2FkVy1LN0s5T0xVMlg2dnpvWFNsZlo2UGlZTl9RdWNva295cVpZVWNJM0pDWm13MENxbjhkLXRPTHdkQ2FsakFZM0pmc0ZiRjBQdHRVYjhQZG8wajg5bmtyZ2dkYw?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     },
     {
       "name": "Anthropic",
-      "category": "Foundation models and AI safety",
-      "summary": "Anthropic tightened enforcement against Chinese firms (Ant Financial, ByteDance) bypassing Claude restrictions via VPNs, cloud providers, and overseas subsidiaries \u2014 25,000 fraudulent accounts and 28.8 million exchanges detected April-June. Fable 5 Bug Bounty on HackerOne is in day 3. Tesla's $200/week AI spending cap (Grok exempt) took effect today \u2014 employees reportedly prefer Claude over Grok. Claude Sonnet 5 remains the default model at introductory pricing. October 2026 Nasdaq IPO target intact; S-1 submitted June 1. Samsung 2nm chip talks at early-exploration stage.",
+      "category": "Foundation models focused on safety and enterprise AI",
+      "summary": "Anthropic is actively expanding its infrastructure, signing a major lease for a data center campus. The company's models are seeing user attention regarding specific features like sub-agents and model versions, while there is also discussion around the cost structure of their offerings, such as Fable 5 subscriptions.",
       "items": [
         {
-          "headline": "Anthropic tightens enforcement against Chinese firms bypassing Claude \u2014 25,000 fraudulent accounts detected April-June",
-          "detail": "Anthropic is tightening access controls after detecting approximately 25,000 fraudulent accounts that executed 28.8 million exchanges with Claude between April and June 2026, systematically bypassing its ban on entities more than 50% owned by Chinese, Russian, Iranian, or North Korean entities. Firms including Ant Financial gave staff Claude accounts tied to Singapore subsidiaries; ByteDance reimbursed engineers for personal Claude subscriptions bought with VPN access. Anthropic now monitors accounts for computer time zones and usage patterns to detect transfer-station behavior. Enforcement tightening follows the Digitimes Asia report of July 6.",
-          "sourceTitle": "Digitimes / BanklessTimes",
-          "sourceUrl": "https://www.digitimes.com/news/a20260706VL204/anthropic-digitimes-asia-2026-claude.html",
+          "headline": "Inside the secret AI war between Silicon Valley and China",
+          "detail": "This article discusses the ongoing AI competition between major tech hubs.",
+          "sourceTitle": "The Washington Post",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmZBQTlSQUxtV2sza2lTd1dTelc1OFRRNkhEOFhmNjRfVXRwRzlkUnI0ejRvazgtZDVoXzVENTZaT3FnUVo0UWU3WWYzZm1sdHozYW84Z2VMdmVUVjdaUjhKZXhtOFRzVWpWXy1hWEZpUDYyMnk3M0Jhc2tZUlVZVDRTSU1wbFRqM0Z6UW02cXlqYktKZEpTU1pwaHhMQVRBazh5R2ZJR3ZTRzh4bFpCXzdENGlyVHVUNVYtVTF1MnVYdUNucWZV?oc=5",
           "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Tesla $200/week AI cap takes effect today \u2014 Grok exempt; employees reportedly prefer Claude",
-          "detail": "Tesla's $200-per-week cap on employee spending on third-party AI tools took effect July 6, requiring manager sign-off above the threshold. xAI's Grok and Composer are explicitly exempt, reflecting Tesla's $2 billion investment in xAI's Series E. Multiple sources report that Grok is unpopular among Tesla engineers, many preferring Anthropic's Claude for software engineering and knowledge work. The cap applies to competing models from Anthropic, OpenAI, and Google. Some Tesla software engineers were consuming thousands of dollars per week in AI tool costs prior to the cap.",
-          "sourceTitle": "TechTimes / Electrek",
-          "sourceUrl": "https://www.techtimes.com/articles/319710/20260704/tesla-limits-ai-tool-spending-200-weekly-while-musks-grok-stays-exempt.htm",
-          "publishedDate": "2026-07-04"
+          "headline": "Claude Code sub-agents trick changes workflow",
+          "detail": "A user shared how implementing Anthropic's recommended setup for Claude Code, specifically using a sub-agent spawning technique, has changed their work process.",
+          "sourceTitle": "XDA",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHp1X3N4Z0o4bFZkQ2hSY1hiQ0p1dFdWQkYwaG1BOUdpVklVWHhCUlQ5R2RCWG1JeEJCVTBMbm1fNnlJb3d0QkVOeHJIWjVBS1hZU0xBWU5IVEg5VFVxdFBPZnFxZ1pnUHhmZ2tDMXZEeHlEdEVGV0tna2g5ZGpjQUJUQmtfVlM1XzNzQ0h3?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Fable 5 Bug Bounty on HackerOne day 3 \u2014 first public AI vulnerability disclosure program for a frontier model",
-          "detail": "Anthropic's public Bug Bounty program on HackerOne (launched July 4) is in day 3. Focused on cybersecurity jailbreak vulnerabilities in Fable 5 under controlled conditions, it is the first public cybersecurity vulnerability disclosure initiative for a frontier AI model with standardized severity scoring and financial rewards. The program builds on the Glasswing jailbreak severity framework co-developed with AWS, Microsoft, and Google, and is part of Anthropic's pre-IPO security and compliance narrative heading into the October 2026 Nasdaq target.",
-          "sourceTitle": "BuildFastWithAI / HackerOne",
-          "sourceUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026",
-          "publishedDate": "2026-07-04"
+          "headline": "Claude Fable 5 vs. Opus 4.8 for daily work",
+          "detail": "One analysis compares the performance of Claude Fable 5 against Opus 4.8, suggesting continued use of the latter for daily tasks.",
+          "sourceTitle": "ZDNET",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMEhSZXk4MWFKMVJseWh3cElhclpFdTlOTnJCdmZJUnJKN2hLeGQyNDZmNzlzc3htTmZudEJTREZfSkdmY1JCYnFSd0daRnpCNUxFWExTQ0pXUXo0X1l2UGwzWHZtLVlvNWNsQU1mUzRNeVVGTDVIaG1WQUp5M1hlV1lpTF9ZUE91UkFv?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Fable 5 Subscription Ends Tomorrow: Per-Token Costs",
+          "detail": "This report addresses the upcoming end of the Fable 5 subscription and analyzes potential per-token cost impacts.",
+          "sourceTitle": "Tech Times",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeVdHNVVkbDBBSERVb3AxWWNzRU83WllNbTkwR291MlpvbFd4REZ1bnluUmY3bVZ1WkV5QzRfUmxiRE5KdkFEbVlSd1JmMDh5ajl6b1ZTSlA1NE9RVlZCRVFKYzhMMDhrWWU5U0FTYk9oMWFCcHFuTkJCbUN4UkhPRjBwcHlXOUpxVUIxT2ZZMmZQdDRWZHFzN2JEWmIzWkljb2VJTzBvdEZ4WGhCb3Via2ljcmRiWGFHRURxMzBZQlY0NjYz?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "AI company behind Claude signs $19 billion lease at KY data center campus",
+          "detail": "Anthropic's parent company has secured a significant $19 billion lease for a data center campus in Kentucky.",
+          "sourceTitle": "Lexington Herald Leader",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlYzhxbUkySkhMTUVQU3AxVTU3bHpDdUt0VFBpOVFMclNNanZvNWhwMldTN1E5T0xpR0E4WkVZeEtxYTJlWHE2VzhmSG1vazFZQ1R1d2N6TDczN0tuNVUyX3lsTGU0MFU2QWxPYtIBbEFVX3lxTE1WNlg0SGxFN3N4ejVnQzhXR1I5YlNJWXJndXh0RzRsTUVFTE9Cb2pxb0dwZWVyMXdlb2w5a0ZJUjVqRVBnejBWMFpjcmtudzFENkpmc1N5cHVTQ3NWNVFyeVZJY1NqZ0x3Nk5PTg?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     },
     {
       "name": "Meta",
-      "category": "Open models, consumer AI, and infrastructure",
-      "summary": "Meta Watermelon reportedly matched GPT-5.5 on internal benchmarks per Alexandr Wang's July 2 town hall. Meta Compute cloud is positioning to undercut AWS/Azure pricing by 20-30% using MTIA chips. Samsung is also reportedly in talks to manufacture custom 2nm chips for Meta alongside Anthropic. Meta One subscription tiers ($7.99 Plus / $19.99 Premium) are being tested in Singapore, Guatemala, and Bolivia ahead of a U.S. rollout. CoreWeave's $21B take-or-pay contract through December 2032 remains intact despite Meta Compute cloud competition fears. META trading near $612.",
+      "category": "Open-weight models and AI-powered social/consumer products",
+      "summary": "Meta's focus in the AI space involves building advanced, world-changing models. This ambition is highlighted by discussions around scaling their AI development from initial stages to comprehensive, major offerings.",
       "items": [
         {
-          "headline": "Meta Watermelon matched GPT-5.5 on internal benchmarks \u2014 Alexandr Wang tells employees at July 2 town hall",
-          "detail": "Meta Superintelligence Labs chief Alexandr Wang told employees at a July 2 internal town hall that Meta's in-training Watermelon model has reached the performance level of OpenAI's GPT-5.5 on closely watched AI benchmarks. Watermelon uses an order of magnitude more compute than prior Meta models, backed by 600,000+ H100 GPUs with a 1M GPU cluster planned. Zuckerberg admitted Meta's AI bets have not materialized as quickly as anticipated. The exact benchmarks were not disclosed; no independent third-party evaluation has been published.",
-          "sourceTitle": "Benzinga / American Bazaar Online",
-          "sourceUrl": "https://www.benzinga.com/markets/tech/26/07/60264651/metas-upcoming-watermelon-ai-model-matches-openais-gpt-5-5-on-key-benchmarks-alexandr-wang-reportedly-tells-employees",
-          "publishedDate": "2026-07-03"
-        },
-        {
-          "headline": "Meta Compute cloud: 20-30% cheaper than AWS/Azure using MTIA chips; CoreWeave take-or-pay intact through 2032",
-          "detail": "Meta Compute \u2014 announced July 1 \u2014 is positioning to undercut AWS and Azure pricing by 20-30% using Meta's custom MTIA AI accelerators, offering hosted Llama model API access and raw GPU compute. Digitimes reported July 3 that server supply chain contacts see no change to Meta's 2026 shipment commitments. CoreWeave's $21B Meta take-or-pay contract through December 2032 is protected \u2014 Meta cannot redirect spend without financial penalty. META 2026 capex guidance stands at $125-145 billion.",
-          "sourceTitle": "Bloomberg / Digitimes",
-          "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
-          "publishedDate": "2026-07-01"
-        },
-        {
-          "headline": "Samsung in early-stage talks to produce 2nm chips for Meta alongside Anthropic; Meta One subscription testing",
-          "detail": "Samsung is reportedly in early-stage talks to manufacture custom 2nm AI chips for Meta alongside parallel discussions with Anthropic. Meta's MTIA chips currently use Samsung foundry processes, providing a commercial foundation for expanded cooperation. Separately, Meta is testing Meta One paid AI subscription tiers \u2014 Plus at $7.99/month and Premium at $19.99/month \u2014 in initial markets ahead of a planned U.S. rollout, competing directly with ChatGPT Plus and Claude Pro (both $20/month).",
-          "sourceTitle": "SamMobile / CNBC",
-          "sourceUrl": "https://www.sammobile.com/2026/07/04/samsung-talks-make-2nm-ai-chips-anthropic-meta/",
-          "publishedDate": "2026-07-04"
+          "headline": "Meta AI Head Alexandr Wang Interview",
+          "detail": "Alexandr Wang discussed Meta's process of building world-changing AI models, progressing them from an 'appetizer' stage to a full 'main course'.",
+          "sourceTitle": "36 Kr",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EZEx2T3M4M1hPa1J1QjBRUkYxb3V1cHBuRkpzVWxVdGpHOGI2Q3NJSTgzUGdvZ1NsRzBYY0FPU0sxb3FxZlRianQ0RUdqTXJnVEVJ?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     },
     {
       "name": "Amazon / AWS",
-      "category": "Cloud AI and AI infrastructure",
-      "summary": "AWS Secret Cloud for Industry (ASCI) is live with Northrop Grumman as the first partner, giving defense contractors classified cloud access. The $1B Forward Deployed Engineering program mirrors Microsoft Frontier Co. in the enterprise AI support race. Fable 5 is fully restored on Bedrock following the July 1 export lift. GPT-5.6 Sol is expected on Bedrock July 10-17. Project Rainier runs nearly 500,000 Trainium2 chips with full Claude traffic. Andy Jassy is a founding member of the UN/ITU AI for Good Global Commission \u2014 inaugural meeting July 8 in Geneva.",
+      "category": "Cloud AI infrastructure and enterprise services",
+      "summary": "AWS is actively advancing its AI capabilities by integrating models like Claude Sonnet 5 and providing tools for building multi-agent systems with enhanced security. Furthermore, Amazon continues to invest in its infrastructure, raising ASIC server shipment targets while also seeing the sunsetting of older services like Mechanical Turk.",
       "items": [
         {
-          "headline": "AWS Secret Cloud for Industry live with Northrop Grumman \u2014 classified cloud for defense contractors",
-          "detail": "Amazon Web Services launched AWS Secret Cloud for Industry (ASCI) \u2014 giving U.S. defense contractors classified cloud access for the first time. Northrop Grumman is the inaugural partner. ASCI was announced at AWS Summit Washington DC (June 30) alongside the $1B IC Accelerated Modernization Framework for the Intelligence Community and the $1B Forward Deployed Engineering program. CIA Director John Ratcliffe confirmed CIA is using ICAMF with LLMs helping analysts surface hidden intelligence.",
-          "sourceTitle": "About Amazon",
-          "sourceUrl": "https://www.aboutamazon.com/news/aws/aws-summit-dc-2026-ai-cloud-public-sector",
-          "publishedDate": "2026-06-30"
+          "headline": "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents",
+          "detail": "This roundup highlights the availability of Claude Sonnet 5 on AWS and mentions Amazon WorkSpaces for use with AI agents.",
+          "sourceTitle": "Amazon Web Services (AWS)",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWJFeDNKNVA3aWVraUVlRVNlUGJ3dkdEYThUbXRIdnFsOFEwZ0hkdUxQaE1aR0MtX25kdjFkQVlUZ0JGSlRlZ1Zjek93cmFtd3VmSWM2djNuWDFWVlZaczhXOGk2dnNxTkkybGJPbEswMF9vTWZ3RzhpV2pJM1E2SWJabGNKb1N3TjNtY09nNDJvY0V0RHhBZy1YUEo5VHhOVGJzalpmN2ZCNGVrWDlGWWk4Q0ItNG42T0EyVGpHWk9GNmp6LVFBS0xZV2wzQnh0eDg1WU85SUs1ZWgwd0E1MTE0TGhUS1FIQ2NuMnNGcDZ4OVU?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Full Fable 5 suite on Bedrock restored July 1 \u2014 GPT-5.6 Sol expected July 10-17; Bedrock multi-model roster growing",
-          "detail": "Fable 5 and Mythos 5 export controls lifted July 1 restored the full Anthropic Claude suite on Amazon Bedrock. GPT-5.6 Sol is expected on Bedrock in the July 10-17 window following broader access. Grok 4.3 is live on Bedrock with tool calling and streaming. Bedrock AgentCore Web Search is generally available in US East for real-time web grounding. Project Rainier runs nearly half a million Trainium2 chips for Anthropic Claude workloads with 1M+ chips expected by year end under the expanded $100B+/10-year agreement.",
-          "sourceTitle": "AWS Blog",
-          "sourceUrl": "https://www.aboutamazon.com/news/aws/aws-summit-dc-2026-ai-cloud-public-sector",
-          "publishedDate": "2026-06-30"
+          "headline": "Enforce least-privilege authorization in multi-agent AI chains using Cedar",
+          "detail": "AWS details how to enforce least-privilege authorization within multi-agent AI chains by utilizing the Cedar service.",
+          "sourceTitle": "Amazon Web Services (AWS)",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGVhb1pZWVNvWHNFQzg5UG1HdGtqUVhxWUdnWHZ3MFIwYUl3cjhmZnRLWDBpZDVZZk52LTRvWEhTM2Q4NWsxSGVNSEJrd3pKVzgtQXlyLUxUV0VLZkptc2U1dEp5a3BSdkd2S0tOanFSMDJUWXlCZ1puSEszekxfZDItb2tydmFORWhtVEFqbElkMXVBMTZjZ3kweEZaeEQ1T08xWUVZM25JbnkwcXVUSWR6aw?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "AWS $1B FDE program inspired by Palantir \u2014 Allen Institute, NBA, NFL among early clients",
-          "detail": "Amazon's $1 billion Forward Deployed Engineering organization places thousands of AWS engineers on-site with federal and enterprise customers. Engagements run in approximately 45-day cycles with pods of five or six engineers. Early clients include the Allen Institute, the NBA, the NFL, and Ricoh. AWS's $1B comes entirely from Amazon's balance sheet \u2014 structurally different from OpenAI's $4B and Anthropic's $1.5B FDE joint ventures that included outside investors.",
-          "sourceTitle": "TechCrunch / CNBC",
-          "sourceUrl": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-          "publishedDate": "2026-06-30"
+          "headline": "Amazon sunsets Mechanical Turk, the original \"Artificial Artificial Intelligence\"",
+          "detail": "The platform notes that Amazon is sunsetting Mechanical Turk, which was previously known as an 'Artificial Artificial Intelligence' tool.",
+          "sourceTitle": "the-decoder.com",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXA3ZG56VV85SWFyeFd0ZWNsNU94SVY0dC04bzRXc3F0VjhiLV8tUlZ2Qm5aVzh2cXRLM1pnTnFvdVFXUktSNnBZUHpzUDVLV2dzOG14eEtfMVI1dmpTV0ZSYXJkWV90R3JtZkJvdmxqelIxOTJLcVFFVElEVE0tMk95Z09JZEtvckdiNkxqVDROVUx2ME0zZndQS0ptLWJyU01rNG13?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Fleming Initiative & AWS: Using Gen AI to Fight AMR",
+          "detail": "AWS is collaborating with the Fleming Initiative to use Generative AI in efforts aimed at combating Antimicrobial Resistance (AMR).",
+          "sourceTitle": "Healthcare Digital",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWJ2NlppcExiU0t0c1VWVGxwQUxJUE9kMGJBNnZjVjltMUlSTDFadi13Z0p1NnV6eEFDU2dqMWp1UVZrd25QLUEtLUhFRG5hSVlKMEFjQ281VDhPVlYwSm0yUWtfYWxFUjVBZVVPOFBoN3E4VlJOSHEtVWlOcTFWNVRFbUIxV2JyQnR5Yg?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Urgent Boost for Self-Developed AI Chips: Amazon AWS Raises Q3 ASIC Server Shipment Targets by Up to 30%.",
+          "detail": "Amazon AWS has increased its projected shipment targets for self-developed ASIC servers in the third quarter by as much as 30%.",
+          "sourceTitle": "TradingKey",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRWdNRTFna1ZJc0wtNjFUdXBxcm5NcXF6TGlDV25VZldiSkZCaVZWQ1Q0SHhCUGpKS0o1T24yN3IwUDlWakxLWGZWanlrSE5DSGZFYUNNYlBYLU9UemRUeXRBWms0UlhXQ3YyZ2dPWFNpNjNHY3U2U000T1dIemNWUHc2LWlIQkxQXzRrZTYxaUpnZUxTSE5RbTBTSWlDMUJ6bkhwYkNnWVd2dWt1VjJSVXJNUUlSczY1U2R6Y184cFAwOEhqZmV4eg?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     },
     {
       "name": "xAI",
-      "category": "Foundation models and AI infrastructure",
-      "summary": "Grok 4.5 (1.5T parameters, V9 architecture, Cursor training data integrated) private beta at SpaceX and Tesla is confirmed. A 2T parameter successor is in final training targeting late July. Grok 5 (6-10T parameters) is in development on Colossus 2. Tesla's $200/week AI spending cap (Grok explicitly exempt) takes effect today. SpaceX's $60B Cursor acquisition is on track for Q3 2026 close. Colossus 1 continues serving Anthropic at ~$1.25B/month; Colossus 2 serving Reflection AI at $150M/month since July 1. SPCX trading ~$157.54.",
+      "category": "Foundation models and AI-powered social integration",
+      "summary": "xAI's Grok is receiving attention for its use by external entities, such as the Pentagon reportedly using it in relation to Iran bombings. Furthermore, there are reports of Tesla implementing spending caps on AI tools while exempting Musk's Grok, and xAI itself faces legal scrutiny regarding reported image generation issues.",
       "items": [
         {
-          "headline": "Grok 4.5 private beta at SpaceX and Tesla \u2014 1.5T params, V9; 2T model late July; Grok 5 in development",
-          "detail": "Grok 4.5 \u2014 a 1.5 trillion parameter V9 architecture model trained in part on Cursor AI coding data \u2014 is running in private beta inside SpaceX and Tesla. Elon Musk claims near-Claude Opus 4.8 performance in internal evaluations; no independent benchmark has been published. A 2 trillion parameter successor is in final training with expected completion late July 2026. Grok 5, targeting 6-10 trillion parameters, is in development on the Colossus 2 cluster. xAI plans to release a new model trained from scratch every month for the remainder of 2026.",
-          "sourceTitle": "TradingKey / MEXC News",
-          "sourceUrl": "https://www.tradingkey.com/analysis/stocks/us-stocks/261997550-grok-spacex-tesla-musk-claude-opus-tradingkey",
+          "headline": "Pentagon says it used xAI's Grok to help with Iran bombings earlier this year",
+          "detail": "The Pentagon reportedly utilized xAI's Grok in connection with assistance related to Iran bombings that occurred earlier in the year.",
+          "sourceTitle": "MSN",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzdGR2kwUjUwU2UxWnBfSGltQlM0REdOcEw5RlExSTh0Unc2dkxDVHdYelpoNEp3bUlVc18tVmxaME01QzJ5MW1ZV3duQ1RZOEM4MFZlS1dxQWtPZ2E3LTVlSDBFdjNnU3JlcG5rNmg4QzdzRXhnalhyajhXUkpRSjZMcGZPTFlhUXBXWHBQYzZfUGRyWDloN3hURGpmbWNKaFF3b000Rl9PR3dxY2hReUZoMndzUHhKZ3VMb0sxckFiY3lqSktRMHRn?oc=5",
+          "publishedDate": "2026-07-05"
+        },
+        {
+          "headline": "Tesla Imposes $200 Weekly AI Spending Cap, Exempts Musk's Grok",
+          "detail": "Tesla has imposed a $200 weekly spending cap on AI tools for employees, with an exemption made specifically for Musk's Grok.",
+          "sourceTitle": "finance.biggo.com",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aY2luM240MGR5cE1fNzlNbzB0UzJ6SUk1RHQ3SUliRmJQSE0wRDczWEV3c21nNzFzZDJWdXRLQTBZRm9LX2doNVJCUWR5SWVzcGxJX2dfMmhNT1QtbDZmZlc2Ny11SWlKWVBwc3g4TXM2RmYweHc?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Tesla Limits AI Tool Spending to $200 Weekly While Musk\u2019s Grok Stays Exempt",
+          "detail": "This reiterates that Tesla is capping employee AI tool spending at $200 weekly, while keeping Grok exempt from this limit.",
+          "sourceTitle": "Tech Times",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVFVM21iVG9sOElLMnVvZHZtSVpFaW5PLXN4UkVPanB5aTg1WFJTUE5nTVdHQnh2dlJPY1BQUUxqbnNLVnhsMUJqaUJIVDJCaDBydl83b0xnV1N2bFJqTHlvTHpCZUhBMUpnQkVRbGFoRm1NRkJDUzV5WHJJeGJ3bGgtRHNybkVMOWNhY09HSGFxZHdxYnFOMV9EbUFoYjlRQ2JWYXV2VVNlcllHYjhuR0lYa3k0ZVpZRi1YZFBOV3B1dkE?oc=5",
           "publishedDate": "2026-07-04"
         },
         {
-          "headline": "Tesla AI cap (Grok exempt) in effect today \u2014 Colossus 2 serving Reflection AI; Cursor Q3 close on track",
-          "detail": "Tesla's $200/week AI spending cap \u2014 with xAI Grok explicitly exempt \u2014 takes effect today July 6. Multiple sources report Grok is unpopular among Tesla engineers. SpaceX (SPCX) closed at $157.54 on July 3. Colossus 1 serves Anthropic at approximately $1.25B/month through May 2029; Colossus 2 began serving Reflection AI at $150M/month on July 1 ($6.3B through 2029), meaning both Colossus facilities are committed to third parties. The $60B all-stock Cursor acquisition is progressing toward Q3 2026 regulatory close.",
-          "sourceTitle": "CNBC / TechCrunch",
-          "sourceUrl": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
-          "publishedDate": "2026-06-22"
+          "headline": "Teens sue xAI for Grok's reported sexual image generation issues",
+          "detail": "A group of teens has filed a lawsuit against xAI concerning alleged issues with Grok generating sexually explicit images.",
+          "sourceTitle": "Mashable",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNUJJSFE1OEx3dUx1UTFxY0E0WG1oTWNoQVlkbVdHRjJjR2JEcWZ6Y1RMODhZQUl1SU1ZUHlCcXR4RXRkN1VPNTd2cWRPa0JRRG5HbGlFaDFOY0M1aEZUdm1jMEh0azIxa2RqUlBBcEhpN04zX1JpNU4xY056YWpRR29ZSThINlRmN0E?oc=5",
+          "publishedDate": "2026-07-04"
         }
       ]
     },
     {
       "name": "Broadcom",
-      "category": "AI networking, custom silicon, and infrastructure software",
-      "summary": "NVIDIA's Kyber NVL144 delay (reported July 6) does not directly affect Broadcom's Jalape\u00f1o custom silicon timeline \u2014 Jalape\u00f1o still targets H2 2026 Stargate deployment. Six confirmed custom-silicon customers: Google, Meta, Microsoft, Anthropic, OpenAI, and one undisclosed. Q3 AI semiconductor revenue guidance ~$16B; FY2027 AI semiconductor revenue target exceeds $100B. AVGO is down approximately 26% from its post-Q2 earnings high. The Apollo/Blackstone $35B AI XPV Platform enables 20GW+ of Broadcom XPU compute for Anthropic and OpenAI through 2028.",
+      "category": "AI networking and custom silicon",
+      "summary": "Broadcom's stock has seen positive movement following the extension of its chip supply partnership with Apple through 2031. This deal, which is noted for its focus on 'Edge AI,' has caused Broadcom shares to rise, while other semiconductor stocks reacted differently.",
       "items": [
         {
-          "headline": "Jalape\u00f1o ASIC targets H2 2026 Stargate deployment \u2014 1.3 GW in 2027, 10 GW through 2029; NVIDIA delay does not affect timeline",
-          "detail": "OpenAI and Broadcom's Jalape\u00f1o ASIC \u2014 unveiled June 24, developed from design to tape-out in nine months \u2014 targets H2 2026 deployment in Stargate data centers. OpenAI committed 1.3 gigawatts of Jalape\u00f1o compute for 2027 with a 10 GW agreement through 2029. The NVIDIA Kyber NVL144 delay announced July 6 does not affect Jalape\u00f1o production or deployment timelines \u2014 Jalape\u00f1o is an inference chip, not dependent on the NVL144 rack architecture. Broadcom CEO Hock Tan confirmed six custom-silicon customers: Google, Meta, Microsoft, Anthropic, OpenAI, and one undisclosed. AI semiconductor revenue is now approximately 49% of Broadcom's total.",
-          "sourceTitle": "CNBC / Broadcom IR",
-          "sourceUrl": "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
-          "publishedDate": "2026-06-24"
+          "headline": "Broadcom, Apple extend chip supply deal through 2031",
+          "detail": "Reuters reported that Broadcom and Apple have extended their chip supply agreement until 2031.",
+          "sourceTitle": "Reuters",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDdILXhtQlA4NDBFbEd3NnhQS2c2ZjNQZnFqUEVncDVWc3FWaXNJTEFoV1BualZlbW53MjlrMDdxb01TVXFjZTMwVHZpREtXemwwX21DNGlmdDd5NlJVeU83QmIxMVBXSXFtS0N3Q3YyRGdBd2RsenpzSWtUR25DZVJqbXRXVkNrcjZWcE93QmRkOERWN09ESzZtNW8xN0E?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Q3 AI semiconductor revenue guidance ~$16B; FY2027 $100B+ target intact; AVGO down ~26% from high",
-          "detail": "Broadcom guided for approximately $16 billion in AI semiconductor revenue in Q3 FY2026 \u2014 a 48% sequential increase from Q2's $10.8 billion (+143% YoY). Full-year FY2026 AI semiconductor revenue guidance: $56 billion. FY2027 AI semiconductor revenue target: more than $100 billion. AVGO has declined approximately 26% from its post-Q2 earnings high. The Apollo/Blackstone $35B AI XPV Platform (operational since June 9) enables 20GW+ of Broadcom XPU compute for Anthropic and OpenAI through 2028.",
-          "sourceTitle": "Broadcom Investor Relations",
-          "sourceUrl": "https://www.prnewswire.com/news-releases/broadcom-inc-announces-second-quarter-fiscal-year-2026-financial-results-and-quarterly-dividend-302790698.html",
-          "publishedDate": "2026-06-03"
+          "headline": "Broadcom Rallies 6% on a Broadened Apple Partnership as AMD Gains 10%, Intel Rises 5%",
+          "detail": "Following the broadened Apple partnership, Broadcom's stock rallied by 6%, while competitors like AMD and Intel saw different gains.",
+          "sourceTitle": "24/7 Wall St.",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbnFCYWItSzkwWjBWYnV5WFIwSTNLeWNZTURQNEFvbU9mYjVQZGppUjh3TjFaaFMtLUx1X3pBeGtNcTNxOFpOQkh3NTJ1UVJJc1BqNzkwcDlNcUFpOFAwaUlXRDVwbndIZVd0STlrZmFIdjRTOVpvUXFfaEN5TG9lNHk1ME5oUGVCS1h6UVV6Qm1KTERNNFlBWFN4SjJBeUNSd3I2VzlhRWUxX1VTM2UtSldVY3VZQ1JvUmdWcFJqSjMtZw?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     },
     {
       "name": "Palantir",
-      "category": "Operational AI and data platforms",
-      "summary": "PLTR is trading at approximately $129 range (markets reopened today after July 4-5 holiday). The Palantir-NVIDIA Sovereign AI Operating System running Nemotron open-weight models on air-gapped Blackwell Ultra launched June 29 and drove PLTR to an all-time valuation high on July 1. CEO Alex Karp published a 9-point AI sovereignty manifesto calling frontier AI pricing 'effing insane.' Army NGC2 advancing to broad deployment. BofA reiterated Buy with a $255 price target. Full-year 2026 guidance raised to approximately 71% revenue growth. Pentagon dispute court docs remain unresolved.",
+      "category": "AI-powered data analytics for government and enterprise",
+      "summary": "Palantir is positioned as a key player in the AI infrastructure space, with reports noting its role in turning AI into institutional infrastructure. The company has attracted attention from major investors like BlackRock and seen stock rallies following partnerships, such as one with Nvidia. Furthermore, industry figures suggest an impending 'AI lock-in' for enterprises.",
       "items": [
         {
-          "headline": "Palantir-NVIDIA Sovereign AI OS launched June 29 \u2014 PLTR at ~$129; markets reopen today; BofA $255 target",
-          "detail": "The Palantir-NVIDIA Sovereign AI Operating System \u2014 running Nemotron open-weight models on air-gapped Blackwell Ultra for U.S. government agencies \u2014 launched June 29 and drove PLTR to an all-time valuation high on July 1. Markets closed July 4-5 are now reopening. PLTR closed at approximately $129.30 on July 3. President Trump's financial disclosure revealed he holds at least $1 million in Palantir shares. Bank of America reiterated Buy with a $255 price target, stating 'The market is moving from AI curiosity to AI consequence, and Palantir is the leader in this transition.'",
-          "sourceTitle": "The Motley Fool / 247wallst",
-          "sourceUrl": "https://www.fool.com/investing/2026/07/01/why-palantir-stock-is-skyrocketing-today/",
-          "publishedDate": "2026-07-01"
+          "headline": "Palantir Is Turning AI Into Institutional Infrastructure",
+          "detail": "This highlights Palantir's role in establishing AI within institutional frameworks.",
+          "sourceTitle": "Seeking Alpha",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMkp0RTBwbk0yRFpiQTZUQ2twMm9HYkpDcFN5bWNhemZDNTdGSERrT2VCT2V0Q0syajNjakQxYkNERS1SNkx2UExZWFlJQUJkc1d6cXJ3YnF0dklyWmdSUEM3QXNHQm5nYVJGQ1FCX0oxMU1heXplQUZvaV8tTWlrMW5YbXR3WGFWY3FGVU5Hajc1RnNFQ0dIbVc1eGtmdw?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Karp publishes 9-point AI sovereignty manifesto \u2014 calls frontier AI pricing a 'wealth tax'; Zeta Global rebuilding on Foundry",
-          "detail": "Palantir CEO Alex Karp called the AI industry 'effing insane' in a July 1 CNBC interview and published a 9-point AI sovereignty manifesto on X, positioning Palantir's AIP with NVIDIA Nemotron as the sovereign, lower-cost government alternative. Agencies own model weights and training data on their own hardware, avoiding per-token frontier API costs at scale. Zeta Global is rebuilding its Data Cloud on Palantir Foundry, deepening PLTR's enterprise AI partner ecosystem.",
-          "sourceTitle": "Forbes / Memeburn",
-          "sourceUrl": "https://www.forbes.com/sites/tylerroush/2026/07/01/palantir-billionaire-alex-karp-calls-ai-industry-effing-insane-in-heated-interview/",
-          "publishedDate": "2026-07-01"
+          "headline": "BlackRock Names Palantir Among Important AI Stock Picks",
+          "detail": "Yahoo Finance reports that BlackRock has listed Palantir Technologies as one of its top picks for AI stocks.",
+          "sourceTitle": "Yahoo Finance",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORmd1aHB3bmpBZmdZeVZuQTdKSFpJMS1rYUh4eFN2SDB0aEQ4Ml9vMVdaQUdFaE85V0tiNU1nR2NTR09zWlllVUJSd002a3U4RnduMXF5VUtIUUdSNENWUkFvUHhkNUlFU0hnU1JvZzRlYzlzcEIwLVluVWg5Z1NHbG9xQjdYUGlTUTlBZW1NS2ZQTno2bnNwdTQ0eWtfdEk?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Army NGC2 advancing to broad deployment; 2026 federal contract wins $11.3B+; Pentagon dispute court docs unresolved",
-          "detail": "The U.S. Army selected Palantir Foundry as the cloud data layer for NGC2, moving from prototype to broad deployment. Major 2026 federal wins: $10B 10-year Army enterprise AI services; $1B 5-year DHS AI platform; $300M USDA deal. Q1 2026 revenue: $1.632B (+84.7% YoY); U.S. commercial revenue $595M (+133% YoY). Court documents released July 4 reveal an unresolved policy dispute between Dario Amodei and Pentagon Undersecretary Emil Michael over autonomous weapons and domestic surveillance limits affecting the Anthropic-Palantir-AWS pipeline. Maven Smart System retains DoD program-of-record designation.",
-          "sourceTitle": "StocksToTrade / WSJ",
-          "sourceUrl": "https://stockstotrade.com/news/palantir-technologies-inc-pltr-news-2026_07_01/",
-          "publishedDate": "2026-07-01"
+          "headline": "Palantir Stock Rallies on Nvidia Partnership and Analyst Upgrade",
+          "detail": "The stock saw a 14% rally following an announcement regarding a partnership with Nvidia and an analyst upgrade.",
+          "sourceTitle": "foreignpolicyjournal.com",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUREbThWMkhEWDk3UkJrZTNZTmcwM2dZbDUzZFVHLWJOejJjQ2tEeTR2bllDT0RReF8ydEJWelY5bV8zc3ZEVmxQSEdoZkRES01oRDV3bVpDWWp0VVRfc05RZGJpWGZ6WjRRRFBfUE5GdUlqX1RuUjFPS2xKb0VsRWVGRlBsMkJWcHAxc0pQRTNNTTZIaTV5SU1zaXlLYnNORnk3VTFVcU1nd2tsRHZXWjJzRVQ5bkgtNlRPcWszUl9fQTFacWJleWhJWExmVEFxN0VnMGZlZ29NQWNGYjZV?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "AI Lock-in Coming for Enterprises, Agree Alex Karp and Mistral's Arthur Mensch",
+          "detail": "This suggests that industry leaders predict a future where enterprises become deeply reliant on AI solutions.",
+          "sourceTitle": "The New Stack",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82eU9qS0ZHbTB4U2tqT2pxazYxakZYRlp5UTVjbmo0UE01aHRlVF9XY0tUb3hlVXJBbEtiaUFCbDhGM2VQUE1PVUE3ZXJJRlNsRzZvLVpfQjA?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     },
     {
       "name": "Apple",
-      "category": "Consumer AI, devices, and platform",
-      "summary": "iOS 27 developer beta continues with Gemini-powered Siri on track for public beta mid-July and September GA. Gemini 3.5 Pro's continued delay (six days past July 4 checkpoint) maintains delivery risk for Apple's September iPhone launch. OpenAI retained outside counsel over the perceived breach. Apple is evaluating Mistral AI as an additional model option and has reportedly discussed acquiring either Mistral or Perplexity. The iOS 27 Extensions framework (user choice of ChatGPT, Claude, or Gemini inside Siri) remains disabled pending EU DMA clarity.",
+      "category": "On-device and consumer AI features",
+      "summary": "Apple is integrating advanced AI features, including enhanced Siri visual intelligence and the introduction of 'Apple Intelligence' in iOS 27. These new capabilities are expected to appear across various devices, such as camera-equipped AirPods and potentially other wearables. Some AI features will be free while others require an iCloud+ subscription.",
       "items": [
         {
-          "headline": "iOS 27 developer beta active \u2014 Gemini-powered Siri targets public beta mid-July, GA September 2026",
-          "detail": "iOS 27 developer beta has been running since WWDC June 8. The rebuilt Siri is powered by a custom Google Gemini model (~1.2 trillion parameters) through a three-tier routing system: on-device for fast queries, Private Cloud Compute for medium complexity, and Gemini for complex multi-step tasks. Apple pays approximately $1 billion per year for the Gemini license. Public beta is expected mid-July; general availability September 2026. A 'Search or Ask' gesture allows users to hand queries off to third-party chatbots including ChatGPT, Claude, or Gemini.",
-          "sourceTitle": "Apple Newsroom / Business Standard",
-          "sourceUrl": "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-          "publishedDate": "2026-06-08"
+          "headline": "What's new with Siri Visual Intelligence in iOS 27",
+          "detail": "This item discusses the advancements coming to Siri's visual intelligence within iOS 27.",
+          "sourceTitle": "PhoneArena",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1BaR3F0RDdOaDVkbmxUbmkzZUIyUTJycmdSc3htQjJ1QW9HeGVFWlVoeHN0ZDlFMHNhM1lOY1otdTFzQWhwN2ZUQi0wbGxRcC1HRkUySUw5NE9Qc0h0X0Y2MnRIbmZubjJGQlN4dXpzTE40UlpZdkFsd1BpMFlPbkN6aHhIUWpz?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Apple evaluating Mistral and discussed acquiring Mistral or Perplexity \u2014 multi-provider AI hedging strategy",
-          "detail": "Apple is evaluating Mistral AI as an additional AI model option alongside Gemini, reflecting a multi-provider hedging approach across its 1.5B+ active device base. Reports indicate Apple executives have also discussed acquiring either Mistral AI (~\u20ac20B valuation) or Perplexity AI ($20B valuation), though no move has been made. The hedging strategy reflects both Gemini 3.5 Pro delivery risk and a desire for leverage in renegotiating Siri AI model pricing and exclusivity terms.",
-          "sourceTitle": "Sherwood News",
-          "sourceUrl": "https://sherwood.news/tech/apple-has-reportedly-considered-buying-mistral-ai-and-perplexity/",
-          "publishedDate": "2026-07-03"
+          "headline": "iOS 27 code reveals Apple's visual intelligence for upcoming camera-equipped AirPods",
+          "detail": "The code suggests that visual intelligence features are being integrated into future camera-equipped AirPods.",
+          "sourceTitle": "\u0622\u064a-\u0641\u0648\u0646 \u0625\u0633\u0644\u0627\u0645",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQlhBMHU4SUJDbU1oMjU3UzByZXc3akE1dF9JX3dVY2g0WjdqaTRaWTk2VU9UUnpyWlNPc0pCVlItUi1lZjBFQlZrdWhRRmNXNEo3eHduMEVIOTA2VXgzSEhSeUo5U1lNTzFPaEh4Y2YyYjNEblNqWW1pSXF6dUdFeTVCZFFDb3lJWk0tLXdKNWNSaEk4ZDZxMk8wNFpqdWh1Z1BtZGV6Y0pCVDZtZXJ1cmZIYndaQ0g4YlFLdVBLTmtIRmxlMTFwQUxFREI2VzIzeFFVOE1UeHVNNlFoU0o5UnNGcw?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Only These iPhone Models Are Getting The New Siri AI This Fall",
+          "detail": "This report specifies which iPhone models will receive the new Siri AI functionality this fall.",
+          "sourceTitle": "Engadget",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aTHVxSXVsSU91U1FubllRMlpENVRzUGdBSTBsbkdybFhSUjVVSXRDams1MmlWelB1RU1RUmo5WFNrMnF4WmxBSTRzQUpKbmxqRjBtT3d6QnN6aTZBZG1mMGh4elphOFA5cG40eEJkd2gwZzRxQVE?oc=5",
+          "publishedDate": "2026-07-04"
+        },
+        {
+          "headline": "Apple Intelligence in iOS 27: What\u2019s Free vs What Needs iCloud+",
+          "detail": "This details that Apple's 'Apple Intelligence' features in iOS 27 will have a mix of free and paid components requiring iCloud+.",
+          "sourceTitle": "The Mac Observer",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMl9yWjc3OUl0dE1IZHA4cmdrTkVTem5YalhSZzVEZTA0UHc1YW5ablkxemxKc1VtdVZBd2FOT2hWcVRWU19ONTl5T1NXRXdTMDFVbWctRTVRejlCWFZrMmVnTWc1bDdBOVRyNzZDLWJsbEMzNjdMSUN5VF9oUUFZZVFfUmhhbEVZRGVJQ3dNbnRCTWNreTlzcVRB?oc=5",
+          "publishedDate": "2026-07-04"
         }
       ]
     },
     {
       "name": "AMD",
-      "category": "AI accelerators, CPUs, and data center silicon",
-      "summary": "AMD Advancing AI 2026 is 16 days away (July 22-23 at Moscone Center, San Francisco). NVIDIA's Kyber NVL144 delay removes a competing rack platform from the 2026-2027 market window, potentially benefiting AMD Helios rack timing. MI450 samples are shipping to OpenAI (6GW partnership) and Meta ($60B/6GW). Oracle deployed a 50,000-unit MI450 supercluster targeting Q3 2026. MI500 series (CDNA 6, 2nm, HBM4E) roadmap confirmed. Q2 2026 financial results due August 4.",
+      "category": "AI accelerator chips and infrastructure",
+      "summary": "AMD has been featured in recent market reports, showing positive movement with multiple sources noting significant stock increases. These reports place AMD within the broader context of AI chip stocks, alongside competitors like Nvidia and Micron. The coverage suggests continued investor interest and bullish sentiment surrounding the company's position in the AI sector.",
       "items": [
         {
-          "headline": "AMD Advancing AI 2026 on July 22-23 \u2014 MI450 formal launch, MI500 preview; NVIDIA Kyber delay opens competitive window",
-          "detail": "AMD Advancing AI 2026 at Moscone Center in San Francisco on July 22-23 is 16 days away. CEO Lisa Su is expected to formally launch the MI450 series, preview EPYC Venice (Zen 6, up to 256 cores), confirm Helios rack-scale systems (3 AI exaflops per rack), and provide a first look at the MI500 series. The NVIDIA Kyber NVL144 delay to 2028 \u2014 reported July 6 \u2014 removes a key competing next-generation rack system from the 2026-2027 window, potentially improving AMD Helios rack market positioning. Q2 2026 financial results are due August 4.",
-          "sourceTitle": "AMD / TweakTown",
-          "sourceUrl": "https://www.tweaktown.com/news/110826/amd-announces-advancing-ai-2026-event-for-july/index.html",
-          "publishedDate": "2026-04-28"
+          "headline": "Broadcom Rallies 6% on a Broadened Apple Partnership as AMD Gains 10%, Intel Rises 5%",
+          "detail": "AMD gained 10% while Broadcom rallied 6% following news of a broadened Apple partnership. This report also noted that Intel rose by 5%.",
+          "sourceTitle": "24/7 Wall St.",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbnFCYWItSzkwWjBWYnV5WFIwSTNLeWNZTURQNEFvbU9mYjVQZGppUjh3TjFaaFMtLUx1X3pBeGtNcTNxOFpOQkh3NTJ1UVJJc1BqNzkwcDlNcUFpOFAwaUlXRDVwbndIZVd0STlrZmFIdjRTOVpvUXFfaEN5TG9lNHk1ME5oUGVCS1h6UVV6Qm1KTERNNFlBWFN4SjJBeUNSd3I2VzlhRWUxX1VTM2UtSldVY3VZQ1JvUmdWcFJqSjMtZw?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Oracle deploys 50,000-unit MI450 supercluster in Q3 2026 \u2014 first publicly available MI450-based cluster",
-          "detail": "Oracle announced a 50,000-unit AMD Instinct MI450 GPU deployment for the first publicly available MI450-based AI supercluster, with initial deployment targeted for Q3 2026. The MI450 features 432GB HBM4 memory, 20TB/s bandwidth, and 40 PFLOPs FP4 per GPU. This joins MI450 commitments from OpenAI (1GW, H2 2026) and Meta (Helios rack shipments H2 2026). AMD CEO confirmed MI450 samples are shipping to lead customers OpenAI and Meta; demand has exceeded AMD's own internal 2027 projections.",
-          "sourceTitle": "Data Center Dynamics",
-          "sourceUrl": "https://www.datacenterdynamics.com/en/news/oracle-to-deploy-cluster-of-50000-amd-instinct-mi450-gpus/",
-          "publishedDate": "2026-06-25"
+          "headline": "AI No Bubble? AMD Spikes 10% On Bullish Forecast; Micron, Nvidia Among Chip Stocks Rallying",
+          "detail": "AMD spiked 10% based on a bullish forecast, with Micron and Nvidia also noted among rallying chip stocks. This suggests positive market sentiment for the sector.",
+          "sourceTitle": "NDTV Profit",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORHNKT1J0VjJCYVBQTzh2UWZ0QThLdHhoczlJcmVXSWdJOTBPUFVhdTVVa1pndXBKY2xVQS10d0x2MlM5N1Y3RUtfZFJTZEstVjRnMzJTczhRREcxdkU3ZlRobjBTX1h2Uy1zV18xeHZ6bkpBYnF6dUFNVlptV0R1eDJHdW5INlhiN2NKeDZnZzVhX1BkbjlGVTgyQnh4bG56bGlMVU55eFhiaVdReVRWTmwtUjJibVVqTDdRaEtOWjlrTHAxYmJKd1pBSdIB0wFBVV95cUxOdHo0X2xVTFF1OGtxdmNvay1naU1RUkRWT01aRWVxeVhtYUpBaUJ0WDlEc0pOSTVmVnVwbGdnei1YZjEtZXgzd2N1R1Q1MzZ3eFh3Qm5QMFlUSDdwVkxFbnhnbExKR1lGV2NWMGIwdEpzTnRuQjNFb2N5R3ExRkVKZkwxOGsyUVh5Qjh0bWhNZzZmRTQxYm84MkhaNXdtb2RHMWpfRWM4cjBfbThnRkVpSTdwcjA1MGZ1NU9OSTM0dDFDNF92Q3JLN0FRQVZ2Qzh4NW1N?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "AI Chip Stocks in Focus: AMD Upgrade, Foxconn Q2 Surge",
+          "detail": "This item discusses an upgrade related to AMD within the context of AI chip stocks, alongside a surge reported by Foxconn in Q2.",
+          "sourceTitle": "Gotrade",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNGZuNmtyWDV3ZWFGSFQ3N0psRGpmcnBXQWgwVGJOS2dITnZDNzYwaUNCRmdyLXVFaWlMQm05NGV3b1puRnFJd2IzdG1FWjFnelNGdzRJNDBacmV4VkVxQWxJSnFkRUd5WW50S2RaeW9ycWpXLUEydHRoVVlid3g1QUF2cXQyMXhEc0RkZVlUVVRpY3ZiOE1mYnRwX1dEckdf?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     },
     {
       "name": "Perplexity AI",
-      "category": "AI search and agentic computing",
-      "summary": "Perplexity Computer for Windows with a hybrid local-cloud inference orchestrator is targeting July 2026 \u2014 Mac has been GA since May 7. Windows version integrates with Microsoft Office apps and local files. Perplexity for Gov is live via GSA MAS IT at $0.25/agency. ARR: $500M (+335% YoY); 100M+ monthly active users; $20B valuation from May 2026. 2028 IPO target reaffirmed. Apple has reportedly discussed acquiring Perplexity. CoreWeave's multi-year inference partnership provides dedicated NVIDIA GB200 NVL72 clusters.",
+      "category": "AI-powered search and answer engine",
+      "summary": "Perplexity AI continues to expand its capabilities and influence within the tech landscape. Recent developments include expanding language support for Urdu and Arabic speakers, while the company's CEO has also commented on broader themes in technology, such as American strengths and critiques of historical technological shifts. Furthermore, external reports highlight security concerns regarding AI browsers.",
       "items": [
         {
-          "headline": "Perplexity Computer for Windows imminent \u2014 hybrid local-cloud inference orchestrator; Office integration",
-          "detail": "Perplexity Personal Computer for Windows \u2014 featuring a hybrid local-cloud inference orchestrator that automatically routes tasks between on-device processing and frontier cloud models \u2014 is targeting July 2026 GA following the Mac launch (GA May 7 for Pro users). The Windows version integrates with Microsoft Office apps (Word, Excel, PowerPoint, Outlook) and local files, compatible with Intel Core Ultra Series 3 and NVIDIA RTX Spark hardware. CoreWeave's multi-year inference partnership provides dedicated NVIDIA GB200 NVL72 clusters, with Rubin systems rolling in H2 2026.",
-          "sourceTitle": "Perplexity AI / OpenTools",
-          "sourceUrl": "https://www.perplexity.ai/hub/blog/personal-computer-is-coming-to-windows",
-          "publishedDate": "2026-06-03"
+          "headline": "Perplexity AI Language Support for Urdu and Arabic Speakers",
+          "detail": "This indicates an expansion of Perplexity's reach by adding language support for Urdu and Arabic speakers.",
+          "sourceTitle": "autogpt.net",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVTI2by1Rc2QyTVdxVlBvMS1XOFhfZXVYd3pjWmtYWGFGSWJGTFpELXdCT0xRWFdMd00zdlUtQzdvcVd3bnYxUU9fdkRmY05jZ3EwWXExQ2VzUkxFeXp1clhHSndEOUZvZkI4NWJLak1sSkswM2FSUFhVUW54c1pROE56WQ?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Perplexity for Gov live via GSA \u2014 $0.25/agency; 2028 IPO reaffirmed; Apple acquisition discussions reported",
-          "detail": "Perplexity launched 'Perplexity for Gov' alongside the U.S. General Services Administration at $0.25 per agency for 18 months, with zero data usage protection and access to ChatGPT, Gemini, Grok, Claude, and Sonar models. FedRAMP compliance certification is underway. Apple executives have reportedly discussed acquiring Perplexity at its $20B valuation as part of a broader AI platform hedging strategy. CEO Aravind Srinivas reaffirmed a 2028 IPO target and independence from Anthropic and OpenAI timelines.",
-          "sourceTitle": "Perplexity AI / Sherwood News",
-          "sourceUrl": "https://www.perplexity.ai/hub/blog/introducing-perplexity-for-government",
-          "publishedDate": "2026-07-01"
+          "headline": "Perplexity AI CEO Aravind Srinivas says Bill Gates \u2018tricked\u2019 America into desk jobs: \u2018It wasn\u2019t like the'",
+          "detail": "The CEO offered commentary on historical technological shifts, criticizing how certain advancements were presented to the American public.",
+          "sourceTitle": "The Times of India",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQaENBZHVKNmVaa05JTWk1VmVqM0I0MjhfdWJoSkgtUS04WVViUEZBUGdoeUdyR3VDZVZCYk9NTXRaamRuRWhVWTBUNzRNb1RxWTJWNFdqOFhqa1J0NFZaY0FyNWJlcl94cnd2RWgtNXVRcE4zYXBMLW9KSnBIX3RWYWlQQzcxN3BwOWRKZ1RlME1KM2VjQW4wczhjcVA2Sms0MXVPVEgyOXlLTlpZakU2dGVLU2tOS3FhNG1tbjN3NUE2UzJHc2I5ZF9sTk1Lck40RnE4QklEdHJnbTVFYWpPNl9LTk4zajZPa3RIUEVYdUR0RGlKWnJQaFA2T3NoN20yR1JxaHZLNzFIV2JTOXJ2bWQxLUZkT1pWSlMzMi1oYmJmMkdhTk4zR3VlVDXSAbICQVVfeXFMTk1YYzRBbVdkU2FPWUsxdEczT1kwNGxYY2lPdjJKd01iTlJORUJud25za3NWSkRESndWOWpJRzlZWTZqNnZ6LVlLWDFaRjlzNWozcWhIU1o3Q3lnVWxVN3ZjNnFTQ3BXQmtLWnh4Wnd4Y2JMcml3V1Y4czAwM1Rfd2FoZERxYmF5LUtHUDJYYml6eDE3cWxqU1BPcWZkN3lsY21Wem9oTHA5UzM3VGc2eHRYZEl1QXh2MEdwaEFXYWRLUnlmQVdqbjVOY2ZnaUQyc05aN3hZYzh2Z0NIZTdxcGdMLUJORXV6dkRhYVZiM3FKS0Z3Vkh1ZFJZMFI4bEd1SE9VM3FNQkNWcnd3NmhmTnlaRVJTVDhvWUo3MVBDMFRGNDJnQ25yZGxabElNUzdQYmRR?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Perplexity CEO Aravind Srinivas on the one thing that sets US apart: \u2018It's why America is still at the top\u2019",
+          "detail": "Srinivas provided commentary regarding what he believes keeps America at the forefront of technology.",
+          "sourceTitle": "Hindustan Times",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVkdNdmFiNGZqajdZdjJaNkNLb3gtOWstSEl5NkJkdjk1d0x2R3BDZWc3Y1NHRjV3dkhodDRpdUdKeDFsMnR4Qi1KeFpNZ0pMMWU0elpJSmV5cHBGVjhLVWJKOGxCNzl1TWQxRXd5SzlvSUpSY2l6Vmt4T0hLcXJVcnBSZVVzcVFmT1hjZkdPc3EtWTNBTm1RSkt6cU9wYWtBRUtNRkdIaWRFOTdSVHhQdGxpeUh6YmhwSGo0ZTFoNTQ0aFpaUFMzUUhVMFlnckdMOTQxU1VhZmdIcnh5T19hNnRnekVMVWdwWjZTVzU1TGpZMVBYcjJ4aldHUdIBgAJBVV95cUxQSzBXVHRYNjkyVzhpU0xKOGJoczd2S1JEc3U2bDhwNlpfalNiNldYQTlTWkNwbi1lWnBWM2JrNHkyU3BpRXNyYWpHblE0bnUwTnp1dnBOdXZwU1AyTGlmb25VSUdkUFZpQXpVdE1RcmJUOHFPdzVRRVRzTlFKOTZiN1h5a0ZhVC1VS01YMzNVNXZpdjFnZmhHa0FzdGQ5WFVmTXdoWVVMZk5CazZ6QVpqZ0JoMGJFWXp1a2EwOVZYeWNRblNsVlBzQm9zcGJnUDd5UVFiM3pGLTlRLTZ0TGxCUEdTVjhlVFpUUTZwNHJEcG5iWVN1aG9nOHd2SzNMc3hr?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Three Research Teams Flag AI Browsers as Security Risk, Vendors Largely Silent",
+          "detail": "Multiple research teams have flagged AI browsers as potential security risks, with vendors reportedly remaining quiet on the issue.",
+          "sourceTitle": "SOFX",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNEVrZV9SaVREbU03TlYzd2ZvX19PbzdGNGgtdFBXN25aeS1nR3dnQkNlUnVnTVU2SzZSUXhBazExejYxVjVpYTdVSU82OGhfSlAzYjBqcWg5WU43Ukh4bV9Ja2tfWVpFMGJpQXN4emtFY2w5dXpxcnRtZ0lxNlplVzNWVkR5a254cWdCWmZyVy1tVTNMNDIweXRnVWtscUMz?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     },
     {
       "name": "CoreWeave",
-      "category": "AI cloud infrastructure",
-      "summary": "CRWV is trading around $82-83 (markets reopened today) \u2014 partially recovering from the 14% drop triggered by Bloomberg's July 1 Meta Compute cloud report. CoreWeave joined the Nasdaq-100 on June 22 (15 months post-IPO). Evercore ISI reiterated Outperform/$150 citing the $21B Meta take-or-pay contract through 2032. Full Anthropic Claude traffic is running on Vera Rubin NVL72 clusters after the July 1 Fable 5 restoration. Revenue backlog: $99.4B (+50% QoQ). FY2026 guidance: $12-13B. NVIDIA holds ~11% equity stake.",
+      "category": "GPU cloud infrastructure",
+      "summary": "CoreWeave is actively positioning itself for the next phase of AI growth, highlighted by plans to power future AI needs and launching an AI-enabled research agent called ARIA. The company's strong position in the AI cloud computing sector has drawn positive analyst attention, including a reiteration of a Buy rating.",
       "items": [
         {
-          "headline": "CoreWeave joined Nasdaq-100 on June 22 \u2014 markets reopen today; recovery from Meta cloud fears continues",
-          "detail": "CoreWeave joined the Nasdaq-100 Index prior to market open on June 22, 2026 (15 months post-IPO), replacing Charter Communications. CRWV dropped 14% on July 1 following Bloomberg's Meta Compute cloud report and is at approximately $82-83 as markets reopen after the July 4-5 holiday. Evercore ISI reiterated Outperform with a $150 price target, noting the $21B Meta contract has take-or-pay protections through December 2032. Digitimes confirmed July 3 that server supply chain contacts see no change to Meta's 2026 shipment commitments. 37-analyst Buy consensus at a $142.29 average target.",
-          "sourceTitle": "CoreWeave / Evercore ISI",
-          "sourceUrl": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-to-Join-Nasdaq-100-Index/default.aspx",
-          "publishedDate": "2026-06-16"
+          "headline": "CoreWeave Launches AI-Enabled Research Agent, ARIA",
+          "detail": "CoreWeave launched its new AI-enabled research agent named ARIA. This launch signals the company's commitment to advanced AI tooling.",
+          "sourceTitle": "Yahoo Finance",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2FaS21wblcycnphdWJoVmdJM3hSLUhzak5ldTZUOHFQb0tIdGZkNEJHblVlZklMOGp0NWZ6SXEwTlI4ZjNDWF9vQkRoMGJRQTZ0dVNWWEhFRFRJTXBTa2pETlNlVDhkTXFoWXJpS0NsN3N1ZUFpZTJUVUZkdGI1dEFsUWp3dVA1X1BvcUdPS1JaUFlsUXRFMm1nTWhiUms?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Full Anthropic Claude traffic on Vera Rubin NVL72; backlog $99.4B; NVIDIA Kyber delay does not affect NVL72 deployments",
-          "detail": "Fable 5's global restoration on July 1 cleared the 19-day Claude workload backlog on CoreWeave's Vera Rubin NVL72 clusters. Full Anthropic inference traffic is now running. The NVIDIA Kyber NVL144 delay reported July 6 does not affect CoreWeave's existing Vera Rubin NVL72 deployment pipeline. Revenue backlog: $99.4 billion (+50% QoQ). FY2026 revenue guidance: $12-13 billion with an $18-19 billion exit run rate. 2026 capex floor: $31 billion for Vera Rubin NVL72 buildout. Nine of the top ten AI model providers are CoreWeave customers.",
-          "sourceTitle": "CoreWeave Investor Relations",
-          "sourceUrl": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Multi-Year-Agreement-With-Anthropic/",
-          "publishedDate": "2026-04-10"
+          "headline": "Rosenblatt Reiterates Buy Rating on CoreWeave (CRWV)",
+          "detail": "Rosenblatt reiterated a Buy rating for CoreWeave. This suggests positive analyst sentiment regarding the company's market position.",
+          "sourceTitle": "Insider Monkey",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcmRjUFFZeFlRT2pqMVl3eFpQV2pnX2ZvUXVNUG9KWXROQU1haThjQ3NPbHdvUG14SEVhQVBQZWRGdDBRUXdUU0RkbWluRFJ3d0NESnRpYnczX2JWaWloQUxnM1Q0ZlFBRmNxMTBCRFlQeEZxaENSSFRySGVvTGdOaExoRkxPUnl2MUF0VGRBb2o4Sjh2MkRKTXhR0gGiAUFVX3lxTFBLUVlBTWJFOFV0RXFmYlBVdHI3WXdQcVIxaFp2em4xRUFpOVBPVFY4a1lzNnphZjFwVGZ4alRtZUtPWEpkblV4TU9DT2o0clltSldkWWxyd0NwOFBwakhoVEJWQkNDXzZNSUJlcEw2bnVSVlowc1Q1MTgxdEpqQklTM2dMTmx1Z25KRVRBZkxoU0pzRlQ0MWJva1NwMFptemRydw?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     },
     {
       "name": "Mistral AI",
-      "category": "Open and enterprise foundation models",
-      "summary": "Next model release is projected around July 9 (3 days away) based on the ~71-day release cadence. Mistral OCR 4 launched, turning document extraction into a full enterprise AI play. A new 10 MW inference facility in Les Ulis (Essonne) is scheduled to open in Q3 2026. \u20ac3B raise at \u20ac20B valuation discussions are ongoing \u2014 nearly double the September 2025 Series C. Apple has reportedly discussed acquiring Mistral. The 1.4 GW AI campus JV with Bpifrance, UAE fund MGX, and NVIDIA has construction beginning H2 2026. \u20ac1B 2026 revenue target.",
+      "category": "Open-weight foundation models",
+      "summary": "Mistral AI is actively positioning itself as a major competitor in the AI space, engaging with topics from advanced technical releases to industry strategy. The company's leadership has highlighted concerns regarding enterprise data lock-in while also showcasing its capabilities by releasing specialized tools like Leanstral 1.5 for proof engineering. Furthermore, Mistral continues to assert its competitive standing across various use cases.",
       "items": [
         {
-          "headline": "Next model release projected ~July 9 \u2014 3 days away per ~71-day cadence; new Les Ulis inference facility Q3",
-          "detail": "Based on Mistral's approximately 71-day release cadence, the next model is projected around July 9, 2026. Separately, Mistral is opening a new 10 MW facility in Les Ulis (Essonne) dedicated to inference operations, scheduled for Q3 2026. The 1.4 GW AI campus JV with Bpifrance, UAE sovereign fund MGX, and NVIDIA in the Paris region has construction beginning H2 2026. CEO Arthur Mensch targets \u20ac1 billion in 2026 revenue.",
-          "sourceTitle": "Mistral AI / Releasebot",
-          "sourceUrl": "https://mistral.ai/news/",
+          "headline": "Mistral AI Releases Leanstral 1.5 for Lean 4 Proof Engineering",
+          "detail": "Mistral has released Leanstral 1.5, which is designed for proof engineering within the Lean 4 framework.",
+          "sourceTitle": "TechGig",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTllmOGg3LUNxd3pGN01rZTlXc054MXFsN0xLc3N0V0RsRDNYWDFyS2FhcHAycWpKaXFrcThtblh1UkhBZVc3d3Fld0Eyek5EQmplb2lLb04ybmJJTFd5QlVLVFZYYWdNNGMwMXFVVjREU0owTFBKZ0ZaX3BSUlV6ZV9HWnNCMkp2QkxsSFhpczNNenZyS01hb2pmSU8zYU1QNlHSAacBQVVfeXFMTU1kM2x6YUU5R3Z2aEd4S19keHppM3hoVk9EZGp4Q0pNblFVblh2Mmdud2duTGZ5MEQ5LVA1RVRpZHd4dTBrLXpwZnhqeG96Z2t5UGstTC1LMWJMQmtKM1JsaHBBZjV1ZnRmeGxIT0IzaElvbV9NWnVPd1BGOGJsak42V2xjMnZOdFVhMXEtU2pQa1hjcjlob05WanEyb1g2OElIdmw4eUk?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Mistral Releases Leanstral 1.5 for Math Proof Engineering with Lean",
+          "detail": "This release details Mistral's offering of Leanstral 1.5 specifically for mathematical proof engineering using Lean.",
+          "sourceTitle": "WinBuzzer",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1QxNkVvUUx5ZFdSV0IwQnZTYTNmUXd6RWtmOXlKS2ZOYUNmZjZ1cWJ0ME9zdmJnN2FURFE3SXYtUk9ramNZTGdWTk9pdzVTaUFSc2FZOUdUX2JZQmFDcmMtc3VwMnF5Q2Q4enlkQ01DMUFBQ0lJZUg1aTM1SjhkY25kc25VYkNrOTNQMFNyak9GTmlETlVZZXRR?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes",
+          "detail": "The CEO noted that proprietary AI models allow entities to gain direct insight into a lab's business operations.",
+          "sourceTitle": "the-decoder.com",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTnZSNTF0c3NGY2ZkM3RSOUEzcGJPLVUzbENhQWhGVmw1TFRRUm0xX2QyRjBDbTZ2cGJCVWZDYTFhUlFGOUhrSjhXUHlHNUpRTXAyOURMdHJudk56dmhqMFFRME9oNzloUlFyMnVrYTh2Z3ZzdTBqR2tEdno0dU1CUThacVJZYzVaTFRRelVocF82V0trUVU5aDRUQVg5anJqUFJ5aVM4OVotNEd1TTd5Z29vWkNNWWtObTJnaGxid3c2QQ?oc=5",
           "publishedDate": "2026-07-05"
         },
         {
-          "headline": "Mistral OCR 4 and Vibe agent platform launched; \u20ac3B raise at \u20ac20B valuation discussions ongoing; Apple acquisition reported",
-          "detail": "Mistral launched OCR 4, turning document extraction into a full enterprise AI play with structured output, table recognition, and Vibe agent platform integration. Industrial launch customers for Vibe include Airbus, BMW Group, and ASML. Mistral is in discussions to raise approximately \u20ac3 billion ($3.5B) at a potential valuation near \u20ac20 billion ($23.2B), per Bloomberg \u2014 nearly double the \u20ac11.7B Series C from September 2025. Apple has reportedly discussed acquiring Mistral at the ~\u20ac20B valuation as part of its multi-provider AI hedging strategy.",
-          "sourceTitle": "VentureBeat / TechCrunch",
-          "sourceUrl": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
-          "publishedDate": "2026-07-01"
+          "headline": "Mistral AI Competes With ChatGPT Across Use Cases",
+          "detail": "This item reports on Mistral AI's competitive positioning against rivals like ChatGPT across various application scenarios.",
+          "sourceTitle": "Let's Data Science",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZEFjWGgwYkRMc2xDYk5pOGlTRXJEMHg0Q3RQY2xZVHZPS2w5LWJwVUR5WG4zVEpoZjEwWno2V1ZWNW52a0hHaU12RjVianNuSEp2ZFI2UmExdG5udmJfNW91ZEEzSlNUNEZ1eHphT1dsbDBNSW5ER1NLclVOTzFuRW1SVW0wS1FPcjNQa25iX0xBTjNsQkE?oc=5",
+          "publishedDate": "2026-07-05"
+        },
+        {
+          "headline": "Palantir\u2019s Alex Karp and Mistral\u2019s Arthur Mensch agree: AI lock-in is coming for enterprises",
+          "detail": "Both leaders agreed that the trend in enterprise adoption points toward increasing AI lock-in.",
+          "sourceTitle": "The New Stack",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82eU9qS0ZHbTB4U2tqT2pxazYxakZYRlp5UTVjbmo0UE01aHRlVF9XY0tUb3hlVXJBbEtiaUFCbDhGM2VQUE1PVUE3ZXJJRlNsRzZvLVpfQjA?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     },
     {
       "name": "Tesla",
-      "category": "Autonomous vehicles, robotics, and applied AI",
-      "summary": "Tesla's $200/week cap on employee AI tool spending takes effect today (July 6), with xAI Grok explicitly exempt. Employees reportedly prefer Claude over Grok for software engineering. Q2 2026 earnings are scheduled for July 22 following Q2 deliveries of 480,126 \u2014 the company's best Q2 ever, beating consensus by 18%. Optimus Gen 3 V3 production is targeting late July/August at Fremont. The Cybercab fleet is at ~60-100+ units across Austin, Dallas, Houston, and the SF Bay Area.",
+      "category": "Autonomy, robotics, and internal AI tooling",
+      "summary": "Tesla is implementing spending controls on its internal AI usage, capping employee expenditures and limiting overall AI tool spending. Despite these operational constraints, the company continues to deploy advanced technologies, such as launching a Robo-Taxi in Miami. Furthermore, external market sentiment shows skepticism regarding Tesla's reliance on the AI narrative for stock valuation.",
       "items": [
         {
-          "headline": "Tesla $200/week AI spending cap takes effect today \u2014 Grok exempt; employees prefer Claude over Grok",
-          "detail": "Tesla's $200-per-week cap on employee spending on third-party AI tools took effect today July 6, requiring manager sign-off above the threshold. xAI's Grok and Composer are explicitly exempt, reflecting Tesla's $2 billion investment in xAI's Series E in January 2026. Multiple sources report that Grok is unpopular among Tesla employees \u2014 many preferring Anthropic's Claude for software engineering and knowledge work. The cap applies to competing models from Anthropic, OpenAI, and Google. Some Tesla software engineers were consuming thousands of dollars per week in AI tool costs prior to the cap.",
-          "sourceTitle": "TechTimes / Electrek",
-          "sourceUrl": "https://www.techtimes.com/articles/319710/20260704/tesla-limits-ai-tool-spending-200-weekly-while-musks-grok-stays-exempt.htm",
-          "publishedDate": "2026-07-04"
+          "headline": "Tesla Pumps Brakes on In-House AI Usage",
+          "detail": "This indicates a slowdown or restriction in how Tesla is utilizing its own internal AI resources.",
+          "sourceTitle": "PYMNTS.com",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVldoQ2M5YXZ2MzlIUC1QWFhkYXBjSWF0SEgwc01PT2tCaHQ3UVZRWXd1ak9LMUdVb1RfajZPeEZxZk1ZLXVxS1pPZnY5eksteDZRUlhtRG1CcDBDeXF5WGdHUnhKUzFDYzNBbjhrb2NqMjFpT1c3THZ3anhRcXFwa0cxR21qVjJEMmRSdWtxT0dPWjVrckRrUHY1TXlzQQ?oc=5",
+          "publishedDate": "2026-07-06"
         },
         {
-          "headline": "Q2 earnings July 22 \u2014 480,126 delivery beat (18% above consensus); Optimus Gen 3 V3 targeting late July",
-          "detail": "Tesla Q2 2026 financial results are scheduled for July 22 at 4:30 PM CT. Q2 deliveries of 480,126 \u2014 reported July 2 \u2014 beat the company-compiled consensus of 406,024 by 18% and set a new Q2 record. TSLA fell 7.49% on July 2 on 'buy the rumor, sell the news' dynamics. Optimus Gen 3 V3 production is targeting late July/August 2026 at Fremont as the Model S/X line (ended May 2026) converts to robot assembly. V3 features 22-DoF hands, the AI5 chip, and Grok 4.5 voice AI integration.",
-          "sourceTitle": "CNBC / Electrek",
-          "sourceUrl": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html",
-          "publishedDate": "2026-07-02"
+          "headline": "Tesla caps employee AI tool spend at \u20b919,000 a week",
+          "detail": "The company has set specific spending limits for employees regarding AI tools.",
+          "sourceTitle": "MSN",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNXBTR2x6c3p0dFM0em9JMnh5Q0kzM2lZRWdhS25tVWJCSTIzZGFPdWl6V0FORUNQZHcyWVJaclZZZ2RDTmN5QUFSVll6TTAyVnlqalVDV21UekNwZXRTU2NOZ3ExbmY1MzNtTzdrV3huUmxsc216SlFpVVhMNmhHQTNOS0tNdGdxNTBzZ0hXNjdKaWtHTmlqWFJEQXNXSkllUVNlUFZ6d19sblg0c2l5Z3U0a2kyaWxaa3YxOGd0am5kUHFMdXZKUDJIcW1TQWtYV2VtcktSRQ?oc=5",
+          "publishedDate": "2026-07-06"
+        },
+        {
+          "headline": "Tesla Imposes $200 Weekly AI Spending Cap, Exempts Musk's Grok",
+          "detail": "A general weekly cap of $200 is being imposed on AI spending, with an exception made for Musk's Grok.",
+          "sourceTitle": "finance.biggo.com",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aY2luM240MGR5cE1fNzlNbzB0UzJ6SUk1RHQ3SUliRmJQSE0wRDczWEV3c21nNzFzZDJWdXRLQTBZRm9LX2doNVJCUWR5SWVzcGxJX2dfMmhNT1QtbDZmZlc2Ny11SWlKWVBwc3g4TXM2RmYweHc?oc=5",
+          "publishedDate": "2026-07-06"
         }
       ]
     }
@@ -400,41 +540,41 @@
     {
       "company": "Anthropic",
       "stage": "Confidential S-1 submitted",
-      "status": "October 2026 Nasdaq IPO target intact; China enforcement crackdown; Fable 5 Bug Bounty day 3; Samsung chip talks early-stage; ARR $47B",
-      "process": "Anthropic confirmed its confidential draft Form S-1 submission to the SEC on June 1, 2026, targeting an October 2026 Nasdaq IPO led by Goldman Sachs, JPMorgan, and Morgan Stanley with an expected raise of $60B+. The $65B Series H closed at a $965B post-money valuation. ARR: $47B as of May 2026. Fable 5 Bug Bounty on HackerOne (launched July 4) is in day 3. Anthropic is tightening enforcement against Chinese firms bypassing access restrictions \u2014 25,000 fraudulent accounts detected April-June. Early-stage Samsung 2nm chip talks signal intent to develop in-house silicon. Pentagon dispute court docs remain unresolved.",
+      "status": "October 2026 Nasdaq IPO target; Samsung chip talks signal hardware ambitions; ARR $47B; Fable 5 Bug Bounty day 2; Pentagon dispute ongoing; October Nasdaq target intact",
+      "process": "Anthropic confirmed its confidential draft Form S-1 submission to the SEC on June 1, 2026, targeting an October 2026 Nasdaq IPO led by Goldman Sachs, JPMorgan, and Morgan Stanley with an expected raise of $60B+. The $65B Series H closed at a $965B post-money valuation, led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital, with $15B from hyperscalers including $5B from Amazon, plus Micron, Samsung, and SK hynix. ARR: $47B as of May 2026. Fable 5 Bug Bounty on HackerOne (launched July 4) is in day 2 \u2014 the first public AI vulnerability disclosure program for a frontier model. Early-stage Samsung chip talks (July 2 report) signal Anthropic's intent to develop in-house silicon, a new strategic dimension ahead of the IPO.",
       "lastChecked": "2026-07-06",
       "confidence": "Confirmed by company announcement",
-      "note": "October 2026 Nasdaq target remains the working assumption. China enforcement crackdown and Bug Bounty program are both pre-IPO compliance and security narratives.",
+      "note": "Samsung chip talks are early-stage but represent a significant pre-IPO signal that Anthropic is building toward silicon independence alongside AWS Trainium, Google TPU, and NVIDIA. October 2026 Nasdaq target remains the working assumption.",
       "latestArticle": {
-        "title": "Anthropic tightens controls against Chinese access to Claude \u2014 25,000 fraudulent accounts detected",
-        "source": "Digitimes",
-        "url": "https://www.digitimes.com/news/a20260706VL204/anthropic-digitimes-asia-2026-claude.html",
-        "publishedDate": "2026-07-06"
+        "title": "Anthropic in Talks With Samsung to Manufacture Custom AI Chip",
+        "source": "The Information / Bloomberg",
+        "url": "https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip",
+        "publishedDate": "2026-07-02"
       }
     },
     {
       "company": "OpenAI",
       "stage": "Confidential S-1 submitted",
-      "status": "IPO leaning 2027; GPT-5.6 broader access expected July 10-17; 42-state AG probe ongoing; ChatGPT market share 46.4%; user efficiency shift pressuring ARPU",
-      "process": "OpenAI filed a confidential S-1 with the SEC in June 2026, with Goldman Sachs, Morgan Stanley, and JPMorgan leading. The company is leaning toward a 2027 listing \u2014 CFO Sarah Friar cited operational readiness, Stargate cash burn, and SpaceX IPO volatility. The proposed 5% U.S. government equity stake (conceptual, could require an act of Congress) is worth ~$42.6-50B at implied valuation. A coalition of 42 state AGs opened a formal probe June 12. GPT-5.6 Sol, Terra, and Luna remain restricted; broader access expected July 10-17. ChatGPT global AI assistant market share: 46.4% \u2014 first time below 50%.",
+      "status": "IPO leaning 2027; 5% government equity stake proposal conceptual and may require act of Congress; GPT-5.6 broader access expected July 10-17; 42-state AG probe ongoing; ChatGPT market share 46.4%",
+      "process": "Recent articles reiterate the suggestion that OpenAI should 'strike while the iron is hot' regarding an IPO (Items 3 and 6). However, other reports continue to reference the existing timeline suggesting a 2027 listing and the conceptual nature of the government equity stake. No new concrete dates or filings were provided.",
       "lastChecked": "2026-07-06",
-      "confidence": "Confirmed by company self-disclosure; equity proposal reported conceptual",
-      "note": "July 10-17 GPT-5.6 broader access is the next near-term positive catalyst. User efficiency shift (tokenmaxxing to efficiency) is a new risk factor for ARPU assumptions.",
+      "confidence": "Media speculation",
+      "note": "The previous status remains largely intact despite calls for immediate action.",
       "latestArticle": {
-        "title": "OpenAI and Anthropic face new AI reality as users shift from tokenmaxxing to efficiency",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-        "publishedDate": "2026-06-26"
+        "title": "Open AI Should \"Strike While The Iron Is Hot\" - 24/7 Wall St.",
+        "source": "24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSHl5VTNPM0FUZ1F3YVJhaFladDhWdjJHQXBFTGZXX2M2c2ZFTzBkY18ycEl5Z0Q2eUJreGFiYXAzU2ZHc1E5TTQzVC1GZ05MeXY5eGlCUVRQVktEVFhsOTVxZ0ttVHNSNlA0T081QVlqM1ZtdWdWQzY3TnlBSWFZZ3p2MW1qVDI2N19lVEJDcWw?oc=5",
+        "publishedDate": "2026-07-06"
       }
     },
     {
       "company": "SpaceX / xAI",
       "stage": "Public company \u2014 IPO completed June 12, 2026",
-      "status": "SPCX ~$157.54 (July 3 close; markets reopen today); Grok 4.5 private beta; 2T model late July; Grok 5 in development; Tesla AI cap (Grok exempt) in effect today; Cursor Q3 close on track",
-      "process": "SpaceX priced at $135/share on June 11, raising $75 billion at a $1.75 trillion valuation in the largest IPO ever recorded. Shares peaked at $225.64 on June 16 and are at $157.54 as of July 3. Grok 4.5 (1.5 trillion parameters, V9 architecture) is in private beta at Tesla and SpaceX. A 2T parameter successor is in final training expected late July. Grok 5 (6-10T parameters) is in development on Colossus 2. The $60B Cursor acquisition is on track for Q3 2026 close. Both Colossus facilities are committed to third parties.",
+      "status": "SPCX ~$157.54 (July 3 close; markets closed July 4-5); Grok 4.5 private beta confirmed; 2T model late July; Grok 5 in development; both Colossus committed; $60B Cursor Q3 close on track",
+      "process": "SpaceX priced at $135/share on June 11, raising $75 billion at a $1.75 trillion valuation in the largest IPO ever recorded. Shares peaked at $225.64 on June 16 and are at $157.54 as of July 3. Reflection AI's $150M/month Colossus 2 deal started July 1 \u2014 both Colossus facilities are now committed to third parties. Grok 4.5 (1.5 trillion parameters, V9 architecture) is in private beta at Tesla and SpaceX. A 2T parameter successor is in final training expected late July. Grok 5 (6-10T parameters) is in development on Colossus 2. The $60B Cursor acquisition is on track for Q3 2026 close.",
       "lastChecked": "2026-07-06",
       "confidence": "Confirmed; public company as of June 12, 2026",
-      "note": "Tesla AI cap (Grok exempt) takes effect today. Grok 5 development on Colossus 2 is a key strategic signal. Both Colossus facilities commercialized raises questions about xAI's own dedicated training compute.",
+      "note": "Grok 5 development on Colossus 2 is a new strategic signal. Cursor Q3 close remains the next major positive catalyst. Both Colossus facilities commercialized to third parties raises questions about xAI's own dedicated training compute.",
       "latestArticle": {
         "title": "Grok 4.5 private beta confirmed at SpaceX and Tesla; Grok 5 development begins",
         "source": "TradingKey / MEXC News",
@@ -445,71 +585,41 @@
     {
       "company": "Cerebras Systems",
       "stage": "Public company",
-      "status": "CBRS public (Nasdaq, May 2026); Q1 2026 revenue $193.4M (+92% YoY); GPT-5.6 Sol Cerebras deployment expected this month at 750 tok/sec; $20B+ OpenAI compute deal active",
-      "process": "Cerebras completed its Nasdaq IPO in May 2026 under ticker CBRS. Q1 2026 results (released June 23) massively beat estimates: $193.4M revenue vs. $56.65M expected (+92% YoY). Major deals: multi-year OpenAI compute deal (750MW, $20B+ valued, option to $30B) and a multi-year AWS partnership pairing Cerebras CS-3 with Trainium 3 for inference disaggregation. OpenAI is deploying GPT-5.6 Sol on Cerebras wafer-scale hardware this month at up to 750 tokens per second.",
+      "status": "CBRS public (Nasdaq, May 2026); Stock up 11% since IPO; Potential fraud investigation reported.",
+      "process": "Following its successful Nasdaq IPO in May 2026 and strong Q1 2026 results, Cerebras stock has seen positive movement, including an 11% increase since the IPO. However, a new development is the report of a securities fraud investigation following the IPO period.",
       "lastChecked": "2026-07-06",
-      "confidence": "Confirmed; public company",
-      "note": "GPT-5.6 Sol Cerebras deployment this month is the key near-term positive catalyst.",
+      "confidence": "Mixed (Positive price action vs. Negative regulatory news)",
+      "note": "The market reaction shows volatility between strong performance reports and external investigations.",
       "latestArticle": {
-        "title": "Cerebras Systems Announces Strong First Quarter 2026 Results",
-        "source": "StockTitan / Yahoo Finance",
-        "url": "https://www.stocktitan.net/news/CBRS/cerebras-systems-announces-strong-first-quarter-2026-r7otc36byypc.html",
-        "publishedDate": "2026-06-23"
-      }
-    },
-    {
-      "company": "CoreWeave",
-      "stage": "Public company \u2014 IPO completed March 2025; joined Nasdaq-100 June 22, 2026",
-      "status": "CRWV at ~$82-83 (markets reopen today after holiday); recovery from Meta cloud fears; Nasdaq-100 member; Evercore Outperform/$150; take-or-pay through 2032; backlog $99.4B",
-      "process": "CoreWeave completed its Nasdaq IPO in March 2025 (priced at $40/share) and joined the Nasdaq-100 on June 22, 2026 (15 months post-IPO), replacing Charter Communications. CRWV dropped 14% on July 1 following Bloomberg's Meta Compute cloud report and is at approximately $82-83 as markets reopen. Evercore ISI reiterated Outperform/$150, citing the $21B Meta take-or-pay contract through 2032. Revenue backlog: $99.4B (+50% QoQ). FY2026 revenue guidance: $12-13 billion.",
-      "lastChecked": "2026-07-06",
-      "confidence": "Confirmed; public company",
-      "note": "Nasdaq-100 membership adds index fund buying pressure. NVIDIA Kyber NVL144 delay (July 6) does not affect existing Vera Rubin NVL72 deployments.",
-      "latestArticle": {
-        "title": "CoreWeave to Join Nasdaq-100 Index",
-        "source": "CoreWeave",
-        "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-to-Join-Nasdaq-100-Index/default.aspx",
-        "publishedDate": "2026-06-16"
-      }
-    },
-    {
-      "company": "Hugging Face",
-      "stage": "Public company \u2014 IPO completed June 9, 2026",
-      "status": "IPO at $42/share; raised $2.1B; $15B market cap; ticker HFCE on Nasdaq; open-source AI infrastructure bellwether",
-      "process": "Hugging Face completed its Nasdaq IPO on June 9, 2026, pricing at $42 per share and raising $2.1 billion at a $15 billion market cap under ticker HFCE. The IPO is widely seen as an open-source AI watershed \u2014 the first major public listing of a company whose primary assets are open-source model repositories, training infrastructure, and developer community.",
-      "lastChecked": "2026-07-06",
-      "confidence": "Confirmed; public company as of June 9, 2026",
-      "note": "Track as an indicator of investor appetite for open-source AI business models.",
-      "latestArticle": {
-        "title": "Inside the Hugging Face IPO: What It Means for Open-Source AI in 2026",
-        "source": "Tech Daily Shot",
-        "url": "https://techdailyshot.com/blog/hugging-face-ipo-impact-open-source-ai-2026",
-        "publishedDate": "2026-06-09"
+        "title": "Cerebras Systems Faces Securities Fraud Investigation After IPO - GuruFocus",
+        "source": "GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQN0JNY25XeFptQXJMQlRzQnJXNjhIcWtDTDF1SXd0dXVMd3d0ZzBOekhNMUh6TFVrM1cwVnZFOG1OekxoM2ZtOFcydjM3ODBBT0hhbS1TNEt2TExranNXd0tsa0dfNmpZZ1RBaE1nQVhGTGtUZktrN2lWWUVqV2R6S2RzQk9mZ3ZHUFljSVVTLXFxVnBmQy1Nd0o4Q2RWeXNxWVlhaEZuQzU4OVZkR0ZmTHJqUDJIOTk5YW9QeTktRUhXbnZyQWtIQk45b0JmOTVkN2I3RVIxcDFKZ04wUnVHRUpqOU1uRW1pS3Zfell1dmRTdkpObGl5ZUx1TDlMVlNQLTN3Vklaa2lRbHdta1luejUwTVg2LTFKclJaTFJSTU9WZkJIeWgtNFl3a1JLdEdlSU02SXJ5R091SWVkMVZNT0RYMlVtay1oOGc?oc=5",
+        "publishedDate": "2026-07-02"
       }
     },
     {
       "company": "Databricks",
       "stage": "Watchlist candidate \u2014 CEO explicitly IPO-bound; H2 2026 or 2027 S-1 expected",
-      "status": "No filing confirmed; CEO Ali Ghodsi called 2026 'terrible year to go public' but is explicitly IPO-bound; $5.4B ARR at 65% YoY growth; $165-175B valuation target",
-      "process": "Databricks CEO Ali Ghodsi has shifted to an explicitly IPO-bound posture targeting 2027 or H2 2026 at $165-175 billion valuation. Despite calling 2026 'a terrible year to go public' in early June (citing the SpaceX/Anthropic/OpenAI trifecta absorbing $200B+ in IPO capital), reporting indicates an S-1 filing is still expected in H2 2026. The company has $5.4 billion ARR growing 65% YoY with positive free cash flow. SpaceXAI announced native Grok availability on Databricks Agent Bricks at the 2026 Data + AI Summit (June 18).",
+      "status": "No filing confirmed; CEO Ali Ghodsi called 2026 'terrible year to go public' (June 4) but is explicitly IPO-bound; $5.4B ARR at 65% YoY growth; $165-175B valuation target",
+      "process": "Databricks CEO Ali Ghodsi has maintained an explicitly IPO-bound posture targeting 2027 or H2 2026 at a high valuation. While the company continues to show strong fundamentals ($5.4B ARR, 65% YoY growth), recent market chatter suggests retail interest in pre-IPO exposure. No new filing dates have been announced.",
       "lastChecked": "2026-07-06",
       "confidence": "H2 2026 or 2027 S-1 expected per reporting; no filing confirmed",
-      "note": "Strong fundamentals support the $165-175B valuation target. Watch for S-1 filing announcement.",
+      "note": "Retail interest noted via Stocktwits, but core IPO timeline remains unchanged.",
       "latestArticle": {
-        "title": "IPO-bound Databricks reportedly eyes $175B valuation after hitting $5.4B revenue run rate",
-        "source": "Tech Funding News",
-        "url": "https://techfundingnews.com/ipo-bound-databricks-reportedly-eyes-175b-valuation-after-hitting-5-4b-revenue-run-rate/",
-        "publishedDate": "2026-06-20"
+        "title": "RVI Fund Eyes Best Week Ever \u2014 Retail Chases Databricks Pre-IPO Exposure - Stocktwits",
+        "source": "Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcEZoMFpwQUVqZVJKNXZyejRzTmdzdHU0b0ZlSERpVVphejR4VGJyTEI3WEhkQ0YtcDY5YUdmT0FvdUtwX1ZrV3M3QnJhOHpRS0RFZkwyX0VoNTcybWxQeElnWGFyNzJldzcyNHpHN0ZOdVhqYTFxWl9ISE1KR0JTc2NaQlV6cFAzTXpPdDh6cVUzYmpGNW9hRlM5NVFlc1ZvQXM3REgteGY4ek5wWTMyOXROUnFlZS1DSVNkcWZ0NUR0UXZIcW5XN0U0RllnTjdobllaOWxDZ2M1d3VUOVZJ?oc=5",
+        "publishedDate": "2026-07-05"
       }
     },
     {
       "company": "Scale AI",
       "stage": "Watchlist candidate \u2014 no primary-source filing confirmed",
-      "status": "Unverified filing claims; no SEC or company confirmation; $14B+ raised June 2025",
-      "process": "Some IPO tracker sites claim Scale AI filed an S-1 in March 2026, but no matching SEC filing, Scale AI announcement, or credible primary-source confirmation has been found as of July 6, 2026. Scale raised more than $14 billion in June 2025 and is unlikely to pursue a near-term IPO given its recent large private financing.",
+      "status": "Unverified filing claims; no SEC or company confirmation found; $14B+ raised June 2025",
+      "process": "Some IPO tracker sites claim Scale AI filed an S-1 in March 2026, but no matching SEC filing, Scale AI announcement, or credible primary-source confirmation has been found as of July 5, 2026. Scale raised more than $14 billion in June 2025 and is unlikely to pursue a near-term IPO given its recent large private financing.",
       "lastChecked": "2026-07-06",
       "confidence": "Low until verified by primary source",
-      "note": "No change from prior checks. Tracker-only claims remain unconfirmed.",
+      "note": "No change from prior checks. No SEC EDGAR record for Scale AI found. Tracker-only claims remain unconfirmed.",
       "latestArticle": {
         "title": "Can You Invest in Scale AI Pre-IPO?",
         "source": "The Motley Fool",
@@ -519,59 +629,54 @@
     },
     {
       "company": "Perplexity AI",
-      "stage": "High-growth private company \u2014 2028 IPO target confirmed; Apple acquisition discussions unresolved",
-      "status": "2028 IPO reaffirmed; Windows PC launch imminent; Perplexity for Gov live; $500M ARR; 100M MAU; $20B valuation; Apple discussed acquisition at $20B",
-      "process": "CEO Aravind Srinivas publicly stated a preference for an independent 2028 IPO. ARR reached $500 million (+335% YoY) with 100M+ monthly active users and a $20 billion valuation from the May 2026 round. Personal Computer GA on Mac since May 7; Windows version with hybrid local-cloud inference orchestrator targeting July 2026 (imminent). Perplexity for Gov launched alongside the GSA with FedRAMP compliance underway. Apple executives have reportedly discussed acquiring Perplexity at its $20B valuation \u2014 no move has been made.",
+      "stage": "High-growth private company \u2014 2028 IPO target confirmed; Apple acquisition talks unresolved",
+      "status": "2028 IPO reaffirmed; Windows PC targeting this month; Perplexity for Gov launched; $500M ARR; 100M MAU; $20B valuation; Apple reportedly discussed acquisition at $20B",
+      "process": "CEO Aravind Srinivas publicly stated a preference for an independent 2028 IPO, which was confirmed in the latest report. The previous details regarding ARR ($500M), user base (100M MAU), and valuation ($20B) remain consistent with prior reporting. No new developments were reported concerning the Windows PC launch or Apple acquisition talks.",
       "lastChecked": "2026-07-06",
-      "confidence": "No filing; 2028 IPO is stated preference; Apple acquisition reported but not confirmed",
-      "note": "Windows Personal Computer this month is the key near-term product catalyst. 2028 IPO timeline is firm per CEO.",
+      "confidence": "Media speculation",
+      "note": "",
       "latestArticle": {
-        "title": "Apple reportedly discussed acquiring Perplexity AI",
-        "source": "Sherwood News",
-        "url": "https://sherwood.news/tech/apple-has-reportedly-considered-buying-mistral-ai-and-perplexity/",
-        "publishedDate": "2026-07-03"
+        "title": "Perplexity CEO confirms 2028 IPO plan amid AI listing race - qz.com",
+        "source": "qz.com",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JRnZIZ2tlWUpEbXFjOWR1djJscXRzbXAtZlVvbldjcXlFLTA2UDdvMGJyLXFGRkhxa205MWJZOHJxZEhXSS1teVdVcnhQUlhJT2o0NzdoRjlsOUtrdzZMTkE5YkI5aWViZUM0WU9UUQ?oc=5",
+        "publishedDate": "2026-07-04"
+      }
+    },
+    {
+      "company": "Hugging Face",
+      "stage": "Public company \u2014 IPO completed June 9, 2026",
+      "status": "IPO at $42/share; raised $2.1B; $15B market cap; ticker HFCE on Nasdaq; open-source AI infrastructure bellwether",
+      "process": "Hugging Face remains a publicly traded company following its IPO on June 9, 2026. The most recent news item discusses the general state of AI hype using Jersey Mike's as an analogy, but provides no specific updates regarding Hugging Face's operations or listing status.",
+      "lastChecked": "2026-07-06",
+      "confidence": "Confirmed; public company as of June 9, 2026",
+      "note": "",
+      "latestArticle": {
+        "title": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become - TechCrunch",
+        "source": "TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1NHOFZndjVmZ2FucDh6TmpNY25TNnhNYV9UaXRnQk82enZIckhGYVV2NUkxVWRyX0M2R2h1bHZid3h4M1dza29sREVTanB3RThqeU4xdV82cGNWRklYYk1NRWpfdkdNWnc0TEtxMnllajhETUp2S29kRWl1UEtEUTJYcWtGMWZJemdQNzFkc1E1eDRWMjg1LW9B?oc=5",
+        "publishedDate": "2026-07-02"
       }
     }
   ],
   "partnershipTracker": [
     {
-      "relationship": "Anthropic - xAI / SpaceXAI",
+      "relationship": "Anthropic - xAI / SpaceX",
       "companies": [
         "Anthropic",
         "xAI",
-        "SpaceXAI"
+        "SpaceX"
       ],
-      "type": "Compute capacity contract",
-      "status": "Confirmed; Colossus 1 serving Anthropic at ~$1.25B/month through May 2029; Colossus 2 serving Reflection AI since July 1; full Claude traffic running after Fable 5 restoration",
-      "terms": "SpaceXAI provides Anthropic access to Colossus 1 at approximately $1.25 billion per month through May 2029 (90-day exit clause). Colossus 1 houses approximately 220,000+ NVIDIA GPUs across 300MW. Colossus 2 began serving Reflection AI on July 1 at $150M/month ($6.3B through 2029), meaning both Colossus facilities are committed to third parties. Fable 5 and Mythos 5 export controls were lifted July 1, restoring full global Claude access and resumed normal workload flow to Colossus 1.",
+      "type": "Compute capacity speculation",
+      "status": "Elon Musk suggests Anthropic could purchase compute from xAI.",
+      "terms": "The article speculates that Grok's low usage might allow Elon Musk to sell compute resources directly to Anthropic. This indicates a potential, though unconfirmed, commercial transaction regarding computational power between the two entities.",
       "lastChecked": "2026-07-06",
-      "confidence": "Confirmed relationship; monthly payment figure from reporting, not company-confirmed",
-      "note": "No structural change on July 6. Anthropic's China enforcement crackdown does not affect the Colossus 1 compute relationship.",
+      "confidence": "Media speculation",
+      "note": "",
       "latestArticle": {
-        "title": "SpaceX signs $6.3 billion compute deal with Reflection AI for Colossus data center",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
-        "publishedDate": "2026-06-22"
-      }
-    },
-    {
-      "relationship": "Anthropic - Amazon / AWS",
-      "companies": [
-        "Anthropic",
-        "Amazon",
-        "AWS"
-      ],
-      "type": "Cloud and custom-silicon compute",
-      "status": "Confirmed; $100B+/10-year, 5GW Trainium; Project Rainier active at ~500K chips; ASCI classified cloud expands federal Claude distribution; jailbreak framework active",
-      "terms": "The April 2026 expanded agreement commits more than $100 billion over 10 years, securing up to 5GW of Trainium2/3/4 capacity. Project Rainier runs nearly half a million Trainium2 chips for Claude workloads, with 1M+ chips expected by year end. Amazon invested $5B in Anthropic's $65B Series H. AWS Secret Cloud for Industry (ASCI) expands federal Claude distribution. Microsoft, Anthropic, AWS, and Google co-developed a jailbreak severity scoring framework announced July 4.",
-      "lastChecked": "2026-07-06",
-      "confidence": "Confirmed by company and partner",
-      "note": "ASCI classified cloud creates a new federal distribution channel for Claude. No new contract changes on July 6.",
-      "latestArticle": {
-        "title": "Anthropic and Amazon expand collaboration for up to 5 gigawatts of new compute",
-        "source": "Anthropic",
-        "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
-        "publishedDate": "2026-04-20"
+        "title": "Grok\u2019s usage is so low that Elon Musk can sell compute to Anthropic - Fast Company",
+        "source": "Fast Company",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNam91SlRFQ0U2SjhVdkJYVmtzYjVkcWNDQ0QyN1F5NjItVDNqWW1uM2dOM19FRTVVODQwYkZQQVZUS0cwSENpZHRIVVFJWFBsZWx3aVJiSkFUa1U2OWxaa1hTbWl4RHR6Z0Q0b2sxcEUwRF91N3hzMHhoemFmMGJJYV95dmFaZnVFTjhTNDRRQzFUXzBoSTVNcQ?oc=5",
+        "publishedDate": "2026-07-05"
       }
     },
     {
@@ -582,16 +687,16 @@
         "Broadcom"
       ],
       "type": "TPU capacity and silicon supply",
-      "status": "Confirmed; ~3.5GW TPU capacity starting 2027; Apollo/Blackstone $35B AI XPV Platform operational; AVGO down ~26% from high \u2014 does not affect TPU supply terms",
-      "terms": "Anthropic's agreement with Google and Broadcom secures approximately 3.5 gigawatts of next-generation TPU capacity expected to start coming online in 2027. Google has invested up to $40 billion in Anthropic. The Apollo/Blackstone $35B AI XPV Platform (operational since June 9) facilitates Anthropic's 1+ gigawatt compute expansion at Fluidstack-based sites beginning mid-2026 using Broadcom XPUs. NVIDIA Kyber NVL144 delay does not affect this TPU relationship.",
+      "status": "Confirmed; Anthropic's compute access is expanded through deals involving Google and Broadcom.",
+      "terms": "Anthropic has secured agreements with both Google and Broadcom, indicating an expansion of its compute access. These new reports confirm the ongoing partnership structure involving all three entities for AI infrastructure needs.",
       "lastChecked": "2026-07-06",
-      "confidence": "Confirmed by company",
-      "note": "No structural change on July 6. TPU capacity comes online in 2027.",
+      "confidence": "Confirmed relationship",
+      "note": "",
       "latestArticle": {
-        "title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
-        "source": "Anthropic",
-        "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-        "publishedDate": "2026-04-06"
+        "title": "Anthropic Signs Mega Deal With Google, Broadcom: Why Bitcoin Miners Should Pay Attention - International Business Times",
+        "source": "International Business Times",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMlVodlk0Z1NZYkFIb3JXTEVTa0QwVko1WmVIM1FZNW1sSElYak1FMDdObjZYc0xOUk5OZ3ZCb3YxWVMzY3hZMHNEUkhpOVNzVlp4dmVlWUNZaTRhVU1SbnRzU2d5ajZ5Ymd0RTZYblgyTXpDbUZlRE1BTkhtUjVKbGg2Yi1WNUxsY2pmd2dhaVNyMVJuWlRCRG1qaHB0RGN1enZNaEQ0S25NeTU4aFNQWU9RZw?oc=5",
+        "publishedDate": "2026-07-04"
       }
     },
     {
@@ -602,35 +707,16 @@
         "NVIDIA"
       ],
       "type": "Cloud, model distribution, investment, and GPU optimization",
-      "status": "Confirmed; Claude in Microsoft Foundry GA on GB300 since June 29; Frontier Co. day 5 adds enterprise channel; Maia 200 negotiations ongoing; NVIDIA Kyber delay does not affect GB300 supply",
-      "terms": "Anthropic has committed to purchase $30 billion of Azure compute capacity. Claude models in Microsoft Foundry on NVIDIA GB300 Blackwell Ultra GPUs are generally available as of June 29. Microsoft plans a 40% GB300 capacity expansion by September 2026. Microsoft Frontier Co. ($2.5B, 6,000 embedded engineers) adds a new enterprise deployment channel for Claude. Microsoft and Anthropic remain in active negotiations to deploy Claude on Maia 200 custom AI accelerators. The NVIDIA Kyber NVL144 delay does not affect the GB300-based GA deployment or existing Vera Rubin NVL72 shipments.",
+      "status": "Confirmed; Claude in Microsoft Foundry GA on GB300 Blackwell Ultra since June 29; Copilot Cowork billing day 5; Frontier Co. adds enterprise channel for Claude; Maia 200 negotiations ongoing",
+      "terms": "Anthropic has committed to purchase $30 billion of Azure compute capacity. Claude models in Microsoft Foundry on NVIDIA GB300 Blackwell Ultra GPUs are generally available as of June 29. Microsoft plans a 40% GB300 capacity expansion by September 2026. Microsoft Frontier Co. ($2.5B, 6,000 embedded engineers) adds a new enterprise deployment channel for Claude alongside GPT-5.5. Microsoft and Anthropic remain in active negotiations to deploy Claude on Maia 200 custom AI accelerators. Vera Rubin production shipments to Microsoft Azure began in July 2026.",
       "lastChecked": "2026-07-06",
       "confidence": "Confirmed; Claude in Foundry GA milestone achieved June 29; Maia 200 talks reported but not finalized",
-      "note": "NVIDIA Kyber NVL144 delay is notable context for this relationship \u2014 future rack-scale expansions beyond NVL72 are pushed to 2028. No immediate impact on current GA infrastructure.",
+      "note": "",
       "latestArticle": {
-        "title": "Microsoft, NVIDIA and Anthropic deepen AI collaboration with Claude general availability",
-        "source": "TechAfrica News",
-        "url": "https://techafricanews.com/2026/07/01/microsoft-nvidia-and-anthropic-deepen-ai-collaboration-with-claude-general-availability/",
-        "publishedDate": "2026-07-01"
-      }
-    },
-    {
-      "relationship": "Anthropic - Samsung",
-      "companies": [
-        "Anthropic",
-        "Samsung"
-      ],
-      "type": "Custom silicon manufacturing \u2014 early-stage talks",
-      "status": "Early-stage; Samsung participated in Anthropic's $65B Series H; Anthropic hired former OpenAI Jalape\u00f1o chip engineer in June; 2nm chip talks at design-exploration stage",
-      "terms": "Anthropic held early-stage talks with Samsung Electronics as a potential manufacturing partner for a custom AI inference accelerator, targeting Samsung's 2-nanometer foundry process and advanced packaging facilities. Anthropic hired Clive Chan (former OpenAI custom chip engineer who helped build the Broadcom-designed Jalape\u00f1o ASIC) in early June 2026. Samsung participated in Anthropic's $65B Series H alongside SK Hynix and Micron. Anthropic has not yet determined chip function, performance targets, or power envelope. The company may not proceed.",
-      "lastChecked": "2026-07-06",
-      "confidence": "Reported by The Information and Bloomberg; confirmed early-stage exploration; no formal agreement",
-      "note": "Samsung is also reportedly in early-stage talks with Meta for custom MTIA chips. This remains exploration-stage \u2014 not a committed contract.",
-      "latestArticle": {
-        "title": "Samsung reportedly in talks to make 2nm AI chips for Anthropic and Meta",
-        "source": "SamMobile",
-        "url": "https://www.sammobile.com/2026/07/04/samsung-talks-make-2nm-ai-chips-anthropic-meta/",
-        "publishedDate": "2026-07-04"
+        "title": "Anthropic\u2019s Claude Available in Microsoft Corporation (MSFT) Foundry Powered by Nvidia GPUs - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2VqN05jbmlqcy00Z3N0SEtoRW5qU2xVeW95V21DTDdPR2xuQXhtYkNoYXY4ZU5lZnlQUTJLR2RmT2N3MXVMbmp6a0Zva2pBbmxpWHZJaVBDWXJhVW1HOXEtODZEV2h1Nmc2Z3h5dFB5cHpJWWNaSGpmWWFna1VQcTVOUUVfZnZ4dUFtWFNkS1lHbHJxd3Y4d3BIZXBhYmFYbGlzUlFUcWk5bWE3MUhtcjdB?oc=5",
+        "publishedDate": "2026-07-05"
       }
     },
     {
@@ -640,11 +726,11 @@
         "Microsoft"
       ],
       "type": "Cloud, product distribution, and IP licensing",
-      "status": "Confirmed amended partnership; Copilot Cowork billing day 6; Frontier Co. deepens enterprise channel; GPT-5.6 restricted; broader access expected July 10-17",
-      "terms": "Microsoft remains OpenAI's primary cloud partner under a non-exclusive IP license through 2032 (amended April 27, 2026). GPT-5.6 Sol, Terra, and Luna remain restricted to approximately 20 organizations; broader access expected July 10-17. Copilot Cowork billing at $0.01/Copilot Credit is in its sixth day. Microsoft Frontier Co. ($2.5B, 6,000 embedded engineers) adds enterprise professional services deployment capacity for OpenAI products. Microsoft is evaluating DeepSeek V4 for some Cowork workloads to reduce API costs.",
+      "status": "Confirmed amended partnership; Copilot Cowork billing day 5; Frontier Co. deepens enterprise channel; GPT-5.6 restricted; broader access expected July 10-17",
+      "terms": "Microsoft remains OpenAI's primary cloud partner under a non-exclusive IP license through 2032 (amended April 27, 2026). GPT-5.6 Sol, Terra, and Luna remain restricted to approximately 20 organizations; broader access expected July 10-17. Copilot Cowork billing at $0.01/Copilot Credit is in its fifth day. Microsoft Frontier Co. ($2.5B, 6,000 embedded engineers) adds enterprise professional services deployment capacity for OpenAI products. Microsoft is evaluating DeepSeek V4 for some Cowork workloads to reduce API costs.",
       "lastChecked": "2026-07-06",
       "confidence": "Confirmed by company",
-      "note": "July 10-17 GPT-5.6 broader access is the next model availability milestone for this relationship.",
+      "note": "Frontier Co. adds enterprise deployment muscle for OpenAI products. July 10-17 GPT-5.6 broader access is the next model availability milestone for this relationship.",
       "latestArticle": {
         "title": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
         "source": "CNBC",
@@ -658,17 +744,17 @@
         "OpenAI",
         "Amazon"
       ],
-      "type": "Cloud, model distribution, and strategic infrastructure partnership",
-      "status": "Confirmed; GPT-5.5 and Codex GA on Bedrock; GPT-5.6 expected on Bedrock July 10-17; ASCI and ICAMF expand federal market; $50B Amazon Stargate investment",
-      "terms": "OpenAI's frontier models (GPT-5.5, GPT-5.4) and Codex are generally available on AWS Bedrock since June 1. GPT-5.6 Sol is expected on Bedrock in the July 10-17 window. Amazon invested $50 billion in the March 2026 Stargate funding round. OpenAI holds a 2GW Trainium capacity contract. AWS Summit DC ICAMF and ASCI expand the federal market for OpenAI workloads on Bedrock.",
+      "type": "Compute capacity contract",
+      "status": "Confirmed; OpenAI is betting on Trainium, and Amazon secured a landmark $138B AWS deal.",
+      "terms": "OpenAI's frontier models (GPT-5.5, GPT-5.4) and Codex are generally available on AWS Bedrock since June 1. GPT-5.6 Sol is expected on Bedrock in the July 10-17 window. Amazon secured a landmark $138B deal, with OpenAI specifically betting on Trainium.",
       "lastChecked": "2026-07-06",
-      "confidence": "Confirmed by company",
-      "note": "GPT-5.6 July 10-17 broader release is the next key Bedrock milestone for this relationship.",
+      "confidence": "Confirmed relationship",
+      "note": "",
       "latestArticle": {
-        "title": "OpenAI frontier models and Codex are now available on AWS",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-        "publishedDate": "2026-06-01"
+        "title": "Amazon secures landmark $138B AWS deal as OpenAI bets on Trainium - Investing.com",
+        "source": "Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN21YbUxka2E2R2puckI0Nkd1ckt3Q0N0UUdSbTBEYWdEQ01hc0ZmNjB5aFh5dEFFVzg4Q3o5aVpha01aeWdvNWZDWXhBNUtrZDd3bUNpNHhPOGZYT3FVWGRobF96OURScHdlOUw2bHJPd3ZQeU9JekhySF9FMGZFX1d4d2hFak1MbkU3V2J0OUlZOHduQWlwVUpkUXZuSjYwUGgzR3Z4UjhOeURFYWZoYXNTZUJWSW8?oc=5",
+        "publishedDate": "2026-07-04"
       }
     },
     {
@@ -678,16 +764,16 @@
         "NVIDIA"
       ],
       "type": "GPU infrastructure and strategic supplier relationship",
-      "status": "Confirmed; 10GW partnership; H2 2026 first-gigawatt Vera Rubin on track; Kyber NVL144 delay pushes next rack upgrade to 2028",
-      "terms": "NVIDIA agreed to deploy at least 10GW of NVIDIA systems for OpenAI infrastructure, with the first gigawatt targeted for H2 2026 on Vera Rubin. NVIDIA invested $30 billion in Stargate in March 2026. Vera Rubin production shipments began in July 2026 to AWS, Google Cloud, Microsoft Azure, OCI, and CoreWeave. The NVIDIA Kyber NVL144 delay (reported July 6) pushes the next-generation rack upgrade beyond 2027 into 2028, but does not affect the existing Vera Rubin NVL72 commitment.",
+      "status": "Confirmed; 10GW partnership; H2 2026 first-gigawatt Vera Rubin deployment on track; Vera Rubin production shipments to hyperscalers began July 2026",
+      "terms": "NVIDIA agreed to deploy at least 10GW of NVIDIA systems for OpenAI infrastructure, with the first gigawatt targeted for H2 2026 on Vera Rubin. NVIDIA invested $30 billion in Stargate in March 2026. Vera Rubin production shipments began in July 2026 to AWS, Google Cloud, Microsoft Azure, OCI, and CoreWeave \u2014 the infrastructure backbone that will host OpenAI's H2 2026 compute expansion.",
       "lastChecked": "2026-07-06",
       "confidence": "Confirmed by company",
-      "note": "Kyber NVL144 delay is notable context \u2014 the H2 2026 first-gigawatt milestone depends on NVL72, which is unaffected. Future rack-scale expansions are pushed.",
+      "note": "Vera Rubin shipments beginning in July 2026 to hyperscalers advances the H2 2026 first-gigawatt milestone. No structural change to the relationship on July 5.",
       "latestArticle": {
-        "title": "NVIDIA Kyber NVL144 delayed to 2028 \u2014 Vera Rubin NVL72 shipments unaffected",
-        "source": "CNBC / SemiAnalysis",
-        "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
-        "publishedDate": "2026-07-06"
+        "title": "OpenAI and NVIDIA Announce Strategic Partnership to Deploy 10 Gigawatts of NVIDIA Systems",
+        "source": "NVIDIA",
+        "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+        "publishedDate": "2025-09-22"
       }
     },
     {
@@ -697,11 +783,11 @@
         "AMD"
       ],
       "type": "GPU capacity partnership",
-      "status": "Confirmed; 6GW partnership beginning with 1GW MI450 in H2 2026; MI450 samples shipping; Oracle 50K unit MI450 cluster Q3; NVIDIA Kyber delay may improve AMD competitive timing; AMD Advancing AI 2026 July 22-23",
-      "terms": "OpenAI and AMD agreed on a multi-generation 6GW GPU deployment beginning with an initial MI450 rollout of approximately 1GW in H2 2026. AMD CEO Lisa Su confirmed MI450 samples are shipping to OpenAI. Oracle's 50,000-unit MI450 deployment in Q3 2026 adds the first publicly available MI450-based AI supercluster. AMD Advancing AI 2026 (July 22-23) will formally launch MI450. The NVIDIA Kyber NVL144 delay removes a competing next-generation rack system from the 2026-2027 window, potentially improving AMD Helios rack timing.",
+      "status": "Confirmed; 6GW partnership beginning with 1GW MI450 in H2 2026; MI450 samples shipping to OpenAI; Oracle 50K unit MI450 cluster adds adjacent capacity; AMD Advancing AI 2026 July 22-23",
+      "terms": "OpenAI and AMD agreed on a multi-generation 6GW GPU deployment beginning with an initial MI450 rollout of approximately 1GW in H2 2026. AMD CEO Lisa Su confirmed MI450 samples are shipping to OpenAI. Oracle's 50,000-unit MI450 deployment in Q3 2026 adds the first publicly available MI450-based AI supercluster, providing an adjacent cloud resource for OpenAI workloads. AMD Advancing AI 2026 (July 22-23) is expected to formally launch MI450.",
       "lastChecked": "2026-07-06",
       "confidence": "Confirmed by company",
-      "note": "AMD Advancing AI 2026 on July 22-23 is the next major milestone. NVIDIA Kyber delay is a competitive tailwind for AMD Helios rack market positioning.",
+      "note": "AMD Advancing AI 2026 on July 22-23 is the next major milestone for this relationship \u2014 formal MI450 launch and Helios rack confirmation expected.",
       "latestArticle": {
         "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
         "source": "OpenAI",
@@ -722,7 +808,7 @@
       "terms": "OpenAI's Stargate compute platform spans Oracle, SoftBank, CoreWeave, and related infrastructure partners. The Abilene, TX flagship (1.2 GW on Oracle Cloud) is fully operational. Amazon invested $50 billion and NVIDIA invested $30 billion in the March 2026 Stargate funding round. Jalape\u00f1o \u2014 OpenAI's first custom ASIC co-developed with Broadcom \u2014 targets H2 2026 Stargate deployment with 1.3 GW compute committed for 2027.",
       "lastChecked": "2026-07-06",
       "confidence": "Confirmed platform; evolving structure",
-      "note": "Jalape\u00f1o H2 2026 Stargate deployment is the next major structural milestone. Treat Stargate as a living infrastructure network.",
+      "note": "Jalape\u00f1o H2 2026 Stargate deployment is the next major structural milestone for this partnership. Treat Stargate as a living infrastructure network rather than a static venture.",
       "latestArticle": {
         "title": "OpenAI and Broadcom unveil Jalape\u00f1o \u2014 first custom AI inference chip",
         "source": "CNBC",
@@ -737,16 +823,16 @@
         "CoreWeave"
       ],
       "type": "AI cloud capacity contract",
-      "status": "Confirmed; $21B take-or-pay through December 2032; Meta Compute cloud does not affect existing contract; Digitimes confirms 2026 supply commitments unchanged",
-      "terms": "CoreWeave confirmed Meta expanded the relationship to provide AI cloud capacity through December 2032 for approximately $21 billion, including initial NVIDIA Vera Rubin deployments. The contract is take-or-pay \u2014 Meta cannot redirect spend without financial penalty. Meta's announcement of Meta Compute cloud (July 1) raised investor concerns about future CoreWeave utilization, but Digitimes reported July 3 that server supply chain contacts see no change to Meta's 2026 shipment and revenue commitments.",
+      "status": "Meta's announcement of Meta Compute cloud is causing market concern regarding CoreWeave's backlog defense.",
+      "terms": "The previous agreement involved a $21B take-or-pay commitment through December 2032. Recent news indicates that Meta's own compute cloud plans are weighing on investor sentiment and creating worry over the existing contract structure.",
       "lastChecked": "2026-07-06",
-      "confidence": "Confirmed by CoreWeave",
-      "note": "Take-or-pay protection through 2032 is the key fact distinguishing near-term revenue security from longer-term Meta Compute pricing competition risk.",
+      "confidence": "Media speculation",
+      "note": "Market reaction suggests potential tension between the established contract and Meta's internal cloud strategy.",
       "latestArticle": {
-        "title": "CoreWeave and Meta Announce $21 Billion Expanded AI Infrastructure Agreement",
-        "source": "CoreWeave",
-        "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-and-Meta-Announce-21-Billion-Expanded-AI-Infrastructure-Agreement/default.aspx",
-        "publishedDate": "2026-04-09"
+        "title": "CoreWeave (NASDAQ:CRWV) falls as Nasdaq-100 spot faces pressure, Meta cloud worries weigh on AI pricing - TechStock\u00b2",
+        "source": "TechStock\u00b2",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM21xMmxMZEJsVVRTWUcxb2pBTkhqcVNTMy1BWlhCaVVaZDB2N1pCVHdmYkRnWWJmdzc5U1c2Z0dpU1Y2MVg5UHBwdWRTMTkwZU1fZWYxQ1V0UjF0aXV1dXZ3SGhrdGd5Wm9jN1hHMTBQOURHVlBPMExMa1lDbDk2bl94WGpMVmxhdzRCYVd0X240VHJPaFFCMXRVUHhPeEhUem5mMFR5aGFkSTB3VWVhNlljQVh6Uk5wUlJfNg?oc=5",
+        "publishedDate": "2026-07-05"
       }
     },
     {
@@ -756,11 +842,11 @@
         "CoreWeave"
       ],
       "type": "GPU cloud capacity contract",
-      "status": "Confirmed; multi-year agreement; Vera Rubin NVL72 clusters at full utilization following Fable 5 restoration July 1; Kyber delay does not affect NVL72",
-      "terms": "CoreWeave and Anthropic entered a multi-year agreement for Claude workloads at production scale, with infrastructure rolling out in phases beginning in 2026. Financial terms were not disclosed. Following the July 1 Fable 5 restoration, full Anthropic Claude inference traffic is running on CoreWeave's Vera Rubin NVL72 clusters. The NVIDIA Kyber NVL144 delay (July 6) does not affect the existing NVL72-based deployment.",
+      "status": "Confirmed; multi-year agreement; Vera Rubin NVL72 clusters at full utilization following Fable 5 restoration July 1",
+      "terms": "CoreWeave and Anthropic entered a multi-year agreement for Claude workloads at production scale, with infrastructure rolling out in phases beginning in 2026. Financial terms were not disclosed. Following the July 1 Fable 5 restoration, full Anthropic Claude inference traffic is running on CoreWeave's Vera Rubin NVL72 clusters. CoreWeave's first Vera Rubin NVL72 production validation delivered 4x training and 10x inference-per-watt improvements over Blackwell.",
       "lastChecked": "2026-07-06",
       "confidence": "Confirmed by CoreWeave",
-      "note": "Full utilization restored after July 1 Fable 5 restoration. No new contract terms on July 6.",
+      "note": "Fable 5 restoration July 1 restored full utilization of CoreWeave's Vera Rubin NVL72 clusters for Anthropic. No new contract terms disclosed on July 5.",
       "latestArticle": {
         "title": "CoreWeave Announces Multi-Year Agreement With Anthropic",
         "source": "CoreWeave",
@@ -776,14 +862,14 @@
         "AWS"
       ],
       "type": "Government and defense deployment partnership",
-      "status": "Rebuilding after Fable 5 ban; full Claude restored July 1; Pentagon dispute court docs (released July 4) reveal unresolved autonomous weapons policy disagreement; Maven Smart System retains DoD designation",
+      "status": "Rebuilding after Fable 5 ban; full Claude restored July 1; Pentagon dispute court docs (released July 4) reveal unresolved policy disagreement over autonomous weapons; Maven Smart System retains DoD program-of-record designation",
       "terms": "Palantir and Anthropic bring Claude to U.S. government intelligence and defense users inside Palantir products running on AWS infrastructure. The Fable 5 ban (June 12-July 1) disrupted the pipeline, with the Pentagon reportedly migrating two-thirds of its AI workflows off Anthropic models. Court documents released July 4 reveal a dispute between Dario Amodei and Pentagon Undersecretary Emil Michael over autonomous weapons and domestic surveillance limits. Full Fable 5 access was restored July 1. Maven Smart System retains its DoD program-of-record designation.",
       "lastChecked": "2026-07-06",
       "confidence": "Confirmed partnership; Pentagon dispute details from court documents reported July 4",
-      "note": "Pentagon dispute court docs remain an unresolved risk factor. The partnership is rebuilding after the 19-day Fable 5 ban. ASCI classified cloud creates a new federal AI distribution channel that could partially restore DoD pipeline.",
+      "note": "Pentagon dispute court docs are a new risk factor for the defense pipeline. The underlying policy disagreement over autonomous weapons access has not been resolved. The partnership is rebuilding after the 19-day Fable 5 ban.",
       "latestArticle": {
         "title": "Pentagon contract dispute documents released \u2014 Amodei vs. Emil Michael",
-        "source": "WSJ / BuildFastWithAI",
+        "source": "WSJ / Gizmodo / BuildFastWithAI",
         "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026",
         "publishedDate": "2026-07-04"
       }
@@ -795,15 +881,15 @@
         "OpenAI"
       ],
       "type": "AI model integration and distribution agreement",
-      "status": "Strained; Apple defaulted to Google Gemini as primary Siri AI; OpenAI retained outside counsel over perceived breach; iOS 27 Extensions framework disabled pending EU DMA; Apple evaluating Mistral and discussed acquiring Perplexity or Mistral",
-      "terms": "Apple and OpenAI signed an integration agreement for ChatGPT in iOS/Siri. At WWDC June 8, Apple announced iOS 27 would feature a fully rebuilt Siri powered by Google Gemini rather than ChatGPT. The iOS 27 Extensions framework theoretically allows user choice among ChatGPT, Claude, and Gemini inside Siri, but remains disabled pending EU Digital Markets Act regulatory clarity. OpenAI retained outside counsel and is weighing a formal breach-of-contract notice. Apple's exploration of Mistral and Perplexity as alternatives reinforces its multi-provider hedging strategy.",
+      "status": "Strained; Apple's move away from OpenAI is highlighted in recent reports.",
+      "terms": "Apple and OpenAI previously had an integration agreement for ChatGPT in iOS/Siri. However, the relationship remains strained, with recent reporting suggesting a potential legal battle between the two companies.",
       "lastChecked": "2026-07-06",
-      "confidence": "Original agreement confirmed; breach-of-contract dispute reported, not adjudicated",
-      "note": "No resolution on July 6. Both sides prefer out-of-court resolution. Apple's Mistral/Perplexity acquisition discussions would reduce dependence on both OpenAI and Google.",
+      "confidence": "Media speculation",
+      "note": "",
       "latestArticle": {
-        "title": "Apple reportedly considered buying Mistral AI and Perplexity",
-        "source": "Sherwood News",
-        "url": "https://sherwood.news/tech/apple-has-reportedly-considered-buying-mistral-ai-and-perplexity/",
+        "title": "Apple-OpenAI Partnership Frays, Setting Up A Possible Legal Battle Meteo Varese (iAzOoMbXHB) - Mshale",
+        "source": "Mshale",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82OGF4TmdmR25RZ1BldU04d0xxVmVTZ0tRY2Ixamc3OHJ4TkZpeEJmMDE3NF9hendBMVh0bGxmcnR2WTZ3YklCMUJzbjVIQzQ3MlkybE41d2k1S0tpTXQ1cw?oc=5",
         "publishedDate": "2026-07-03"
       }
     },
@@ -814,11 +900,11 @@
         "Microsoft"
       ],
       "type": "GPU supply and cloud AI infrastructure partnership",
-      "status": "Confirmed ongoing supplier relationship; MI300X powers Azure AI; MI450 evaluation for Azure underway; NVIDIA Kyber delay may accelerate MI450 Azure adoption timeline",
-      "terms": "AMD is a GPU supplier to Microsoft Azure for AI workloads, with MI300X and MI450 (when available) powering Azure AI compute capacity alongside NVIDIA hardware. Microsoft is evaluating MI450 for Azure data center deployments in H2 2026. The NVIDIA Kyber NVL144 delay (July 6) may accelerate Microsoft's MI450 Azure evaluation timeline, as NVL144-based rack upgrades are now pushed to 2028.",
+      "status": "Confirmed ongoing supplier relationship; MI300X powers Azure AI workloads; MI450 evaluation for Azure underway; Vera Rubin production to Azure begins July 2026 (NVIDIA primary)",
+      "terms": "AMD is a GPU supplier to Microsoft Azure for AI workloads, with MI300X and MI450 (when available) powering Azure AI compute capacity alongside NVIDIA hardware. Microsoft is evaluating MI450 for Azure data center deployments in H2 2026. NVIDIA remains Microsoft's primary GPU partner for new Azure AI capacity through the Anthropic-Microsoft-NVIDIA strategic alliance.",
       "lastChecked": "2026-07-06",
       "confidence": "Confirmed ongoing relationship; MI450 Azure evaluation reported but not announced",
-      "note": "NVIDIA Kyber NVL144 delay is a potential competitive tailwind for AMD's Azure footprint expansion. AMD Advancing AI 2026 (July 22-23) may clarify Azure MI450 deployment terms.",
+      "note": "AMD Advancing AI 2026 (July 22-23) may clarify Azure MI450 deployment terms. This remains a supplier-customer relationship rather than a formal strategic co-investment.",
       "latestArticle": {
         "title": "AMD Advancing AI 2026 \u2014 July 22-23 at Moscone Center",
         "source": "AMD",
@@ -833,16 +919,16 @@
         "Meta"
       ],
       "type": "Multi-generation GPU supply partnership",
-      "status": "Confirmed; $60B/6GW multi-generation agreement; MI450 Helios rack shipments targeting H2 2026; Samsung also in talks for custom Meta chips",
-      "terms": "AMD and Meta signed a $60 billion, 6GW multi-generation GPU supply agreement covering MI450 and successor generations. AMD CEO Lisa Su confirmed MI450 samples are shipping to Meta. Helios rack-scale systems (3 AI exaflops per rack) with MI450 GPUs are targeted for H2 2026 shipments to Meta. Meta's $125-145 billion 2026 capex plan supports both the AMD GPU partnership and Meta's custom MTIA accelerator program. Samsung is also reportedly in early-stage talks to produce custom chips for Meta alongside its Anthropic chip discussions.",
+      "status": "Confirmed; $60B/6GW multi-generation agreement remains in place, but Meta is reportedly considering a major chip order from Samsung.",
+      "terms": "AMD and Meta maintain their existing $60 billion, 6GW multi-generation GPU supply agreement. While MI450 Helios rack shipments are still targeted for H2 2026, new reports indicate Meta could award Samsung a significant AI chip order worth up to $6.5 billion.",
       "lastChecked": "2026-07-06",
-      "confidence": "Confirmed by AMD and Meta",
-      "note": "MI450 Helios rack H2 2026 shipments to Meta are the next major delivery milestone. Meta Compute cloud adds a monetization layer on top of the Meta-AMD infrastructure partnership.",
+      "confidence": "Confirmed relationship",
+      "note": "The previous status regarding the AMD/Meta core deal remains unchanged; this update focuses on potential parallel business with Samsung.",
       "latestArticle": {
-        "title": "Samsung reportedly in talks to make 2nm AI chips for Anthropic and Meta",
-        "source": "SamMobile",
-        "url": "https://www.sammobile.com/2026/07/04/samsung-talks-make-2nm-ai-chips-anthropic-meta/",
-        "publishedDate": "2026-07-04"
+        "title": "Meta Could Hand Samsung Its Biggest AI Chip Order Yet in $6.5 Billion Deal - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQjZkSzBsLUJRRW5XSWsxOXhQYWlUWEI1dEZibTBGNHdtM0Q5OURTZkpieFhwWnpXNGo5ZkVORWQyWlNscnhxV2pUbFNtbWZ4OVhaa1pBT3VRME43eEwyd2pnMWVMbGI0V2wwbWFrUXJhV011Z1BaTFI4RktZNTdhNjl6ZE1MMWZIcENHMV9ZaXB3RzdWM0htVXU4Yw?oc=5",
+        "publishedDate": "2026-07-03"
       }
     },
     {
@@ -852,94 +938,99 @@
         "NVIDIA"
       ],
       "type": "Strategic equity investment and primary GPU supply relationship",
-      "status": "Confirmed; NVIDIA holds ~11% equity stake; CoreWeave is primary commercial Vera Rubin NVL72 deployer; Kyber NVL144 delay does not affect NVL72 supply",
-      "terms": "NVIDIA holds approximately 11% equity stake in CoreWeave. CoreWeave purchases NVIDIA hardware at scale \u2014 $31 billion capex floor for 2026 alone \u2014 and is among the first cloud providers to deploy Vera Rubin NVL72 racks in production. The NVIDIA Kyber NVL144 delay (reported July 6) does not affect the NVL72 deployments already underway at CoreWeave. NVIDIA's revenue-sharing AI factory model (announced July 2) may deepen the economic alignment beyond one-time hardware sales.",
+      "status": "Confirmed; NVIDIA holds ~11% equity stake; CoreWeave is primary commercial Vera Rubin deployer; revenue-sharing model expands relationship beyond hardware procurement",
+      "terms": "NVIDIA holds approximately 11% equity stake in CoreWeave (approximately $2 billion in value). CoreWeave purchases NVIDIA hardware at scale \u2014 $31 billion capex floor for 2026 alone \u2014 and is among the first cloud providers to deploy Vera Rubin NVL72 racks in production. NVIDIA's new revenue-sharing AI factory model (announced July 2) includes CoreWeave as a deployer alongside Sharon AI and Firmus, potentially deepening the economic alignment beyond one-time hardware sales. Vera Rubin production shipments to CoreWeave began in July 2026.",
       "lastChecked": "2026-07-06",
       "confidence": "Confirmed; equity stake and supply relationship confirmed by both companies",
-      "note": "Kyber NVL144 delay is neutral-to-positive for CoreWeave in the near term \u2014 NVL72 remains the primary shipping product and CoreWeave's 2026 capex plan is already committed.",
+      "note": "NVIDIA's revenue-sharing model announced July 2 is a new dimension of this relationship \u2014 CoreWeave may participate as a revenue-sharing AI factory partner rather than purely a hardware purchaser. This could improve CoreWeave economics at scale.",
       "latestArticle": {
-        "title": "NVIDIA Kyber NVL144 delayed to 2028 \u2014 Vera Rubin NVL72 shipments unaffected",
-        "source": "CNBC / SemiAnalysis",
-        "url": "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
-        "publishedDate": "2026-07-06"
+        "title": "NVIDIA unveils revenue-sharing AI factory model \u2014 Sharon AI first deployer with 40,000 GB300 GPUs",
+        "source": "NVIDIA Blog",
+        "url": "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
+        "publishedDate": "2026-07-02"
       }
     }
   ],
   "sources": [
-    "https://www.cnbc.com/2026/07/06/nvidia-kyber-rack-system-delays-manufacturing-taiwan-rubin-chips-.html",
-    "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding",
-    "https://x.com/SemiAnalysis_/status/2073874671498387899",
-    "https://letsdatascience.com/news/nvidia-delays-kyber-nvl144-rack-system-to-2028-acf20053",
-    "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory",
     "https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/",
-    "https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders",
-    "https://www.unesco.org/en/articles/global-dialogue-ai-governance-geneva-6-7-july",
-    "https://www.un.org/global-dialogue-ai-governance/en",
-    "https://www.itu.int/en/mediacentre/Pages/MA-2026-06-02-UN-Dialogue.aspx",
-    "https://www.digitimes.com/news/a20260706VL204/anthropic-digitimes-asia-2026-claude.html",
-    "https://www.banklesstimes.com/articles/2026/07/03/anthropic-moves-to-block-chinese-firms-using-claude-via-offshore-workarounds/",
-    "https://www.mexc.com/news/1192405",
-    "https://www.anthropic.com/news/claude-sonnet-5",
-    "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026",
-    "https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip",
-    "https://www.sammobile.com/2026/07/04/samsung-talks-make-2nm-ai-chips-anthropic-meta/",
-    "https://www.techtimes.com/articles/319318/20260629/gemini-35-pro-cleared-july-launch-fable-5-nears-return-gpt-56-stays-locked.htm",
-    "https://deepmind.google/models/gemini/",
-    "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
-    "https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/",
-    "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
-    "https://techafricanews.com/2026/07/01/microsoft-nvidia-and-anthropic-deepen-ai-collaboration-with-claude-general-availability/",
-    "https://aiweekly.co/alerts/white-house-nears-voluntary-frontier-model-deal-with-top-ai-labs",
-    "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
-    "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-    "https://www.caproasia.com/2026/07/04/chatgpt-parent-openai-proposes-to-give-5-stake-to-united-states-government-valued-at-50-billion-in-planned-1-trillion-ipo-openai-to-delay-united-states-ipo-to-2027-to-raise-60-billion-at-1-trilli/",
-    "https://www.cnbc.com/2026/06/26/openai-anthropic-new-ai-spending-reality-as-users-shift-to-efficiency.html",
-    "https://www.benzinga.com/markets/tech/26/07/60264651/metas-upcoming-watermelon-ai-model-matches-openais-gpt-5-5-on-key-benchmarks-alexandr-wang-reportedly-tells-employees",
-    "https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute",
-    "https://www.cnbc.com/2026/07/01/metas-plan-to-launch-a-cloud-business-eases-the-biggest-overhang-on-the-stock.html",
-    "https://www.digitimes.com/news/a20260703PD209/meta-demand-revenue-2026-shipments.html",
-    "https://www.aboutamazon.com/news/aws/aws-summit-dc-2026-ai-cloud-public-sector",
-    "https://www.aboutamazon.com/news/aws/aws-1-billion-forward-deployed-ai-engineers",
-    "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-    "https://www.tradingkey.com/analysis/stocks/us-stocks/261997550-grok-spacex-tesla-musk-claude-opus-tradingkey",
-    "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
-    "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
-    "https://www.prnewswire.com/news-releases/broadcom-inc-announces-second-quarter-fiscal-year-2026-financial-results-and-quarterly-dividend-302790698.html",
-    "https://www.fool.com/investing/2026/07/01/why-palantir-stock-is-skyrocketing-today/",
-    "https://www.forbes.com/sites/tylerroush/2026/07/01/palantir-billionaire-alex-karp-calls-ai-industry-effing-insane-in-heated-interview/",
-    "https://memeburn.com/palantir-ai-sovereignty-openai/",
-    "https://stockstotrade.com/news/palantir-technologies-inc-pltr-news-2026_07_01/",
-    "https://www.businesswire.com/news/home/20260629390275/en/Palantir-Launches-Engine-for-Deploying-NVIDIA-Nemotron-Open-Models-in-Sovereign-Environments",
-    "https://www.apple.com/newsroom/2026/06/apple-intelligence-brings-powerful-ai-capabilities-into-everyday-experiences/",
-    "https://sherwood.news/tech/apple-has-reportedly-considered-buying-mistral-ai-and-perplexity/",
-    "https://www.tweaktown.com/news/110826/amd-announces-advancing-ai-2026-event-for-july/index.html",
-    "https://www.datacenterdynamics.com/en/news/oracle-to-deploy-cluster-of-50000-amd-instinct-mi450-gpus/",
-    "https://www.amd.com/en/corporate/events/advancing-ai.html",
-    "https://www.perplexity.ai/hub/blog/personal-computer-is-coming-to-windows",
-    "https://www.perplexity.ai/hub/blog/introducing-perplexity-for-government",
-    "https://opentools.ai/news/perplexity-personal-computer-windows-launch",
-    "https://investors.coreweave.com/news/news-details/2026/CoreWeave-to-Join-Nasdaq-100-Index/default.aspx",
-    "https://investors.coreweave.com/news/news-details/2026/CoreWeave-and-Meta-Announce-21-Billion-Expanded-AI-Infrastructure-Agreement/default.aspx",
     "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Multi-Year-Agreement-With-Anthropic/",
-    "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
-    "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-    "https://mistral.ai/news/",
-    "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html",
-    "https://www.techtimes.com/articles/319710/20260704/tesla-limits-ai-tool-spending-200-weekly-while-musks-grok-stays-exempt.htm",
-    "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/",
-    "https://www.stocktitan.net/news/CBRS/cerebras-systems-announces-strong-first-quarter-2026-r7otc36byypc.html",
-    "https://techfundingnews.com/ipo-bound-databricks-reportedly-eyes-175b-valuation-after-hitting-5-4b-revenue-run-rate/",
-    "https://techdailyshot.com/blog/hugging-face-ipo-impact-open-source-ai-2026",
-    "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-scale-ai-stock/",
+    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVkdNdmFiNGZqajdZdjJaNkNLb3gtOWstSEl5NkJkdjk1d0x2R3BDZWc3Y1NHRjV3dkhodDRpdUdKeDFsMnR4Qi1KeFpNZ0pMMWU0elpJSmV5cHBGVjhLVWJKOGxCNzl1TWQxRXd5SzlvSUpSY2l6Vmt4T0hLcXJVcnBSZVVzcVFmT1hjZkdPc3EtWTNBTm1RSkt6cU9wYWtBRUtNRkdIaWRFOTdSVHhQdGxpeUh6YmhwSGo0ZTFoNTQ0aFpaUFMzUUhVMFlnckdMOTQxU1VhZmdIcnh5T19hNnRnekVMVWdwWjZTVzU1TGpZMVBYcjJ4aldHUdIBgAJBVV95cUxQSzBXVHRYNjkyVzhpU0xKOGJoczd2S1JEc3U2bDhwNlpfalNiNldYQTlTWkNwbi1lWnBWM2JrNHkyU3BpRXNyYWpHblE0bnUwTnp1dnBOdXZwU1AyTGlmb25VSUdkUFZpQXpVdE1RcmJUOHFPdzVRRVRzTlFKOTZiN1h5a0ZhVC1VS01YMzNVNXZpdjFnZmhHa0FzdGQ5WFVmTXdoWVVMZk5CazZ6QVpqZ0JoMGJFWXp1a2EwOVZYeWNRblNsVlBzQm9zcGJnUDd5UVFiM3pGLTlRLTZ0TGxCUEdTVjhlVFpUUTZwNHJEcG5iWVN1aG9nOHd2SzNMc3hr?oc=5",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR29QYUNoUnZzTW15Vl91b0RST3d6WjVaVmFJazFMcTVzMnRpQzljYTROaGtVRGREY1UzM2ZiYUZGN1YzR1JxSlAzMklGM21xVlpsZEZ3MS1ZSHQ5aEJSUUtkX3FDdHc1WUFLXzhRdlQ1c3F3N1dURTgzTW1MRDVKanVqMzZvRjVuRUVJWS1TWENWbTVKT0t5alVpWDZKcElybktGQzBNS2t5OEJ3ZG1xUUZmaEtUU3owbHN1dzQzNk9peXdWQUNIYVdzaHR3TThiVkpHeER3?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNXBTR2x6c3p0dFM0em9JMnh5Q0kzM2lZRWdhS25tVWJCSTIzZGFPdWl6V0FORUNQZHcyWVJaclZZZ2RDTmN5QUFSVll6TTAyVnlqalVDV21UekNwZXRTU2NOZ3ExbmY1MzNtTzdrV3huUmxsc216SlFpVVhMNmhHQTNOS0tNdGdxNTBzZ0hXNjdKaWtHTmlqWFJEQXNXSkllUVNlUFZ6d19sblg0c2l5Z3U0a2kyaWxaa3YxOGd0am5kUHFMdXZKUDJIcW1TQWtYV2VtcktSRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcEZoMFpwQUVqZVJKNXZyejRzTmdzdHU0b0ZlSERpVVphejR4VGJyTEI3WEhkQ0YtcDY5YUdmT0FvdUtwX1ZrV3M3QnJhOHpRS0RFZkwyX0VoNTcybWxQeElnWGFyNzJldzcyNHpHN0ZOdVhqYTFxWl9ISE1KR0JTc2NaQlV6cFAzTXpPdDh6cVUzYmpGNW9hRlM5NVFlc1ZvQXM3REgteGY4ek5wWTMyOXROUnFlZS1DSVNkcWZ0NUR0UXZIcW5XN0U0RllnTjdobllaOWxDZ2M1d3VUOVZJ?oc=5",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUREbThWMkhEWDk3UkJrZTNZTmcwM2dZbDUzZFVHLWJOejJjQ2tEeTR2bllDT0RReF8ydEJWelY5bV8zc3ZEVmxQSEdoZkRES01oRDV3bVpDWWp0VVRfc05RZGJpWGZ6WjRRRFBfUE5GdUlqX1RuUjFPS2xKb0VsRWVGRlBsMkJWcHAxc0pQRTNNTTZIaTV5SU1zaXlLYnNORnk3VTFVcU1nd2tsRHZXWjJzRVQ5bkgtNlRPcWszUl9fQTFacWJleWhJWExmVEFxN0VnMGZlZ29NQWNGYjZV?oc=5",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZS1Tbmt6eTF5b0lhT2c4b2I2NVFhS2xWR01kc0l4UlVfbkdGbV9zNEJhdGFmd2pyVFhQNG5TOW5OdnNBaWYycy1oRXh2RnZwdEtVdlV0WDE3STJBdkJyMDNhamRSZEo1WWltSmE0X1pXWElfbk4tWHdGNXY0WlczOXpZc2lkR2FkVy1LN0s5T0xVMlg2dnpvWFNsZlo2UGlZTl9RdWNva295cVpZVWNJM0pDWm13MENxbjhkLXRPTHdkQ2FsakFZM0pmc0ZiRjBQdHRVYjhQZG8wajg5bmtyZ2dkYw?oc=5",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQlhBMHU4SUJDbU1oMjU3UzByZXc3akE1dF9JX3dVY2g0WjdqaTRaWTk2VU9UUnpyWlNPc0pCVlItUi1lZjBFQlZrdWhRRmNXNEo3eHduMEVIOTA2VXgzSEhSeUo5U1lNTzFPaEh4Y2YyYjNEblNqWW1pSXF6dUdFeTVCZFFDb3lJWk0tLXdKNWNSaEk4ZDZxMk8wNFpqdWh1Z1BtZGV6Y0pCVDZtZXJ1cmZIYndaQ0g4YlFLdVBLTmtIRmxlMTFwQUxFREI2VzIzeFFVOE1UeHVNNlFoU0o5UnNGcw?oc=5",
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV2RfYlZKUnpiSDMyaVJVQ2Z6cTRQR1ZvMDFuODRIWERKbnlkTXQwVktYQzRSYWV3ZkhxaGpMX2E0d3NhZnR6RXpPdG5LQThUcEFqZzYtOU1NR0FUb0g1NUlnMW5ueDhNeXRJQ3hBLVZiRnRUNkcwd2FWZ09FY19scG1QSlI0UTNRbGVSdkZiZ1lOOHhkS1Z1MmYwb2VFN3NSVjFTWm5YZFloemJtTU5fYXZnOHNDeWJwOXFTR2RhSk1nUXZKLVhjZldwVzF1eWNQYXlTbjNRanRqbVJnOEV4U2tLLU4wQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTWJFeDNKNVA3aWVraUVlRVNlUGJ3dkdEYThUbXRIdnFsOFEwZ0hkdUxQaE1aR0MtX25kdjFkQVlUZ0JGSlRlZ1Zjek93cmFtd3VmSWM2djNuWDFWVlZaczhXOGk2dnNxTkkybGJPbEswMF9vTWZ3RzhpV2pJM1E2SWJabGNKb1N3TjNtY09nNDJvY0V0RHhBZy1YUEo5VHhOVGJzalpmN2ZCNGVrWDlGWWk4Q0ItNG42T0EyVGpHWk9GNmp6LVFBS0xZV2wzQnh0eDg1WU85SUs1ZWgwd0E1MTE0TGhUS1FIQ2NuMnNGcDZ4OVU?oc=5",
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ocS1xd1FWS0k5Zm13WVEyVmZwMVQ4OEJQMmpCSUNqWEh2ZjRVLUNSSFYwTEEwUzR1UWRQMG1PTHktdjZJX1d3NQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EZEx2T3M4M1hPa1J1QjBRUkYxb3V1cHBuRkpzVWxVdGpHOGI2Q3NJSTgzUGdvZ1NsRzBYY0FPU0sxb3FxZlRianQ0RUdqTXJnVEVJ?oc=5",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82eU9qS0ZHbTB4U2tqT2pxazYxakZYRlp5UTVjbmo0UE01aHRlVF9XY0tUb3hlVXJBbEtiaUFCbDhGM2VQUE1PVUE3ZXJJRlNsRzZvLVpfQjA?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82OGF4TmdmR25RZ1BldU04d0xxVmVTZ0tRY2Ixamc3OHJ4TkZpeEJmMDE3NF9hendBMVh0bGxmcnR2WTZ3YklCMUJzbjVIQzQ3MlkybE41d2k1S0tpTXQ1cw?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfcjZnQ0RiSXdsZk5xSzVhczNzd1hZeUNXS2JRMXVHSS1RbmkwZmNkcjNrTUc5TldJQ19nTUxtZHk2ZlNUMTBscTlqbmlFQmh6amtqTlNoSjhSbXRnaWR5UUktSkJPcnFZbDhj?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvb2YxTEs4SG1QaUNxek5xLXYxVUdENGQ0M3QwbEpyUjltVzJFV1hHRk1YTFhITDF4aUJucDlYQ1owcmNlUXNEeVpNYk5LUkZNQlBLMVlsbVJKODFYMklwTUJMbTNVQ2N5bFE?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JRnZIZ2tlWUpEbXFjOWR1djJscXRzbXAtZlVvbldjcXlFLTA2UDdvMGJyLXFGRkhxa205MWJZOHJxZEhXSS1teVdVcnhQUlhJT2o0NzdoRjlsOUtrdzZMTkE5YkI5aWViZUM0WU9UUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlYzhxbUkySkhMTUVQU3AxVTU3bHpDdUt0VFBpOVFMclNNanZvNWhwMldTN1E5T0xpR0E4WkVZeEtxYTJlWHE2VzhmSG1vazFZQ1R1d2N6TDczN0tuNVUyX3lsTGU0MFU2QWxPYtIBbEFVX3lxTE1WNlg0SGxFN3N4ejVnQzhXR1I5YlNJWXJndXh0RzRsTUVFTE9Cb2pxb0dwZWVyMXdlb2w5a0ZJUjVqRVBnejBWMFpjcmtudzFENkpmc1N5cHVTQ3NWNVFyeVZJY1NqZ0x3Nk5PTg?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EbEdCVDIzTnZTWjVyc0x1SmtOVXNJbXBIT1RJYklxWV9BQ2lCZzJjeG5Fc1dfS051QjJQWlpBcWJ1VmJvcmNZVmlmZEdESV9KX3dMeElvalpsb25uUnpFYml3Z1J4bmZKM01sYmZwNDVoaGx2d2lz?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aTHVxSXVsSU91U1FubllRMlpENVRzUGdBSTBsbkdybFhSUjVVSXRDams1MmlWelB1RU1RUmo5WFNrMnF4WmxBSTRzQUpKbmxqRjBtT3d6QnN6aTZBZG1mMGh4elphOFA5cG40eEJkd2gwZzRxQVE?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aY2luM240MGR5cE1fNzlNbzB0UzJ6SUk1RHQ3SUliRmJQSE0wRDczWEV3c21nNzFzZDJWdXRLQTBZRm9LX2doNVJCUWR5SWVzcGxJX2dfMmhNT1QtbDZmZlc2Ny11SWlKWVBwc3g4TXM2RmYweHc?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVTI2by1Rc2QyTVdxVlBvMS1XOFhfZXVYd3pjWmtYWGFGSWJGTFpELXdCT0xRWFdMd00zdlUtQzdvcVd3bnYxUU9fdkRmY05jZ3EwWXExQ2VzUkxFeXp1clhHSndEOUZvZkI4NWJLak1sSkswM2FSUFhVUW54c1pROE56WQ?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmZWTndtWkl5akxqQVRkTUxkWHlZOGlzclVDY0FGeXFiMmFXYW81R1JyMEZldEloM0xKeGwxUzdYNEVtc21yb1doRnphTmJFLWZYczdkUHJMX2hjMmpHZ21ORVdRRDJjS1E0Tk9xMjkzTXJBUnI4VWFiNkNxZlNYcG5CSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1BaR3F0RDdOaDVkbmxUbmkzZUIyUTJycmdSc3htQjJ1QW9HeGVFWlVoeHN0ZDlFMHNhM1lOY1otdTFzQWhwN2ZUQi0wbGxRcC1HRkUySUw5NE9Qc0h0X0Y2MnRIbmZubjJGQlN4dXpzTE40UlpZdkFsd1BpMFlPbkN6aHhIUWpz?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNUJJSFE1OEx3dUx1UTFxY0E0WG1oTWNoQVlkbVdHRjJjR2JEcWZ6Y1RMODhZQUl1SU1ZUHlCcXR4RXRkN1VPNTd2cWRPa0JRRG5HbGlFaDFOY0M1aEZUdm1jMEh0azIxa2RqUlBBcEhpN04zX1JpNU4xY056YWpRR29ZSThINlRmN0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMEhSZXk4MWFKMVJseWh3cElhclpFdTlOTnJCdmZJUnJKN2hLeGQyNDZmNzlzc3htTmZudEJTREZfSkdmY1JCYnFSd0daRnpCNUxFWExTQ0pXUXo0X1l2UGwzWHZtLVlvNWNsQU1mUzRNeVVGTDVIaG1WQUp5M1hlV1lpTF9ZUE91UkFv?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWJ2NlppcExiU0t0c1VWVGxwQUxJUE9kMGJBNnZjVjltMUlSTDFadi13Z0p1NnV6eEFDU2dqMWp1UVZrd25QLUEtLUhFRG5hSVlKMEFjQ281VDhPVlYwSm0yUWtfYWxFUjVBZVVPOFBoN3E4VlJOSHEtVWlOcTFWNVRFbUIxV2JyQnR5Yg?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHp1X3N4Z0o4bFZkQ2hSY1hiQ0p1dFdWQkYwaG1BOUdpVklVWHhCUlQ5R2RCWG1JeEJCVTBMbm1fNnlJb3d0QkVOeHJIWjVBS1hZU0xBWU5IVEg5VFVxdFBPZnFxZ1pnUHhmZ2tDMXZEeHlEdEVGV0tna2g5ZGpjQUJUQmtfVlM1XzNzQ0h3?oc=5",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSHl5VTNPM0FUZ1F3YVJhaFladDhWdjJHQXBFTGZXX2M2c2ZFTzBkY18ycEl5Z0Q2eUJreGFiYXAzU2ZHc1E5TTQzVC1GZ05MeXY5eGlCUVRQVktEVFhsOTVxZ0ttVHNSNlA0T081QVlqM1ZtdWdWQzY3TnlBSWFZZ3p2MW1qVDI2N19lVEJDcWw?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZEFjWGgwYkRMc2xDYk5pOGlTRXJEMHg0Q3RQY2xZVHZPS2w5LWJwVUR5WG4zVEpoZjEwWno2V1ZWNW52a0hHaU12RjVianNuSEp2ZFI2UmExdG5udmJfNW91ZEEzSlNUNEZ1eHphT1dsbDBNSW5ER1NLclVOTzFuRW1SVW0wS1FPcjNQa25iX0xBTjNsQkE?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNam91SlRFQ0U2SjhVdkJYVmtzYjVkcWNDQ0QyN1F5NjItVDNqWW1uM2dOM19FRTVVODQwYkZQQVZUS0cwSENpZHRIVVFJWFBsZWx3aVJiSkFUa1U2OWxaa1hTbWl4RHR6Z0Q0b2sxcEUwRF91N3hzMHhoemFmMGJJYV95dmFaZnVFTjhTNDRRQzFUXzBoSTVNcQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1QxNkVvUUx5ZFdSV0IwQnZTYTNmUXd6RWtmOXlKS2ZOYUNmZjZ1cWJ0ME9zdmJnN2FURFE3SXYtUk9ramNZTGdWTk9pdzVTaUFSc2FZOUdUX2JZQmFDcmMtc3VwMnF5Q2Q4enlkQ01DMUFBQ0lJZUg1aTM1SjhkY25kc25VYkNrOTNQMFNyak9GTmlETlVZZXRR?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMl9yWjc3OUl0dE1IZHA4cmdrTkVTem5YalhSZzVEZTA0UHc1YW5ablkxemxKc1VtdVZBd2FOT2hWcVRWU19ONTl5T1NXRXdTMDFVbWctRTVRejlCWFZrMmVnTWc1bDdBOVRyNzZDLWJsbEMzNjdMSUN5VF9oUUFZZVFfUmhhbEVZRGVJQ3dNbnRCTWNreTlzcVRB?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1NHOFZndjVmZ2FucDh6TmpNY25TNnhNYV9UaXRnQk82enZIckhGYVV2NUkxVWRyX0M2R2h1bHZid3h4M1dza29sREVTanB3RThqeU4xdV82cGNWRklYYk1NRWpfdkdNWnc0TEtxMnllajhETUp2S29kRWl1UEtEUTJYcWtGMWZJemdQNzFkc1E1eDRWMjg1LW9B?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcmRjUFFZeFlRT2pqMVl3eFpQV2pnX2ZvUXVNUG9KWXROQU1haThjQ3NPbHdvUG14SEVhQVBQZWRGdDBRUXdUU0RkbWluRFJ3d0NESnRpYnczX2JWaWloQUxnM1Q0ZlFBRmNxMTBCRFlQeEZxaENSSFRySGVvTGdOaExoRkxPUnl2MUF0VGRBb2o4Sjh2MkRKTXhR0gGiAUFVX3lxTFBLUVlBTWJFOFV0RXFmYlBVdHI3WXdQcVIxaFp2em4xRUFpOVBPVFY4a1lzNnphZjFwVGZ4alRtZUtPWEpkblV4TU9DT2o0clltSldkWWxyd0NwOFBwakhoVEJWQkNDXzZNSUJlcEw2bnVSVlowc1Q1MTgxdEpqQklTM2dMTmx1Z25KRVRBZkxoU0pzRlQ0MWJva1NwMFptemRydw?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVZlQ3RDaHNrdXlQS3ExRlFuWWlveHVIZUZqTFZrU0Mtd0c0aVJyUERVdUVFdTRmSjROS2lpSDFjR2hHTXlXYktMTE9IYkNUbHZiV0NLekkyMFhHcEg0TDJQcWZXZTVaOFVSanlrbHEyU0QwcnBGX2hrak9wYnFOS205OUZmTHNmUVd4dUJ2RjhjeEFJcFRmdjRn?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQjZkSzBsLUJRRW5XSWsxOXhQYWlUWEI1dEZibTBGNHdtM0Q5OURTZkpieFhwWnpXNGo5ZkVORWQyWlNscnhxV2pUbFNtbWZ4OVhaa1pBT3VRME43eEwyd2pnMWVMbGI0V2wwbWFrUXJhV011Z1BaTFI4RktZNTdhNjl6ZE1MMWZIcENHMV9ZaXB3RzdWM0htVXU4Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbDVUYkUtMkNWRHd6ZG9HYk42UWVHWU1DVUgzMmZTWDMtbHNOTXVFOFJxLUQ1dFVzYVNxZUp0N3ZocVZxQmhIUS1kLU1ZYnJTelB0MDJhVXFkS1VHRWcweEFXREhzUHZyYWNGekRycXAxdTd2MHpYZlJqOXdkVU9VRnF6aWdmV245bmxFdnFCMnNROXhIRzAwbmp4TQ?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPMkp0RTBwbk0yRFpiQTZUQ2twMm9HYkpDcFN5bWNhemZDNTdGSERrT2VCT2V0Q0syajNjakQxYkNERS1SNkx2UExZWFlJQUJkc1d6cXJ3YnF0dklyWmdSUEM3QXNHQm5nYVJGQ1FCX0oxMU1heXplQUZvaV8tTWlrMW5YbXR3WGFWY3FGVU5Hajc1RnNFQ0dIbVc1eGtmdw?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQVldoQ2M5YXZ2MzlIUC1QWFhkYXBjSWF0SEgwc01PT2tCaHQ3UVZRWXd1ak9LMUdVb1RfajZPeEZxZk1ZLXVxS1pPZnY5eksteDZRUlhtRG1CcDBDeXF5WGdHUnhKUzFDYzNBbjhrb2NqMjFpT1c3THZ3anhRcXFwa0cxR21qVjJEMmRSdWtxT0dPWjVrckRrUHY1TXlzQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDdILXhtQlA4NDBFbEd3NnhQS2c2ZjNQZnFqUEVncDVWc3FWaXNJTEFoV1BualZlbW53MjlrMDdxb01TVXFjZTMwVHZpREtXemwwX21DNGlmdDd5NlJVeU83QmIxMVBXSXFtS0N3Q3YyRGdBd2RsenpzSWtUR25DZVJqbXRXVkNrcjZWcE93QmRkOERWN09ESzZtNW8xN0E?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2FaS21wblcycnphdWJoVmdJM3hSLUhzak5ldTZUOHFQb0tIdGZkNEJHblVlZklMOGp0NWZ6SXEwTlI4ZjNDWF9vQkRoMGJRQTZ0dVNWWEhFRFRJTXBTa2pETlNlVDhkTXFoWXJpS0NsN3N1ZUFpZTJUVUZkdGI1dEFsUWp3dVA1X1BvcUdPS1JaUFlsUXRFMm1nTWhiUms?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxORmd1aHB3bmpBZmdZeVZuQTdKSFpJMS1rYUh4eFN2SDB0aEQ4Ml9vMVdaQUdFaE85V0tiNU1nR2NTR09zWlllVUJSd002a3U4RnduMXF5VUtIUUdSNENWUkFvUHhkNUlFU0hnU1JvZzRlYzlzcEIwLVluVWg5Z1NHbG9xQjdYUGlTUTlBZW1NS2ZQTno2bnNwdTQ0eWtfdEk?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNGZuNmtyWDV3ZWFGSFQ3N0psRGpmcnBXQWgwVGJOS2dITnZDNzYwaUNCRmdyLXVFaWlMQm05NGV3b1puRnFJd2IzdG1FWjFnelNGdzRJNDBacmV4VkVxQWxJSnFkRUd5WW50S2RaeW9ycWpXLUEydHRoVVlid3g1QUF2cXQyMXhEc0RkZVlUVVRpY3ZiOE1mYnRwX1dEckdf?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNEVrZV9SaVREbU03TlYzd2ZvX19PbzdGNGgtdFBXN25aeS1nR3dnQkNlUnVnTVU2SzZSUXhBazExejYxVjVpYTdVSU82OGhfSlAzYjBqcWg5WU43Ukh4bV9Ja2tfWVpFMGJpQXN4emtFY2w5dXpxcnRtZ0lxNlplVzNWVkR5a254cWdCWmZyVy1tVTNMNDIweXRnVWtscUMz?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXdsWVVmYTNlMGNYVThoRGJRM3RFQzV5UDk4U082Zk1GT3hZU0p0Y3ZYdURTZy1iY241M0NGdG91QWhrNlZZSzVGNlVWN0dGbk45aEJfYk9yMEhqRmszWlJzQTBUdHFoUEl5Szd2eUpLTG5VWEJSTVhhRE9zeUh4TE9QUDhPdTh1cnJma2o0clR4ME5CNDNCV1BnaFIxbnRG?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTllmOGg3LUNxd3pGN01rZTlXc054MXFsN0xLc3N0V0RsRDNYWDFyS2FhcHAycWpKaXFrcThtblh1UkhBZVc3d3Fld0Eyek5EQmplb2lLb04ybmJJTFd5QlVLVFZYYWdNNGMwMXFVVjREU0owTFBKZ0ZaX3BSUlV6ZV9HWnNCMkp2QkxsSFhpczNNenZyS01hb2pmSU8zYU1QNlHSAacBQVVfeXFMTU1kM2x6YUU5R3Z2aEd4S19keHppM3hoVk9EZGp4Q0pNblFVblh2Mmdud2duTGZ5MEQ5LVA1RVRpZHd4dTBrLXpwZnhqeG96Z2t5UGstTC1LMWJMQmtKM1JsaHBBZjV1ZnRmeGxIT0IzaElvbV9NWnVPd1BGOGJsak42V2xjMnZOdFVhMXEtU2pQa1hjcjlob05WanEyb1g2OElIdmw4eUk?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTmR6aGs5QnBnOWJRX1pzMEZGZnpIZmVLYUg3bWJWb3J4TEJzMG90Y3VaaWFqM2ZaWk1VR2ExUjF1Y19QRXhnS1FISjYtbnVjZTIzRmlwUlBwWkdvVUZkZFdxSFVhR1k0Xy1TcHdhcEVKRVA3NmZocHVMVFBDQ3Jyc3A5VXF5WFdRdFJNVlRFVGFYWk96ZXhSa2RSOFpkVjl4UmFGQw?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGhueW4xLXNDeFhydjZSckRKN0NFMnFyRTZmZ0hQQm5RSUl6VWo2SlFXalJCdTBoMS0zS3p2YVhuX3R1eHp3ZXppdzl6cVNsZ2hjZUZoTk10bEc0QW9SWDF0amo4YVlrVmlYUk1mdWVvOG9NNU9fU2h5cGlscjg0aFdVMHN0a3dJWi0wRlBDcl9FVWQ4dmd1QnhTRzhWZDZydzJZYtIBqgFBVV95cUxOV0RHLUJJSXhXYjJaekxhYXo0ai1fVjZ3TU01X3dOWUpnVlhDYjJwM3NZQ3R6Yk1FUWFXQTI5R1hseVBiSDFCNUxUQkZTREIzeDNGenVCNWNScEhwMWZZWkRwZVdZbUp3MWhEMjl6ZnpwTW5ENXd2ZENFYVI0WGYwNUxKRmViTGVMTVBuWks0elhlYnJmZkg1RkM5eV9heFpRYnJqOElBVzZsdw?oc=5",
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXA3ZG56VV85SWFyeFd0ZWNsNU94SVY0dC04bzRXc3F0VjhiLV8tUlZ2Qm5aVzh2cXRLM1pnTnFvdVFXUktSNnBZUHpzUDVLV2dzOG14eEtfMVI1dmpTV0ZSYXJkWV90R3JtZkJvdmxqelIxOTJLcVFFVElEVE0tMk95Z09JZEtvckdiNkxqVDROVUx2ME0zZndQS0ptLWJyU01rNG13?oc=5",
+    "https://news.google.com/rss/articles/CBMirAJBVV95cUxQaENBZHVKNmVaa05JTWk1VmVqM0I0MjhfdWJoSkgtUS04WVViUEZBUGdoeUdyR3VDZVZCYk9NTXRaamRuRWhVWTBUNzRNb1RxWTJWNFdqOFhqa1J0NFZaY0FyNWJlcl94cnd2RWgtNXVRcE4zYXBMLW9KSnBIX3RWYWlQQzcxN3BwOWRKZ1RlME1KM2VjQW4wczhjcVA2Sms0MXVPVEgyOXlLTlpZakU2dGVLU2tOS3FhNG1tbjN3NUE2UzJHc2I5ZF9sTk1Lck40RnE4QklEdHJnbTVFYWpPNl9LTk4zajZPa3RIUEVYdUR0RGlKWnJQaFA2T3NoN20yR1JxaHZLNzFIV2JTOXJ2bWQxLUZkT1pWSlMzMi1oYmJmMkdhTk4zR3VlVDXSAbICQVVfeXFMTk1YYzRBbVdkU2FPWUsxdEczT1kwNGxYY2lPdjJKd01iTlJORUJud25za3NWSkRESndWOWpJRzlZWTZqNnZ6LVlLWDFaRjlzNWozcWhIU1o3Q3lnVWxVN3ZjNnFTQ3BXQmtLWnh4Wnd4Y2JMcml3V1Y4czAwM1Rfd2FoZERxYmF5LUtHUDJYYml6eDE3cWxqU1BPcWZkN3lsY21Wem9oTHA5UzM3VGc2eHRYZEl1QXh2MEdwaEFXYWRLUnlmQVdqbjVOY2ZnaUQyc05aN3hZYzh2Z0NIZTdxcGdMLUJORXV6dkRhYVZiM3FKS0Z3Vkh1ZFJZMFI4bEd1SE9VM3FNQkNWcnd3NmhmTnlaRVJTVDhvWUo3MVBDMFRGNDJnQ25yZGxabElNUzdQYmRR?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR010MWh0S2xEb3ZUOVAxbEJSdFpQcjJNVklpT1JGOUpRdGJxNTlqc2ZXX01IQW8zS3RRRDRYRkVoZXhMbU91WWFCY0JCYWtwRXpuN1FuSWRjS3R6ZmR1ZTJpOTV3ZS1QaVl3LU83dlhhQjFTZW1DOHRPX2RQMFlBTzh2QWVhS3IwSnJpMDh1anE1MDJnU0hzd2ZZal9ieHBiX0M1UkxCYzBVUUFlRmR4bA?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjlERVhXbmtLS2RnNDE5UTRaMVA1azJyZVFxQU82R0RVSExRbEswTE1iRGh6X21QSnRnU25MbGdwek9ha0QwR0Z2a0hlN2lFaUxhQ1B5SkJsbTZIWXNrZHpUZ0JZXzdoejEzNklPaWFwLW1qbVJTVnNaV2Y5RmUxOXJYczJxSFFHMXZ5SnZBQ0VOdk9aWFFMaEtkcE1kQjdSbHVQNlFpVWJwVktxZTFlag?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ2VqN05jbmlqcy00Z3N0SEtoRW5qU2xVeW95V21DTDdPR2xuQXhtYkNoYXY4ZU5lZnlQUTJLR2RmT2N3MXVMbmp6a0Zva2pBbmxpWHZJaVBDWXJhVW1HOXEtODZEV2h1Nmc2Z3h5dFB5cHpJWWNaSGpmWWFna1VQcTVOUUVfZnZ4dUFtWFNkS1lHbHJxd3Y4d3BIZXBhYmFYbGlzUlFUcWk5bWE3MUhtcjdB?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMlVodlk0Z1NZYkFIb3JXTEVTa0QwVko1WmVIM1FZNW1sSElYak1FMDdObjZYc0xOUk5OZ3ZCb3YxWVMzY3hZMHNEUkhpOVNzVlp4dmVlWUNZaTRhVU1SbnRzU2d5ajZ5Ymd0RTZYblgyTXpDbUZlRE1BTkhtUjVKbGg2Yi1WNUxsY2pmd2dhaVNyMVJuWlRCRG1qaHB0RGN1enZNaEQ0S25NeTU4aFNQWU9RZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGVhb1pZWVNvWHNFQzg5UG1HdGtqUVhxWUdnWHZ3MFIwYUl3cjhmZnRLWDBpZDVZZk52LTRvWEhTM2Q4NWsxSGVNSEJrd3pKVzgtQXlyLUxUV0VLZkptc2U1dEp5a3BSdkd2S0tOanFSMDJUWXlCZ1puSEszekxfZDItb2tydmFORWhtVEFqbElkMXVBMTZjZ3kweEZaeEQ1T08xWUVZM25JbnkwcXVUSWR6aw?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN21YbUxka2E2R2puckI0Nkd1ckt3Q0N0UUdSbTBEYWdEQ01hc0ZmNjB5aFh5dEFFVzg4Q3o5aVpha01aeWdvNWZDWXhBNUtrZDd3bUNpNHhPOGZYT3FVWGRobF96OURScHdlOUw2bHJPd3ZQeU9JekhySF9FMGZFX1d4d2hFak1MbkU3V2J0OUlZOHduQWlwVUpkUXZuSjYwUGgzR3Z4UjhOeURFYWZoYXNTZUJWSW8?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTEtnQkc4TnU3clBIV2tJWGN2M2RDeU1UM1dqR0h3TXE1bmhqVXY2ZTRRVXpwZWR4dFFEUTZuUTBBdW01ZHlWTzJ4NWF4ZDZpZTlrVHNSRVNtNVNIVVVwMU1LRE8zNXVqdkJkR2VEbEl0X3A5M2hrN250UC1zSWV1T3JnMkxnRU1VdWJjUF96VWtmczNERWwwMFRxdHNkeXNhUms0elBfZjZXeU5rckxWQnR0N0NzcGo1dUxjYg?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM21xMmxMZEJsVVRTWUcxb2pBTkhqcVNTMy1BWlhCaVVaZDB2N1pCVHdmYkRnWWJmdzc5U1c2Z0dpU1Y2MVg5UHBwdWRTMTkwZU1fZWYxQ1V0UjF0aXV1dXZ3SGhrdGd5Wm9jN1hHMTBQOURHVlBPMExMa1lDbDk2bl94WGpMVmxhdzRCYVd0X240VHJPaFFCMXRVUHhPeEhUem5mMFR5aGFkSTB3VWVhNlljQVh6Uk5wUlJfNg?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTnZSNTF0c3NGY2ZkM3RSOUEzcGJPLVUzbENhQWhGVmw1TFRRUm0xX2QyRjBDbTZ2cGJCVWZDYTFhUlFGOUhrSjhXUHlHNUpRTXAyOURMdHJudk56dmhqMFFRME9oNzloUlFyMnVrYTh2Z3ZzdTBqR2tEdno0dU1CUThacVJZYzVaTFRRelVocF82V0trUVU5aDRUQVg5anJqUFJ5aVM4OVotNEd1TTd5Z29vWkNNWWtObTJnaGxid3c2QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbnFCYWItSzkwWjBWYnV5WFIwSTNLeWNZTURQNEFvbU9mYjVQZGppUjh3TjFaaFMtLUx1X3pBeGtNcTNxOFpOQkh3NTJ1UVJJc1BqNzkwcDlNcUFpOFAwaUlXRDVwbndIZVd0STlrZmFIdjRTOVpvUXFfaEN5TG9lNHk1ME5oUGVCS1h6UVV6Qm1KTERNNFlBWFN4SjJBeUNSd3I2VzlhRWUxX1VTM2UtSldVY3VZQ1JvUmdWcFJqSjMtZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVFVM21iVG9sOElLMnVvZHZtSVpFaW5PLXN4UkVPanB5aTg1WFJTUE5nTVdHQnh2dlJPY1BQUUxqbnNLVnhsMUJqaUJIVDJCaDBydl83b0xnV1N2bFJqTHlvTHpCZUhBMUpnQkVRbGFoRm1NRkJDUzV5WHJJeGJ3bGgtRHNybkVMOWNhY09HSGFxZHdxYnFOMV9EbUFoYjlRQ2JWYXV2VVNlcllHYjhuR0lYa3k0ZVpZRi1YZFBOV3B1dkE?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeVdHNVVkbDBBSERVb3AxWWNzRU83WllNbTkwR291MlpvbFd4REZ1bnluUmY3bVZ1WkV5QzRfUmxiRE5KdkFEbVlSd1JmMDh5ajl6b1ZTSlA1NE9RVlZCRVFKYzhMMDhrWWU5U0FTYk9oMWFCcHFuTkJCbUN4UkhPRjBwcHlXOUpxVUIxT2ZZMmZQdDRWZHFzN2JEWmIzWkljb2VJTzBvdEZ4WGhCb3Via2ljcmRiWGFHRURxMzBZQlY0NjYz?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOGpwUWxJMmZQU0VCQ0kzVm1hUjZHUFJKQm9Zd0J6WTJuS09JalNFdU51NFAyWUI5WlFqRFVZbml1Yms4LVAxRHUtbTJubmd6VnV5NmdwX19rQkNXbkwxS2tZY0poZ1VYTVM5bnJ4RGMwdWtRUWdjZFNnUzZoQ1JRNGFkLXl2TDVEUFB2SWhGQnNuM0NPV0c2N1Y1MmlGc25XOGpNMTU4ODRnV3hYeXN5YVJ4bkdEVnQzWEJ1VmNEY2R3OWpSeWc?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNamJzWHEycHRlcmhMQ2htS1NmN3dGTVpQN1lHN181OEoyaDlxVnhRbzJoa3NUaDUwM1NJOXpEcGZrTlg5bTBxTkQ3LU9jLXlUNm1rblJEYnlLc3hvYnhhZXhadklpMmR6cXd0M0xvR1VKVkZYMDBSTGVKdjVZVnZRdXBtQ2gwQUlaODlnaXYxMTZINWtCUkxDbmswY25Td3hoR0ZydzgzY3JrbWR0c2ZHeWpaQ09nb3dmcjFaYUNXMFNrOW5SemfSAcYBQVVfeXFMUExpMVVIV2hkSlF4UHlIVDlDNFB1Mk9SMUZkWTk4akZqMFZuaTlPdjkwUjRHY1pfYXZGR1lnZXhzSXVBdmFnNWZsRUtwdVBycS1LdkN4OUktR3I3RUZUVllKSEgwdlU2OVFfMW5jX0xaU28ydkhtZnRDTGlEa2t6V2dEMjZxdUZCbVJ4ZE4ydUNkcjlLRUh4bzV3TnZVak9HOG1Da01kYW00QXNfMVVQTEpNT0tsYkp5UDlVdjRzTGZvMTJ1Zk1n?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUmZBQTlSQUxtV2sza2lTd1dTelc1OFRRNkhEOFhmNjRfVXRwRzlkUnI0ejRvazgtZDVoXzVENTZaT3FnUVo0UWU3WWYzZm1sdHozYW84Z2VMdmVUVjdaUjhKZXhtOFRzVWpWXy1hWEZpUDYyMnk3M0Jhc2tZUlVZVDRTSU1wbFRqM0Z6UW02cXlqYktKZEpTU1pwaHhMQVRBazh5R2ZJR3ZTRzh4bFpCXzdENGlyVHVUNVYtVTF1MnVYdUNucWZV?oc=5",
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRWdNRTFna1ZJc0wtNjFUdXBxcm5NcXF6TGlDV25VZldiSkZCaVZWQ1Q0SHhCUGpKS0o1T24yN3IwUDlWakxLWGZWanlrSE5DSGZFYUNNYlBYLU9UemRUeXRBWms0UlhXQ3YyZ2dPWFNpNjNHY3U2U000T1dIemNWUHc2LWlIQkxQXzRrZTYxaUpnZUxTSE5RbTBTSWlDMUJ6bkhwYkNnWVd2dWt1VjJSVXJNUUlSczY1U2R6Y184cFAwOEhqZmV4eg?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzdGR2kwUjUwU2UxWnBfSGltQlM0REdOcEw5RlExSTh0Unc2dkxDVHdYelpoNEp3bUlVc18tVmxaME01QzJ5MW1ZV3duQ1RZOEM4MFZlS1dxQWtPZ2E3LTVlSDBFdjNnU3JlcG5rNmg4QzdzRXhnalhyajhXUkpRSjZMcGZPTFlhUXBXWHBQYzZfUGRyWDloN3hURGpmbWNKaFF3b000Rl9PR3dxY2hReUZoMndzUHhKZ3VMb0sxckFiY3lqSktRMHRn?oc=5",
+    "https://news.google.com/rss/articles/CBMiygJBVV95cUxQN0JNY25XeFptQXJMQlRzQnJXNjhIcWtDTDF1SXd0dXVMd3d0ZzBOekhNMUh6TFVrM1cwVnZFOG1OekxoM2ZtOFcydjM3ODBBT0hhbS1TNEt2TExranNXd0tsa0dfNmpZZ1RBaE1nQVhGTGtUZktrN2lWWUVqV2R6S2RzQk9mZ3ZHUFljSVVTLXFxVnBmQy1Nd0o4Q2RWeXNxWVlhaEZuQzU4OVZkR0ZmTHJqUDJIOTk5YW9QeTktRUhXbnZyQWtIQk45b0JmOTVkN2I3RVIxcDFKZ04wUnVHRUpqOU1uRW1pS3Zfell1dmRTdkpObGl5ZUx1TDlMVlNQLTN3Vklaa2lRbHdta1luejUwTVg2LTFKclJaTFJSTU9WZkJIeWgtNFl3a1JLdEdlSU02SXJ5R091SWVkMVZNT0RYMlVtay1oOGc?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxORHNKT1J0VjJCYVBQTzh2UWZ0QThLdHhoczlJcmVXSWdJOTBPUFVhdTVVa1pndXBKY2xVQS10d0x2MlM5N1Y3RUtfZFJTZEstVjRnMzJTczhRREcxdkU3ZlRobjBTX1h2Uy1zV18xeHZ6bkpBYnF6dUFNVlptV0R1eDJHdW5INlhiN2NKeDZnZzVhX1BkbjlGVTgyQnh4bG56bGlMVU55eFhiaVdReVRWTmwtUjJibVVqTDdRaEtOWjlrTHAxYmJKd1pBSdIB0wFBVV95cUxOdHo0X2xVTFF1OGtxdmNvay1naU1RUkRWT01aRWVxeVhtYUpBaUJ0WDlEc0pOSTVmVnVwbGdnei1YZjEtZXgzd2N1R1Q1MzZ3eFh3Qm5QMFlUSDdwVkxFbnhnbExKR1lGV2NWMGIwdEpzTnRuQjNFb2N5R3ExRkVKZkwxOGsyUVh5Qjh0bWhNZzZmRTQxYm84MkhaNXdtb2RHMWpfRWM4cjBfbThnRkVpSTdwcjA1MGZ1NU9OSTM0dDFDNF92Q3JLN0FRQVZ2Qzh4NW1N?oc=5",
     "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
     "https://openai.com/index/openai-amd-strategic-partnership/",
-    "https://openai.com/index/next-phase-of-microsoft-partnership/",
-    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-    "https://www.anthropic.com/news/anthropic-amazon-compute",
-    "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-    "https://investors.palantir.com/news-details/2024/Anthropic-and-Palantir-Partner-to-Bring-Claude-AI-Models-to-AWS-for-U.S.-Government-Intelligence-and-Defense-Operations/",
-    "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-    "https://www.anthropic.com/news/confidential-draft-s1-sec"
+    "https://www.amd.com/en/corporate/events/advancing-ai.html",
+    "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026",
+    "https://www.cnbc.com/2026/06/24/openai-and-broadcom-reveal-jalapeno-first-ai-chip-in-partnership.html",
+    "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+    "https://www.fool.com/investing/how-to-invest/stocks/how-to-invest-in-scale-ai-stock/",
+    "https://www.theinformation.com/articles/anthropic-talks-samsung-manufacture-custom-ai-chip",
+    "https://www.tradingkey.com/analysis/stocks/us-stocks/261997550-grok-spacex-tesla-musk-claude-opus-tradingkey"
   ]
 }
