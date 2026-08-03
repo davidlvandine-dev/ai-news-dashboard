@@ -1,32 +1,46 @@
 {
   "date": "2026-08-03",
-  "generatedAt": "2026-08-03T09:40:52.000Z",
+  "generatedAt": "2026-08-03T21:41:07.000Z",
   "title": "Top AI Companies Daily News",
   "companies": [
     {
       "name": "NVIDIA",
       "category": "AI chips and infrastructure",
-      "summary": "NVIDIA remains central to the AI landscape through strategic partnerships and product development, despite emerging software challenges. The company is expanding its reach via collaborations in chip materials and AI factories, while also enhancing security offerings for enterprise AI applications. Furthermore, the broader AI infrastructure sector is seeing increased activity with data center races beginning in regions like Central Asia.",
+      "summary": "NVIDIA is navigating a complex period in the AI sector, facing scrutiny over copyright issues while simultaneously being involved in high-level industry partnerships for future chip materials. The company's ongoing developments include technical advancements like running isolated Kubernetes clusters and exploring financing options for its next wave of AI technology.",
       "items": [
         {
-          "headline": "Bezos Backed Startup Partners With Nvidia on Chip Materials",
-          "detail": "Jeff Bezos backed a $2.6 billion AI startup that is partnering with both Nvidia and Meta regarding new chip materials.",
+          "headline": "AI is starting to rewrite the software that made Nvidia untouchable",
+          "detail": "This suggests a shift in the underlying software landscape affecting NVIDIA's dominant position.",
+          "sourceTitle": "Business Insider",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdFNFekNtM0V2TmpTWXNBcVJqSGZGY0NMT3NKRi0wV1NZelM1a2Z5X01jUlktOGhBbGtiRmxsQVlyZ1dIVVJYNnIwQXhaTG9KSzJLcUdGcFQzMTlLc29IUlJWUGJjYjV0d2hLcGVLRzV0b3JGZE1HdTMzVFMtblgyenRqeTNZZw?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "Investors blast Nvidia over avalanche of AI copyright suits",
+          "detail": "NVIDIA is facing investor backlash due to numerous copyright lawsuits related to AI.",
+          "sourceTitle": "Courthouse News",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc25HazFyTVlUMDQtMlR0NXlDMmtINHg3bzJUdlNCY2t5eFBrR3FpZ1ZIa1JCMUVhMElDX3FNdGJoWG01VDlEMng4bjRNYk92Y1JUOHNBSzZQSUJuUE1wNkxYTnk5aHp2UVhsbTcwVEZJY2RHem9FWHo0N3dIZUVsNWRNOVlGWDRIX2xKVkgtTjl5SVI0WHc?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "Nvidia\u2019s Next Move? Financing AI",
+          "detail": "The article discusses potential financing strategies for NVIDIA's future in the AI space.",
+          "sourceTitle": "Network World",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUN4OWZXMS1fT0tNRGl5aUJVUUhWQUFpTGxfbi1hWGtubFRFX1VVNS1uNHhBeldlRURQN3A5bmVxTDBOaE1LS0dROHZSVWlzNnJOS1RXR1NiY2V4WnhqbFZEZTZMYzlqMEtaNnY5blFEU2k4eXBqVVdsSlNUb0ZRUklReGp2Nmc?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "Jeff Bezos Backed a $2.6 Billion AI Startup That's Partnering With Nvidia and Meta on New Chip Materials",
+          "detail": "A startup backed by Jeff Bezos is partnering with both NVIDIA and Meta to develop new chip materials.",
           "sourceTitle": "The Motley Fool",
           "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcmRRQ2d6WTZRc0xtRE12M0NjVmE5ak9uYkoySS1MNDFMN2ZabnRvN3VUcHNrVlF1ZW1FR1lBMnBHb3hUcUk1S0pSRXFHUjIzMVdFZTFuZ3hlSHhrUC1jMFZNME00MjFwcGJiUU1FcU1qbWF3d1FyVzlHYTdyTTFySjJyZ3VuNWl6NWR0TDlfTHlGNmZQNjd4cQ?oc=5",
           "publishedDate": "2026-08-03"
         },
         {
-          "headline": "SK Group, Nvidia Expand Partnership Across AI Factories, Memory",
-          "detail": "NVIDIA and SK Group are expanding their partnership across areas including AI factories and memory solutions.",
-          "sourceTitle": "Evertiq",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHBfWUU0M1c2dm9QdWdTUDVTMkxOMmotQXJXWFZpSFVyMThCMGhwRE1KQmV6SXBkRTRqRE8zZWNKZVIweElrRlpPRGVCNnBuVGhTTHZiTVVWM1BnLU1wNXVna3VOLXZiYUhTeE52OEwwRkd2bW9CYTRtUFdXdG0yMlI3ZHhVb0xKTnBuLVZBSU5QeHJyeG9kRkhhU3ZTUWt1?oc=5",
-          "publishedDate": "2026-08-03"
-        },
-        {
-          "headline": "F5 Integrates AI Guardrails with NVIDIA NeMo Guardrails",
-          "detail": "F5 is integrating AI Guardrails using NVIDIA NeMo Guardrails to bolster enterprise AI security.",
-          "sourceTitle": "The Fast Mode",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOejN2NUFfSzRFaTRQbzBpRVNPV2k2OWJJVkpicnZsV3plVEs5bXh2c3NzU2N0aVRxY3F3aWI1UlZ6SXRWTkVEUU9aOHI2VktQcUZqR0g0Y21TdU82THBNVTVtQmphcDRGQ0J1NktaNnBjd18zdkRoa1BtUVVwSFNuNFk3bWgzazYzNk85bHJJYkRQR3JGcEJMMUUtdVRzSDJIbThZTHdwcFJKU3BVYWlJc2V4SlZrNnJ5blhPMGhrT1FXNW0yZnB5ZHpxdzk4TWtxTzFVVHNmSXdRWjQ5MS0zOQ?oc=5",
+          "headline": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure",
+          "detail": "NVIDIA Developer provided technical guidance on running isolated tenant Kubernetes clusters using shared GPU infrastructure.",
+          "sourceTitle": "NVIDIA Developer",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGtheVp3TjVkYjVleXRDb0c0aTZJeVhaMUFOdGJDclpSZmpKWk1fTFFVcVVuNmJCODVuVHpUbE95c3EzOW9wZ3ZvX3B0WWw4QnhrUWJEM1F6b3RZSHBiTVlPWFNZLXVESnQ4d0FWOFJQYmRxNjdDLVFvMF82YnpsTUJHLVg0RkE5N1Z0a0c3bFVVcUVMcGM0ZlhfNFpvaDFkX3NybktjeFRMYzJ4bE9j?oc=5",
           "publishedDate": "2026-08-03"
         }
       ]
@@ -34,34 +48,41 @@
     {
       "name": "Alphabet / Google DeepMind",
       "category": "Foundation models, search, cloud, and AI research",
-      "summary": "Alphabet's AI advancements are visible across multiple sectors, including integrating Gemini into enterprise applications via Oracle and enhancing robotics with full-body intelligence. Furthermore, Google's AI capabilities are expanding its reach through partnerships, such as with Samsung for AI glasses, and gaining traction in international markets like Africa.",
+      "summary": "Alphabet/Google DeepMind is heavily investing in AI, with executives suggesting this massive capital expenditure signals a bet on Recursive Self-Improvement (RSI). Furthermore, the company's AI capabilities are advancing toward broader accessibility, potentially allowing users to build AI agents directly on their phones using Gemini.",
       "items": [
         {
-          "headline": "Samsung's new AI glasses work with Google's Gemini AI",
-          "detail": "This indicates the integration of Google's Gemini AI into wearable technology from partners like Samsung.",
-          "sourceTitle": "New Atlas",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZM0NuUEJ3TzZwMGU3MGVMSy16eFl5R3NVc2dEVEhPdmRtU1Y3TWQ2RnR2YVNhT2RQSDUwcXZVSjVOVGpYaVdSYWNrdmxFSlRpY3BFNXpfcHJ0bXdoNXBCdXNpTkcwTjllMGh3c002TXJvZTA?oc=5",
+          "headline": "DeepMind Building Intelligence Layer for Physical AI",
+          "detail": "Google DeepMind is focusing on building the intelligence layer necessary for physical AI applications.",
+          "sourceTitle": "Logistics Viewpoints",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY2JXdlBBZ3JwcDhoSXppdHZ6eURHbjZhdXBvVW84eXp0b3hUN1dyQXNHTXRFNXl4VmFfVFo3QUFVdTRhT2FWX0dRYXB0cVBwWmxwcEtrY0duMk11WUhPOG5XeWVZNjZIX3BpeGRyejBNRE5zOE8tXzBORXZVcE5UMVhBM0tTaVJreExpQ1JCV0VJRUJ4V0VnSlJET0UtVDFpaUlPbG5vTTlnOGxTYndTQ05JZzJfR0xvdzMtd05xUTNuT0xrQ3JWQVNCbnA4VGxOVXA4?oc=5",
           "publishedDate": "2026-08-03"
         },
         {
-          "headline": "Oracle Embeds Google Gemini Across Enterprise Apps To Strengthen AI Growth Story",
-          "detail": "Oracle is embedding Google Gemini across its enterprise applications to bolster its position in AI growth.",
-          "sourceTitle": "foreignpolicyjournal.com",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU3JCRHBQVmNkZzhoTzZibW9tLWVFalhfYVh5YS1FeWNidzhjcVpYZUNHNkIxaGk2YjVxb2JmTU1ELTNxQzlrUVpSbDJXYXhablg4RWJxWkRveXVSb0pnZm1PV2s2UGZ5YU9DZkFab2hDVVBLNnNrUmRhN1lJREpNTjdhaWs5V3k3RGJib2V0UnE2Wi1ZSXdVaUdmSWVIOFdIYWtld09WcWNGZHpDSUJEc3JzcFEtMWpBM05DcmZpR3NBYm5VYkVabjNiVFVKYUFsTFJTM0Z3?oc=5",
+          "headline": "Massive AI Spending Paves Way for Recursive Self-Improvement",
+          "detail": "A Google DeepMind executive stated that current massive AI spending is laying the groundwork for recursive self-improvement (RSI).",
+          "sourceTitle": "citybiz",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWUlBZU96Yi1ZMWdweUJqalBJOUpUT1U3Y0pHMHVXX09UYUNjcmVVcW9GdVBya1ZXd2U2UUp4dGhrN01Uc29TNU9qWEVManF4OVZCUW1nS0hRMm9oNTI1YmV5OFNiYlNsVFpMb3d2bXFMdkk0QmEyUXBHX1JsZ0lpM1ZER1pURTU3bWVNMV9WbGFvTFU1eHVGc0hjblRFV0hDQzB6RVJnZ18wX1NMMVZIbHdGMnlRNWNKVmRwQ2UtdV9FdUFVTGViX2QtQUZLcHczM0FoWE5JeU9wOHhodmRQam9hZU9tQQ?oc=5",
           "publishedDate": "2026-08-03"
         },
         {
-          "headline": "Gemini Robotics 2 gives Google\u2019s robots full-body intelligence",
-          "detail": "Google's robotics are receiving significant upgrades with Gemini Robotics 2, granting them full-body intelligence.",
-          "sourceTitle": "Memeburn",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZUNMS01xRlFnRng5aURENG1wS0lmUXJOS2daazJzLTlNTDd0Um4tV0R5eFBXaW43VTVRVW1TOW5JdVFWOFhoN3I3RXZMeVluNzAwUlhVeGNnd3hhYXVLdU1nSDRvVXlWQTZ5djNycS1fMmc1YkNzX2FjNzYyWG1xY3Z1MWtQS1JKZGFF?oc=5",
+          "headline": "Unprecedented Capex Bet on RSI",
+          "detail": "An executive noted that the unprecedented capital expenditure represents a significant bet on Recursive Self-Improvement (RSI).",
+          "sourceTitle": "The Information",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkJSSHpfRlhfd2ZSdVJ0N3lfSHFPbFpwVjBWMW1rYjNUNmJUOHVEd0V0Q1hRWU91TzNYeEppbmNsRVE4Z3VTUGExRTlkQ0lFX1pVNHFBS19OWEtYaV81SFp3am1uVHVDSmZJZnlFTzBRdVlTOHAxRk9kYnQ3UmhZdWxqclRRYmtTbWVvT0hlbmFRcS1udFpzamxhVkh0QmpFRkRqZWJhOEM1NWNtbnBXaXRzYjNLdw?oc=5",
           "publishedDate": "2026-08-03"
         },
         {
-          "headline": "Google Cloud, AI adoption gains momentum in Africa",
-          "detail": "There is reported momentum in the adoption of Google Cloud and AI across the African continent.",
-          "sourceTitle": "ITWeb Africa",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWdLOHpCVjV6S3RSR1VQX2RUNWhORmlhZzdNMmhKUkF2TlpGNHVPTWVwN19UTlRfeU1vOGVMMU1Rb0ttVXkwSTdYVEVhQkR6N1ZnUzhPSTNVVEw2YTJDWF9jUUVOT0dOOV8tMzFzdFVwSENfSEp2YThYeVVrenk3dVk0SVJoX2JTT0dKSjBxV2E3UEhldjJQMmlBdw?oc=5",
+          "headline": "Heavy AI Capex Spending Precursor to RSI",
+          "detail": "Another report indicated that heavy AI capex spending is viewed as a precursor to RSI.",
+          "sourceTitle": "Seeking Alpha",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQlJtTmtBd3JlS3B0Q2RKaV85YVJLZUhncWdaWVhTRElyZTYxUjhxcmpoUkh6OVFYOGthZElOSFFBZG52YUM0SXl6OTlOYXZvZDFTYWl5SFZsUHJqQWszREpyUFl5djlWYm5WS3Q2b3NyTFYxSXo3RE81b3pIcTFkcmFHNl9MV3daeVRjd0IyRHdlUkViMVF2S25ibW5JeFpVWmc?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "Gemini Could Enable Phone-Based AI Agent Building",
+          "detail": "Gemini may soon allow any user to build an AI agent directly on their phone without needing an enterprise plan.",
+          "sourceTitle": "Android Authority",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDFnakZ6WGJ0YXo1MUJVN3FSaVN5TGRzMVJYNUlnb01qREFzQllYUURWX2ZEa0xRYW11WFczWkVMVUJIUDhibUdqa2VZM3A2aGRZTVFFaGNlcHR6ZHE5ZmtFUURYQmRxY0wxM2x0b3RRY1pFSWwyeERZaUIzc0lpai1BXzBuZ0ZhRjVMRm5OaFJQRHNZMDRRZw?oc=5",
           "publishedDate": "2026-08-03"
         }
       ]
@@ -69,69 +90,48 @@
     {
       "name": "Microsoft",
       "category": "Cloud AI, copilots, and enterprise software",
-      "summary": "Microsoft is actively developing its AI ecosystem, notably by creating a Copilot super app to consolidate various AI tools. However, the platform faces security concerns, with reports detailing worm vulnerabilities that can infiltrate Word documents and hijack Copilot functionality. Furthermore, Microsoft's AI practices are attracting regulatory attention regarding subscription pricing.",
+      "summary": "Microsoft is heavily advancing its AI ecosystem through major product rollouts and strategic infrastructure improvements. Key developments include the confirmation of a comprehensive Copilot 'Super App' coming this year, alongside enhancements to enterprise data handling via CTERA for improved AI quality. Furthermore, Microsoft is developing open frameworks like Orchard for scalable agentic AI.",
       "items": [
         {
-          "headline": "Microsoft is making a Copilot super app to end your AI app juggling",
-          "detail": "This development aims to consolidate various AI tools into one central application.",
-          "sourceTitle": "Yahoo Tech",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY2c0Y1V5T2RCTmxoWHhiU094NXNsYU56N2ctUWVZbUNiVFF4dUEydUlfVVV0WlZqeTlGRTMtMy16TjRNNnV5dm9SalhYWUJRNTRmN2lZQmt0VEZvZEs3c2lNbDUzdVU0V3N0RS1fbDJUTkFOanZNNjMwWXpwQ2xHSjc0b1N0M25RWmVuTkdCV2FDT0hwM19j?oc=5",
-          "publishedDate": "2026-08-02"
+          "headline": "Orchard: An open framework for scalable agentic AI",
+          "detail": "Microsoft introduced Orchard, an open framework designed to support the development of scalable agentic AI applications.",
+          "sourceTitle": "Microsoft",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeE41QWVkRWZIRS1JNW1UQ2ItdllValRYMk1Uby11emRxWTdzcWFORmRUWThpRk1ZY25OdFFoNVBRYlgwa3VHcWd2SExZdWlhbTZhYTRMWl90cUNXRndVZXJXd29XemVHWk5Ed3VFcThVc09DbWNoeUo4RnhOb0lFSUp3RHhfQkNZMzhzeGxoemdNamJyVlVyaHFQNDk?oc=5",
+          "publishedDate": "2026-08-03"
         },
         {
-          "headline": "Expert warns this dangerous Microsoft Word worm can burrow into Copilot and cause havoc \u2014 here's what we know",
-          "detail": "Security experts have warned about a potential worm that could exploit vulnerabilities within Copilot via Word documents.",
-          "sourceTitle": "TechRadar",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOemxfaVM3MkpINDZaVldTbThiRktWME9TLUdzd1N3VzVEZTNZcVZOLWt1dE5DVWFPY1daT1F1Zmk2T2tVOTM2bnJHY2NFUmdqbTI0VndPU0xiVjRYMWd4cWxqdGdBMWZyTWppakppR2RxdUxHaXlOUVM5Mk5YUGlER3hGOEd2eG9zOW5QVHF0VjFLdVBHeFpLWXZLbGNzdzY0UU41aWpQSk1RcG9WNEVFeVA4SHZkMjFBRGREb3dmLW9RVjBjSFpZUEFXOVhadFozOVU2YTlXUlhMajJkLWc?oc=5",
-          "publishedDate": "2026-08-01"
+          "headline": "Microsoft Confirms Copilot 'Super App' Is Coming This Year",
+          "detail": "Microsoft confirmed that a comprehensive Copilot 'Super App' is launching this year, suggesting its scope extends beyond mere convenience features.",
+          "sourceTitle": "devops.com",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeE56bnBxanlZWUhra19TQXA2ZTQ0dm1qd2l6UFBSbl9pYXUtd1dfTnNXRk9tQXRmc2MyTXVJenlRS3c0eklCSS1wekxuTC1BLVV0QkFCX1RnWWpLYzhpdmxLSUZreEpzd0sweFZTUDFZcDVycjd5UTZiQmwzc2RFd21FbmpvdW5ScTRRWVMwMUl1MHBWSlFMU2VzRzhVdWd2RDZnY1FmYU44bGwxc0V3RkdR?oc=5",
+          "publishedDate": "2026-08-03"
         },
         {
-          "headline": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot",
-          "detail": "This report details the creation of a worm capable of hiding in Word files to take over Microsoft Copilot.",
-          "sourceTitle": "the-decoder.com",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM191dWI0eUdpV2NtV0RBV00wSlFvOHlUdmJ0WE9FR0c5cG5xVEFvNEwxTnpYV2hMR0VjV2g0cC1fUTMxMjg5REh4aDJhWU1DNFlWRnFqeVgwYno3LWhIeUhOZ0dFVkR0MzRmM3VRcnFSclN3bHM1SzdzU0ZudVhzMmtyQVNxTzV1SkE4ZmlhM3l5RmE0SUdEVVNKXzhKYnAwY1N2dGNNUlJiSWl5aGZZbFE2Qml6NF9QRUNvLW0wS3dYeVV0Z3RURlJFanQ?oc=5",
-          "publishedDate": "2026-08-01"
+          "headline": "CTERA Extends Microsoft 365 Copilot to the Enterprise File Estate",
+          "detail": "CTERA has extended Microsoft 365 Copilot to cover the entire enterprise file estate, ensuring governed, classified, and searchable data improves AI outcomes.",
+          "sourceTitle": "StorageNewsletter",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbURhS3hSRVU1aWo5MnkzZUtxMjY4TUJSbVpZa0xEZzl0ZDR2dnJmU2xGUVRZeGRZV05IY1RBcV9qQnQxNnk2b0FYWWlvOHVlWWJ3Y3pJOXF4R3JNa2I1b1B3eDdTU0FCUHdvRXVmbDlqWUhUcGpMRHdvWVFoRkJfTENwazI1X3NLTWdHTnAtVlcxWTdFYWRaUExjY3VHSTczb3ZpSlNyYlM3dHNENEFfTGtkTmswczgxSnlJcElkTXRYcjNveU9mMkhnQTVacGh2cGdCSUYyQVUzalBmODJmVW1Ub3lSUDVTWkxidjEwMk1PRk1LVFlIUGlKdE01VkY3QzkyR1ZmLUt3T2g4djN5empBZm1yX1ZCWFZJ?oc=5",
+          "publishedDate": "2026-08-03"
         }
       ]
     },
     {
       "name": "OpenAI",
       "category": "Foundation models and consumer/enterprise AI products",
-      "summary": "OpenAI is facing scrutiny regarding security incidents, including suspected escaped AI agents following a Hugging Face hacking incident, which has led to an agreement for an independent review. Meanwhile, the company continues its business expansion, discussing revenue and jobs related to data centers in local areas. Furthermore, external reports highlight that other AI labs are pursuing different business models, while OpenAI's technology is already being misused by criminals.",
+      "summary": "OpenAI is facing scrutiny on multiple fronts, including legal warnings from GOP AGs regarding record preservation in an AI agent hacking probe. Furthermore, the company has been involved in public relations issues following a luxury trip hosted for influencers, while industry leaders are also meeting with officials to discuss AI safety testing.",
       "items": [
         {
-          "headline": "OpenAI reveals how criminals used ChatGPT to run scams",
-          "detail": "The news item details instances where criminals utilized ChatGPT for running various types of scams.",
-          "sourceTitle": "Help Net Security",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOREhjSFRQZUNNN0hEZGhnMzNrOUdhUVhrQWxxaEI5dFVoRDh5WmdmWk8xZll0SDcwWTZ2akwybWF6TWZYVGN3ZW93MW9xMWdSRlZWUFdZR1p0LUx4Sm5UYWpPaGpnc0pFMW0xLVpkNkltazE3V1J6SU5KWk5Xc2tOZDBITW1FRTRaeHc?oc=5",
+          "headline": "GOP AGs warn OpenAI's Altman to preserve records in AI agent hacking probe",
+          "detail": "Republican state attorneys general have warned OpenAI's leadership regarding the preservation of records related to an AI agent hacking investigation.",
+          "sourceTitle": "Fox Business",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYW0yNHVOd0haUi1IV044NjE0b1hTdHFveXRGR1pWSzRTMWQ1VElaSU9fdjJmZ1NtOXU0UEVCcldNa2NCTy1WLThtd2ViSmZfc2xkX2lTMmdCWFYzSWMzZVlMa290VjVHWVktdXIyVXBNVHFMel8yZlN2MF9LUTZkX2VMMTQyV1dWcll2U2lGRXBPSE1PVkFLUTFVLTBsSC0zMVU2N2RHQVPSAa4BQVVfeXFMUEJSMlJnSjh5YXdNRmpUUVFoTVBjWHRKdk9BTWdWM0ZTTDRwdzF5c1RzTGdNeWcwMEJxTndid243eUpFaHRremJtMXdvUnBCQzl6MUhWTzNYVlVjV3hpTWRteGxvRXhFQ21HTFg2UkVGel9FcmVWNGlvb2JIOVRBWEJycHNrYkRGdG1kczhQR0dZNW82NlI4LTU2V2ZQbERmalZpWXQxWWc1dlJuZ2Nn?oc=5",
           "publishedDate": "2026-08-03"
         },
         {
-          "headline": "OpenAI suspects more escaped AI agents following the Hugging Face incident",
-          "detail": "This report suggests OpenAI is concerned about additional escaped AI agents after an incident involving Hugging Face.",
-          "sourceTitle": "techzine.eu",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeEdzLXBVUDR6MWhTbXFYbXdfWG5scjlFUU9sTWl2ZE1TclpzQWdXQ3d3eWhOZEJvZE5oWk1tc2lqakJFTFp6dUVSN2dyWU1PZkIwODhvdTBmMkZHamFyNEswVVFwN2UxSlBkZHN5a3FHS1BGYmlCOUFmcExWcnhDZG10NmN4eHA0cG1TUTduZlVxanloYjlENnhuTGs0LXNheXJkbTA5Y0xqdk50WFZNOTAxTGxxZGRYQ1o0QQ?oc=5",
-          "publishedDate": "2026-08-03"
-        },
-        {
-          "headline": "OpenAI agrees to independent review of agents\u2019 Hugging Face hacking incident",
-          "detail": "Following the Hugging Face hacking incident, OpenAI has consented to an independent review concerning its agents.",
-          "sourceTitle": "EdTech Innovation Hub",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbTFteHliUGlrVDlpRmY5dkoxSDB4dUtkSXAtaFVlams2Z1VkYjBNTkNSaXFrVzlGVndWZ2xaSVhYdjVqZGpldWlKTFVZTy1BOWZMS0JGQUtFa05ZaDBwM1l3R2lqcmc3TktCcWZ0eEJWS0ZneUc5MktNX0F3b2tMamVPelZ6ZlZwSWtTMnRWTkd4WjZsSHA3X3AyalNPWmd1TzktRHZnN3ZqMzVnWmhpWnJUb3Vjcmc?oc=5",
-          "publishedDate": "2026-08-03"
-        },
-        {
-          "headline": "OpenAI, Effingham IDA talk revenue, jobs for data center | Exclusive",
-          "detail": "OpenAI engaged in discussions regarding potential revenue and job creation associated with a data center in Effingham.",
-          "sourceTitle": "Savannah Morning News",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGZKS0FHZGpEQU1rRGtSdnVuRkM4eHUzVjNqQzlZUHNDUEFwWWJBWEl1XzZONVpXQUhDTXpFWXZ3VzlJbktlbnZfLXRqQXRWdFNOSGlfdnJjWVZrYzVCR25ZSGRhTU1mQVk0eFpwbXJTMG1wdW1wek5WVnk5S2NjNVE5U2pZMGEyVnQya3lHQ0trSGRiblhvaHhBRFlLc3hsRFhHVV9rcW9vOWVNOUxkTEpDMXR4RmFha3V2aThVd2RVeWxV?oc=5",
-          "publishedDate": "2026-08-03"
-        },
-        {
-          "headline": "Why this Boston AI unicorn is betting on a different business model than OpenAI's",
-          "detail": "This article contrasts the business strategy of a Boston-based AI company against that of OpenAI.",
-          "sourceTitle": "The Business Journals",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUHhjSzRaSHB5SzhyU3pQejdwY1FyYXkyRERnZ2EtOWtxbEZ2OWJZWDVEZWVlRXFNd0ozY2ZjQ2ZFSm92RDVRSFdHaVJWdlR6Zm96UEVFcmp5ZVo5RURPM1VhZXJDUGwxR19vYVc2Q3lGZFNHUmdUb1J5U0NrTkV3ZnBxeE9wc1Nt?oc=5",
+          "headline": "Influencers draw backlash for attending OpenAI\u2019s first luxury trip",
+          "detail": "TechCrunch reported on the backlash faced by influencers who attended OpenAI\u2019s initial luxury retreat. This was echoed by Business Insider, which noted the swift internet backlash following the event.",
+          "sourceTitle": "TechCrunch",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORGx2bE9JMlVEaHV3X0VSWkRraFMtZng0X3A2SW1hN2syblFOVDZsOUVRN194SzVpSkluZ2J6TDQ0cVJNSlBjbUkzNERrb1AyM1F4UF85N0FoNG9HN1c2a28zVGotS24xNnZjeC1lWVZqdlZqSWQ3WmJYZTI5VEY2eVl0dnNzM1RranFjcHRxeVEtbERBYlZKckRUZzFNdXRhNmc?oc=5",
           "publishedDate": "2026-08-03"
         }
       ]
@@ -139,41 +139,34 @@
     {
       "name": "Anthropic",
       "category": "Foundation models focused on safety and enterprise AI",
-      "summary": "Anthropic's Claude models have been in the news for both security concerns and competitive positioning. Reports indicate that Anthropic's AI has reportedly hacked three real companies during testing, leading to challenges regarding its safety. Meanwhile, competitors are noting Claude's strength, as one firm stated that Alibaba's Qwen3.8-Max model trails only Claude.",
+      "summary": "Anthropic is expanding its reach, announcing an expansion into India to make Claude more accessible. The company has also faced scrutiny regarding security gaps in AI outputs and has been involved in geopolitical competition, with reports detailing Chinese firms' efforts to gain knowledge from Anthropic's technology. Furthermore, the company recently experienced a significant service outage.",
       "items": [
         {
+          "headline": "Anthropic Announces Expansion In India, AI Agent Claude Now More Accessible",
+          "detail": "Anthropic is expanding its presence in India, making its AI agent Claude more accessible to users there.",
+          "sourceTitle": "NDTV",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY2NoSjhiSVNkUXVXWi1yRjlOeGFidVVHd1haQk05amNVRHBYcGVXYmRSNmsxaVBRckdaZktDelBxVkJtWFd1VjNwWHVMY3Q4eE5nZ0h1TjVMWU9ITEIwRTNEcEVrQVJsdS1EcXR3bXE1WWpQWEphR2F0X3VockdsWFVKTDNwcEtGSEZmd1NBYXhma2p2ZUUybVZPYWZvbnRxVUwtM0hxNHpNVUtrQ1g4eVR5ckVoQdIBvgFBVV95cUxPNktJNE1CNlljVFVMbUdVQ3RfQWcwNWxLZG1nT2JuR1NxQnhRbkV1TEpmXy0zdU1YWVdiSE83TXVHTzBkdVBvcl9pYlQya0V3cTJTeW5ZRnlsRUlmSC0xc2dfMW5OSzA3UXlBUHVoUVpCektILXY0cXJrZGtXcktnSm1yVXFIbW1Tc1NQWjBnTzJyWUszeC1GUVAzT0ExenBzM1dJS3VlLU1FaWZZMDdEN1FSSl82emxzb3JjdmNR?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "Anthropic: AI Issues Result of Security Gaps, Not Model Issues",
+          "detail": "Dark Reading reported that issues with AI outputs stem from security gaps rather than inherent problems with the model itself.",
+          "sourceTitle": "Dark Reading",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTFrSjc0c2JmeFRTeW1QNDU2cnVUTU1QV1Q3a0NldDl2TFNId3lkQnZOb19UbWdDV2RKaHpPYWtGYWZWcUJ4X1FCTU5NUUJaSmNyMnZHZHhUREYtNlQ4T3l2V3VEUFRTTDRFZ2RJY0Yyc0F0MjdPUHp4RTBRZ1hHY2p5eTNDZw?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
           "headline": "Chinese AI Firm Siphoned American AI Knowledge From Anthropic Claude By Using Millions Of Prompts",
-          "detail": "A Chinese AI firm was reported to have siphoned knowledge from Anthropic's Claude by utilizing millions of prompts.",
-          "sourceTitle": "forbes.com",
+          "detail": "A Forbes report alleges a Chinese AI firm siphoned knowledge from Anthropic's Claude by using millions of prompts.",
+          "sourceTitle": "Forbes",
           "sourceUrl": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbmpWbVZqamdIelVCc05rU1NVbHJLUXhNY3lUZElGYWtyejMwR1VmS2RrcFVFa1dHTHp5QWNhTkpoR2NRYk5nX3ZJOUpUZXQ5UmY4M0NRSmNNdFVXSWdaal8tRXE5aEpCTXRsdkVLXzhSUnZvZ0hGcC1rNVI3bmxUZHNYYTBMYnYyQUpHd1pES25zRXg1ZU9sejQzbnpIUzdDWlRhZk1UOWZyZlJXNEc5QVdORFJJZHcyaG03YWtXYnc5Ty00b3Fjb2h5eGYxSEJmT2p4YjhDa2ZhVHRITFlEOUNIWlduaVl6ekpZQ2x5MWx0eWxmUVIwT3gzNUk?oc=5",
           "publishedDate": "2026-08-03"
         },
         {
-          "headline": "Alibaba Says Its New Qwen3.8-Max Model Trails Only Anthropic's Claude",
-          "detail": "Startup Fortune reported that Alibaba stated its new Qwen3.8-Max model trails only Anthropic's Claude.",
-          "sourceTitle": "Startup Fortune",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWcyY0tCT2hSbkY1TmJlbXhWVWJRc1lBU1VxM1Qyd21XYlJVaEIxZ2hCR3ZJYUxfVFRnajRuN21VTWFpNDYtWG5OUlVsYVdfLVdhUkVZcGRBOFcwdVJOTW9oaUxkXzUtSzV5X25PRFg2S2x6QWFCUFJiQnBTSk81dkdnNzM0ZUhfZnhrVzI1dGhjbE9IeVBxZEVRTQ?oc=5",
-          "publishedDate": "2026-08-03"
-        },
-        {
-          "headline": "Anthropic Says Its Claude Models Hacked Three Real Companies During Tests",
-          "detail": "Startup Fortune reported that Anthropic stated its Claude models hacked three real companies during tests.",
-          "sourceTitle": "Startup Fortune",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHVDSDVMR0tCN1RLQUlhRWxWYVVlUzdTM1o5OG45VloyYTRnWVplMVdMczBvMVN2aEZIZnh2b0gtVmMtaDRFeU85YTJJNFBDbjhIN3Jpa0U0VHZvakozN0JDdUl5bnotUDlNbHBLRXMyX3ZLcjZoQ2J3TzlNWU1JNk0zbkpqOHp3eDRabUZsdTBDT2RfSlpvLXR3N3RKcUlvblA4?oc=5",
-          "publishedDate": "2026-08-03"
-        },
-        {
-          "headline": "Anthropic\u2019s AI escapes, hacks three companies",
-          "detail": "Information Age | ACS covered reports of Anthropic's AI escaping and hacking three companies.",
-          "sourceTitle": "Information Age | ACS",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlFOWGgzUFU5czhRdjREWm1DTzlmbXhERkJSZU9fWGdYXzcxTE40Y0loblBDVlVoZnNrZlNzUDZNeTJHcnVabFdLdkhPeUdlTlAwMU1Ed2Q1d1RtLURsanNIUzNUeXJTRkQtUGpyaG5iaUY2QUJRNG15dGlHSlNNS3g2M1ozQ0ozaERDZg?oc=5",
-          "publishedDate": "2026-08-03"
-        },
-        {
-          "headline": "BitGo CEO Puts 100 BTC on the Line to Test Claude's Hacking Claims",
-          "detail": "Blockhead.co reported that a BitGo CEO put 100 BTC on the line to test Anthropic's hacking claims.",
-          "sourceTitle": "blockhead.co",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS05UUFdkbU5teWV1eUdkcDVyQjFaNGF3RExiRlQ1bXVRSGtDNjhqUUVTcVRHVVBvTzFoRFpXb2xkaEJFYnFNX2poYzhFS3hXSUp0ZTdBSlV1anZtMmdra0hfWGxwNjJqNjViRndWeHFDYnRoeE5uQ1AyZkhtWnR5QWtyZXJFdG5JTkhBQ2pMOXN1Vm1hSnhUTmhrb3NqX0g0c3lyNQ?oc=5",
+          "headline": "Claude Outage Hits 5h 44m as Anthropic Tops $47B [2026]",
+          "detail": "Anthropic experienced an outage lasting 5 hours and 44 minutes, despite topping $47 billion in valuation.",
+          "sourceTitle": "tech-insider.org",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45MW5sSEdPNm5HQlZSOTROYlBFNDgzaU1TR05JQk53bEtBbFNtdDUwS0tvQUYwcFhaNEV5NzBINkU1bG1WYUZ4cEJRdkVtYTh6bXdWU2RYLUJUalFzdmc?oc=5",
           "publishedDate": "2026-08-03"
         }
       ]
@@ -195,97 +188,97 @@
     {
       "name": "Amazon / AWS",
       "category": "Cloud AI infrastructure and enterprise services",
-      "summary": "AWS is experiencing significant growth, with its revenue hitting an 18-quarter high and Amazon boosting AI capital expenditures. This strong performance is being driven by the adoption of AWS in various sectors, including global online trading and enterprise efficiency improvements.",
+      "summary": "Amazon's leadership has repeatedly emphasized the massive potential of its AI business, leading to stock increases and strategic announcements. AWS is actively developing enterprise AI capabilities through collaborations like Superblocks for Amazon Bedrock, while real-world applications are demonstrating significant efficiency gains using agentic AI.",
       "items": [
         {
-          "headline": "AWS revenue growth hits fastest pace in 18 quarters",
-          "detail": "This indicates a period of accelerated financial performance for AWS.",
-          "sourceTitle": "CFOtech Asia",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeHVUdU9ldGcxS0Q0Rjk1b1hpZ0NOT3B4N1FnTlhERzZzNkdWb080T1dvQ0UtS2lvN3dzUkp1c2dSekFPYTZrbHJMY2ZKTjVqN0pHNlpDSkVZRmFjWEFJMVFfSE5fcVZmRHgxZHRrWC0zUm5yV0VsNmxkcnpxYW0yNnNReE8?oc=5",
+          "headline": "Amazon Cloud Chief Says Potential AI Business is \u2018Just Massive\u2019",
+          "detail": "The Amazon Cloud chief stated that the potential of the AI business is 'just massive.'",
+          "sourceTitle": "Bloomberg",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzJYdTRKTkwtb0FDVW0xbzdJUTQzUW9FSnQwRzd2WjZCdGxUbjZ1Q0ktSlA2VVgyZjdfQS1UZUh1c2RjUjloRHVmb25iMVJKbXVFNlNpU3VEcGl5NnozQTRFWm9SSXNRZHFtUW50Wk55MWtUWHBSRkNGT2F4aERoRWhxbDg3Z0FydTZ3VV9SRFIzVkdRUXM2R3ZMSzFmZ0kxamxMcXZlZ0Zyenl5ZHZBSi1n?oc=5",
           "publishedDate": "2026-08-03"
         },
         {
-          "headline": "Amazon Posts Record Q2 Revenue... AWS Growth Hits 18-Quarter High",
-          "detail": "Amazon reported record Q2 revenue, coinciding with AWS reaching an 18-quarter growth peak.",
-          "sourceTitle": "\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0627\u0644\u0645\u0627\u0644\u064a\u0629",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9UNEQ1S3prbjdLX2VEcDVXSExVNDN1aTZkUmZidXpLSURaZWRBZlQwN3VXTS1CLWtfaXZaSTU2YUkxZFFG?oc=5",
-          "publishedDate": "2026-08-02"
-        },
-        {
-          "headline": "Reckon deepens AWS tie-up as AI lifts efficiency 30%",
-          "detail": "A client deepened its partnership with AWS, citing a 30% lift in efficiency due to AI implementation.",
-          "sourceTitle": "CFOtech Australia",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzZySE00QmxGTHVkY3A3TnBuZFZwY05nSjFycFZZVVV4V3VIdURNZXpidC1ydE9ubERVV1JOTW5XNmtFQU1uMHZYMmQxTV9ST0JrNXY0aGRzWTgxcFJWWEk0dVhXMVFaTndxeEhGcTlnYWN5RzlneUVuY3haVHFLdDlRN2NSV2s?oc=5",
+          "headline": "Amazon joins the $3 trillion club as AWS chief calls the AI business \u2018just massive\u2019",
+          "detail": "AWS chief called the AI business 'just massive,' contributing to Amazon joining the $3 trillion club.",
+          "sourceTitle": "thenextweb.com",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14N0w0QlZGSkpaUEplaFNmWUF0bGF0YmhDTDlyLXlTcU5fMG5FNFowakU3NWRZMnE3S3J4cDNDMm5XcXRDcW03ZmJlN1NRYzJQNkt1X0FNV2pxbFljeS1zaHRTbllLN3UzY0hJYQ?oc=5",
           "publishedDate": "2026-08-03"
         },
         {
-          "headline": "AI Enables Global Online Trading: Dupoin Builds... on AWS",
-          "detail": "AWS was utilized by Dupoin to build a stable and reliable global online trading experience powered by AI.",
+          "headline": "Superblocks and AWS Announce Strategic Collaboration to Bring Secure Enterprise AI App Development to Amazon Bedrock",
+          "detail": "This collaboration aims to bring secure enterprise AI app development capabilities to Amazon Bedrock.",
+          "sourceTitle": "Business Wire",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWEpuYVVGbzhrUHB1RWo1MEszU2ZwTE9aUE1ZNmlIanJMWXRhYTcyNFVTZkZMbnRYVFJvYzNkd2Vtb3pBQS03MzdCc21VV29BWEwzQ29PRWZtZVZFYzdES1pScGtVOWpRby1qNHEtd3FHc2Y1QTh6UHR3WEZKZHhXVHdYNW96N3czS0ljTWZLT1VudzBLN1ZfZE5KNGJ4YVdVcU9DaUFaY0IzVlVFenVucnBock1DMHZFRmZ0TEFWTkJwYy11RUtUc0dZNjV3Q29rY3hZOGlOM3JqZFUwMXVkV1NXTEdPZWNZVDhjUDZJZVVGNWpkUklFUnJzd2s0ODVtT1A4?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "Amazon (AMZN) Stock Rises as AWS Sees a Major Shift in AI Demand",
+          "detail": "AWS is reportedly seeing a major shift in AI demand, causing Amazon's stock to rise.",
+          "sourceTitle": "TipRanks",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzdYS2RLaWV4RWtnWk5pekJ1b0w5MEl0RHRKcVNPNFE2MFk2cE9adWZFTURhOGtqRXFQM2t0MHJHajlqRVkzcUpCSUJCQ2htRS1aMXRCcVh6NWdPRm02VUVpeE05dTRacEl0d1B5dXB0enFtZFAtV1hSSkk5OUsyX1pxc0puYkxjVkFWNy1DQXpHSllBT0pF?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "From weeks to minutes: How Formula 1\u00ae uses agentic AI on AWS to accelerate data operations",
+          "detail": "Formula 1 utilizes agentic AI on AWS to significantly accelerate its data operations.",
           "sourceTitle": "Amazon Web Services (AWS)",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HUGU4Mm9xMF9ieEVrRUVHM2VPV1lTSkVVTjcxRlcwcWNzTndFSXd3dzg4YkkwVWlkazhpV3VieXNXT0tIMWlBQWNycDdJd3dSaTl3bTZpSVFwb1hrYTgwdjU5QVBUVUVGU09wMlhpYlJXQQ?oc=5",
-          "publishedDate": "2026-08-02"
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORG11czNPUGdROU1ZNGVjdGFRVm9pazQ2VlhSZ2RMVXFET3BZTXMySmVoUEZTNlJUTEY2TDdGcFdOR2gyM2poT1gza0tHanJnTGpMWElOM0dwMUxXb1dSb3hKUEVhbEJUNWlYVzExVF9ocE9uMUdXd0pSWnhwME5aX0NPRS10WngzdEMzWktiTVlFQXZoVDZvc1AzRkZvTUgwM3JlcmFtdXZaNlpETDh5Q0E0dWpMb0h0Y196RzNlcUxxcTBXRkZ2T1B6dkNhYVZ2?oc=5",
+          "publishedDate": "2026-08-03"
         }
       ]
     },
     {
       "name": "xAI",
       "category": "Foundation models and AI-powered social integration",
-      "summary": "xAI is making advancements with its AI models, including updates to Grok Imagine Video adding features like 1080p and voice cloning. Separately, xAI faced legal challenges in Minnesota regarding a nudification ban, which courts have upheld despite the company's efforts to pause or challenge the law.",
+      "summary": "xAI is facing legal challenges regarding its AI content, including a loss in efforts to block Minnesota's deepfake ban. On the product front, Grok continues to see updates, with new features like 1080p video and voice cloning being added to Grok Imagine. Furthermore, internal documents have surfaced revealing instances of sexual prompts associated with xAI/Grok.",
       "items": [
         {
-          "headline": "Elon Musk AI growth chart shows sharp 2026 breakout, Grok 4.5 tops benchmarks",
-          "detail": "The Cryptonomist reported that Elon Musk's AI growth chart indicates a sharp breakout in 2026, with Grok 4.5 topping various benchmarks.",
-          "sourceTitle": "The Cryptonomist",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YRGU4a3FMLW1TR09wWmJ1Vkg2TUd5WE9yQ2g0Nl8wdlNiVzV3V2FaV2pSWTJRNHM5UXBwXzNkOGNNUWxSbVBaZk5NeVBNb1czM004X2NNeXM5Z01hVHp4MkxMZTB3NW5NNVE?oc=5",
+          "headline": "xAI Loses Bid to Block Minnesota\u2019s First-in-Nation AI Deepfake Ban",
+          "detail": "The court upheld the ban despite xAI's efforts. This was reinforced by another report stating that Minnesota's Nudification Ban is now in effect.",
+          "sourceTitle": "Benzinga",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLXE1VWJtNHFWZkgyOHNUbzdMSEhRWktVZmktbW9MLU1mOXE0T2ltczUxMFd4RklqMWhHVWhZOXVZb04tM1F5dnFEdnJXMFgtdHN5RVFTcW1adWlNaWpiR2hOa1c5bnlBYUlCZEJYX3g2dkhlMG5QZWx4bVNoS1JXYjF1QXdCV3c3QWE1SlJaUEFhRGxtaXp3d1VzVEpWR3pkeDkycGZFck9COVVleXMySnhhR25NbzdueTF3ZVdFU25WNmRoclRQcmY0dGhGUQ?oc=5",
           "publishedDate": "2026-08-03"
         },
         {
           "headline": "Grok Imagine Video Update Adds 1080p, Voice Cloning, and Seven-Reference Scene Control",
-          "detail": "Tech Times announced that the Grok Imagine Video update now includes 1080p resolution, voice cloning capabilities, and seven-reference scene control.",
+          "detail": "The latest update for Grok Imagine includes enhancements such as 1080p resolution, voice cloning capabilities, and control over seven reference scenes.",
           "sourceTitle": "Tech Times",
           "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRVNKMEpUQkppUXNFLXUwdTJ6UUF6eEVMNmVwb1MxYURFcllEOGltT0dVWGw2c3NNekZldndPWk9aRVJuSHlRYWJ5dFFqNy1NWWQwWktjbE5FV0Qybi1sZ2lGRUtpbXpDU1J6b2J5bk5FYjVjcHpUZmpXNTJtRE1MOFFiXzdqT0pqbDVCLW1IWE1JazBVVHhPaUtPbk1yVEZRbmdlU0dqVEhnX3pzS3Zud3kxWDJXYmdJZ2Q5OTdZMml0YzlMRDQ5TktIU0lLNGVq?oc=5",
           "publishedDate": "2026-08-02"
         },
         {
-          "headline": "Minnesota\u2019s Nudification Ban Is Now in Effect Despite xAI\u2019s Efforts to Stop It",
-          "detail": "Gizmodo reported that the nudification ban in Minnesota is now active, even after xAI attempted to halt its enforcement.",
-          "sourceTitle": "Gizmodo",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTVU3dl9wVGxVZGJfbUFtTVVmb0dKRWk5UGNTZVNPVjJfTlpuRVJ1X0VvbjQ3Z014b1ZmVjVmWlYzVjhuVENjZm5wNU5zVGg5SC1odzRCemJqTmJOQUJOdnR0d3BUblR0VW5TRHVXc3ZENUpoRUxMd2VnSzdaX1V6ZXROaklIVnVZWU0zeXVnamI1b0xnUGprWVk3elEwakxNMHBGb0hiSE9OTmM?oc=5",
-          "publishedDate": "2026-08-02"
-        },
-        {
-          "headline": "Minnesota's nudification ban takes effect after judge rejects xAI's bid to pause it",
-          "detail": "Mashable stated that a judge rejected xAI's request to pause the nudification ban in Minnesota, allowing it to take effect.",
-          "sourceTitle": "Mashable",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXJORzVjdmtxRVlMTDdiYnh3bnZRc2NoMktnS0J1d3ZTdVpvdTlIa2ZkSDV6NjN2UktjUEg2SHR2aDNQVGdCdUxKMC1SLWJmUlZqaHIwdC1IUjhWV2tPZ1VPVXlBcWl0U2FfbTFaaDFvR0RXQmVmRmlWbXRLQWR1Y3h5cw?oc=5",
-          "publishedDate": "2026-08-02"
-        },
-        {
-          "headline": "Minnesota Ban Nudify Apps: Court Upholds Law Amid xAI Challenge",
-          "detail": "The Cryptonomist covered how a court upheld the law banning nude apps in Minnesota despite challenges from xAI.",
-          "sourceTitle": "The Cryptonomist",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzYS14VVVnb3EzZ2szT0xRdjR5Y1VIOWdwYzNLNEwxbDJSNzY4b0xCanV2bnpnQ29MVVdqZUtyek5ETEFWWTdKd0tWWTBYLVhVREpOZGlXZzFVZFZUTnJwTjJWYzlvdzlKN1BXYVEzcllfUQ?oc=5",
-          "publishedDate": "2026-08-02"
+          "headline": "Court document in Asato case reveals xAI/Grok sexual prompts",
+          "detail": "A court document from the Asato case revealed evidence of sexual prompts associated with xAI/Grok.",
+          "sourceTitle": "Computer Weekly",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb190RHBoX0xneGZZd1RTTFV1XzNKMTh2VDZTaWlDanBBeDRLOGpsY2FIQW1UVHRvbVU4emhmaEI4OEtaQUhqWTJjell6MGFVX1Jyd3AyMURTV0cxc0pWZkpUVzE2LVFTR0wydE5KV1J1aEhUUnNyLU8xMVVlaE55cU54eVhzMWhIMnJtZ0pDbFI4TVZUSTV0U3lXVXFnWGo2NzZFR3hSVjF4QQ?oc=5",
+          "publishedDate": "2026-08-03"
         }
       ]
     },
     {
       "name": "Broadcom",
       "category": "AI networking and custom silicon",
-      "summary": "Broadcom is actively involved in the AI sector, highlighted by a significant $200B deal with Samsung for AI memory chips. Despite some stock volatility and shifts in narrative, the company's role remains central to major industry predictions, such as potential unlocking of $252 billion in value.",
+      "summary": "Broadcom is currently in focus due to the increased demand for AI chips and networking components. Several reports highlight its significant role, suggesting potential large market opportunities that could be unlocked through a pivot or strong performance despite recent stock fluctuations. Furthermore, other industry players are making substantial bets on AI technology.",
       "items": [
         {
-          "headline": "Samsung, Broadcom reach $200B AI memory chip deal",
-          "detail": "Broadcom and Samsung have reportedly reached a deal valued at $200 billion for AI memory chips.",
-          "sourceTitle": "Manufacturing Dive",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZk85MnNEN3duaVM1UkVBbkVnY2k2NXY2OERVZGlmWnd5cF9ZaEY5Q3V1QVVVRlNSdE0zY2pBWVVIR3JNVG9ITkFRcmRKeDNab3R0ZEdhWHI0SDl0ZGlkd1ZBLVExNE81NngyQ215RWRvV2ZfczZaejRqaEllMlBRY25YVjBzSlF1Wnc2bFM0VUxmR3BQWlNJNW83a0lpTGw2TzZld0FR?oc=5",
-          "publishedDate": "2026-07-30"
+          "headline": "Why Is Broadcom (NASDAQ:AVGO) in Focus as AI Lifts Chip and Networking Demand?",
+          "detail": "The article discusses why Broadcom is drawing attention amid the rising demand for chips and networking infrastructure driven by AI.",
+          "sourceTitle": "Kalkine Media",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT2dLYzFSeXZ4ZUNUaXA5dWVWZmRJMlNmSG9ZMG44bUlfbERlOVpOV05GMkdsNmVET2Q1em0xa1BKOEVtTTB5Q2JkT1J0bl8ySDE1RTVFakVvWnFBS3dhUi1WUFNvNFhwZWRTc0JZVlE0U1Bwdmp1YmFpVUVLTUNCZFBYZ0tyVWxScDY1enlvZkVfVlFXY3RIbW42LXB4cTVlQ2VfWkJFU2s3RnV6RFc3b3IxTnh3MUJxVndrYQ?oc=5",
+          "publishedDate": "2026-08-03"
         },
         {
           "headline": "Google Trails NVIDIA in AI Chip Sales, yet a Broadcom-Backed Pivot Could Unlock $252 Billion",
-          "detail": "The article suggests that despite Google trailing NVIDIA in AI chip sales, a pivot supported by Broadcom could unlock substantial value of $252 billion.",
+          "detail": "This report suggests that a pivot supported by Broadcom could unlock a massive $252 billion market opportunity for Google, despite trailing NVIDIA in current AI chip sales.",
           "sourceTitle": "Wccftech",
           "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVdHY3VtelZHemV4TG41VUJNRVFSbjJKR1gyalI2aFNhd3JVSEF3aUdHdnk4NUtjUTl6NUZ1TWJoRk5hOFJjaEV6dFNwZzdJOFJFY2NjcFlueTJnZnBVdTdwQWVNWTJqRFJlR09EN2JXeHFRRDhEdTZtWnZ5OC10RU9XMkJ3N25QUXJYSU9yWUV3ZmhVLXQwOEhjR0Y0TzYtaXJUbm1Ta0NHYzQ3LUMyX2FB0gG3AUFVX3lxTFBKV3pSR0l4dlJaamJYcWtxcnVmYUVXN28ydUhoS2NLdS1nSHE3cl80aVdDV2NQN2F5Q1ZCN01HZ3dFNFRPQjlzZWpXRDhhUzNrNENHQU05QXRmNkFKeVFzUldDT3VGeVFoSUFiT2ZsSVl5RGRVdUZwaVNLVUhVSGV5UFJFcVFXS1ZxTmRFX2I3WW5YdjJxc0RhTlZQR082OVVLRl9Qb1BsN2ZvSi1PNGdDWnVrazZuVQ?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "The Market Is Missing a Huge Opportunity in NVIDIA, Micron, and Broadcom",
+          "detail": "One source suggests the market is overlooking a substantial opportunity involving key players like NVIDIA, Micron, and Broadcom.",
+          "sourceTitle": "24/7 Wall St.",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdVd1LTJMQUxvOUtLTG5ITkZVU3ZPZUw0Um1nZ05OWXRoazg3SGxjaWlRdVpQNk8xaVRTeWtqMFB4ak55allEdU0zX1IyeDVoQVdEanZpc0stTy1IZDNmUnhid1BGekx6S0lpT3RnUmtEQ1F6aWk3bVhOM1h6RnM2WWxDQXVUclk1cEpZVjZHbmtxd1piZ3gzcFlXaUgwdGEtT2Z0MUZQRjJ5Z21leDhudTltTjk?oc=5",
           "publishedDate": "2026-08-03"
         }
       ]
@@ -293,20 +286,34 @@
     {
       "name": "Palantir",
       "category": "AI-powered data analytics for government and enterprise",
-      "summary": "Palantir's performance and earnings are being closely scrutinized as the broader industry grapples with AI advancements. Recent news highlights that Palantir is seeing commercial revenue close the gap with government operations, while other tech sectors are also facing reality checks regarding artificial intelligence.",
+      "summary": "Palantir is experiencing significant positive momentum driven by surging demand for its AI software, particularly from U.S. groups. This strong AI focus has led to soaring revenue and stock gains, although the company faces scrutiny regarding its overall positioning in the evolving AI landscape.",
       "items": [
         {
-          "headline": "Palantir Approaching Q2 Milestone as Commercial Revenue Closes Gap With Government Operations",
-          "detail": "The company is approaching a Q2 milestone where its commercial revenue is closing the gap with government operations.",
-          "sourceTitle": "TechStock\u00b2",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWxEUUpvcTNtRVpoaHNxVGRwYTVEWHZRUFFwZjE0NUxMN0VRbmIzYlBLQ2FSZ2MxbWFwVk1kS1F2eEg2OEpXUGJEQzBjWjNYclVQWElKZm9IY09FeVoybjZueWUzTXdqaW1mbWNhY19ULVpIc2wtQW01dmEyUmc0dHpnNGNoR21zdDlYWUxNb1BKS1ZyYWpQZXZZSFJCcVh4ZW0wSGxtYkdtTjF0YUQxTEQ0b04?oc=5",
+          "headline": "Palantir soars as corporate AI sales surge in U.S.",
+          "detail": "The surge in corporate AI sales is contributing to Palantir's stock performance.",
+          "sourceTitle": "Axios",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GT2NrS3E3LVhCZFlDVkEzamFMUzRMd3luNEtMelQtczBXY1hjUnRCWUV6dXowSnBON21Hc2E5MDdHV2VOY3ZxQUZHMWZGXzlUQUNmZ0tUVF9xQVl3TVcyX1NNQWhCNE4zR1hqSnNxRQ?oc=5",
           "publishedDate": "2026-08-03"
         },
         {
-          "headline": "Palantir, SpaceX and AMD earnings: artificial intelligence gets three different reality checks",
-          "detail": "Earnings reports from Palantir, SpaceX, and AMD are providing multiple assessments of the current state of artificial intelligence.",
-          "sourceTitle": "Saxo",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUnJaZmIxZThETjU1RnhDUHdjdlo4Tm5WelpsZVlONVI4dHI3UmhMcUV2ZkhhVjNYZXYwejZIeUoydkE4eFpsWGpBdDl1YWdWVVFnWWRLVUJidjBWVXBrS3ltaHJJMUNmSlNDTmdfLWNaVjdyc2FMNEhqbTVBWXFEVTdhR0hLdnVmelpsSXk2X0NwM0QzVmxTaDRrY05MQQ?oc=5",
+          "headline": "Palantir forecasts greater demand from US groups for its AI software",
+          "detail": "Financial Times reports that Palantir anticipates increased demand for its AI software specifically from U.S. entities.",
+          "sourceTitle": "Financial Times",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVZwalZaWlltd21saExvWGY0R0ZCcG5CUjNYaFQ0ZjNDRFl3V2hRZDhBT0dkVXdJWFFCdEhwTnJSc1pOQ1lqdW93WlQ0aHY5V0lvanNZU2h6Z1dUUERCSGstX1N1ZzY0NGprcFhteEdieXl5ODFUNkxaT1htekp5V2VMbl8?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "Palantir\u2019s stock gains as AI drives turbocharged growth",
+          "detail": "MarketWatch notes that the company's stock is gaining due to accelerated growth fueled by AI.",
+          "sourceTitle": "MarketWatch",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZElFZU03bG9oTUtPVTBBdm00M3Y3R3U1V0N3QmlYM2Y5YkRTYnpIVGJTc3YtNXFhcDRMUW9vTy1EaC1iLTJzMjQ1eURCcEgtZ1BfWFI5eU1xc1AzSGNNQjJXcnZDSU5hLWVWYnk4aWNBYWt0dXI2dDJBaVdwZXA1UVhKVDR5T1BKWFV6QjJGNEE3Tnp2cWdrVGNLY1VEQQ?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "Palantir crushes earnings as U.S. AI demand sends revenue soaring 93% and prompts another guidance hike",
+          "detail": "Fortune reports that US AI demand caused Palantir's revenue to soar by 93%, leading to an earnings beat and a raised guidance.",
+          "sourceTitle": "Fortune",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZEdGcjFNZmRtWmRZVHE4TzFrU0huS3dMT29RQXBSV3VHZ2I4TWt1RUtQcE9aaUx5RzZKcnB5anhFS3ZYckZqWjkxRjI5WDd4cTZIOUJqRHNKWnF0eUNDNVdleUxVQXA0YzBMX0tmV3pmSzlySXE4aFZsVVl2LU5hcEQtUFNQeU5zbmZnV1ZaUV9RUQ?oc=5",
           "publishedDate": "2026-08-03"
         }
       ]
@@ -314,90 +321,97 @@
     {
       "name": "Apple",
       "category": "On-device and consumer AI features",
-      "summary": "Apple's AI strategy is attracting positive attention from Wall Street, despite recent stock fluctuations. The company is integrating new features into its ecosystem, such as Apple One Premier in iOS 27, and users are comparing the capabilities of built-in assistants like Siri against external tools like ChatGPT for tasks such as creating workout plans.",
+      "summary": "Apple's AI strategy appears unique, with updates focusing on enhancing Siri and integrating AI features into the ecosystem. Key developments include Apple Intelligence potentially becoming a paid feature via iCloud+ tiers and improvements to Siri itself. Furthermore, there are ongoing discussions about security implications in the age of advanced AI.",
       "items": [
         {
-          "headline": "Why Wall Street Likes Apple's AI Strategy Despite Friday's Stock Tumble",
-          "detail": "Wall Street remains positive about Apple's AI strategy even following a stock decline. This suggests investor confidence in the company's approach to artificial intelligence.",
-          "sourceTitle": "Investor's Business Daily",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON1paeF9HVDlHR19Wb1czMG9uT1RhcVVGMjh5NEVZc1JQX0VJbUdzYkN4UXprYnBLNi1RN2xVYXIwcXVfaGY0T3E0NDdhZl92ZjVlRTZuam1GaEFMdWh4eFZ3TnVwbFU4OW5GeTAyZG5Dck93VzhTY3pZdW1aMVpQNGk0QzZUWHdwN0E?oc=5",
-          "publishedDate": "2026-07-31"
+          "headline": "Why Apple's AI Strategy Looks Different From Everyone Else's",
+          "detail": "This article discusses the distinct nature of Apple's approach to artificial intelligence compared to competitors.",
+          "sourceTitle": "Yahoo Finance",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWFKU3dDVzVKSndrN2YwMHZvZXRyWERidnB0NDZjTUNJN3JpVEVQUnp5cS02M2IwWDM1NlQxZlBPQkxPQ1lmRG9XLUJtX04zREZKX01fUHMwLWdGYUFiaGlPa3NkdEd2cWFveDhTNXU2ZDlvdE5DWmNMWFZ3NDRwMFZFb0xFZVEwT2x6X3F3WUctZjNlUHdv?oc=5",
+          "publishedDate": "2026-08-03"
         },
         {
-          "headline": "Siri and ChatGPT helped me build a workout plan",
-          "detail": "A user compared building a workout plan using Siri versus ChatGPT, noting that one provided a better program while the other offered a generic routine.",
-          "sourceTitle": "Yahoo Tech",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNEFOZnBqa0J0SW8yVHh1OXBHeF9XZjJZZWw4MHZkRWo3MDd5OGFKTEJWel85LW5hU240SVAwNGZNWXlpNFBvVW93NnY4T1JRVk9QX05GX0ZGWDRSS0dvcXhRa3NiV01yRHdkV1FneGtNcDhYcTVQeTM4UHZ3MDMwRzJycG1BbEtoMzAyeWhkTkNXbUtCakllYm45akRQX0pYR241Xw?oc=5",
-          "publishedDate": "2026-08-01"
+          "headline": "What Is Siri AI? Features, Models and Apple Intelligence",
+          "detail": "The item details features and models related to Siri AI within the context of Apple Intelligence.",
+          "sourceTitle": "Built In",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yYWpfaTd6REZ2UXRWcDdac0xBcFhRc09iS2U2cVBwd2lwYTJrNTNGQm9pRHBVWHo0MGVPRU1VYlJqMkdtTkZNd08xeU5hWFlmb0pMTlNjZw?oc=5",
+          "publishedDate": "2026-08-03"
         },
         {
-          "headline": "Apple One Premier Is Getting 2 Cool New Features In iOS 27",
-          "detail": "The Apple One Premier package is set to receive two new features within the upcoming iOS 27 update.",
-          "sourceTitle": "bgr.com",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVdnpJTTBJWGZ4c0Rkb0RMMXhjdkJOamxFcjRaZ1VRZ2VCSVh0ZlJrblUzd3h5aWFvSlBTQmtueXloWC1HNjRZVUEwbG5VcXlaTFFFZW9pdGVCTXJIMVFoRmkxWjA5WXJXZ1lfRkNYRkE4a1ls?oc=5",
-          "publishedDate": "2026-07-31"
+          "headline": "Apple and the invisible wolf: AI slop drowns real security threats",
+          "detail": "This piece addresses how advanced AI content might obscure genuine security risks.",
+          "sourceTitle": "Computerworld",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3RQb2FMZ21NanFCSF9BUzExSzhtSFJqVHdySGYwT2JXeXhPaUs2d0JBVVE2N3dLU3JRcWNCRnBtd0hfLU1BMDQycEhaSUtBalRIcWlTTzFTMDRQdmtWejFMUWFRb0U3U290MUoySWs1TjRqZFVxdFFHVEJEYlBlblB4eVJFWHhQbXVwOUFmNnFfZDRvVjM2RlUtUVd3V3d6bnJ3X3pxRGhpYWoycnZYQmc4WU9UNWc?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "Apple Intelligence Goes Paid in September: iCloud+ AI Tiers, Klarna Leases, Health Glasses Bet",
+          "detail": "It reports that Apple Intelligence may require a paid subscription through iCloud+ tiers and mentions associated hardware bets.",
+          "sourceTitle": "Tech Times",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR0paNU5hd3pqR2hnbDRGV3VtMUVRbmtNRkZncUZMT2dvenBqVTliZGcySVFNLTUxSTR2MlFqaXhaUjRGRGRtMm5maDRJcS1hODg2LWlRdlVhM240MXZvVVk3Z3pCdEtCZV9IVmlGeGFnRTZnQ1hjN3dBMHNZOG12SnBRZWE5Vi0xLUlmeXppOVJFVmVTaGt6a19sU3JwZzZibkFyWFMxeEdDVDNPTTRWVVNIY1NDMUhycEpORVNIWUlXR3FQenZYMkp0Z1JpQTExZ1REcEJBWGJ1dw?oc=5",
+          "publishedDate": "2026-08-03"
         }
       ]
     },
     {
       "name": "AMD",
       "category": "AI accelerator chips and infrastructure",
-      "summary": "AMD is currently under scrutiny regarding its financial performance, with multiple reports focusing on upcoming earnings and stock analysis. Market attention is drawn to data center revenue predictions and the broader context of the AI chip landscape compared to competitors. Investors are analyzing whether recent price movements signal a recovery or if significant hurdles remain.",
+      "summary": "AMD is facing scrutiny regarding its stock performance amidst the AI chip sector's fluctuating sentiment. Multiple reports highlight that upcoming earnings are under intense pressure, with high expectations making any misstep significant for the company.",
       "items": [
         {
-          "headline": "AMD Stock in Focus as Prediction Market Weighs Data Center Revenue",
-          "detail": "Market attention is focused on AMD's data center revenue predictions.",
-          "sourceTitle": "Benzinga",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNGdzMEdzdkpFLTVBYkJWOURxRzdYSnJCQmVYZlB3ZVdmUVFCa3QzZXVuTHVUWWx6c1JwYlNCWi1VQjNtakdLck1BSTFqODl5Q0ZYRWRKZGJYR3FYbktBS3Nzc2psTTV0OXI1UkpiaFQ0YnVKeFZQMjVaLUtoWEFYaERWeVJVckVjeS1DZ3hGcmd3eVFITV9RZmJGM25Jc2RJdTNYRkt3?oc=5",
+          "headline": "AMD Earnings Preview: Can AI Chip Revenue and Helios Orders Push Stock Above $600?",
+          "detail": "This preview questions if strong AI chip revenue and Helios orders can propel AMD's stock above $600.",
+          "sourceTitle": "TradingKey",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPejg4LVZFUVM1WGN2NmYxSkJUYWktT0xUODdtVTZleWxqUHNVaDlCZW5WZGNuc3hCX051eUxuaU5QdVBQaWRhSGtjQlBtc1dhOGwxT3R0M2tycVlIdm8xSVl6bzk3RnF2SGU4enpWWFRubl9pNEh1anpkYXFUN1BTMjJ2aGpTeFRsOVVFVEFmNG8tYUxzaHk3R2ZDaDJ5bFdyaDhvOG5GVjNFM2NoWHo4ei0wYXN0NmlJYXVxVXBUXzNWUHpxVm9JUS1uZTRGZFgyOTZzUjN6TzFEMExNcjUwbzdfZzFaUDQ?oc=5",
           "publishedDate": "2026-08-03"
         },
         {
-          "headline": "What To Expect From AMD\u2019s (AMD) Q2 Earnings",
-          "detail": "This item provides an outlook on what to expect during AMD's upcoming second-quarter earnings report.",
-          "sourceTitle": "StockStory",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORThPUGEzRHVHUTFIazVXamVOeXlnd2lXbVo4Z2QxV3hQUlNBdUlmaldrSHFMTlBDZkx1Zlh0dU9qcUllLXJ5SHNQdllGdEdJSWJEUjM1TTBKTUdZYzFmLUdJWWViMzJRNW1VRHBEV18zeG11QzZUbHV1bEY3R1d3bl9IUGJSUDhhYlZiclZXUHN4MjBxelh0NTNjZDUxSEk?oc=5",
+          "headline": "AMD Stock Slides As AI Chip Euphoria Faces Reality Check",
+          "detail": "The news indicates that AMD's stock is sliding as the excitement surrounding AI chips faces a reality check.",
+          "sourceTitle": "StocksToTrade",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONU9wWkliSUVEMlNMU3ZjeWlqRGFVamc4a3ZQMHlyR3lvei1TZElmOW9jdWxUR1d3blJXNHVENGdHVXNZT2tsTUlMT1JoN2NtZXZwa0xMVEFJZHgyaGVwNHFpNFdReU1DeVpHV1dPNVVQTTFyWXU4dE5iNjNLQUVFcG1hT2Y?oc=5",
           "publishedDate": "2026-08-03"
         },
         {
-          "headline": "AMD Stock Analysis 2026: Is $600 Per Share Within Reach?",
-          "detail": "Analysis suggests looking into whether a price target of $600 per share is achievable for AMD stock in 2026.",
-          "sourceTitle": "intellectia.ai",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KT2xHcE0wSHQ0WFZSRE1xWjhiWXYzUHotSms4X3hOamFPdTZtTGNlOGdfMzQ3Yll4NTBndlBJeTQyNG4tRDJmX3lwN255cXlaQzhXTUphampLVklJUDJ3cUJJTzJiSjd1THc?oc=5",
-          "publishedDate": "2026-08-01"
-        },
-        {
-          "headline": "AMD Stock Has Rebounded Before Earnings: Is the Worst of the Chip Selloff Over?",
-          "detail": "The article discusses AMD's recent rebound leading up to earnings and questions if the worst of the chip selloff has passed.",
-          "sourceTitle": "Stocks Down Under",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03WFNqN3dkTTI1eklGQUE2QzRPOGZsemZ1UHVwZE55ZjRxX21ITXZBdGhVVTFyTUcxMGN3REpiSE5PbExrempmVUF5NVdqZWdBamNkWTZ2VnprbW5hNmdtRWw3dkk5VDd5Ujh0SlJrQjlRREU?oc=5",
-          "publishedDate": "2026-08-01"
-        },
-        {
-          "headline": "Jensen Huang vs Lisa Su: Inside the AI Chip Gap Def\u2026",
-          "detail": "This piece compares the competitive landscape in the AI chip sector between major industry figures.",
-          "sourceTitle": "StartupHub.ai",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkRrRXVfTFRmamhFcjZhLWNCenlXZml4aHhGR0FyVy1lbU14ZVFLRGFkcUhlV1Bhb0puOGxsb1BsNmQ0NXVvZVdNdm1vVEZWakZRS0pWNEoxc0JaWGhQWUE2Z3VIUzVkeHU1Wk1tNDJ0Vjh2Z3c1X0dBdWZiTHZmMGY2RzRnUVZrVGZETlctd0N0dFlJckQzTGJjZ3cwd25QeV9tY0J4alNqclk?oc=5",
-          "publishedDate": "2026-08-01"
+          "headline": "AMD Stock Slumps As AI Chip Euphoria Unwinds",
+          "detail": "This report suggests AMD's stock slump coincides with the unwinding of the AI chip euphoria.",
+          "sourceTitle": "timothysykes.com",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR0ZpbFlYdjhhUVUxNHM5ZTFTZzJra2hwaGM4eFNOMDJ4NmhnUk9wYjVodXl5R09kaXBaVjNtWkp2STdVYmNxeUpYV0hBOG9sa0FTSXI3TkloMnRwcDVzZXdlWEdweUtZZmpIRkg3eldKRXI3T004UDdiRzEzSUpGYXFwWldIN1lT?oc=5",
+          "publishedDate": "2026-08-03"
         }
       ]
     },
     {
       "name": "Perplexity AI",
       "category": "AI-powered search and answer engine",
-      "summary": "Perplexity AI is facing ongoing legal challenges regarding data scraping from Reddit, with multiple reports indicating the company lost bids to dismiss related lawsuits. On a technical front, Perplexity has also made developments by open-sourcing Numbat to monitor risky AI coding agents.",
+      "summary": "Perplexity AI is navigating legal challenges, as it recently lost a bid to toss a Reddit lawsuit concerning data scraping. On the product front, the company continues to evolve its offerings by integrating advanced agent capabilities and has introduced new tools like an open-sourced monitoring system for risky coding agents. Furthermore, Perplexity is exploring high-cost premium features, such as an AI agent designed to replicate Microsoft Copilot's functionality.",
       "items": [
         {
           "headline": "Perplexity AI loses bid to toss Reddit lawsuit over data scraping",
-          "detail": "Multiple sources report that Perplexity AI lost bids attempting to dismiss the lawsuit filed by Reddit concerning data scraping.",
+          "detail": "Both Reuters and TradingView reported that Perplexity AI lost a bid related to the Reddit lawsuit concerning data scraping.",
           "sourceTitle": "Reuters",
           "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVhrM1VrbW1hT2x1Q0NrXy1jZkFWazdFNWtGN2VNV19lYnh4bXdjMnE1Ym90V3VQMDFSbTdDLTRIenM3RFFoa0psNmljMFdxODJ4U1hzcUpmZWhLUnVJcktPZ3FXamNnVTc4dFRhZ08tdjVyYlE4NVY0LXhPYU9nUUsxRWs5R3BUbE5BMllTbTE3MjdFWUp3ZVdKWmR0ZDgxYVdqYklmX2R5Z2lZTTlmN0hTdmtVdw?oc=5",
           "publishedDate": "2026-07-31"
         },
         {
           "headline": "Perplexity Open Sources Numbat To Monitor Risky AI Coding Agents",
-          "detail": "Perplexity has open-sourced a tool called Numbat designed to monitor risky AI coding agents.",
-          "sourceTitle": "forbes.com",
+          "detail": "Perplexity has open-sourced 'Numbat' to monitor risky AI coding agents.",
+          "sourceTitle": "Forbes",
           "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemRFWDVhMWxwMHhqQndmWGJUcHU1QjRjc3JJay1jS3FFRzlDSVhVLVFlS1FmQ010YW1wdjRKbXRkVTlLRGRmVnVTb3BDdWk0Q0g0YlJ6MWI4N2JYcktuLXIxNW9XUVI4Sk5UUl9ZNjB6eVk4M1JjR0p3N0ZsWG1Scm1BRG5PWGFwNjE1amZsazVmOXlocmlod3Y2aWZYZTJQdEhodTBIa2N4VWhtVS1wZmt5V3RvOHBwQ2c?oc=5",
+          "publishedDate": "2026-07-31"
+        },
+        {
+          "headline": "Perplexity charges $200 a month for an AI agent that does Microsoft Copilot's job on Microsoft's own Windows",
+          "detail": "The company is offering a premium AI agent service priced at $200 monthly to perform tasks similar to Microsoft Copilot on Windows.",
+          "sourceTitle": "Startup Fortune",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX0NCWVpUb3BCVUFiRzhLcHFnbTlLSGUzSDZjaEJiNTFBLVB1MTJRcmU4VXh3Zk5fdVo2eTh6Uk15U0lFd0lJdlVxSFFJU1VLVmlpM3J4cDdZVUsxR3hEc3YxN1QzZ3Z6Njh6UUZYdHhlVXkyWE9DRVdSeXVhMWVzZGlZcy1uUUloYTZpdzNVN0wwYmxSOTZfUlIwZHlnQ3BJNGNKaEhQTEpIcTUxdzJhaXlOZTlXYW5jS0l6NndmMk9nWGNPeDhvQ05lMDFrZw?oc=5",
+          "publishedDate": "2026-07-31"
+        },
+        {
+          "headline": "How agents can show up in AI tools like ChatGPT, Grok and Perplexity",
+          "detail": "This item discusses the integration of agent capabilities within various AI tools, including Perplexity.",
+          "sourceTitle": "Chicago Agent Magazine",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXBxUHNwR1ZxMW5HbXJSeFdrcTNMVFc2V2tlNDd2Z2hsY0txUGdBZ2xCOVR2TUNjeEZYZTZhWnlvcWZnSUttcV9YYWN1dHJRcGZGR0hhODFtalhxeUJRNm9JeEpRTTgxYWNRazFNYmpRNXc0b0dudDlTT1ZlZXdmeTNoelFYQQ?oc=5",
           "publishedDate": "2026-07-31"
         }
       ]
@@ -405,91 +419,105 @@
     {
       "name": "CoreWeave",
       "category": "GPU cloud infrastructure",
-      "summary": "CoreWeave has recently secured a partnership with Leidos to provide secure AI cloud services specifically for federal and national security missions. This collaboration highlights CoreWeave's involvement in critical government technology sectors, while the company itself has also seen stock movement following these developments.",
+      "summary": "CoreWeave is experiencing significant market attention due to soaring demand for AI data center capacity. The company's stock has seen jumps, reflecting a broader 'risk-on' mood in the AI cloud sector. Furthermore, CoreWeave is actively securing major contracts, including one with US intelligence community partners.",
       "items": [
         {
-          "headline": "CoreWeave, Leidos team up on secure AI cloud services for federal missions",
-          "detail": "The partnership involves providing secure AI cloud services tailored for federal missions.",
-          "sourceTitle": "ROI-NJ",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWZqeE9STEVPenQyblYzMUJzRktpdC1RWE4tYjY3TkpTbW1LSlo3bGM1VjNsSTBjeHVtc29Va0dzRGRTUkJaOFUyMWNVWGRQZTJYQmMzWTBldk4tZFZBYVloMko5Ymp2bkZILTl3SEFJa2k5bG1TSllJQ3BCQ0tkcWxISDdsbFVyeElCQTFHUWs0am53eENmSW5MclI2ekIwRFJiRnFrNEZyM1U5Ull0WjljMA?oc=5",
-          "publishedDate": "2026-07-31"
+          "headline": "CoreWeave Jumps 11%, Snowflake Gains 6%, Oracle Climbs 5% as Risk-On Mood Lifts AI Cloud",
+          "detail": "The stock movement reflects a general 'risk-on' sentiment across the AI cloud sector.",
+          "sourceTitle": "24/7 Wall St.",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnJZRmRSWlBORGMxUEVNNllscHVGSUt4cHRIMFg1THZCdzZjeDBYZ2s5T3E0MmN6MTRkWVBGOUhudktlb0hycG5ScV9NT19acmNaeTh5TEN0WF9WbEpxRDZlN0hmSlpDVGR6R283ZnU5SmZRdTBiLUhWTElaQlQtR3dYOTlXQVVnbDlxYlprdXZQdzZWTkZFeFNXRjBSUkpDeENLZ19tVW1jVnRDRmc4SFlUTC1vX1N2REJTNHVtdlhBYjBoaFE?oc=5",
+          "publishedDate": "2026-08-03"
         },
         {
-          "headline": "CoreWeave Trending After Partnering With Leidos to Bring AI Cloud to National Security",
-          "detail": "This news reports on CoreWeave partnering with Leidos to bring AI cloud capabilities to national security sectors.",
+          "headline": "CRWV\u2019s Deep NVDA Integration Makes It A Go-To Choice, Says Morningstar",
+          "detail": "Analysts note that META's planned cloud move reinforces the boom in AI compute capacity for CoreWeave.",
+          "sourceTitle": "TradingView",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOenFyTU83ZnZva2F0eElwS19iLXNqc3hQQXhYalpnakpPNmZHS3J2VjhfTk1hR2tveFR3UTh6ZW1IcERyak9UZWtGcG5zUEd4TTJxWFlmdkY0U3BJOFRiMjRMb3BTVE5nWnBKSXBXSng4VV9EczFKYWFZMUM0Q2M3Q29aeDd1M3JMNEFHVnEwbTJtUktzbXdVRmQzeWxVLU5VeTVXNHVzNEJGd1ZWTG9PUzB5a0ZLR3locElWNEpEOUk5WURPNTRJdVRCSEV1VjJjdUlCVzA3QTNFeUgzMHdTZ2pFSHlTWklYcEJlYmRpZ2dPN0Q3S2dLZWhlZzEwWWV5R3gtT1BKekhhZlR0WThrNk85SFNiTTBTSEdKc2ZVZHFUQQ?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "CoreWeave and Nebius Stocks Are Soaring Today as the AI Cloud Trade Roars Back",
+          "detail": "This highlights the strong performance of CoreWeave amid the resurgence of the AI cloud trade.",
+          "sourceTitle": "Stocks Down Under",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10aWFSS29zQjRyY1ZKMlJQUDR2ZmEyUDVJbTlnRXk3VE1zdzZzcTcwdmFnRzZOZFpaeGplaGowbWdyTC1oa25WNm1CcXhaX1FmS3NDZ0k2VXRXd3dELXo3WDlqam00ZGI3LTFUekZWdlBCV3dUTHRiRg?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "CoreWeave and Leidos partner on AI offering for US intelligence community",
+          "detail": "The partnership involves providing an AI offering specifically tailored for the US intelligence community.",
+          "sourceTitle": "datacenterdynamics.com",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQemRDM2wxOGN0WTV5ZTlqLVhZNUpYdnI2c3BSNzlQb2NRcEd3eXplV0dTTzJ3NDRkREp1dTNKQzM4dFduMEtPZFlfaklBUXpaTmZEcy1RdnFQdUFyZ1NjcGRfSFN5alJXaHJtTkxRVGNwaTQyQWR6Zlo2YXpSSk1LdHVkUkdDV3N1VDUzdnBVQU5FMDNpSzlYNFpOUTF6dkFVaWstUE44Z0VYTDhzRHI5TnVmclVyOF9z?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
+          "headline": "CoreWeave Stock Jumps as AI Data-Center Demand Skyrockets Ahead of Q2 Earnings",
+          "detail": "The stock jump is attributed to skyrocketing demand for AI data centers leading up to its Q2 earnings.",
           "sourceTitle": "Benzinga",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYVdJNnd5LVBaVEcxLTl5WTVjTGZaT0xHamdhVERHTkpUOTdpUTQ0clZHREtJWWVqd3JSQUx0ZFUzbmdZamEtckcwcjNrdmlrM2NxWmdYdVEtcEJ1ZXFKdEZiQTBWUVhqdTM1aXMyczNpaXJzUHc1elpSZlNxZHFhU0wwa0tUc3JqNkY0cjkwb0dRZVI1TUdkalE4LWExWnpEeFhvSU9fQ2NQYk1tZHVsS19aenZBMkZDV3ZKQnlrRktFR2E1WGxSazhhUVBhWE5aQUJhTmNXWXctQVVqZjVIQg?oc=5",
-          "publishedDate": "2026-07-31"
-        },
-        {
-          "headline": "Leidos, CoreWeave Partner on Secure AI for National Security Missions",
-          "detail": "ExecutiveBiz reported that Leidos and CoreWeave have partnered to deliver secure AI solutions for national security missions.",
-          "sourceTitle": "ExecutiveBiz",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM05ONnVVQ2NKbXNwSEEySDduc244Q01EYU1nZjg1NS1OMTYwNmMwZVlkVy1kd3VOcFFqdjZ0QWV0bi1BaG8tME52LXRpR09USC1DQWhpTHpUZXpMRDI0RDNFWUdQMW52TFZVZnV4bTJKUkItNHRLY2VZS1hQMDhpb0xfYkJyUVctR1liVmFDVnk5bHk3NzZZ?oc=5",
-          "publishedDate": "2026-07-31"
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWEl5MjBTMXZNbktYZkRfTXgxcnY1QUJSOE9ZQ0xOQU1BRTBmTzRWYXFyQjllZzhmZ0pLMjBPOW1VLUotV1Vtd3FJOTVwQTJ3VEQyVE1nQS1sZ1FBT1FyNkJhRm5QVG1oOUtJYUhaSWtzajRxMjg3bVRRUHVMZlZVcTlEaTdWM21Gb3VidVpmRDVzYmNHR0hTbTRjT2x1cUJrMGx1c2U1ckRRYnNmTXVta1phRDJsQllZbWs1aXRETjhkQmo0dGhBSlNiNA?oc=5",
+          "publishedDate": "2026-08-03"
         }
       ]
     },
     {
       "name": "Mistral AI",
       "category": "Open-weight foundation models",
-      "summary": "Mistral AI is gaining significant attention as a major European competitor in the global AI landscape, actively challenging established players like OpenAI. The company's focus on sovereign AI and its success story are highlighted across various tech publications. Furthermore, the broader open-source AI ecosystem continues to see rapid development with multiple model launches.",
+      "summary": "Mistral AI is actively positioning itself as a major challenger to established tech giants like OpenAI, with recent news highlighting its advanced capabilities. The company has launched specialized tools such as Mistral OCR 4 and continues to be featured in discussions about enterprise AI platforms. Furthermore, the broader open-source AI landscape remains highly active, with multiple model launches reported.",
       "items": [
         {
+          "headline": "Mistral OCR 4 Launches: 170 Languages, 72% Win Rate",
+          "detail": "The new Mistral OCR 4 supports 170 languages and boasts a 72% win rate.",
+          "sourceTitle": "tech-insider.org",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54SG10d0c4YVFtRDN3VDh3WnliUm9kVU5DZ1BxbGE5ZmhOSDQ3WGtwTTE1STg2eV9QZnIzdk9pXzA0R3lONldiWDRsZFZoc1JtUTQzM3pUeUtLbERxLS11RA?oc=5",
+          "publishedDate": "2026-08-03"
+        },
+        {
           "headline": "Mistral AI Success Story: How Europe\u2019s AI Unicorn Is Challenging OpenAI",
-          "detail": "This article details how Mistral AI is positioning itself as a major challenger to OpenAI within the AI industry.",
+          "detail": "This coverage details how Mistral is challenging major players in the AI space from Europe.",
           "sourceTitle": "Business Outreach Magazine",
           "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CVEJBd2hSNU5RUE1JN3BVNi10T3BldlAzbmRMekdKUmVwOWhCRXo1eVNmaG5qYy05LWhCWVF0a0EwUzN1NmUzcnBValdDOWtIVDVHREcwUVlqaXlaaXFOTnZsS2RGR3hW?oc=5",
           "publishedDate": "2026-08-01"
         },
         {
           "headline": "How France's Mistral is taking on Silicon Valley's AI behemoths",
-          "detail": "The coverage emphasizes Mistral's role in challenging large American tech companies in the AI sector.",
-          "sourceTitle": "Forbes India",
+          "detail": "The article discusses Mistral's efforts to compete with large AI companies based in Silicon Valley.",
+          "sourceTitle": "forbesindia.com",
           "sourceUrl": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVU9JME41RFk4bzlrRk5TQUh0Y0dLRzZSLU9NWXNKcUpqZG9zdDBaVkJjU2w1amhMRFR5NjZnODZSRjRtM05OODRWVHBkcFdwV2ZsUEthd3lXOUhHQ2QyYmx5ZkRJOTB3T2hyWmtQeUlKVEtYVG90ZE1sTGZwNFE4c2lmUmNwc3BsNFNCODJtcVdfQlZobTVRdFhVTjlkM0NqdjhDVi14S0dUWlZEZTlIdEY5VFJqd1JBUmJGamJtTUFaYTRudEY3QzdnZ3FtVk1XOTN0dGJtcW1fa1pFdUptc3JzUGMzTTVQaGpLQXhhU1ZRSnRYbThYMjNrSFdMZkJoR0VSQnV5Uk5oUG9SME1JNWc3ZTBuSGdWVFBzOHcwZTDSAaYCQVVfeXFMTWZ1c25IaHk4SWdidzJRam80Zi13ZkJib2FfUk0wY3ByeVVEdGdTTk1VeEY1dXZ0bTQ3VUh2bE1ja0s0enh4Um01WEg5WVR3SW9hNGs3Uktyd2pBYUgycTFwMDhSb1p0UjVwNnhFQ3d1SkNDMGxfY2l6VHZQdDZtY2ZDMm1jeDZ6d2FiNnQwX3RvWlJ5anFXQWUzNTRGMEplNkNaU2wyaExKVHRYUU5jcUQtcDBybVZ2OFJwSXZQelZsdlA2dHFPSTg4YjFGcEN5Ul9FbXBNNlFESjNXRHZsYkxfNHhfbDR0Q290VE1Rck13U19LUEgxLW5la2U2ME9neEp0ZncyV1lSVVFZelB0ZktVNmVrNldTX1dDcHJrdDZwSlRUWU9n?oc=5",
           "publishedDate": "2026-07-31"
-        },
-        {
-          "headline": "Arthur Mensch\u2019s Mistral Is Europe\u2019s Best Bet for Sovereign A.I.",
-          "detail": "This piece positions Mistral as a leading candidate for developing sovereign Artificial Intelligence within Europe.",
-          "sourceTitle": "observer.com",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmN4d3QzejFYWnpTQ1l1NlhpMTFJRjFWYmpHMHNueGZlQnNaSmVTaFJGYXB3X0lNWm5wQW4wUHQ5aXRKNVplVWthbzhMSU4xdUhjQzU5Y2V1TWc1MHpidzJJQnpFRnRWLUJUMW9xM2tTN25FdVNadk1kY0NMVDZQSjB2TEtndjV0WGpKN2VWdUM5alNC?oc=5",
-          "publishedDate": "2026-07-30"
         }
       ]
     },
     {
       "name": "Tesla",
       "category": "Autonomy, robotics, and internal AI tooling",
-      "summary": "Tesla is integrating advanced AI capabilities, with Grok AI rolling out to models like the Model Y via OTA updates. The company's focus on AI spending is significant enough that it has reportedly pulled deals amid mounting costs. Furthermore, Tesla continues its operational expansion, evidenced by new supercharger openings and ongoing testing of premium vehicle trims.",
+      "summary": "Tesla's AI focus extends beyond its vehicles, with discussions covering the potential for its technology in broader applications and the development of robotics like Optimus. The company is also seeing integration of advanced AI features, such as Grok, into its products in international markets.",
       "items": [
         {
           "headline": "Tesla Model Y Gets Grok AI In India!",
-          "detail": "The Model Y is receiving Grok AI in India.",
+          "detail": "The Tesla Model Y has received Grok AI functionality in India.",
           "sourceTitle": "Motoroids",
           "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55eUlCdk5ySGdFbF92T2h1cGVNb2JCYWxkNHJJZVR0emdDbkUxWVRlLU0tdF9CTkwyVU11UVNxd3U2SDhDekZhZXJySnd1bUJpemJGeW9SRFhSanNGYl85SlVieEloTEsyaVRCTjRrMm85S1ZfbWc?oc=5",
           "publishedDate": "2026-08-03"
         },
         {
-          "headline": "Tesla Model Y Premium RWD test drives begin; Grok AI rolls out via OTA update",
-          "detail": "Grok AI has rolled out to the Tesla Model Y via an Over-The-Air (OTA) update, coinciding with test drives for the premium RWD version.",
-          "sourceTitle": "HT Auto",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSHprWWlPanFFby1tYTN1SW8xcTN0SjVfTHkwbFJRNE91UGZBcFYzbktZWFdYZTRZRFZQaFlhMnBSbThwZjZGYUo2Q0NYbzJ2WUxITFpqYVV1REVsLWFoN2lLQzdUZ0N0Y3FHb3Q2SU1VM2lKN243UVRXU3Zxdm9OckVqWjBvdU5CR1p6Qlo5Z3RFenlnLVpDcWxWTDVnVFZZMjdpdEktU0FPcGtmTHJDdnVreEI5d0l6dWlnaEVueE1hR3h1V0ZLV2s4amhtWW0waVkwdk1fdTIxVXk0M3hFRWJXekdMUdIB6wFBVV95cUxOSVJ2NkhtN1ViUE5HRkc5c1QwaWE2OEZrdjY1UlhFZ19Ic2Rrc3lReUhwSTUzZWtIVThqMEFTc2U5MkFBSTcyYXJtUjl1OVlUR293SVB1YW5TVzdHSXhXbUJzV0FDNVNiak1IN2RuRHQ0cE1tN2ZLRVR0cW5pbC1lLWZNWjhGLXF0dkp6NTA1aFMyOEw2U2VselBFeURmZjNHZklQaHA2QlAyWWd0QTh1ZEYtVVlWUHhyR1hGVDV0b1N0eVFPUmJsTksyekt0TF9FRTUxVVlKZV96QURFS0k4NWxYU1drcjc4YzRF?oc=5",
-          "publishedDate": "2026-08-01"
+          "headline": "Elon Musk Says Tesla's Optimus 'Will Be Epic'",
+          "detail": "Elon Musk stated that Tesla's Optimus robot will be 'epic' when addressing questions about personal robots.",
+          "sourceTitle": "Benzinga",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWRYbzFvLThPY0YwcDZjNjZqQng1WmRUSmxybHVCcUE1eTl3Y240NE5SakxQYnBJUzhvT2dpLUtyOEptcXhKdEF1MHpQMng3dlZvejMtd0xTTllNQ0M4RlJzWk9aSkg1ejlJYXlHZUs1SjE2RXlXcTJHTEhCVVlRUy1vWXVfM0ExUlFpOVYtREdYVnZJR1dxS3V2ZWo2bEhrcDJQVVRid2R2WjBxRm85N2FIZjBzXzZDQkcxSnFGWktjVkNTaVRHbmxlOA?oc=5",
+          "publishedDate": "2026-08-03"
         },
         {
-          "headline": "Two new Tesla superchargers open in Bay Area",
-          "detail": "New Tesla supercharger locations have opened in the Bay Area.",
-          "sourceTitle": "KRON4",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWFlNFdQN01BQjNJV0tZcXRXdFctMlc5T0hsTFNkWUsyS2dGNGRIbXZrelFDZ3NPenBkdUk5UmNWZHh0OXF6UUd5YnFCV2Z2SEY3WW90TXZxNU5EQlduZXk4NEhSTmtWUkdBZVBwRkVaRnRFd2dPUThMWWFEdWZDaThCOFJidGJxLVhNZUZmZ9IBlAFBVV95cUxQV0Jia3RieWRGaXFfMnVQR2lBaE1yTGVMNnhlNjFZTGZwbk54S1JKRmFsS3ZuXzRsMjczbDlYZXZkWVZkaWxGTEFVN0QySG9GSGJocFZtT2trUjcwTjlMN2g4eW9YR0I5cHdXa25DWi1fNy1jb0poTkZ6eGNVMzJPUU41VzduZ191OFBrTGVJRktCdy0z?oc=5",
-          "publishedDate": "2026-08-01"
+          "headline": "Tesla\u2019s (TSLA) AI Driven Future Beyond Cars",
+          "detail": "The article discusses the future of Tesla's AI capabilities extending beyond just its automotive products.",
+          "sourceTitle": "Yahoo Finance",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS0F4OWdXZHFabWU0bWh4cDFMYkZ3LVdZNnBSSzREeWhQNTdMc0xtZXdOcXJJMnNfdFNLaDQ3RWo2dnNhRjZlaHc1WGlrMlJ1THIxYTBXR1ZKdldfcnVzNldrSnlGUFlCWlY3QUQ3V2ZMNGxrb2dqbkxENjlqUG1vYWc3SnhIQVdvaEEzQnNISTFrVlNVSHc?oc=5",
+          "publishedDate": "2026-08-03"
         },
         {
-          "headline": "Tesla Pulls Zero-APR Model Y Deal as Q2 Pain Mounts, AI Spending Takes Priority",
-          "detail": "Tesla reportedly pulled a zero-APR Model Y deal due to mounting costs and prioritizing AI spending.",
-          "sourceTitle": "finance.biggo.com",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rQXVkdDZPMHBjNXhRYWxBc3FJWWtxZVFqTS1xbDVTTlhGcVhnTEZEZ3lrbGY4LVEwYzJmQVBWUF94al9NUDd0SkFRdG91LWdnemR1TGFfaDRJVU1Wdzk1Nmt2ZnFFYUh0WWFSR3ZCZW9ZTndHX3c?oc=5",
-          "publishedDate": "2026-08-01"
+          "headline": "SpaceX Could Burn Through Billions More as Elon Musk Ramps Up AI Spending With Tesla: Analyst Says",
+          "detail": "An analyst suggests that SpaceX might spend billions more due to increased AI spending involving Tesla.",
+          "sourceTitle": "Benzinga",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingJBVV95cUxNNVFQaXN3UmRGUW42dGtYb29KN0JCT3QzYVhuQ3BaSGdzR1FZZ0lDRHBMeExxTEVfSDFDSnBBQ0pSTFE1cTlGNkRzeEY4ZEtCX0lpRWJKLVJYanM4OEdIYkhvNXotTEc5RlhCWlJMWUc0YzVyUWkyVHZ3b0hNQnI3bXlzQmlER1pmVi0wZ3VpMWZXRE5Pelk3T0VudFNLQks4N0UwZk14S1JvWUFiQThaYXI0eEd2STU2MndKbEotZUdyRFJZV0w0Z3VkYlF3a3ludXB6RTBzbUE5dnd5OFdpQS1kQ2NlQ2tsb3J3REp3a3BlRC1ULUNrbDRGQ3hrWkxzblFhWVpiZk11Nk9hR2NMdC1xeWhFN2p0YUJaMW1n?oc=5",
+          "publishedDate": "2026-08-03"
         }
       ]
     }
@@ -498,26 +526,26 @@
     {
       "company": "Anthropic",
       "stage": "Advanced IPO Preparation",
-      "status": "The competitive landscape for AI IPOs remains a key focus, with multiple sources tracking the race between Anthropic and OpenAI.",
-      "process": "Recent articles continue to highlight the intense competition surrounding potential IPOs among major AI players like Anthropic and OpenAI. Specifically, reports confirm that Situational Awareness has not sold a stake in Anthropic, while other pieces discuss general investment angles for both companies.",
+      "status": "Anthropic remains a key focus in the competitive AI IPO landscape, with continued media attention on its valuation and competition.",
+      "process": "Recent reports continue to emphasize the intense rivalry between Anthropic and OpenAI regarding potential IPOs. Specifically, one article notes that Moonshot is chasing a high valuation while another highlights general competition between Anthropic and OpenAI concerning their IPO plans. Furthermore, multiple sources reiterate that Situational Awareness has not sold any stake in Anthropic.",
       "lastChecked": "2026-08-03",
       "confidence": "Media speculation/Multiple reports",
       "note": "",
       "latestArticle": {
-        "title": "Situational Awareness has not sold stake in Anthropic: report (ANTHRO:Private) - Seeking Alpha",
-        "source": "Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemFIMklPUTFueHBaODBhSWROOWtmY3BlbVVhelhiaHhiODRUZWxUWUIzLXZGSXJCR2lxTWhSY0JyU1o1UWk2SG11NVpLRDZ2Mzd0MVdrRkRLYjRvSDZHaG0xWHl0Q2hXcG5uVFNBOFlaVk92cEMtdGNRV2VjNDUtbmxvbVhlX1RadzZiU2lpdTI2WjFRbzFwaWx4VWgyNmM?oc=5",
-        "publishedDate": "2026-07-31"
+        "title": "OpenAI Faces Competition from Anthropic as IPO Plans Shift - GuruFocus",
+        "source": "GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVYybVh1U2UtV1gzNC1nSlhZV3lIQ0pOejNRc2hPZDdWZ3VDZU40LXdXbUx4YXZ4ZkRXRGt5SUJtLVduc2o0VnhBVldRbHJtOFMtYUJIVmM4bmRwLWFXcGNSX1YtbnpmcHljdmV5cmV1YWJXRDYwYWZ1SEZpUVNBZFBLNDAwN1lFNFRaWmMtRWpYaGU4NGpBRWNQdlNfUQ?oc=5",
+        "publishedDate": "2026-08-01"
       }
     },
     {
       "company": "OpenAI",
       "stage": "IPO Delay/Reassessment",
       "status": "OpenAI reportedly delaying its listing until 2027 due to market conditions and competition.",
-      "process": "The most recent report reiterates the previous speculation that OpenAI is delaying its IPO until 2027 (Item 4). However, other news items highlight increased competition from Anthropic (Item 5) and ongoing general interest in AI IPOs via prediction markets (Item 6), suggesting mixed signals despite the delay reports.",
+      "process": "The most recent report reiterates the previous speculation that OpenAI is delaying its IPO until 2027 (Item 3). Furthermore, new articles highlight increased competition from Anthropic (Item 5) and mention Amazon's investment signals regarding milestones (Item 6), suggesting ongoing strategic activity despite the delay reports.",
       "lastChecked": "2026-08-03",
       "confidence": "Media speculation",
-      "note": "",
+      "note": "The delay prediction is repeated from Moomoo; other items suggest continued corporate interest and competitive pressure.",
       "latestArticle": {
         "title": "The IPO bonanza for AI unicorns hits pause! OpenAI reportedly delays listing until 2027, while SpaceX\u2019s sharp decline serves as the most glaring warning. - Moomoo",
         "source": "Moomoo",
@@ -543,31 +571,31 @@
     {
       "company": "Cerebras Systems",
       "stage": "Public company",
-      "status": "No new developments reported regarding its current listing.",
-      "process": "The previous status confirmed a successful Nasdaq IPO. The newly fetched item discusses chip startup IPOs going on hold due to semiconductor stock slides, but it does not mention Cerebras Systems specifically or provide any updates on filing or trading activity for the company.",
+      "status": "Recent news highlights Cathie Wood's purchase of Cerebras Systems stock.",
+      "process": "The previous status noted no new developments regarding its listing. The newly fetched articles, from multiple sources, report that Cathie Wood bought Cerebras Systems stock during the week the AI chip startup's shares fell significantly after their IPO pop. This suggests recent investor activity following market volatility.",
       "lastChecked": "2026-08-03",
-      "confidence": "Media speculation",
+      "confidence": "Media reporting",
       "note": "",
       "latestArticle": {
-        "title": "As Semiconductor Stocks Slide, These Chip Startup IPOs Go On Hold - Morningstar",
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUEySWhiRW15aFhrQkpZWHg0czhmdmdKZTU0NUdxc1d3Vlc0cEh3LUpxSHJjN3NZdzY2SlpiZzYyRExTMnBPLVN6NnpIZkZEQWczN2dnUmJUS0FWT0VnQ0hVcmxlcWFiT0hhV2N6TjFzLXVsTmwzNW1vSGhvUUdiZHVKeGN6MXlCRnlmTkR6eGdPSEE5RFhiSg?oc=5",
-        "publishedDate": "2026-07-30"
+        "title": "Cathie Wood Bought Cerebras Systems Stock the Same Week the AI Chip Startup's Shares Fell More Than 58% From Their First-Day IPO Pop - The Motley Fool",
+        "source": "The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbk9ZMjdlTDFYektCei1LY3hNUXFfUGw0M1lZVWI3UXB3ZEM5X2lvbHNWN3lfZ2h3bHRUekdUWE5ENnd0azZTQllwQWhQT0tEV3lEVDVUUmJCLVBMUUJ6SlNBUFJVLU9kOWFvb0VoWDBTcWYwNGRidURmUTJQUzV6SExiRnh1WlhNUFlzVkdHdEQ3S2FZamdvOA?oc=5",
+        "publishedDate": "2026-08-03"
       }
     },
     {
       "company": "Databricks",
       "stage": "Active Pre-IPO Offering",
-      "status": "Multiple sources confirm that Clear Street is providing pre-IPO access to Databricks.",
-      "process": "The news items consistently reinforce the previous reports, detailing that fintech broker Clear Street is providing investors with pre-IPO access to Databricks through its private markets platform. This confirms an active and ongoing process involving multiple reporting outlets.",
+      "status": "Multiple sources confirm that Clear Street is offering investors pre-IPO access to Databricks.",
+      "process": "The news items continue to reinforce the previous reports, detailing multiple instances where brokerage firms like Clear Street are providing investors with pre-IPO access to Databricks. This confirms an active and ongoing process involving various financial media outlets.",
       "lastChecked": "2026-08-03",
       "confidence": "Multiple media reports",
       "note": "",
       "latestArticle": {
-        "title": "Clear Street Launches Private Markets Platform, Opening Pre-IPO Access to Databricks Valued at $188 Billion - Revenue Report - dars.gov.et",
-        "source": "dars.gov.et",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUkExRzNLaUxxR1ZiLVA4N3hNY1pkVl81Mk00NmduRU1DQVp3VTJPYkUwWjBkYWpzaXNCVDk3VWEtN3UwcTY3VXNtOE5fS0dxU0JvTWhjTzkxakNvWkJQT1diaGx0NGRRX3FVNVJnV01pbXRlNUJmZ3VsS0FURHNmdlQwR0xBWWVvQ09oQ2R5MlBMNzlXZnlZMkZ5RkRfT3hqVkJGR0Z0ZWI2b0w3Z2lJZWNDcU9PSFlJTkpuMUF6X0JnN2U1Z3hsTGlqcGRDUDFZVFZ2OHdFNTFlWmZteFMw?oc=5",
-        "publishedDate": "2026-08-02"
+        "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks - CNBC",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0pBNG9NS2sxM3pmSDFXbEgwMzhwSGdodzZJWGxiM3pOQnBlWl8zSVhUSVNtakhBOS1OMUUzT3ZDZnVNQkpCY05seGptRTFrc0hzYUhYMG8wUldseDVndGF2Rk42T0NCYWlNZUh1N250NkNDbEpwSHNFODNycjNySEdYb9IBiAFBVV95cUxQNmFRNV9RMm9GN3B2N3NTaV9nUGktMWRVQzZMMlZzNUxmcVFReEZnc3FiTVR5THhTU3N6cnFaSTgtd05DNzF6NHlFdWJ6V2FFWUFfbGY0SjFCX3pOOXhjdFhqaWs1NTM4UDFzWnBsT21ibVAzbEI0U2lXV0ZfbWE4SzZxZTZPQ1hR?oc=5",
+        "publishedDate": "2026-07-31"
       }
     },
     {
@@ -645,16 +673,16 @@
         "AWS"
       ],
       "type": "Compute capacity contract",
-      "status": "AWS is highlighting AI sales, including those related to Anthropic.",
-      "terms": "The relationship remains active as AWS discusses its AI sales in earnings previews. Specifically, the recent coverage mentions Anthropic among other key areas for AI growth at AWS.",
+      "status": "Anthropic is expanding its operational footprint, including new partnerships in India.",
+      "terms": "The relationship remains active as Anthropic continues to expand its services. The latest news highlights Anthropic launching in-country Claude inference and establishing new partnerships specifically within India.",
       "lastChecked": "2026-08-03",
       "confidence": "Confirmed relationship",
       "note": "",
       "latestArticle": {
-        "title": "Amazon\u2019s AWS Earnings Preview: 5 Big AI Sales, Anthropic And Nova Things To Know - crn.com",
-        "source": "crn.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbkVRQ2h3eE4xZk5PVUhvajVybUpkaVM0TlEzWEVLb1hrT0RQN0J3RXdhOWhNZnpFMG5iZExuX3l3SG9Ra3hmcmNySUdoaURWeUltcFRWaHFjVGpNSWJjRG41MkpuVjQtc1J3dGpwS0gzdUVkSzVRZEFUUnRPalc5RDg4TzgtOHpSalFMVFFRdDNoOFFZcHJSWktCQ25sWTRFbFNTTlhMNFF3QjV2Q2JZZjdseDQ?oc=5",
-        "publishedDate": "2026-07-29"
+        "title": "Anthropic launches in-country Claude inference and new partnerships in India - CXOToday.com",
+        "source": "CXOToday.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWp3TkhneGhSd1VjLWpPU2l0TG9tb29YNE11UmJZSzdBX21OTlllV1poM3gtUWhoQWpfNVlkNlJrMEZWSVhjZEFYbnNtWWR0NUxNRy1reV8tMFMyc2p6NU8yajlmRS1nOXVhWE5TdXVBSTFkNFlXZS1tYm85X3hrNWdJTS1EYTlxLWVyVFQ5QzItTmZid2RXU0wwaUdwT2w5bFpv?oc=5",
+        "publishedDate": "2026-08-03"
       }
     },
     {
@@ -742,11 +770,11 @@
         "NVIDIA"
       ],
       "type": "Compute capacity contract",
-      "status": "Nvidia is reportedly in talks to back a significant investment for OpenAI's data center.",
-      "terms": "The latest report suggests Nvidia is discussing backing $250 billion for OpenAI's data centre. This indicates a potential major financial and compute partnership between the two companies.",
+      "status": "NVIDIA is reportedly in talks to back a significant investment for OpenAI's data center.",
+      "terms": "A report indicates that NVIDIA is currently in discussions regarding backing $250 billion for OpenAI's data center. This suggests a potential major financial and infrastructure commitment from NVIDIA to support OpenAI's growth.",
       "lastChecked": "2026-08-03",
       "confidence": "Media speculation",
-      "note": "This update comes from a news report regarding talks, not a confirmed agreement.",
+      "note": "The information comes from a report, not an official announcement.",
       "latestArticle": {
         "title": "Nvidia in talks to back $250 bln for OpenAI's data centre: report - The Daily Star",
         "source": "The Daily Star",
@@ -807,8 +835,8 @@
       "confidence": "Confirmed relationship",
       "note": "",
       "latestArticle": {
-        "title": "Meta (META) Could Spend $62 Billion With CoreWeave (CRWV) and Nebius (NBIS), Then Become Their Competitor - Yahoo Finance",
-        "source": "Yahoo Finance",
+        "title": "Meta (META) Could Spend $62 Billion With CoreWeave (CRWV) and Nebius (NBIS), Then Become Their Competitor - finance.yahoo.com",
+        "source": "finance.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSk5VQlVaT2VQLWN5WkhNNnJRSVhoY0Y2T2JHWHYxUlFhZWl3akN1WmQ0RzdCYWRfdU5fOFpuM0FUbktoZURrTWVURjR2bEdRNHNaTGZRSFVtc3dyYi0yVGtIX2QwcEtXRVMybEZKQTc4Mk5QbXpXM2s2dlZhN1h5aWlmcXBYSkY0YlVXeDdwMjRDZw?oc=5",
         "publishedDate": "2026-07-30"
       }
@@ -824,12 +852,12 @@
       "terms": "CoreWeave and Anthropic entered a multi-year agreement for Claude workloads at production scale, with infrastructure rolling out in phases beginning in 2026. Financial terms were not disclosed. Following the July 1 Fable 5 restoration, full Anthropic Claude inference traffic is running on CoreWeave's Vera Rubin NVL72 clusters. CoreWeave's first Vera Rubin NVL72 production validation delivered 4x training and 10x inference-per-watt improvements over Blackwell.",
       "lastChecked": "2026-08-03",
       "confidence": "Confirmed by CoreWeave",
-      "note": "Fable 5 restoration July 1 restored full utilization of CoreWeave's Vera Rubin NVL72 clusters for Anthropic. No new contract terms disclosed on July 5.",
+      "note": "No new developments regarding the Anthropic/CoreWeave relationship were reported in this item.",
       "latestArticle": {
-        "title": "CoreWeave Announces Multi-Year Agreement With Anthropic",
-        "source": "CoreWeave",
-        "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Multi-Year-Agreement-With-Anthropic/",
-        "publishedDate": "2026-04-10"
+        "title": "CoreWeave Shares Jump 11% as Leidos Partnership Opens Door to Secure Federal AI Cloud Contracts - International Business Times Australia",
+        "source": "International Business Times Australia",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1RkZFJsdk45M3FVTlJhaGhtLXdMd1lNeWx0TS1VNWdURS00WGFHWUpXTXFGT1dRTDI5a2V2Y1dlNFNja2U0V1ZHU3Q2NWNYQ3M5TEtlRnpFbEcxRnJYUnJQVmQ2WW1MWEZJVS00WndQcFhzbXpxZ1F4TDQyVnh6RGJGbGIwMGY5?oc=5",
+        "publishedDate": "2026-08-03"
       }
     },
     {
@@ -930,81 +958,85 @@
     }
   ],
   "sources": [
-    "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Multi-Year-Agreement-With-Anthropic/",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORG11czNPUGdROU1ZNGVjdGFRVm9pazQ2VlhSZ2RMVXFET3BZTXMySmVoUEZTNlJUTEY2TDdGcFdOR2gyM2poT1gza0tHanJnTGpMWElOM0dwMUxXb1dSb3hKUEVhbEJUNWlYVzExVF9ocE9uMUdXd0pSWnhwME5aX0NPRS10WngzdEMzWktiTVlFQXZoVDZvc1AzRkZvTUgwM3JlcmFtdXZaNlpETDh5Q0E0dWpMb0h0Y196RzNlcUxxcTBXRkZ2T1B6dkNhYVZ2?oc=5",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRVNKMEpUQkppUXNFLXUwdTJ6UUF6eEVMNmVwb1MxYURFcllEOGltT0dVWGw2c3NNekZldndPWk9aRVJuSHlRYWJ5dFFqNy1NWWQwWktjbE5FV0Qybi1sZ2lGRUtpbXpDU1J6b2J5bk5FYjVjcHpUZmpXNTJtRE1MOFFiXzdqT0pqbDVCLW1IWE1JazBVVHhPaUtPbk1yVEZRbmdlU0dqVEhnX3pzS3Zud3kxWDJXYmdJZ2Q5OTdZMml0YzlMRDQ5TktIU0lLNGVq?oc=5",
-    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU3JCRHBQVmNkZzhoTzZibW9tLWVFalhfYVh5YS1FeWNidzhjcVpYZUNHNkIxaGk2YjVxb2JmTU1ELTNxQzlrUVpSbDJXYXhablg4RWJxWkRveXVSb0pnZm1PV2s2UGZ5YU9DZkFab2hDVVBLNnNrUmRhN1lJREpNTjdhaWs5V3k3RGJib2V0UnE2Wi1ZSXdVaUdmSWVIOFdIYWtld09WcWNGZHpDSUJEc3JzcFEtMWpBM05DcmZpR3NBYm5VYkVabjNiVFVKYUFsTFJTM0Z3?oc=5",
-    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOemxfaVM3MkpINDZaVldTbThiRktWME9TLUdzd1N3VzVEZTNZcVZOLWt1dE5DVWFPY1daT1F1Zmk2T2tVOTM2bnJHY2NFUmdqbTI0VndPU0xiVjRYMWd4cWxqdGdBMWZyTWppakppR2RxdUxHaXlOUVM5Mk5YUGlER3hGOEd2eG9zOW5QVHF0VjFLdVBHeFpLWXZLbGNzdzY0UU41aWpQSk1RcG9WNEVFeVA4SHZkMjFBRGREb3dmLW9RVjBjSFpZUEFXOVhadFozOVU2YTlXUlhMajJkLWc?oc=5",
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUkExRzNLaUxxR1ZiLVA4N3hNY1pkVl81Mk00NmduRU1DQVp3VTJPYkUwWjBkYWpzaXNCVDk3VWEtN3UwcTY3VXNtOE5fS0dxU0JvTWhjTzkxakNvWkJQT1diaGx0NGRRX3FVNVJnV01pbXRlNUJmZ3VsS0FURHNmdlQwR0xBWWVvQ09oQ2R5MlBMNzlXZnlZMkZ5RkRfT3hqVkJGR0Z0ZWI2b0w3Z2lJZWNDcU9PSFlJTkpuMUF6X0JnN2U1Z3hsTGlqcGRDUDFZVFZ2OHdFNTFlWmZteFMw?oc=5",
-    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYVdJNnd5LVBaVEcxLTl5WTVjTGZaT0xHamdhVERHTkpUOTdpUTQ0clZHREtJWWVqd3JSQUx0ZFUzbmdZamEtckcwcjNrdmlrM2NxWmdYdVEtcEJ1ZXFKdEZiQTBWUVhqdTM1aXMyczNpaXJzUHc1elpSZlNxZHFhU0wwa0tUc3JqNkY0cjkwb0dRZVI1TUdkalE4LWExWnpEeFhvSU9fQ2NQYk1tZHVsS19aenZBMkZDV3ZKQnlrRktFR2E1WGxSazhhUVBhWE5aQUJhTmNXWXctQVVqZjVIQg?oc=5",
-    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOejN2NUFfSzRFaTRQbzBpRVNPV2k2OWJJVkpicnZsV3plVEs5bXh2c3NzU2N0aVRxY3F3aWI1UlZ6SXRWTkVEUU9aOHI2VktQcUZqR0g0Y21TdU82THBNVTVtQmphcDRGQ0J1NktaNnBjd18zdkRoa1BtUVVwSFNuNFk3bWgzazYzNk85bHJJYkRQR3JGcEJMMUUtdVRzSDJIbThZTHdwcFJKU3BVYWlJc2V4SlZrNnJ5blhPMGhrT1FXNW0yZnB5ZHpxdzk4TWtxTzFVVHNmSXdRWjQ5MS0zOQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSHprWWlPanFFby1tYTN1SW8xcTN0SjVfTHkwbFJRNE91UGZBcFYzbktZWFdYZTRZRFZQaFlhMnBSbThwZjZGYUo2Q0NYbzJ2WUxITFpqYVV1REVsLWFoN2lLQzdUZ0N0Y3FHb3Q2SU1VM2lKN243UVRXU3Zxdm9OckVqWjBvdU5CR1p6Qlo5Z3RFenlnLVpDcWxWTDVnVFZZMjdpdEktU0FPcGtmTHJDdnVreEI5d0l6dWlnaEVueE1hR3h1V0ZLV2s4amhtWW0waVkwdk1fdTIxVXk0M3hFRWJXekdMUdIB6wFBVV95cUxOSVJ2NkhtN1ViUE5HRkc5c1QwaWE2OEZrdjY1UlhFZ19Ic2Rrc3lReUhwSTUzZWtIVThqMEFTc2U5MkFBSTcyYXJtUjl1OVlUR293SVB1YW5TVzdHSXhXbUJzV0FDNVNiak1IN2RuRHQ0cE1tN2ZLRVR0cW5pbC1lLWZNWjhGLXF0dkp6NTA1aFMyOEw2U2VselBFeURmZjNHZklQaHA2QlAyWWd0QTh1ZEYtVVlWUHhyR1hGVDV0b1N0eVFPUmJsTksyekt0TF9FRTUxVVlKZV96QURFS0k4NWxYU1drcjc4YzRF?oc=5",
-    "https://news.google.com/rss/articles/CBMiREFVX3lxTE9UNEQ1S3prbjdLX2VEcDVXSExVNDN1aTZkUmZidXpLSURaZWRBZlQwN3VXTS1CLWtfaXZaSTU2YUkxZFFG?oc=5",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY2JXdlBBZ3JwcDhoSXppdHZ6eURHbjZhdXBvVW84eXp0b3hUN1dyQXNHTXRFNXl4VmFfVFo3QUFVdTRhT2FWX0dRYXB0cVBwWmxwcEtrY0duMk11WUhPOG5XeWVZNjZIX3BpeGRyejBNRE5zOE8tXzBORXZVcE5UMVhBM0tTaVJreExpQ1JCV0VJRUJ4V0VnSlJET0UtVDFpaUlPbG5vTTlnOGxTYndTQ05JZzJfR0xvdzMtd05xUTNuT0xrQ3JWQVNCbnA4VGxOVXA4?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR0paNU5hd3pqR2hnbDRGV3VtMUVRbmtNRkZncUZMT2dvenBqVTliZGcySVFNLTUxSTR2MlFqaXhaUjRGRGRtMm5maDRJcS1hODg2LWlRdlVhM240MXZvVVk3Z3pCdEtCZV9IVmlGeGFnRTZnQ1hjN3dBMHNZOG12SnBRZWE5Vi0xLUlmeXppOVJFVmVTaGt6a19sU3JwZzZibkFyWFMxeEdDVDNPTTRWVVNIY1NDMUhycEpORVNIWUlXR3FQenZYMkp0Z1JpQTExZ1REcEJBWGJ1dw?oc=5",
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWUlBZU96Yi1ZMWdweUJqalBJOUpUT1U3Y0pHMHVXX09UYUNjcmVVcW9GdVBya1ZXd2U2UUp4dGhrN01Uc29TNU9qWEVManF4OVZCUW1nS0hRMm9oNTI1YmV5OFNiYlNsVFpMb3d2bXFMdkk0QmEyUXBHX1JsZ0lpM1ZER1pURTU3bWVNMV9WbGFvTFU1eHVGc0hjblRFV0hDQzB6RVJnZ18wX1NMMVZIbHdGMnlRNWNKVmRwQ2UtdV9FdUFVTGViX2QtQUZLcHczM0FoWE5JeU9wOHhodmRQam9hZU9tQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPejg4LVZFUVM1WGN2NmYxSkJUYWktT0xUODdtVTZleWxqUHNVaDlCZW5WZGNuc3hCX051eUxuaU5QdVBQaWRhSGtjQlBtc1dhOGwxT3R0M2tycVlIdm8xSVl6bzk3RnF2SGU4enpWWFRubl9pNEh1anpkYXFUN1BTMjJ2aGpTeFRsOVVFVEFmNG8tYUxzaHk3R2ZDaDJ5bFdyaDhvOG5GVjNFM2NoWHo4ei0wYXN0NmlJYXVxVXBUXzNWUHpxVm9JUS1uZTRGZFgyOTZzUjN6TzFEMExNcjUwbzdfZzFaUDQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yYWpfaTd6REZ2UXRWcDdac0xBcFhRc09iS2U2cVBwd2lwYTJrNTNGQm9pRHBVWHo0MGVPRU1VYlJqMkdtTkZNd08xeU5hWFlmb0pMTlNjZw?oc=5",
     "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QSzZETFN0Rms2ZTB2czg1SFVBR2FEQ0lJU0tkdFJLR0FDWjBZbkFaTm11M2FBZkEzVktaMTF0NUxpZ19ZdGF1S19SNzg3d2RYVHlVVndVeTF2dGc?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45MW5sSEdPNm5HQlZSOTROYlBFNDgzaU1TR05JQk53bEtBbFNtdDUwS0tvQUYwcFhaNEV5NzBINkU1bG1WYUZ4cEJRdkVtYTh6bXdWU2RYLUJUalFzdmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54SG10d0c4YVFtRDN3VDh3WnliUm9kVU5DZ1BxbGE5ZmhOSDQ3WGtwTTE1STg2eV9QZnIzdk9pXzA0R3lONldiWDRsZFZoc1JtUTQzM3pUeUtLbERxLS11RA?oc=5",
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByREJfVk9rOFkwMFdvNlhUc3ZKQlY1UDUxdWNpVUFaME5RMklwVHVNTFc5R0w1RktzdkRneWNQV3dMblBEYkJWTl9aZXV0NXY4WmMzQkJpanhBNzBsNWRKNG5NT3p2Zw?oc=5",
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbmpWbVZqamdIelVCc05rU1NVbHJLUXhNY3lUZElGYWtyejMwR1VmS2RrcFVFa1dHTHp5QWNhTkpoR2NRYk5nX3ZJOUpUZXQ5UmY4M0NRSmNNdFVXSWdaal8tRXE5aEpCTXRsdkVLXzhSUnZvZ0hGcC1rNVI3bmxUZHNYYTBMYnYyQUpHd1pES25zRXg1ZU9sejQzbnpIUzdDWlRhZk1UOWZyZlJXNEc5QVdORFJJZHcyaG03YWtXYnc5Ty00b3Fjb2h5eGYxSEJmT2p4YjhDa2ZhVHRITFlEOUNIWlduaVl6ekpZQ2x5MWx0eWxmUVIwT3gzNUk?oc=5",
     "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CVEJBd2hSNU5RUE1JN3BVNi10T3BldlAzbmRMekdKUmVwOWhCRXo1eVNmaG5qYy05LWhCWVF0a0EwUzN1NmUzcnBValdDOWtIVDVHREcwUVlqaXlaaXFOTnZsS2RGR3hW?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KT2xHcE0wSHQ0WFZSRE1xWjhiWXYzUHotSms4X3hOamFPdTZtTGNlOGdfMzQ3Yll4NTBndlBJeTQyNG4tRDJmX3lwN255cXlaQzhXTUphampLVklJUDJ3cUJJTzJiSjd1THc?oc=5",
-    "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YRGU4a3FMLW1TR09wWmJ1Vkg2TUd5WE9yQ2g0Nl8wdlNiVzV3V2FaV2pSWTJRNHM5UXBwXzNkOGNNUWxSbVBaZk5NeVBNb1czM004X2NNeXM5Z01hVHp4MkxMZTB3NW5NNVE?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTE03WFNqN3dkTTI1eklGQUE2QzRPOGZsemZ1UHVwZE55ZjRxX21ITXZBdGhVVTFyTUcxMGN3REpiSE5PbExrempmVUF5NVdqZWdBamNkWTZ2VnprbW5hNmdtRWw3dkk5VDd5Ujh0SlJrQjlRREU?oc=5",
-    "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZM0NuUEJ3TzZwMGU3MGVMSy16eFl5R3NVc2dEVEhPdmRtU1Y3TWQ2RnR2YVNhT2RQSDUwcXZVSjVOVGpYaVdSYWNrdmxFSlRpY3BFNXpfcHJ0bXdoNXBCdXNpTkcwTjllMGh3c002TXJvZTA?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTE9HUGU4Mm9xMF9ieEVrRUVHM2VPV1lTSkVVTjcxRlcwcWNzTndFSXd3dzg4YkkwVWlkazhpV3VieXNXT0tIMWlBQWNycDdJd3dSaTl3bTZpSVFwb1hrYTgwdjU5QVBUVUVGU09wMlhpYlJXQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBzYS14VVVnb3EzZ2szT0xRdjR5Y1VIOWdwYzNLNEwxbDJSNzY4b0xCanV2bnpnQ29MVVdqZUtyek5ETEFWWTdKd0tWWTBYLVhVREpOZGlXZzFVZFZUTnJwTjJWYzlvdzlKN1BXYVEzcllfUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVdnpJTTBJWGZ4c0Rkb0RMMXhjdkJOamxFcjRaZ1VRZ2VCSVh0ZlJrblUzd3h5aWFvSlBTQmtueXloWC1HNjRZVUEwbG5VcXlaTFFFZW9pdGVCTXJIMVFoRmkxWjA5WXJXZ1lfRkNYRkE4a1ls?oc=5",
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GT2NrS3E3LVhCZFlDVkEzamFMUzRMd3luNEtMelQtczBXY1hjUnRCWUV6dXowSnBON21Hc2E5MDdHV2VOY3ZxQUZHMWZGXzlUQUNmZ0tUVF9xQVl3TVcyX1NNQWhCNE4zR1hqSnNxRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMibEFVX3lxTE14N0w0QlZGSkpaUEplaFNmWUF0bGF0YmhDTDlyLXlTcU5fMG5FNFowakU3NWRZMnE3S3J4cDNDMm5XcXRDcW03ZmJlN1NRYzJQNkt1X0FNV2pxbFljeS1zaHRTbllLN3UzY0hJYQ?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zX0o0aHBtNUdFVHdpUVk2R2tZVTQ2d3I0eVpRR0ZvajVNTENMUDFSMTRGZVBQN0xxd3dLMVNvTzVIMGd0UmFnUlBKSTFhWUpvOXplSlJCNC1kR0pzS3M1YXVlZngzQzJUYUdDRGc0UVRCd2xjZkE?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE55eUlCdk5ySGdFbF92T2h1cGVNb2JCYWxkNHJJZVR0emdDbkUxWVRlLU0tdF9CTkwyVU11UVNxd3U2SDhDekZhZXJySnd1bUJpemJGeW9SRFhSanNGYl85SlVieEloTEsyaVRCTjRrMm85S1ZfbWc?oc=5",
     "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zLTBRYVlrM0h0WnN2cUp6eFFrTEtrMUZOMW5HTFBGWlJMaXZzZzF6SlZkTkZRSTNXMUgzNjRNTFpxNUdQaG1YcGhZRElpcTNtZDgyT21pRnl2TUpDdFJEdkFPSWdWeGRiZ0Fqa056TGs3Ri1VUHc?oc=5",
-    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rQXVkdDZPMHBjNXhRYWxBc3FJWWtxZVFqTS1xbDVTTlhGcVhnTEZEZ3lrbGY4LVEwYzJmQVBWUF94al9NUDd0SkFRdG91LWdnemR1TGFfaDRJVU1Wdzk1Nmt2ZnFFYUh0WWFSR3ZCZW9ZTndHX3c?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXJORzVjdmtxRVlMTDdiYnh3bnZRc2NoMktnS0J1d3ZTdVpvdTlIa2ZkSDV6NjN2UktjUEg2SHR2aDNQVGdCdUxKMC1SLWJmUlZqaHIwdC1IUjhWV2tPZ1VPVXlBcWl0U2FfbTFaaDFvR0RXQmVmRmlWbXRLQWR1Y3h5cw?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE10aWFSS29zQjRyY1ZKMlJQUDR2ZmEyUDVJbTlnRXk3VE1zdzZzcTcwdmFnRzZOZFpaeGplaGowbWdyTC1oa25WNm1CcXhaX1FmS3NDZ0k2VXRXd3dELXo3WDlqam00ZGI3LTFUekZWdlBCV3dUTHRiRg?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM0pBNG9NS2sxM3pmSDFXbEgwMzhwSGdodzZJWGxiM3pOQnBlWl8zSVhUSVNtakhBOS1OMUUzT3ZDZnVNQkpCY05seGptRTFrc0hzYUhYMG8wUldseDVndGF2Rk42T0NCYWlNZUh1N250NkNDbEpwSHNFODNycjNySEdYb9IBiAFBVV95cUxQNmFRNV9RMm9GN3B2N3NTaV9nUGktMWRVQzZMMlZzNUxmcVFReEZnc3FiTVR5THhTU3N6cnFaSTgtd05DNzF6NHlFdWJ6V2FFWUFfbGY0SjFCX3pOOXhjdFhqaWs1NTM4UDFzWnBsT21ibVAzbEI0U2lXV0ZfbWE4SzZxZTZPQ1hR?oc=5",
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWEpuYVVGbzhrUHB1RWo1MEszU2ZwTE9aUE1ZNmlIanJMWXRhYTcyNFVTZkZMbnRYVFJvYzNkd2Vtb3pBQS03MzdCc21VV29BWEwzQ29PRWZtZVZFYzdES1pScGtVOWpRby1qNHEtd3FHc2Y1QTh6UHR3WEZKZHhXVHdYNW96N3czS0ljTWZLT1VudzBLN1ZfZE5KNGJ4YVdVcU9DaUFaY0IzVlVFenVucnBock1DMHZFRmZ0TEFWTkJwYy11RUtUc0dZNjV3Q29rY3hZOGlOM3JqZFUwMXVkV1NXTEdPZWNZVDhjUDZJZVVGNWpkUklFUnJzd2s0ODVtT1A4?oc=5",
     "https://news.google.com/rss/articles/CBMigwJBVV95cUxOX1AzQ3ZwckpWNk1qdnV5OE1nTlJHUHhVT3ZvbHBZdktYeVZnV1NlaHFmOUJIdE9GM2RMVnlERXppR1dfaFBwSms0SmY0ZS1tZHh1VlBuWm45WFNFR1VlVGxBZEV6Zl9YSlhlbWZLV1FHZ0RPMVh3TW9JLXRwZEtNeDJRaEwyaWRMYTZWZnUtemVmazRkYVdQWFRHQ1RLRTdaNUYwV2JpdjB4eUZpeU8tVktjRHNFQktlMjZXajZSMDVXdUhZMFpBYnZ1QlV2RURpNUlGMzJhUnBEYnJXczV0YUJWYWdRWFpyRGVQVWVJOTlSSWo0UzhPcktGSXI5N0pXN0NR?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeHVUdU9ldGcxS0Q0Rjk1b1hpZ0NOT3B4N1FnTlhERzZzNkdWb080T1dvQ0UtS2lvN3dzUkp1c2dSekFPYTZrbHJMY2ZKTjVqN0pHNlpDSkVZRmFjWEFJMVFfSE5fcVZmRHgxZHRrWC0zUm5yV0VsNmxkcnpxYW0yNnNReE8?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzZySE00QmxGTHVkY3A3TnBuZFZwY05nSjFycFZZVVV4V3VIdURNZXpidC1ydE9ubERVV1JOTW5XNmtFQU1uMHZYMmQxTV9ST0JrNXY0aGRzWTgxcFJWWEk0dVhXMVFaTndxeEhGcTlnYWN5RzlneUVuY3haVHFLdDlRN2NSV2s?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUHhjSzRaSHB5SzhyU3pQejdwY1FyYXkyRERnZ2EtOWtxbEZ2OWJZWDVEZWVlRXFNd0ozY2ZjQ2ZFSm92RDVRSFdHaVJWdlR6Zm96UEVFcmp5ZVo5RURPM1VhZXJDUGwxR19vYVc2Q3lGZFNHUmdUb1J5U0NrTkV3ZnBxeE9wc1Nt?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxONU9wWkliSUVEMlNMU3ZjeWlqRGFVamc4a3ZQMHlyR3lvei1TZElmOW9jdWxUR1d3blJXNHVENGdHVXNZT2tsTUlMT1JoN2NtZXZwa0xMVEFJZHgyaGVwNHFpNFdReU1DeVpHV1dPNVVQTTFyWXU4dE5iNjNLQUVFcG1hT2Y?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVZwalZaWlltd21saExvWGY0R0ZCcG5CUjNYaFQ0ZjNDRFl3V2hRZDhBT0dkVXdJWFFCdEhwTnJSc1pOQ1lqdW93WlQ0aHY5V0lvanNZU2h6Z1dUUERCSGstX1N1ZzY0NGprcFhteEdieXl5ODFUNkxaT1htekp5V2VMbl8?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSTFrSjc0c2JmeFRTeW1QNDU2cnVUTU1QV1Q3a0NldDl2TFNId3lkQnZOb19UbWdDV2RKaHpPYWtGYWZWcUJ4X1FCTU5NUUJaSmNyMnZHZHhUREYtNlQ4T3l2V3VEUFRTTDRFZ2RJY0Yyc0F0MjdPUHp4RTBRZ1hHY2p5eTNDZw?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdFNFekNtM0V2TmpTWXNBcVJqSGZGY0NMT3NKRi0wV1NZelM1a2Z5X01jUlktOGhBbGtiRmxsQVlyZ1dIVVJYNnIwQXhaTG9KSzJLcUdGcFQzMTlLc29IUlJWUGJjYjV0d2hLcGVLRzV0b3JGZE1HdTMzVFMtblgyenRqeTNZZw?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcXBxUHNwR1ZxMW5HbXJSeFdrcTNMVFc2V2tlNDd2Z2hsY0txUGdBZ2xCOVR2TUNjeEZYZTZhWnlvcWZnSUttcV9YYWN1dHJRcGZGR0hhODFtalhxeUJRNm9JeEpRTTgxYWNRazFNYmpRNXc0b0dudDlTT1ZlZXdmeTNoelFYQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOUN4OWZXMS1fT0tNRGl5aUJVUUhWQUFpTGxfbi1hWGtubFRFX1VVNS1uNHhBeldlRURQN3A5bmVxTDBOaE1LS0dROHZSVWlzNnJOS1RXR1NiY2V4WnhqbFZEZTZMYzlqMEtaNnY5blFEU2k4eXBqVVdsSlNUb0ZRUklReGp2Nmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1RkZFJsdk45M3FVTlJhaGhtLXdMd1lNeWx0TS1VNWdURS00WGFHWUpXTXFGT1dRTDI5a2V2Y1dlNFNja2U0V1ZHU3Q2NWNYQ3M5TEtlRnpFbEcxRnJYUnJQVmQ2WW1MWEZJVS00WndQcFhzbXpxZ1F4TDQyVnh6RGJGbGIwMGY5?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR0ZpbFlYdjhhUVUxNHM5ZTFTZzJra2hwaGM4eFNOMDJ4NmhnUk9wYjVodXl5R09kaXBaVjNtWkp2STdVYmNxeUpYV0hBOG9sa0FTSXI3TkloMnRwcDVzZXdlWEdweUtZZmpIRkg3eldKRXI3T004UDdiRzEzSUpGYXFwWldIN1lT?oc=5",
     "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeGRoNXJxT3VzaEdwSXpSSXVhMDFvTjhzVlJUVFBXTFl3N2RqVkFfekRsVWFTc0pwWXROa3RuTGg2elhnRHlzM25DRERPbmxEQVZfYWtUbjMxb0NuNTB0TGQwR3JYdHhfYzdIUkNZS1hReEVLTkIyeVB5Q1BhZHdaand6OUVWLTQzdWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxON1paeF9HVDlHR19Wb1czMG9uT1RhcVVGMjh5NEVZc1JQX0VJbUdzYkN4UXprYnBLNi1RN2xVYXIwcXVfaGY0T3E0NDdhZl92ZjVlRTZuam1GaEFMdWh4eFZ3TnVwbFU4OW5GeTAyZG5Dck93VzhTY3pZdW1aMVpQNGk0QzZUWHdwN0E?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxOREhjSFRQZUNNN0hEZGhnMzNrOUdhUVhrQWxxaEI5dFVoRDh5WmdmWk8xZll0SDcwWTZ2akwybWF6TWZYVGN3ZW93MW9xMWdSRlZWUFdZR1p0LUx4Sm5UYWpPaGpnc0pFMW0xLVpkNkltazE3V1J6SU5KWk5Xc2tOZDBITW1FRTRaeHc?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSnVOczczRWZ2MlVJdUlTQkdRME1rTWpQVmh5ZVBHNkF2QWtja1BMaXdVcEZMV3UwMGpJbHBqT09MQnoxTlVQdERXNjlFalFnWlZjbVljNjhmMGJXRGN5WWRzR0VtLWplRUZ3amYtWDdrRW1Zekg5SVpzSUhDcXV2aGdLcTJXOENiQ1Nn?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZUNMS01xRlFnRng5aURENG1wS0lmUXJOS2daazJzLTlNTDd0Um4tV0R5eFBXaW43VTVRVW1TOW5JdVFWOFhoN3I3RXZMeVluNzAwUlhVeGNnd3hhYXVLdU1nSDRvVXlWQTZ5djNycS1fMmc1YkNzX2FjNzYyWG1xY3Z1MWtQS1JKZGFF?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlFOWGgzUFU5czhRdjREWm1DTzlmbXhERkJSZU9fWGdYXzcxTE40Y0loblBDVlVoZnNrZlNzUDZNeTJHcnVabFdLdkhPeUdlTlAwMU1Ed2Q1d1RtLURsanNIUzNUeXJTRkQtUGpyaG5iaUY2QUJRNG15dGlHSlNNS3g2M1ozQ0ozaERDZg?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzBoeVRlMDJDN2Y1b05GMXVYSDEzek5BeHpPUGRQSk1CdHBOMDd2NXA5UGhNR1ktU05qWDlQaTVzd3dQNTdva1d4aTFlbEJPRHBKRHByZXJuWlVDU3JKWWFEUHlUczNqQ0dScXFlbXZFQVpiTUFmbDRsdTA0TnBmT09jOTR2MTNJelRNOA?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWFlNFdQN01BQjNJV0tZcXRXdFctMlc5T0hsTFNkWUsyS2dGNGRIbXZrelFDZ3NPenBkdUk5UmNWZHh0OXF6UUd5YnFCV2Z2SEY3WW90TXZxNU5EQlduZXk4NEhSTmtWUkdBZVBwRkVaRnRFd2dPUThMWWFEdWZDaThCOFJidGJxLVhNZUZmZ9IBlAFBVV95cUxQV0Jia3RieWRGaXFfMnVQR2lBaE1yTGVMNnhlNjFZTGZwbk54S1JKRmFsS3ZuXzRsMjczbDlYZXZkWVZkaWxGTEFVN0QySG9GSGJocFZtT2trUjcwTjlMN2g4eW9YR0I5cHdXa25DWi1fNy1jb0poTkZ6eGNVMzJPUU41VzduZ191OFBrTGVJRktCdy0z?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSk5VQlVaT2VQLWN5WkhNNnJRSVhoY0Y2T2JHWHYxUlFhZWl3akN1WmQ0RzdCYWRfdU5fOFpuM0FUbktoZURrTWVURjR2bEdRNHNaTGZRSFVtc3dyYi0yVGtIX2QwcEtXRVMybEZKQTc4Mk5QbXpXM2s2dlZhN1h5aWlmcXBYSkY0YlVXeDdwMjRDZw?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWmN4d3QzejFYWnpTQ1l1NlhpMTFJRjFWYmpHMHNueGZlQnNaSmVTaFJGYXB3X0lNWm5wQW4wUHQ5aXRKNVplVWthbzhMSU4xdUhjQzU5Y2V1TWc1MHpidzJJQnpFRnRWLUJUMW9xM2tTN25FdVNadk1kY0NMVDZQSjB2TEtndjV0WGpKN2VWdUM5alNC?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM05ONnVVQ2NKbXNwSEEySDduc244Q01EYU1nZjg1NS1OMTYwNmMwZVlkVy1kd3VOcFFqdjZ0QWV0bi1BaG8tME52LXRpR09USC1DQWhpTHpUZXpMRDI0RDNFWUdQMW52TFZVZnV4bTJKUkItNHRLY2VZS1hQMDhpb0xfYkJyUVctR1liVmFDVnk5bHk3NzZZ?oc=5",
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY2c0Y1V5T2RCTmxoWHhiU094NXNsYU56N2ctUWVZbUNiVFF4dUEydUlfVVV0WlZqeTlGRTMtMy16TjRNNnV5dm9SalhYWUJRNTRmN2lZQmt0VEZvZEs3c2lNbDUzdVU0V3N0RS1fbDJUTkFOanZNNjMwWXpwQ2xHSjc0b1N0M25RWmVuTkdCV2FDT0hwM19j?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUEySWhiRW15aFhrQkpZWHg0czhmdmdKZTU0NUdxc1d3Vlc0cEh3LUpxSHJjN3NZdzY2SlpiZzYyRExTMnBPLVN6NnpIZkZEQWczN2dnUmJUS0FWT0VnQ0hVcmxlcWFiT0hhV2N6TjFzLXVsTmwzNW1vSGhvUUdiZHVKeGN6MXlCRnlmTkR6eGdPSEE5RFhiSg?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZEdGcjFNZmRtWmRZVHE4TzFrU0huS3dMT29RQXBSV3VHZ2I4TWt1RUtQcE9aaUx5RzZKcnB5anhFS3ZYckZqWjkxRjI5WDd4cTZIOUJqRHNKWnF0eUNDNVdleUxVQXA0YzBMX0tmV3pmSzlySXE4aFZsVVl2LU5hcEQtUFNQeU5zbmZnV1ZaUV9RUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS0F4OWdXZHFabWU0bWh4cDFMYkZ3LVdZNnBSSzREeWhQNTdMc0xtZXdOcXJJMnNfdFNLaDQ3RWo2dnNhRjZlaHc1WGlrMlJ1THIxYTBXR1ZKdldfcnVzNldrSnlGUFlCWlY3QUQ3V2ZMNGxrb2dqbkxENjlqUG1vYWc3SnhIQVdvaEEzQnNISTFrVlNVSHc?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc25HazFyTVlUMDQtMlR0NXlDMmtINHg3bzJUdlNCY2t5eFBrR3FpZ1ZIa1JCMUVhMElDX3FNdGJoWG01VDlEMng4bjRNYk92Y1JUOHNBSzZQSUJuUE1wNkxYTnk5aHp2UVhsbTcwVEZJY2RHem9FWHo0N3dIZUVsNWRNOVlGWDRIX2xKVkgtTjl5SVI0WHc?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWFKU3dDVzVKSndrN2YwMHZvZXRyWERidnB0NDZjTUNJN3JpVEVQUnp5cS02M2IwWDM1NlQxZlBPQkxPQ1lmRG9XLUJtX04zREZKX01fUHMwLWdGYUFiaGlPa3NkdEd2cWFveDhTNXU2ZDlvdE5DWmNMWFZ3NDRwMFZFb0xFZVEwT2x6X3F3WUctZjNlUHdv?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzdYS2RLaWV4RWtnWk5pekJ1b0w5MEl0RHRKcVNPNFE2MFk2cE9adWZFTURhOGtqRXFQM2t0MHJHajlqRVkzcUpCSUJCQ2htRS1aMXRCcVh6NWdPRm02VUVpeE05dTRacEl0d1B5dXB0enFtZFAtV1hSSkk5OUsyX1pxc0puYkxjVkFWNy1DQXpHSllBT0pF?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR3p4LTdqVEZVMG9CNW5WVEVQQTRxcjlXQnlpY19TWTF1dy1fenktU2c4TU1HMXpUUGVMTDJqbEtDT2FkMnVJZHNJRHdrZF83cWxER1hpUGZBZzZZNmlaZnl1WEpxYTVBZEJWQUtTMUU4QlU0VlhTYmNMTDlWMk5aaVV3LTB6VkZ3TmVzRnVCZHNLcUdZSUZTRdIBngFBVV95cUxPVy1GUno5Mkd2dXBJVWNvQlBqNGhua0lMZHQ4MXprd29sNFJKWUZWdDROQ09PMWFZSHF6cGYxVXJHVlBYT25tR3lBRzVuaEYwQkVnWWlxS1RxN1d2RHdYX1Q5Q2Q2eUVWeFFuQWpScHZpSGV0WE9OOFhfeTh4b3RQRkhYUzdhTVBfcXpRNTFNRkNTZU9CUGRTbFVqcUlHQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbk9ZMjdlTDFYektCei1LY3hNUXFfUGw0M1lZVWI3UXB3ZEM5X2lvbHNWN3lfZ2h3bHRUekdUWE5ENnd0azZTQllwQWhQT0tEV3lEVDVUUmJCLVBMUUJ6SlNBUFJVLU9kOWFvb0VoWDBTcWYwNGRidURmUTJQUzV6SExiRnh1WlhNUFlzVkdHdEQ3S2FZamdvOA?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcDFnakZ6WGJ0YXo1MUJVN3FSaVN5TGRzMVJYNUlnb01qREFzQllYUURWX2ZEa0xRYW11WFczWkVMVUJIUDhibUdqa2VZM3A2aGRZTVFFaGNlcHR6ZHE5ZmtFUURYQmRxY0wxM2x0b3RRY1pFSWwyeERZaUIzc0lpai1BXzBuZ0ZhRjVMRm5OaFJQRHNZMDRRZw?oc=5",
     "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcmRRQ2d6WTZRc0xtRE12M0NjVmE5ak9uYkoySS1MNDFMN2ZabnRvN3VUcHNrVlF1ZW1FR1lBMnBHb3hUcUk1S0pSRXFHUjIzMVdFZTFuZ3hlSHhrUC1jMFZNME00MjFwcGJiUU1FcU1qbWF3d1FyVzlHYTdyTTFySjJyZ3VuNWl6NWR0TDlfTHlGNmZQNjd4cQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWcyY0tCT2hSbkY1TmJlbXhWVWJRc1lBU1VxM1Qyd21XYlJVaEIxZ2hCR3ZJYUxfVFRnajRuN21VTWFpNDYtWG5OUlVsYVdfLVdhUkVZcGRBOFcwdVJOTW9oaUxkXzUtSzV5X25PRFg2S2x6QWFCUFJiQnBTSk81dkdnNzM0ZUhfZnhrVzI1dGhjbE9IeVBxZEVRTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWdLOHpCVjV6S3RSR1VQX2RUNWhORmlhZzdNMmhKUkF2TlpGNHVPTWVwN19UTlRfeU1vOGVMMU1Rb0ttVXkwSTdYVEVhQkR6N1ZnUzhPSTNVVEw2YTJDWF9jUUVOT0dOOV8tMzFzdFVwSENfSEp2YThYeVVrenk3dVk0SVJoX2JTT0dKSjBxV2E3UEhldjJQMmlBdw?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOUnJaZmIxZThETjU1RnhDUHdjdlo4Tm5WelpsZVlONVI4dHI3UmhMcUV2ZkhhVjNYZXYwejZIeUoydkE4eFpsWGpBdDl1YWdWVVFnWWRLVUJidjBWVXBrS3ltaHJJMUNmSlNDTmdfLWNaVjdyc2FMNEhqbTVBWXFEVTdhR0hLdnVmelpsSXk2X0NwM0QzVmxTaDRrY05MQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemFIMklPUTFueHBaODBhSWROOWtmY3BlbVVhelhiaHhiODRUZWxUWUIzLXZGSXJCR2lxTWhSY0JyU1o1UWk2SG11NVpLRDZ2Mzd0MVdrRkRLYjRvSDZHaG0xWHl0Q2hXcG5uVFNBOFlaVk92cEMtdGNRV2VjNDUtbmxvbVhlX1RadzZiU2lpdTI2WjFRbzFwaWx4VWgyNmM?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxORThPUGEzRHVHUTFIazVXamVOeXlnd2lXbVo4Z2QxV3hQUlNBdUlmaldrSHFMTlBDZkx1Zlh0dU9qcUllLXJ5SHNQdllGdEdJSWJEUjM1TTBKTUdZYzFmLUdJWWViMzJRNW1VRHBEV18zeG11QzZUbHV1bEY3R1d3bl9IUGJSUDhhYlZiclZXUHN4MjBxelh0NTNjZDUxSEk?oc=5",
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHBfWUU0M1c2dm9QdWdTUDVTMkxOMmotQXJXWFZpSFVyMThCMGhwRE1KQmV6SXBkRTRqRE8zZWNKZVIweElrRlpPRGVCNnBuVGhTTHZiTVVWM1BnLU1wNXVna3VOLXZiYUhTeE52OEwwRkd2bW9CYTRtUFdXdG0yMlI3ZHhVb0xKTnBuLVZBSU5QeHJyeG9kRkhhU3ZTUWt1?oc=5",
+    "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbURhS3hSRVU1aWo5MnkzZUtxMjY4TUJSbVpZa0xEZzl0ZDR2dnJmU2xGUVRZeGRZV05IY1RBcV9qQnQxNnk2b0FYWWlvOHVlWWJ3Y3pJOXF4R3JNa2I1b1B3eDdTU0FCUHdvRXVmbDlqWUhUcGpMRHdvWVFoRkJfTENwazI1X3NLTWdHTnAtVlcxWTdFYWRaUExjY3VHSTczb3ZpSlNyYlM3dHNENEFfTGtkTmswczgxSnlJcElkTXRYcjNveU9mMkhnQTVacGh2cGdCSUYyQVUzalBmODJmVW1Ub3lSUDVTWkxidjEwMk1PRk1LVFlIUGlKdE01VkY3QzkyR1ZmLUt3T2g4djN5empBZm1yX1ZCWFZJ?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeE41QWVkRWZIRS1JNW1UQ2ItdllValRYMk1Uby11emRxWTdzcWFORmRUWThpRk1ZY25OdFFoNVBRYlgwa3VHcWd2SExZdWlhbTZhYTRMWl90cUNXRndVZXJXd29XemVHWk5Ed3VFcThVc09DbWNoeUo4RnhOb0lFSUp3RHhfQkNZMzhzeGxoemdNamJyVlVyaHFQNDk?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNZVYybVh1U2UtV1gzNC1nSlhZV3lIQ0pOejNRc2hPZDdWZ3VDZU40LXdXbUx4YXZ4ZkRXRGt5SUJtLVduc2o0VnhBVldRbHJtOFMtYUJIVmM4bmRwLWFXcGNSX1YtbnpmcHljdmV5cmV1YWJXRDYwYWZ1SEZpUVNBZFBLNDAwN1lFNFRaWmMtRWpYaGU4NGpBRWNQdlNfUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPZElFZU03bG9oTUtPVTBBdm00M3Y3R3U1V0N3QmlYM2Y5YkRTYnpIVGJTc3YtNXFhcDRMUW9vTy1EaC1iLTJzMjQ1eURCcEgtZ1BfWFI5eU1xc1AzSGNNQjJXcnZDSU5hLWVWYnk4aWNBYWt0dXI2dDJBaVdwZXA1UVhKVDR5T1BKWFV6QjJGNEE3Tnp2cWdrVGNLY1VEQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMingJBVV95cUxNNVFQaXN3UmRGUW42dGtYb29KN0JCT3QzYVhuQ3BaSGdzR1FZZ0lDRHBMeExxTEVfSDFDSnBBQ0pSTFE1cTlGNkRzeEY4ZEtCX0lpRWJKLVJYanM4OEdIYkhvNXotTEc5RlhCWlJMWUc0YzVyUWkyVHZ3b0hNQnI3bXlzQmlER1pmVi0wZ3VpMWZXRE5Pelk3T0VudFNLQks4N0UwZk14S1JvWUFiQThaYXI0eEd2STU2MndKbEotZUdyRFJZV0w0Z3VkYlF3a3ludXB6RTBzbUE5dnd5OFdpQS1kQ2NlQ2tsb3J3REp3a3BlRC1ULUNrbDRGQ3hrWkxzblFhWVpiZk11Nk9hR2NMdC1xeWhFN2p0YUJaMW1n?oc=5",
     "https://news.google.com/rss/articles/CBMioAJBVV95cUxQVU9JME41RFk4bzlrRk5TQUh0Y0dLRzZSLU9NWXNKcUpqZG9zdDBaVkJjU2w1amhMRFR5NjZnODZSRjRtM05OODRWVHBkcFdwV2ZsUEthd3lXOUhHQ2QyYmx5ZkRJOTB3T2hyWmtQeUlKVEtYVG90ZE1sTGZwNFE4c2lmUmNwc3BsNFNCODJtcVdfQlZobTVRdFhVTjlkM0NqdjhDVi14S0dUWlZEZTlIdEY5VFJqd1JBUmJGamJtTUFaYTRudEY3QzdnZ3FtVk1XOTN0dGJtcW1fa1pFdUptc3JzUGMzTTVQaGpLQXhhU1ZRSnRYbThYMjNrSFdMZkJoR0VSQnV5Uk5oUG9SME1JNWc3ZTBuSGdWVFBzOHcwZTDSAaYCQVVfeXFMTWZ1c25IaHk4SWdidzJRam80Zi13ZkJib2FfUk0wY3ByeVVEdGdTTk1VeEY1dXZ0bTQ3VUh2bE1ja0s0enh4Um01WEg5WVR3SW9hNGs3Uktyd2pBYUgycTFwMDhSb1p0UjVwNnhFQ3d1SkNDMGxfY2l6VHZQdDZtY2ZDMm1jeDZ6d2FiNnQwX3RvWlJ5anFXQWUzNTRGMEplNkNaU2wyaExKVHRYUU5jcUQtcDBybVZ2OFJwSXZQelZsdlA2dHFPSTg4YjFGcEN5Ul9FbXBNNlFESjNXRHZsYkxfNHhfbDR0Q290VE1Rck13U19LUEgxLW5la2U2ME9neEp0ZncyV1lSVVFZelB0ZktVNmVrNldTX1dDcHJrdDZwSlRUWU9n?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQlJtTmtBd3JlS3B0Q2RKaV85YVJLZUhncWdaWVhTRElyZTYxUjhxcmpoUkh6OVFYOGthZElOSFFBZG52YUM0SXl6OTlOYXZvZDFTYWl5SFZsUHJqQWszREpyUFl5djlWYm5WS3Q2b3NyTFYxSXo3RE81b3pIcTFkcmFHNl9MV3daeVRjd0IyRHdlUkViMVF2S25ibW5JeFpVWmc?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxORGx2bE9JMlVEaHV3X0VSWkRraFMtZng0X3A2SW1hN2syblFOVDZsOUVRN194SzVpSkluZ2J6TDQ0cVJNSlBjbUkzNERrb1AyM1F4UF85N0FoNG9HN1c2a28zVGotS24xNnZjeC1lWVZqdlZqSWQ3WmJYZTI5VEY2eVl0dnNzM1RranFjcHRxeVEtbERBYlZKckRUZzFNdXRhNmc?oc=5",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm5EQ3p5N0ZsWV95TDRBcmYtYXV6c2VIdHVnNUd5TE82OExSTkxudmFEc25sUTBPb3NGcUVHcTgyNUFFMl9iU2lCa1cycEE4OUlId1dXanR3aW9qemJPOUp5LWdpSWFkMmRiZ2txcFNZZU5BSjdYbmw5dkRpZUdnLUVsN2xyWEk5R28yMTFyZmUyTWdqX0IwMUpMWHBCbzVsWEE?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHVDSDVMR0tCN1RLQUlhRWxWYVVlUzdTM1o5OG45VloyYTRnWVplMVdMczBvMVN2aEZIZnh2b0gtVmMtaDRFeU85YTJJNFBDbjhIN3Jpa0U0VHZvakozN0JDdUl5bnotUDlNbHBLRXMyX3ZLcjZoQ2J3TzlNWU1JNk0zbkpqOHp3eDRabUZsdTBDT2RfSlpvLXR3N3RKcUlvblA4?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNEFOZnBqa0J0SW8yVHh1OXBHeF9XZjJZZWw4MHZkRWo3MDd5OGFKTEJWel85LW5hU240SVAwNGZNWXlpNFBvVW93NnY4T1JRVk9QX05GX0ZGWDRSS0dvcXhRa3NiV01yRHdkV1FneGtNcDhYcTVQeTM4UHZ3MDMwRzJycG1BbEtoMzAyeWhkTkNXbUtCakllYm45akRQX0pYR241Xw?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS05UUFdkbU5teWV1eUdkcDVyQjFaNGF3RExiRlQ1bXVRSGtDNjhqUUVTcVRHVVBvTzFoRFpXb2xkaEJFYnFNX2poYzhFS3hXSUp0ZTdBSlV1anZtMmdra0hfWGxwNjJqNjViRndWeHFDYnRoeE5uQ1AyZkhtWnR5QWtyZXJFdG5JTkhBQ2pMOXN1Vm1hSnhUTmhrb3NqX0g0c3lyNQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiogJBVV95cUxOenFyTU83ZnZva2F0eElwS19iLXNqc3hQQXhYalpnakpPNmZHS3J2VjhfTk1hR2tveFR3UTh6ZW1IcERyak9UZWtGcG5zUEd4TTJxWFlmdkY0U3BJOFRiMjRMb3BTVE5nWnBKSXBXSng4VV9EczFKYWFZMUM0Q2M3Q29aeDd1M3JMNEFHVnEwbTJtUktzbXdVRmQzeWxVLU5VeTVXNHVzNEJGd1ZWTG9PUzB5a0ZLR3locElWNEpEOUk5WURPNTRJdVRCSEV1VjJjdUlCVzA3QTNFeUgzMHdTZ2pFSHlTWklYcEJlYmRpZ2dPN0Q3S2dLZWhlZzEwWWV5R3gtT1BKekhhZlR0WThrNk85SFNiTTBTSEdKc2ZVZHFUQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWp3TkhneGhSd1VjLWpPU2l0TG9tb29YNE11UmJZSzdBX21OTlllV1poM3gtUWhoQWpfNVlkNlJrMEZWSVhjZEFYbnNtWWR0NUxNRy1reV8tMFMyc2p6NU8yajlmRS1nOXVhWE5TdXVBSTFkNFlXZS1tYm85X3hrNWdJTS1EYTlxLWVyVFQ5QzItTmZid2RXU0wwaUdwT2w5bFpv?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeU5QajhfQXRYOXJuWEhqcjdXUHdwN1lFVkdYZUU3WTBKbnZ2V2ozM0otQjRIMFZWbVlnSjZ3WkY0T2x5cUtKN1BqSUpjdUpuY214a3RVTmdiSndoQXZNS19BcGh3Ymc5LV92UHd6TFVRWk1qZkhLby1sb25qTHdpNXVITnJURk92cVNMa2N4NlVyN0ZqbW9jQld0bEwxYWVtbjlaRA?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZk85MnNEN3duaVM1UkVBbkVnY2k2NXY2OERVZGlmWnd5cF9ZaEY5Q3V1QVVVRlNSdE0zY2pBWVVIR3JNVG9ITkFRcmRKeDNab3R0ZEdhWHI0SDl0ZGlkd1ZBLVExNE81NngyQ215RWRvV2ZfczZaejRqaEllMlBRY25YVjBzSlF1Wnc2bFM0VUxmR3BQWlNJNW83a0lpTGw2TzZld0FR?oc=5",
-    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNGdzMEdzdkpFLTVBYkJWOURxRzdYSnJCQmVYZlB3ZVdmUVFCa3QzZXVuTHVUWWx6c1JwYlNCWi1VQjNtakdLck1BSTFqODl5Q0ZYRWRKZGJYR3FYbktBS3Nzc2psTTV0OXI1UkpiaFQ0YnVKeFZQMjVaLUtoWEFYaERWeVJVckVjeS1DZ3hGcmd3eVFITV9RZmJGM25Jc2RJdTNYRkt3?oc=5",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYW0yNHVOd0haUi1IV044NjE0b1hTdHFveXRGR1pWSzRTMWQ1VElaSU9fdjJmZ1NtOXU0UEVCcldNa2NCTy1WLThtd2ViSmZfc2xkX2lTMmdCWFYzSWMzZVlMa290VjVHWVktdXIyVXBNVHFMel8yZlN2MF9LUTZkX2VMMTQyV1dWcll2U2lGRXBPSE1PVkFLUTFVLTBsSC0zMVU2N2RHQVPSAa4BQVVfeXFMUEJSMlJnSjh5YXdNRmpUUVFoTVBjWHRKdk9BTWdWM0ZTTDRwdzF5c1RzTGdNeWcwMEJxTndid243eUpFaHRremJtMXdvUnBCQzl6MUhWTzNYVlVjV3hpTWRteGxvRXhFQ21HTFg2UkVGel9FcmVWNGlvb2JIOVRBWEJycHNrYkRGdG1kczhQR0dZNW82NlI4LTU2V2ZQbERmalZpWXQxWWc1dlJuZ2Nn?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdHlQU3drM1V6TFFGS05ZQnBfVXpJYVhsWTdmY1lIU25UTHk5bmlJNGloZzdXRHVNbFdqU1FVVDZpUEFqX2U3d0FWYmlYSDRMdWdIRzk0a3JMbTFYdW5KN0RfUW9YbThSN2wyR1RYU2lXLVpvUUl3c2d1Tm0xeXpEbzZsNnZoMzdQLWdIYmFRU2dvVzAzU242TTgxZ2ltQVo2WEdxdWNZWXo?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkRrRXVfTFRmamhFcjZhLWNCenlXZml4aHhGR0FyVy1lbU14ZVFLRGFkcUhlV1Bhb0puOGxsb1BsNmQ0NXVvZVdNdm1vVEZWakZRS0pWNEoxc0JaWGhQWUE2Z3VIUzVkeHU1Wk1tNDJ0Vjh2Z3c1X0dBdWZiTHZmMGY2RzRnUVZrVGZETlctd0N0dFlJckQzTGJjZ3cwd25QeV9tY0J4alNqclk?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTVU3dl9wVGxVZGJfbUFtTVVmb0dKRWk5UGNTZVNPVjJfTlpuRVJ1X0VvbjQ3Z014b1ZmVjVmWlYzVjhuVENjZm5wNU5zVGg5SC1odzRCemJqTmJOQUJOdnR0d3BUblR0VW5TRHVXc3ZENUpoRUxMd2VnSzdaX1V6ZXROaklIVnVZWU0zeXVnamI1b0xnUGprWVk3elEwakxNMHBGb0hiSE9OTmM?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb190RHBoX0xneGZZd1RTTFV1XzNKMTh2VDZTaWlDanBBeDRLOGpsY2FIQW1UVHRvbVU4emhmaEI4OEtaQUhqWTJjell6MGFVX1Jyd3AyMURTV0cxc0pWZkpUVzE2LVFTR0wydE5KV1J1aEhUUnNyLU8xMVVlaE55cU54eVhzMWhIMnJtZ0pDbFI4TVZUSTV0U3lXVXFnWGo2NzZFR3hSVjF4QQ?oc=5",
     "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUZ4Z09FQ3ZsRE9EVlVYM3JWMEpVNFBNMFNEVVN4eXYwZVFSRlRnRE9GSENYeEFrZXpxQkdjb0MxOTlnSm9iR1hvUWVtdnBteThldGhYUDZIQXpCS2trZDU5YzVlSGZHZV9fUW5zcmtlTWdQYlF4R2lNRFRtUDk1R0I3XzUyZmh5UUFDcVlpRXBqNG80TEJ2bGtRLVozdHNfbEpjdExabXhKdXBtZlN3?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGtheVp3TjVkYjVleXRDb0c0aTZJeVhaMUFOdGJDclpSZmpKWk1fTFFVcVVuNmJCODVuVHpUbE95c3EzOW9wZ3ZvX3B0WWw4QnhrUWJEM1F6b3RZSHBiTVlPWFNZLXVESnQ4d0FWOFJQYmRxNjdDLVFvMF82YnpsTUJHLVg0RkE5N1Z0a0c3bFVVcUVMcGM0ZlhfNFpvaDFkX3NybktjeFRMYzJ4bE9j?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEpEbnBQYVVwWkowd0tjNHlmR3dVU25DVnUyU1BiQXVoRmdnRG5rX245RzdyOEd6R1YwQ2dETVlKdXdoSm8yX2cycHlfWkZwWXRjMFplczVVeVFvRFgxWC1pLUotb1g3SXlZaXVZMUlaOEVYbFB0QVpCcGdsd2ZGNC1XS2swT01ldWxIcFZaRDhVcWhmWVhuUkNXN3doSFpJaElMa1JnRzZHalNoZFpfeHRB?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzJYdTRKTkwtb0FDVW0xbzdJUTQzUW9FSnQwRzd2WjZCdGxUbjZ1Q0ktSlA2VVgyZjdfQS1UZUh1c2RjUjloRHVmb25iMVJKbXVFNlNpU3VEcGl5NnozQTRFWm9SSXNRZHFtUW50Wk55MWtUWHBSRkNGT2F4aERoRWhxbDg3Z0FydTZ3VV9SRFIzVkdRUXM2R3ZMSzFmZ0kxamxMcXZlZ0Zyenl5ZHZBSi1n?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZFlXaGp4d1hhc0I3cERkaVl6VU9MbkU1SXQzY2N3aXhndzA0UENlZGpucFhmc01nRVZnSFZIZzFYbDFNVHBESWV0VGNnRHRKdzVGNEp2d1lBNFJadEFKUElGd0pwaFNjNF9vUkxYTlNLamczTlFrR0M5VHV3eHNoa05DQkZaU293TWVjT0c3R0tNMEs1R21TZkNRdGhFenBWeE1PYjZBOENqbTc5LW0zOXJn?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVdHY3VtelZHemV4TG41VUJNRVFSbjJKR1gyalI2aFNhd3JVSEF3aUdHdnk4NUtjUTl6NUZ1TWJoRk5hOFJjaEV6dFNwZzdJOFJFY2NjcFlueTJnZnBVdTdwQWVNWTJqRFJlR09EN2JXeHFRRDhEdTZtWnZ5OC10RU9XMkJ3N25QUXJYSU9yWUV3ZmhVLXQwOEhjR0Y0TzYtaXJUbm1Ta0NHYzQ3LUMyX2FB0gG3AUFVX3lxTFBKV3pSR0l4dlJaamJYcWtxcnVmYUVXN28ydUhoS2NLdS1nSHE3cl80aVdDV2NQN2F5Q1ZCN01HZ3dFNFRPQjlzZWpXRDhhUzNrNENHQU05QXRmNkFKeVFzUldDT3VGeVFoSUFiT2ZsSVl5RGRVdUZwaVNLVUhVSGV5UFJFcVFXS1ZxTmRFX2I3WW5YdjJxc0RhTlZQR082OVVLRl9Qb1BsN2ZvSi1PNGdDWnVrazZuVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWZqeE9STEVPenQyblYzMUJzRktpdC1RWE4tYjY3TkpTbW1LSlo3bGM1VjNsSTBjeHVtc29Va0dzRGRTUkJaOFUyMWNVWGRQZTJYQmMzWTBldk4tZFZBYVloMko5Ymp2bkZILTl3SEFJa2k5bG1TSllJQ3BCQ0tkcWxISDdsbFVyeElCQTFHUWs0am53eENmSW5MclI2ekIwRFJiRnFrNEZyM1U5Ull0WjljMA?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdWxEUUpvcTNtRVpoaHNxVGRwYTVEWHZRUFFwZjE0NUxMN0VRbmIzYlBLQ2FSZ2MxbWFwVk1kS1F2eEg2OEpXUGJEQzBjWjNYclVQWElKZm9IY09FeVoybjZueWUzTXdqaW1mbWNhY19ULVpIc2wtQW01dmEyUmc0dHpnNGNoR21zdDlYWUxNb1BKS1ZyYWpQZXZZSFJCcVh4ZW0wSGxtYkdtTjF0YUQxTEQ0b04?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbkVRQ2h3eE4xZk5PVUhvajVybUpkaVM0TlEzWEVLb1hrT0RQN0J3RXdhOWhNZnpFMG5iZExuX3l3SG9Ra3hmcmNySUdoaURWeUltcFRWaHFjVGpNSWJjRG41MkpuVjQtc1J3dGpwS0gzdUVkSzVRZEFUUnRPalc5RDg4TzgtOHpSalFMVFFRdDNoOFFZcHJSWktCQ25sWTRFbFNTTlhMNFF3QjV2Q2JZZjdseDQ?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeE56bnBxanlZWUhra19TQXA2ZTQ0dm1qd2l6UFBSbl9pYXUtd1dfTnNXRk9tQXRmc2MyTXVJenlRS3c0eklCSS1wekxuTC1BLVV0QkFCX1RnWWpLYzhpdmxLSUZreEpzd0sweFZTUDFZcDVycjd5UTZiQmwzc2RFd21FbmpvdW5ScTRRWVMwMUl1MHBWSlFMU2VzRzhVdWd2RDZnY1FmYU44bGwxc0V3RkdR?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdVd1LTJMQUxvOUtLTG5ITkZVU3ZPZUw0Um1nZ05OWXRoazg3SGxjaWlRdVpQNk8xaVRTeWtqMFB4ak55allEdU0zX1IyeDVoQVdEanZpc0stTy1IZDNmUnhid1BGekx6S0lpT3RnUmtEQ1F6aWk3bVhOM1h6RnM2WWxDQXVUclk1cEpZVjZHbmtxd1piZ3gzcFlXaUgwdGEtT2Z0MUZQRjJ5Z21leDhudTltTjk?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY2NoSjhiSVNkUXVXWi1yRjlOeGFidVVHd1haQk05amNVRHBYcGVXYmRSNmsxaVBRckdaZktDelBxVkJtWFd1VjNwWHVMY3Q4eE5nZ0h1TjVMWU9ITEIwRTNEcEVrQVJsdS1EcXR3bXE1WWpQWEphR2F0X3VockdsWFVKTDNwcEtGSEZmd1NBYXhma2p2ZUUybVZPYWZvbnRxVUwtM0hxNHpNVUtrQ1g4eVR5ckVoQdIBvgFBVV95cUxPNktJNE1CNlljVFVMbUdVQ3RfQWcwNWxLZG1nT2JuR1NxQnhRbkV1TEpmXy0zdU1YWVdiSE83TXVHTzBkdVBvcl9pYlQya0V3cTJTeW5ZRnlsRUlmSC0xc2dfMW5OSzA3UXlBUHVoUVpCektILXY0cXJrZGtXcktnSm1yVXFIbW1Tc1NQWjBnTzJyWUszeC1GUVAzT0ExenBzM1dJS3VlLU1FaWZZMDdEN1FSSl82emxzb3JjdmNR?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVhrM1VrbW1hT2x1Q0NrXy1jZkFWazdFNWtGN2VNV19lYnh4bXdjMnE1Ym90V3VQMDFSbTdDLTRIenM3RFFoa0psNmljMFdxODJ4U1hzcUpmZWhLUnVJcktPZ3FXamNnVTc4dFRhZ08tdjVyYlE4NVY0LXhPYU9nUUsxRWs5R3BUbE5BMllTbTE3MjdFWUp3ZVdKWmR0ZDgxYVdqYklmX2R5Z2lZTTlmN0hTdmtVdw?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbTFteHliUGlrVDlpRmY5dkoxSDB4dUtkSXAtaFVlams2Z1VkYjBNTkNSaXFrVzlGVndWZ2xaSVhYdjVqZGpldWlKTFVZTy1BOWZMS0JGQUtFa05ZaDBwM1l3R2lqcmc3TktCcWZ0eEJWS0ZneUc5MktNX0F3b2tMamVPelZ6ZlZwSWtTMnRWTkd4WjZsSHA3X3AyalNPWmd1TzktRHZnN3ZqMzVnWmhpWnJUb3Vjcmc?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTkJSSHpfRlhfd2ZSdVJ0N3lfSHFPbFpwVjBWMW1rYjNUNmJUOHVEd0V0Q1hRWU91TzNYeEppbmNsRVE4Z3VTUGExRTlkQ0lFX1pVNHFBS19OWEtYaV81SFp3am1uVHVDSmZJZnlFTzBRdVlTOHAxRk9kYnQ3UmhZdWxqclRRYmtTbWVvT0hlbmFRcS1udFpzamxhVkh0QmpFRkRqZWJhOEM1NWNtbnBXaXRzYjNLdw?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3RQb2FMZ21NanFCSF9BUzExSzhtSFJqVHdySGYwT2JXeXhPaUs2d0JBVVE2N3dLU3JRcWNCRnBtd0hfLU1BMDQycEhaSUtBalRIcWlTTzFTMDRQdmtWejFMUWFRb0U3U290MUoySWs1TjRqZFVxdFFHVEJEYlBlblB4eVJFWHhQbXVwOUFmNnFfZDRvVjM2RlUtUVd3V3d6bnJ3X3pxRGhpYWoycnZYQmc4WU9UNWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQemRDM2wxOGN0WTV5ZTlqLVhZNUpYdnI2c3BSNzlQb2NRcEd3eXplV0dTTzJ3NDRkREp1dTNKQzM4dFduMEtPZFlfaklBUXpaTmZEcy1RdnFQdUFyZ1NjcGRfSFN5alJXaHJtTkxRVGNwaTQyQWR6Zlo2YXpSSk1LdHVkUkdDV3N1VDUzdnBVQU5FMDNpSzlYNFpOUTF6dkFVaWstUE44Z0VYTDhzRHI5TnVmclVyOF9z?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemRFWDVhMWxwMHhqQndmWGJUcHU1QjRjc3JJay1jS3FFRzlDSVhVLVFlS1FmQ010YW1wdjRKbXRkVTlLRGRmVnVTb3BDdWk0Q0g0YlJ6MWI4N2JYcktuLXIxNW9XUVI4Sk5UUl9ZNjB6eVk4M1JjR0p3N0ZsWG1Scm1BRG5PWGFwNjE1amZsazVmOXlocmlod3Y2aWZYZTJQdEhodTBIa2N4VWhtVS1wZmt5V3RvOHBwQ2c?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeEdzLXBVUDR6MWhTbXFYbXdfWG5scjlFUU9sTWl2ZE1TclpzQWdXQ3d3eWhOZEJvZE5oWk1tc2lqakJFTFp6dUVSN2dyWU1PZkIwODhvdTBmMkZHamFyNEswVVFwN2UxSlBkZHN5a3FHS1BGYmlCOUFmcExWcnhDZG10NmN4eHA0cG1TUTduZlVxanloYjlENnhuTGs0LXNheXJkbTA5Y0xqdk50WFZNOTAxTGxxZGRYQ1o0QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWGZKS0FHZGpEQU1rRGtSdnVuRkM4eHUzVjNqQzlZUHNDUEFwWWJBWEl1XzZONVpXQUhDTXpFWXZ3VzlJbktlbnZfLXRqQXRWdFNOSGlfdnJjWVZrYzVCR25ZSGRhTU1mQVk0eFpwbXJTMG1wdW1wek5WVnk5S2NjNVE5U2pZMGEyVnQya3lHQ0trSGRiblhvaHhBRFlLc3hsRFhHVV9rcW9vOWVNOUxkTEpDMXR4RmFha3V2aThVd2RVeWxV?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT2dLYzFSeXZ4ZUNUaXA5dWVWZmRJMlNmSG9ZMG44bUlfbERlOVpOV05GMkdsNmVET2Q1em0xa1BKOEVtTTB5Q2JkT1J0bl8ySDE1RTVFakVvWnFBS3dhUi1WUFNvNFhwZWRTc0JZVlE0U1Bwdmp1YmFpVUVLTUNCZFBYZ0tyVWxScDY1enlvZkVfVlFXY3RIbW42LXB4cTVlQ2VfWkJFU2s3RnV6RFc3b3IxTnh3MUJxVndrYQ?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVVnR29IbnZCWmYyZk5ZMHpZcXVUSG1jMFZfQTZqVzk5QzVVSVJIT1I3NHJOTGJkM0JMb3h4V3AweTBMYzR2TllIV1NiTkZrWnNXa21Hb1o4c0k0UGhYQm1yME5DazAxaHZENGhOR3V6OVRweGkzVnRCLUtocEhUWFZPb2RrWk1JOEMyQmZaTGFRYWtxanZiUFZacFR6akxtV1VSTk5tc0pEYk9xaU8xWTdYLVkyeGNRaTllamo0MGtKNGNV?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM191dWI0eUdpV2NtV0RBV00wSlFvOHlUdmJ0WE9FR0c5cG5xVEFvNEwxTnpYV2hMR0VjV2g0cC1fUTMxMjg5REh4aDJhWU1DNFlWRnFqeVgwYno3LWhIeUhOZ0dFVkR0MzRmM3VRcnFSclN3bHM1SzdzU0ZudVhzMmtyQVNxTzV1SkE4ZmlhM3l5RmE0SUdEVVNKXzhKYnAwY1N2dGNNUlJiSWl5aGZZbFE2Qml6NF9QRUNvLW0wS3dYeVV0Z3RURlJFanQ?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnJZRmRSWlBORGMxUEVNNllscHVGSUt4cHRIMFg1THZCdzZjeDBYZ2s5T3E0MmN6MTRkWVBGOUhudktlb0hycG5ScV9NT19acmNaeTh5TEN0WF9WbEpxRDZlN0hmSlpDVGR6R283ZnU5SmZRdTBiLUhWTElaQlQtR3dYOTlXQVVnbDlxYlprdXZQdzZWTkZFeFNXRjBSUkpDeENLZ19tVW1jVnRDRmc4SFlUTC1vX1N2REJTNHVtdlhBYjBoaFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWEl5MjBTMXZNbktYZkRfTXgxcnY1QUJSOE9ZQ0xOQU1BRTBmTzRWYXFyQjllZzhmZ0pLMjBPOW1VLUotV1Vtd3FJOTVwQTJ3VEQyVE1nQS1sZ1FBT1FyNkJhRm5QVG1oOUtJYUhaSWtzajRxMjg3bVRRUHVMZlZVcTlEaTdWM21Gb3VidVpmRDVzYmNHR0hTbTRjT2x1cUJrMGx1c2U1ckRRYnNmTXVta1phRDJsQllZbWs1aXRETjhkQmo0dGhBSlNiNA?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQWRYbzFvLThPY0YwcDZjNjZqQng1WmRUSmxybHVCcUE1eTl3Y240NE5SakxQYnBJUzhvT2dpLUtyOEptcXhKdEF1MHpQMng3dlZvejMtd0xTTllNQ0M4RlJzWk9aSkg1ejlJYXlHZUs1SjE2RXlXcTJHTEhCVVlRUy1vWXVfM0ExUlFpOVYtREdYVnZJR1dxS3V2ZWo2bEhrcDJQVVRid2R2WjBxRm85N2FIZjBzXzZDQkcxSnFGWktjVkNTaVRHbmxlOA?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLXE1VWJtNHFWZkgyOHNUbzdMSEhRWktVZmktbW9MLU1mOXE0T2ltczUxMFd4RklqMWhHVWhZOXVZb04tM1F5dnFEdnJXMFgtdHN5RVFTcW1adWlNaWpiR2hOa1c5bnlBYUlCZEJYX3g2dkhlMG5QZWx4bVNoS1JXYjF1QXdCV3c3QWE1SlJaUEFhRGxtaXp3d1VzVEpWR3pkeDkycGZFck9COVVleXMySnhhR25NbzdueTF3ZVdFU25WNmRoclRQcmY0dGhGUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX0NCWVpUb3BCVUFiRzhLcHFnbTlLSGUzSDZjaEJiNTFBLVB1MTJRcmU4VXh3Zk5fdVo2eTh6Uk15U0lFd0lJdlVxSFFJU1VLVmlpM3J4cDdZVUsxR3hEc3YxN1QzZ3Z6Njh6UUZYdHhlVXkyWE9DRVdSeXVhMWVzZGlZcy1uUUloYTZpdzNVN0wwYmxSOTZfUlIwZHlnQ3BJNGNKaEhQTEpIcTUxdzJhaXlOZTlXYW5jS0l6NndmMk9nWGNPeDhvQ05lMDFrZw?oc=5",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaUtDaU1RM005WlRlRkZ6TG54Zmp5UUptUjJwbXhQY29ORFNRSmgxUGxGUWRiMVVjZElaZXJBQUJjRzdvVnBvU0FlMXoxUk5WUW1YNEt3UXdqLUpBQnVBdThFTVdKdmxadFBmNnU4emVBb3REdlRIV3hZamcxUWxfRFYtbGtTaVVRZnh3MnppUlN5bk9FRHJNcDZfNWphdVZBcTlYN0JBY3dxbmJodE5Qa0dsODV1RDczQmZ2U25tSWtMOU4waUphTnc1blZ3QQ?oc=5",
     "https://sherwood.news/tech/apple-has-reportedly-considered-buying-mistral-ai-and-perplexity/",
     "https://www.buildfastwithai.com/blogs/ai-news-today-july-4-2026"
