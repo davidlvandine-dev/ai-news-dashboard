@@ -1,0 +1,865 @@
+{
+  "date": "2026-08-06",
+  "collectedAt": "2026-08-06T09:37:02.057313+00:00",
+  "companies": {
+    "NVIDIA": [
+      {
+        "title": "Nvidia is quietly staffing a new AI safety team as it doubles down on open models - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSkNyU1RvSk9wbWhNdGtGR2NZSHU4LV9xRzdJLW5kLUdjaGxuT1VncWdzMmR4RkllU2sxQ05UM05UWHlHZFR2ZEdpZzNKVWRPemctc2c3RXBmMXRTcnkzQk5ublphNG9TVHVZYXNBM0JIRFdsRFgtYlZ4XzhMeVFHT3FiU0NmWU1NeUR0emlXcW1XYXF6S0ow?oc=5",
+        "source": "Business Insider",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Nautilus cooling unit earns NVIDIA AI factory validation - Engineering.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc3NoNmF4Z1k4WDJ0RXBtVXo2bVlQOGJ2M2VoNzNLdEctM0I3WVdEVjA5cEdKTWs1OTlFVFlDRWdhWVRfUEQ2UXlRQzIyUW5sM0E2X0oxanZrRXlTRno1eFNoTVd6bHdyR0NncmJnTUdiejJhMGRVb2F3b1E3MUV2MzdjOTNPMkN1ZDRoYmN3?oc=5",
+        "source": "Engineering.com",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Nvidia (NVDA) Secures Exclusive Space AI Role In $10 Billion Expansion - Yahoo Finance UK",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNk4zcXdabGFwdlhLdmN2Tl9PUDdBejRxQU4ydEQwOHhpUVF1ODJIX2NueXIyVEhoSS1wZllLblNPRHQ2bW5FSmZEc0hnNDdLUmdVbUZHbTdoaVNUV3BjQnNPSnFhaV9pRmVpWG12MWdxTEd6ZDdZYXM0Z25QbTNjcEc3RWVYZk84NDIzTQ?oc=5",
+        "source": "Yahoo Finance UK",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "CNBC Daily Open: Iran, Oman in talks on Hormuz; SpaceX is loyal to Nvidia on AI - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjlOaGdLNXYyVkxacjVDdVZnNFY3Q2R5cld6RUY3ZUFDT1N3THNweGJBS19fWTNJalBHN01BT3VmQzI0bUgyT2dGVWsyQzF3WHBWOUtwWllSdkNDVGNVZ0NvelBFcl94SDlRSDNTZG1WOW96d3VPdVNpZmNSOTd0NWM0ZFNaVUXSAYwBQVVfeXFMTU9NazhUSE41MHZzdEdsMXltRUN3Q2IyelhRZDJJdkRTMi1qcEJVeWNHR3FOa2dibWx2ZlhlTjR4b1lFdzBjTXN5WmJXTFdNTkVqU0NQb3pXMElnYVF2RjRVSHJXbjR6XzRkcUg1MDFKaUpJb1dZZnhKQ1k4VW9qdWRGRXRsYmVZY3hjOVo?oc=5",
+        "source": "CNBC",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Nvidia, Micron, and Sandisk Are Up Over 1,000% Since the AI Boom Started. These 2 AI Stocks Could Be the Next Big Winners. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNejlIZk5TUFFyalozTi1nMjRndVU5Z2tpaktqWXFtVkZGQ1RvVDBpSlNRNi1yYWx1YWc4alhOa1RBSHJnM09NdHVaS25LUXpiLUwtbWtyenhhSGxMNG1OUjhKMWQzVDhSSFlrY3Q5eWx5Qk9IVHQtdDAwcWRuLVVyTWd3YVpEVmRjWUdRWFFXNG1FWmladFhvRQ?oc=5",
+        "source": "The Motley Fool",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Nvidia no longer an AI 'darling' but still 'critical,' investor says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aVWM5YkxYUGR1NzdVNVJ2OGVndEtqeTN4OHdkTFBMX2Y1YjRaNFFhTTRzNDVoT2R4NjZJclYyNkUxaUJieUg2RjNYeTl1d0ZPeExVaHRTVFhtMHhPR0JneHR5NENEamM?oc=5",
+        "source": "Reuters",
+        "publishedDate": "2026-08-06"
+      }
+    ],
+    "Alphabet / Google DeepMind": [
+      {
+        "title": "Cue AI - Google DeepMind",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wMlczTkY2WkRiNlZ6SFdCajhRWGNiZXBOMXJLcUt4R25GNlhqRUxSM1hzM3gwRERtSUpEVXdwOTljZVVNWHM0aVppVElESnBzX3hCVFZvVXZWdUpSc2YtSFFIQXVyZw?oc=5",
+        "source": "Google DeepMind",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Google DeepMind CEO Demis Hassabis stepping into new role - Axios",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIclpCcTJxWGVaZTNURkFiZ3FMNDV3X2RpWEdBamMyXzZZNUxnUjJfd2hpREZTN0NzczlqS0VMcFc3Y1IxNDNGS0RCUzMwN0RNWHVjN1NHVnBPV0V6NlhyTlU0Vm42djFxRlAtblRLdw?oc=5",
+        "source": "Axios",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Google DeepMind exes says AI extinction odds are 'not zero'\u2014she disagrees with Elon Musk predictions - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORE5RX3lHSi1FUldMWEtYOTB1S3NIN0lJX2UyZkYyOXgzcDZFek1peTdKdlotSlhjbHlXUHJIZ1JEQk84TVZHVUIxSFZKWFh2QkE5VVdJQkxlVkZMS1gzcDhaNUZERGV4REhqcVk5eDVvaGRCeHFGNUo0S0VFMmhramxwcy1DS2puT204dlpGUmNkMm11bXBxZG9RM010cjVqWEJPUjIyMllkMmhVNXZ0UmljQ3ZxUnVRSzBjcldEZ2k4aHU2UmNsell3UldUN2kwR0ZOc0Z6dzd6bEpYb1FFRHE2Rm8wZG9PMFc5RU1n?oc=5",
+        "source": "Fortune",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Google is expanding its AI empire \u2014 and losing the people who built it - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWYzT056UVhPQURYS2lfZzFSa2QxUUVCTHQ3MHB1aUM5VmhnVEl0c25NYWI0ZVFXcjNkeTk5Ty1FUkc1QnJkQ1NkWkRhSHVxM2xkdEtMUGl6QWdOUGQ3VEl3eG9mYnE1eWZVd1V3TG1VUGswWlhWRGRSOEFIZ09jWVNsWTE2YlhLVVF6bWR5cDBIU0w2djA4dDJSeTF6bWh6dU1QWEhvYnLSAa4BQVVfeXFMUHh5V1RXLUl0OFdUdkNoOE1MLVJwNGF5VVRBQi1yYy1PMzAzWUtxTk9MQTh0T2VOWm4ySWhzdHo1YTNmVllQWWpwVjAyc0swRGdBdlNDNEdYRU9wVUJJaUVtNTVONXlUQlBCRERFV0RMbmh2UjBWaDdlUFJsaXpILVE4WFVkVVNxRFRkMnpHM3VHNXVnTVBYTXd5cGtJWGlYZWh5X1NfMklwZGxRWnlB?oc=5",
+        "source": "CNBC",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Is Google deliberately 'dumbing down' Gemini? - www.israelhayom.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYVoyT2R3aFg2R3ZlcVJLaVp3d0E5bU02UDJITW0yZTc0TWxWamlxWXBuS3V6b09IMzcyS2dMUVVlaXhvRTNJNzNhWmdwNXo3S29GdElQcTh3QzJaWll5VEtEVktFMlhxLUNHOHlvLWJ6VDRLQWVCc0lvLUx5aEhqMV9ZcmpWVGI0bWc?oc=5",
+        "source": "www.israelhayom.com",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Hassabis steps back as Google DeepMind CEO in AI shake-up - capacityglobal.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUdybGYtX2U3WnQwRUZYNHg0VkQ0ZXl6X1FaXzhneHZVX3ZGM2daQUFEREtMSmVuakFWYmJvTE9TWlpCY0QyQzc5U1JqVUJTR2habWNCY0ZDeDE4M0ZBTk1jcTRla0ZOUG1GU2NwcmM0djNhaU51aUt5ZG13RFBLampWa3Jsbm5udUlHWFJNR3ljQnVP?oc=5",
+        "source": "capacityglobal.com",
+        "publishedDate": "2026-08-06"
+      }
+    ],
+    "Microsoft": [
+      {
+        "title": "Microsoft (MSFT) Is Up 24.8% After AI-Fueled Q4 Earnings Reveal OpenAI-Driven Revenue Surge - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOElIeEpmS2lDajBUVVh0OG1EUGd0N05zV1ZvMUhxNXBaT3NKOEZNaDYxSjVHYnAyRl9DblV6dm5mRkEtcWxGWFFuQUNfbUdLMmJ5dG5DbnhDMUo3Qy1kRWNodm85MkVHeHYtbnl0ZnZpNG1jX3UySDVUdmZxa2Q5T0FUdDAwb0Q1VjlVdEtkNHBXMlRwZlQ5SVJIVHRDZmJHRng3Q08ydU5PU3p4N0Z6YUhRbWtJZ19pTGs3SWszY2YxaGI1OVHSAcsBQVVfeXFMUG5Wb0I4UXlsdmlNYUdhUVBsM2FCb1oyNGJOYzB1WE5VZDl3eDRvd0huVDA1d3h4bmhTS21MYzdWRVpkWnFKLXJTMmFCdGpZTWhYN3VMZHhyYjFkRTh0eXdORU1RdHZYTWQ3azhjSFVSSlNMdzBiOUVhRXN3QWYtYnZ6dmIzdkdoQzlDS1Q1aHh0VDVEb21IQ0w0RXlXeTRWUTQ2cl80ZmhxYkU4cjFfbXc5YWtTRUJUNTYxQmhBNXBKWUdETXBvWkFUYW8?oc=5",
+        "source": "simplywall.st",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Microsoft tells engineers to curb their token-burning enthusiasm - The Register",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODFNVnlURTRIa0JrUkhjanR4WVQ0N05WMkNialVVeU02Zm45MDFKZEE4OEpRT0xBQ0lRWTk3X1ROckp2dUw5eHE5WlJOUjFqRjdFVXcwN19UcjdFbl9XR05wNjBhbXdyb0R3TFZrbUZmbWM3eS1PRFU4QzJBY3Z1S0tHaEg0M0ZNX25RbzJFRGt3U0JzaVNScnJzRjRrVVN0MG9JR3FXbG9DdnhfaFhreEFCYmc0UGk5WThqTzhR?oc=5",
+        "source": "The Register",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Microsoft Copilot EVP on AI growth and adoption - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY0NDd3NITFN5OG5kSkY5bmc3N3IyLXdrNEJjdkhxbWo4Q2tvTXBpREFxY3pLTkhJeDNQLUU2SHRoOHVIRHNBVUdLT0hfc0tRaHJoX1VDZzFnV2d4LWFRdG1VZ3Z6TnM4ZlBmR05rMUhOeFFiQWpybFg2MXV5YjNTbGFjb2o?oc=5",
+        "source": "Yahoo Finance",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Microsoft suddenly pulls new Microsoft 365 Copilot feature after rollout with no explanation - Neowin",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDV5OEtoaW9BSkotZ3hmTnhXSmxvcmNscjJOVXVZUml4d1VJUUI4SHZzbzJ0RnRQYzZoMlItWUpnVDJmN2s3Z0E1cnVVUjhsVVlESEhZM05Hb3dRbXpPamwxcW55T0Fyc2huT0d0VjlqcllDdjFOUmFjVnNfa1VnZ2ZTZ2cxeG1reFlRR0Ywbm1ia2xxVDlYaEFMTENma3RRMkl6T0wydEZQS3hleVhkZi0xUHB3RXFUTVJMWE5n0gG8AUFVX3lxTE5uZGc4NXE0bFFWZHMyNTQwdk5ORjJsR3R0NkZRb0hfSFFSVlhycldzdVRTZi1KMFk0MlJUSTljczU4WlpOTTZyZ3p6OTdzaTFBNGY3dUNfeFJPYThibHM2WkJ3Z2RILWpVRE1WMmNCX2Z0SU1lbWthQUxISENULXo2R0hRckxXcE9WTjdidU5zLTJPQklKUHYtVHZ4NVFuckg5aC13M2UtemZ1aTJfRUVQZm5iTC0zY0MtR0p0?oc=5",
+        "source": "Neowin",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRaTDJiVUZySHRRRngtZzBySk5NYmgzNGVSdVk5cDl4QmVwOUdzZ0dBVVJDQmdFajNWYUt2OXppb19vaDh3Vnh1d0xoYkZKM002TlV0bXBxZmhONWlHZzZfb2N0NjF5VXhZV0ZZMnBEMTBhT1RLVmVqTGh5X19qUVlwUE9JbTk2eXZISEwwWWpMRGhFcWcxUlRYVFlNTE9MWWphdVNnNXNMVUl1OFFOYtIBtgFBVV95cUxPWEd6YnZNSnE3Z0ZLdk0wN2FGSFdIYXF5QlpJVjRBX0FzRmVqdTA2Qk4wMUE0aWZRdzhIQmVHbFVGc1k5NVYtakh6b3owcjQ2QTdWd1FmaUJ0aFRDNExnTS1mY0dsMkdXekhoZTRTV19KOUUtLUFqRm9yeWRzYzlmeEQwRlJmMVNtU2ZpanJXWG1YWjR5NjctV1dDYktSZzBhVklUcmZtVXotNUN4a0pjMy1HM1VXUQ?oc=5",
+        "source": "CNBC",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Microsoft Copilot EVP on AI growth and adoption - Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTU1WelVDQUE1dUZfb3VDVnlQaVlYTWFFNWdMcWNMUE01QUFyV2c4d0Q2VjgxUnhhXzdnQWNXZXFQTkEtcmpFWEVQLXJrQy1RaW9Yb1N6cTBCMEVlY0x6cTRSODk0RktnMGltczRQNENMUUlfYWZVcFpZRWVKRHdFMFBTMUN0NEZv?oc=5",
+        "source": "Yahoo! Finance Canada",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "OpenAI": [
+      {
+        "title": "OpenAI Didn\u2019t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree - WIRED",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEp4QUZxZUl2d2NKdWFSdjA2NF8yRTE4Ul8xV3RQdG5BWDYyNnBGSDBfYUJPNjFQd2xuYlJUYzBTNl9JVlNmRUo3N1hmN01FR2FqQXBkLWJ4c1czZEQzZTY3UFQwenNsVmt2TU9Xa3hsSnN0NGFuYjNrcWphbnF4b2hPNEhPVGYzcHBOcV8yX05pbl8zZFNFWlhkZDVINU5FMGZrM1dNbTRJS0hFZDFyTTFR?oc=5",
+        "source": "WIRED",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "OpenAI Asks Judge to Toss Apple Suit Alleging Trade Secret Theft - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2F6STVRR1pYdnZPZ2FPUlh4SllBNkFFY3hrQU5hQW5KeGpFTkYyTjV0bW1xVDVieFdkWFUzSWl3VnhoVjhkYnV4T3ZMYUk5M2paU25rYzVwOURhNk9DdmxCRVg3NXpBakFPdndfalRTcjd3RjNBTWJjaDhnN0J2d3E0d2RNU2VMU21POEZCOVdYZmVSdnJ5bUx4VUM0dnUyY3QwR01ZVy02ZTdFVkpJUUZ6WmhYUQ?oc=5",
+        "source": "Bloomberg.com",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "OpenAI says Apple\u2019s trade secrets lawsuit is \u2018rotten to its core\u2019 - The Verge",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJ1ckYzd01xQXpJWVBKR1hGcUljc3NSVUEwWGtkRzdFblc5UDVWdi1BY0RsVUd2OGJoWmlBQVI3TWRoeWM0ZGE2c1BiNy1GaFlTb2E1MHlHTlZZSy1YTWNrdU1ZanJ3cS0zbk1uYWRpdmpFWDJUQXdKaDZwV3NDbzNESklGNlJBNjluMTBYT0pkSzA?oc=5",
+        "source": "The Verge",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "OpenAI moves to dismiss Apple's trade secret lawsuit - Axios",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LT3hrQ05xWEVpRTZVeHRiTFRseEVmRTFMbjZISDhDangzY2N5TzMwb0VRclBWanZxZ0I0dTJZeVRSN1lqUzRXTmdEYVEyOFZ5UHdUQW05dFZhN3ZyTEIyNExMV0IzZTY1QkVLLUxQWFY?oc=5",
+        "source": "Axios",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "OpenAI seeks dismissal of Apple's trade secrets lawsuit - Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMWpqQnlYWU1nSGlDcUxhMEc0S1hROHlrZk1WaFZpd1FvbzA0VHFDanBFSVNJcHlxWGpKSnRjeVhWUWVJbzhvVUoxSDVMZDFsOWhzdEZJcnI5cE9GclhLSmVaX3RvZG5rbjdvY1dfRlRSQ2ZkdzlUOHJncHNMZDVPRXd2Tkl6d3huNEE1cQ?oc=5",
+        "source": "Yahoo! Finance Canada",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Google Shifts AI Leadership to California in Race Against Anthropic, OpenAI - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQllBYmI4a3FyQjZmT20yRGUtVjVBa0pzMl9YMUgtS2hmRUJ2U3lmSmtHazl0cEc2ZXY1T0xJRnZ5WnlTaWY4enlmNWN1T09UVFhfR2NYdzFrZVM2ZU1Sd3djLTV1MkZfMnpMRTRsTFpQOTVtSWlWODhna2h2STNYdUNBdXZqcTQ4RVM0RTBzMnRLdDM2TWJyZHBlelFCN282SnZUSlVsRzFtY3BFMzM3SGZFWUctM2p4VXhLdA?oc=5",
+        "source": "Bloomberg.com",
+        "publishedDate": "2026-08-06"
+      }
+    ],
+    "Anthropic": [
+      {
+        "title": "After telling employees to stop using Claude Code, Microsoft's internal memo has more 'bad news' for Anth - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNQ3N3RVJ3aVBDNWo5RHpwcExRUy0wU1FLbFVkdWxIdTZvcUlBV3Q5NGt4NFc0OHBkRmFub2Fsd0o2YXBlWWpyMTIxa3RiOUZrOWNiOXpSTUgwazFFczFObXBEMXB3UWRpaVVfdnBNZk5wRi0yZUtTdFZmNFBuZHVabmFHemRoeHRBMFJqeHdpeVIxOHQ2bGVDSTNxQ1RyejNiZmRieHY3V25WREsxSHM3Z1MtQkM4Z3NKcE1wSkRPRUxXbmJCbUZCd1l5X1hpX2RlTG5PMUhOREVLUGEtU1BCaF9wVVZxZjNfeW5oUER5QkVrOVJycUJySFUtWG9La190MG9ydDFpLWVwRGFhWFItMk1ZQXlUOS1D0gGeAkFVX3lxTE1VSTFESVUzMHBrcUQtVGlmNlQ0TVdvVU5rUHF4OUktZmVCYVJZaVVDZ25PMEtnT3gtZ01LRnVfbTk1cURwbmR1WE1wWEVDMFhrZFBHN3MySXJLTXFQUjI0LVFVWDItWC1XamJ4N1p0ZU1iNmhOblFnVHVsT0RPRGh1Y3lUUDJFazJNNEVCYVlUMjkyS1lVSUdhY3g1WjJHQ2RzTDZwZXZlZDZyVnE1RS1TcU51ZzBrMVFOd25yQ2dWVzdWb2xxYS1SRDJ0NURHZFplcU9YM1ZZSlg0QjZuVWQ3aTBybDdBRnVPcnlET1dKeW82d2VUaHM1V2lGOWE5QlF1TmFNTUNmcUZzZThvZ0hyQzhYMS1OMEhPWnREaHc?oc=5",
+        "source": "The Times of India",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Meta\u2019s AI model follows rivals in revealing hacks of outside systems - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODV5Wi0xYm90Yll1dWtlVW5DRW85SkZQRDdQRHZ6TXZXTGlBOC1JLTRtMGdKdzd0NG5zT0tBeXlXNmVXUFJZQnZzZ05fb1hZSnA4NzBBdGNTZ3pzdUIyNThzT1owVFFhZHZ0b2xNNkdWVllGSk9GSk9Od25Fa2ZjcjEtTnB2bVFOR19SU2s4Y0w3aDFfbzVQak42NmszV2h5ZmJtamFxZWpmZWvSAbABQVVfeXFMTzhZR2JZYjFHN2I5TWdneTlCX084cGl3Y0tacWlyd2dKYkFnSmJZNU4tS1R3VG1ObFNqNlY3czBnVk5ub2NseVpvdEU2NFcyS1J6UXFocm42bG5JWnoxb29oY0dPMzM3ZE5mMWxtR1lyQWFjN19lZ0xxbDBEWHgwS1hDcFZCdEk5TnFIdnNublRWcEh1VC1CMFVTalhxQ2tBTkZGQXBRYWRNSEdWbHFtazE?oc=5",
+        "source": "Al Jazeera",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Anthropic\u2019s Mythos 5 Created Fake Identities to Trick People Into Approving Malicious Code - SOFX",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRkl0YTJKMUJ6WjdjamM4M21kZjdvTzFLVzVqeXl0RXFvSlN5Zk5MZHZjakR3NjFCSHdPMElsdnFVVVc4cFpKWDc2TzRrQWtOUUJTd3VEUVFpcVVUdGxyOTJ6bFlReEFBR3VNM204NUhwQzdlV0lMMEFUV0pMWnRxakxtb0Y3ZFYxSGtZMnItenNLejRSQllyRXQxQnJwZDZ1S09JSllsbnI5Q0FSMFZ3Sg?oc=5",
+        "source": "SOFX",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Anthropic Develops Custom AI Chip for Claude - \uc870\uc120\uc77c\ubcf4",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONDRNSm9kdUF5eU82clFSVXh5Q0tHRzRwWnItblRYcUl5YUszT1kwaU1wTjlVdDBQeW15dmNLWGJZdnhVZGpaY2VHT2lZam1FbmdsZnMxVGlvRk90UmVER1YtazVqX0s0ZTlhRlFGeDN2bkcwNjFYVjFVZXVYZmhYS3VpQzQtYXR1?oc=5",
+        "source": "\uc870\uc120\uc77c\ubcf4",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Anthropic Could Build Custom AI Chips for Claude Models, Job Listing Suggests - Gadgets 360",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUDBESGI3NlU4MWdmQkNYSzJrN1FGMGE0UTBCTTBxNHV0UXlJYmlDQi1qbXJ1OW1idTNEM1V1QXJoczI3c3NLMGxMWElQbDU0SkFKZGN6a3pDTUhkLTE2OHdhcUdaV0QyWi1xOGV0MkVob2ZXRldEbHhDSmJ0RTctNVBzM1RlRVp3b2oxazdkdUTSAZYBQVVfeXFMUHBIZjZ2aDRjQkNiWHpSZFZvVTB6NFJzOXluMVN5YWI0R0pucWloWHh2cWRVS3VZUWd3VXVUZ2RHUlJJQ1ljZ0xNTnBrSGp5LUJnTzN3amItMkM0LWZIZW5sLXVxaW4xQWVWU1FIS1B2dWhsYnN4MzZwZW00S0pQaFVyUVZON19nTm1OU295aGhFTEhZVk9R?oc=5",
+        "source": "Gadgets 360",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Meta takes on Anthropic and OpenAI with its first AI coding agent, Muse Code - SiliconANGLE",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVXlyLWVNUVVnOGZkbnNjNGMzS3VnRHh3VWRlbXVWYkVyMFM0VjBNSXhFUWE0S3VWNXFBdzFfaWd3ZnJndk9DZzFUVVFUcjBCV09Uc1Z0NnpJNS01VU40RnA1cXBGZFdTMjIzOHdQUzU5RmVNTmF0WlpQdWltdy00UzlMR3dscS1hVDBSUVpPS0FoQWNETFpjbXJQOEU?oc=5",
+        "source": "SiliconANGLE",
+        "publishedDate": "2026-08-06"
+      }
+    ],
+    "Meta": [],
+    "Amazon / AWS": [
+      {
+        "title": "Amazon (AMZN) Faces AWS AI Buildout Risk From Proposed US Optical Module Ban - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQckhkN1d6dkZtVEEzLUhrazNlM0ZaLUZFR3FtY0dwMzFELWQ0NXJoTkY3anhFTW5vWm5zV3JoejctSHM3am8tWG1DTkhIZzJZOS1WbkpvYTVEU0l3UTI5R0swVzI2ODIxcm9Wb2ZUTnE2REh3eXQ0UjlVbEhoUjRBZ2NTY1RkZ1o4d1VZNEpuUWlLWWRuNWhQWXZvckxDVDdzTnN6ZGVIVzZRU2pkcXhLTExoVkduMDRZa2h3ZWttS3VTZjF2dkJ0Nlpn0gHKAUFVX3lxTFBySGQ3V3p2Rm1UQTMtSGtrM2UzRlotRkVHcW1jR3AzMUQtZDQ1cmhORjdqeEVNbm9abnNXcmh6Ny1Iczdqby1YbUNOSEhnMlk5LVZuSm9hNURTSXdRMjlHSzBXMjY4MjFyb1ZvZlROcTZESHd5dDRSOVVsSGhSNEFnY1NjVGRnWjh3VVk0Sm5RaUtZZG41aFBZdm9yTENUN3NOc3pkZUhXNlFTamRxeEtMTGhWR24wNFlraHdla21LdVNmMXZ2QnQ2Wmc?oc=5",
+        "source": "simplywall.st",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Amazon\u2019s AWS CEO Just Sent Shivers Down the Spines of AI Bears. Supply is Mostly \u2018Spoken For\u2019 Through 2028. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMFF4WjNWZ2ZuNWktMFJoTS05NTFjY2FWdWNOZU1mUWxRblNuUm1SWGNQUEo2WVU4UjBkSGxacHNrLWJyZXd4NEt3bFRNSlNyeGFjdUJkLXgzWngxYUt4bzM4SWg1YUZ1RjJYZHRxNnVkTTc1VnZLdmtMX29TVWVhbmZvMWtDY3BraWFVeXFTejBYdw?oc=5",
+        "source": "Yahoo Finance",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Amazon's AWS CEO Just Sent Shivers Down the Spines of AI Bears. Supply is Mostly 'Spoken For' Through 2028. - 247wallst.com",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS3J6S1Vxb2dQX2s2cElzdWkzZUo2SVpVdGhwLTZhWjZ4X3VINTNBY1ZyanJtaW9wMVcxbThmTVprb2FJNTNiSTRMallTVGtmX3hITXdNa1hkWC14UHRXeVhRaFN1RVRCMVg5REFXdlFXNnF6VjNzbTUwY1AwRGRFdTNjVjFXaHVvbXY5Wl9KTFJmeXc1eWpDTnFDdmpiNENtYThxcFZqQW10R3BpZlVUQzBENDRYbHRqYV9Sdi1uWjRyVEN0OE80bHBTMnNBSl9DajF1b09JaUZLY3FPUENz?oc=5",
+        "source": "247wallst.com",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "How Mobileye transformed support operations using Amazon Bedrock AgentCore - Amazon Web Services (AWS)",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFdmR3BhMUxEVGhQZ0NCdHhVNGNOUHhqaDVyeGZJVzVyRWlCT1J3ODhRTmxhSGFWNElZb3NvWkhJeVJUbEhXcTdpQ1A0UG1sNUVPSVhRSHNfVk9ZdGV6eW9KeWdSeE04NnQ4TTFtNm1FWDdLSlJIY0VTMU84dmhFT2Y0V0dFd3ctSGdBcjctTkhjSDh0bWNGVHIzM2VZT2dSSWxmT3lDaEgxVDhvRDZUcThIdEluY2FPYjJRbTFR?oc=5",
+        "source": "Amazon Web Services (AWS)",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows - Amazon Web Services (AWS)",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE1OY3Z5ckczdXRoRTFGakxFbjRMaHg3akQ5eFZfU29LaVVaUEJETVQ5QjdwY3VSV0tMNXF3ZGFfY0RPYkNESWtCUlpMVGx3aWd6eUdNUEdJWnE2eFJ6aEFNemx1Vk1hQlA4VzFqVzNjUUoyQndVY0UwQmlEdTJXMzVKOG1aTjl0Ti1pUm9LZUVScml0WWxVVUdKSlIzTjh1OTg2SC11WmZQQ3JyZ0tkVFlyTm43eFhVWDNERnNFSU9VckE?oc=5",
+        "source": "Amazon Web Services (AWS)",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2FDaXo3MUk1dEhsTXV4bzVuc1R5R2lSTW1ETFdwV0FJOThnR0tDTWlnejJCYWlXdWFsZDBqN0hyd04ycVRvTkdyRG5CeFhXVHAtMlZWUms3SWZZd1d3dldXcmd0dUw5LThqVDJsSVFULXdWbWFndThLek1TUktWMnprekJ0SURBVnBjWHNIS2IyUQ?oc=5",
+        "source": "Yahoo Finance",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "xAI": [
+      {
+        "title": "Grokipedia Stopped Reviewing Edits in April. It Didn\u2019t Tell Anyone. - lawfaremedia.org",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1V6aVgzUUZWemRRUmZrSERMRjZzS0QtUVg0b1Q2Qjh4Zy03eEtlVmVLUDNrQmlFYU1iX1ZMSzhhOFNRYzhuTFVYNk5CblpwVHBRb2FnVldMUlNRQ1FYX29pX3NJYmNXWXBteEkyWTktSTlsWTUzSUNULXhMNUlFTFl1ai1LMk9MbVNteVR3OW1KMXB0Q29PTTJ0b1pNSEx4dkNwbjhn?oc=5",
+        "source": "lawfaremedia.org",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "xAI moat bigger than Anthropic, OpenAI, bullish on SpaceX: ERShares - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZThsSWl2Tm45cWZGd3E0aG1MUjhzRUQ3OXJBUjdRZFJYU2VvUGZJeGhQOWg3LVVwZDJEc3JjLWt1YVJOeHJyS2xLNmQ1cXRvaGdBRnhpTllJdXQ2eFI3ejg2NlFRbUtUcmllM0txRkQ1QlByenhMS3VtbkNkY2NZTlR6SS1yTV9QeTkwMUZLaWYxVHUwaG5UU3FkNHBoVDVtOE5kRlVGNkl6S3M?oc=5",
+        "source": "CNBC",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Lawsuit filed in Benton County accuses photographer of using AI to create child sexual abuse images - The Arkansas Democrat-Gazette",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTk5lUHRWT0RpRGtfQTdrdi1uRjhmM3BXYlkzYWVSc2p2VTVsWnhEYkVEQjIwSlFrbW55aEpmbjFvaXNkYS1QUjk4TTV2MUNySHZDUjVWd042OS16aFFRY05IUVdzeDFzUTlSbHY1bWZhOE1LUXRYZVZfNG5tbjhiQl9KY1B6eTBKdFcybllxNWU?oc=5",
+        "source": "The Arkansas Democrat-Gazette",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Grok Faces Five New Lawsuits as Minnesota Nudification Ban Takes Effect After Court Defeat - Tech Times",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQXQ2YUh0cy1QOFV4MTNPa3FXQmhfYlhoaGNvcHZyTTFzY0gtaG0yT1BlX2JOWVdCQW9sT25xdGJpRnEwQW5VOTdPdDNXbWxmdzQ0SkZMUTBtd2F0aU1sU2tUcWM1SVBCdkhTWmlpX2MwaXlqYTRNYXZRaDVRUlBuRTZhTkVKcjVaTjUzakNOamZuNXBCd0dSemVER1MwMDJyRHM4YkJubVgydmotSHllUkoxYTFKTDZFaFpUemhnZXhleVlxdnVENUY5b1ZwYnlQUnY0OEhhSElKQQ?oc=5",
+        "source": "Tech Times",
+        "publishedDate": "2026-08-04"
+      },
+      {
+        "title": "Minnesota threatened $500,000 fines over AI deepfakes, and xAI sued to block the law - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS194LUZkYWdwaFlydDQ4bklQSldXTDl2RW1qMHZfbnNDd3BDUDI5VXNPNks2Rk5oQjVBUE1qNE1uQjEzMkpIUG1fSTRidDlXVFdYOHlNSld5Mm5kb1dFQzdieWtUMW90eXhrbUJXODkyaUpOSXI3YWRBd0NkZDVsU0F0TGNSb2ptUTlnQmxfV2NicmZHbDJRNnJn?oc=5",
+        "source": "Yahoo",
+        "publishedDate": "2026-08-04"
+      },
+      {
+        "title": "Elon Musk Unveils Grok\u2019s New Video Processing Capabilities: No Subtitles Needed to Solve Terence Tao\u2019s Fields Medal-Level Difficult Problems - 36Kr",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55Qk9FWjFQdW0yT0VWbW8tOGZRdFhSY0Rnd1NMVVlHTVd3ZTJvTmVBc05ZMGpZWjVMekVBb3A1NmVEYW1zbWVFT1hRYmoyZmNNRkpn?oc=5",
+        "source": "36Kr",
+        "publishedDate": "2026-08-03"
+      }
+    ],
+    "Broadcom": [
+      {
+        "title": "Samsung just signed a $200 billion chip pact with Broadcom to take on TSMC - WION",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUS1jcUJFYlJyUWtDNk1sOVB3STBDZUF4Q0Utc3RoSmtUclhIMU1iajVyT0pyV0g1bGdhUnA5UmdrV1dIa3lPcUR3QnpuRlNEbGRyWm4xSXdBbkZnLWpBanJEZVFnVlRySnRlSzB2MTVHRzQ1TTl0OVA5eWsxZGVYU0NMek52czB3MFFya2xBUGZBMEVTcjNyOGZUQ2xLYktXMVVSOWtPRV9YN3dVajk2Wi1BSWpBSHFN0gG-AUFVX3lxTE0zam0tV0VFUDdsZHlIamRwTGduWUlPZDVlVTE2UVkzZlRYbUF6SEtUaTh0YUtfVjh5LS1mYzJFc0ZTSXc4Z3hNaF9VSnh4RXE4ZF9odlBLTjA2VG96RGhpeHpNel9TaEo4ZEpOVXhGdWg3ZUlGYUZzb1ZCbjdzYXRnS1hpeUgyVjNHd3lRUzlsMzN4Mk40WUQyUUFNdy1XekRkc1ZyNHpZRWgxZEFhMUx2akw0ekN3YVVNTWVmZEE?oc=5",
+        "source": "WION",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Alphabet Lifts CapEx to $205 Billion, Supercharging Nvidia, Broadcom, and Micron - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SanptNGw3VVdmaUVzQWRmODlJaHhRQnBWZXA3YVVhelRjYUM5SEdxR3lWVEE1eHBtUC1tc0JXc2lMbHVhSVppWTVVa2hHSEdlUGNlNUdQdGhBbm9feWM3aGRERmN4VHV6UWZMbTh6cGhSZUR4TUE?oc=5",
+        "source": "finance.biggo.com",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Prediction: A $5,000 Investment in Broadcom Could Be Worth This Much by Late-2028 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXzlsbkxGRUxiU2dmMGxQa0VpNW9DUVQwZ1NOdDR2Y2RZdF82RTFXWHR1YXN4T3lGTmNjSjNtMnotd3lsYnhTU1JiWDlhdW03VkQ0QVItTmVDeW5rbU1iZGNaOWFRelNoUmF3dkl6alBEQ00tbHljVE1zQ0ZiQk1Dc05FbTNuU0dIcG9CUkE4TE1IMWJWU09V?oc=5",
+        "source": "The Motley Fool",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "AMD Vs. Broadcom: Why Broadcom is Actually Nvidia\u2019s Biggest Problem - 247wallst.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkctc0gzT0kzWmVYeTNZdXptM1QtYTFQc1F3TVpfWDJoYTFIZVpILVdzN2xhWEJpdjJ6ZkdCX0tUUTU1R1dWQ1NhUkNUWHJCNjRRNkZMdnpEZUpWQTd3MjNyZVZBV3ZNaENqOEcwazNlYmcyMmpCcXpsYlE2S1AtNC1RQ2ZLYl9xZVVocUVoZ1FKVEgtRTJHLVBVcThBemtXVFVkX05PdHllYmFX?oc=5",
+        "source": "247wallst.com",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Why Is Broadcom (NASDAQ:AVGO) Takes Center Stage as AI Chips Set Records? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZGo1T1A1TUJ4UFJERXlDUW8wRlU5Y0NKYW5XWVF4TnVKWmxXRmh4TGQ3QUhWbVdlNFlwWDgwbXRDY1B0YmhlSVZPOHV0WlNRaGxwSkU5UGt2U1NRZXpFUzBCZXh4MjQ1NU9icHpoZ2dpbU9Yck9tLUdJRWJqOHBMRDVpVmJwVTMzT1BVcWJoeGtXRERoeE5OZFZXUzVwd0g0RzdVd3JKMXNKMUtJNmg5TjU4OGlhQQ?oc=5",
+        "source": "Kalkine Media",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Broadcom (NASDAQ:AVGO) in Focus as AI Chip Spending Accelerates - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVhEYzNOZzlqRVQzQ1FENWpIZjUzLXpIeW5WV3ptVU9lVnlBY01yUkdWT2h6TkEteUYwRTZlZVBwcjVvNTdNQVg3M2s4dG5jNFJlVlhFYjVlcS1oVTdiYnR5VlJUODByZ2c4blZxbmdpU3lIcmRlM2U4RXJxclQxNml3YWxTMDRpaFRJU203aEtPX01DMnJPYkh1WkhuRllNQm5wRVdya3RuZw?oc=5",
+        "source": "Kalkine Media",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "Palantir": [
+      {
+        "title": "Palantir CEO Alex Karp Drops an 11-Word Bombshell That Proves Artificial Intelligence (AI) Is Supercharging Software Stocks - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzY2LVlnNFZ6cjF4LW5uRW5tYm92eU5Td0xVZ1dmR0ZZVnlXTUM1VGppWU0taFVheHV3bFBhbjFQaTdPOC03MHJYcm1PU1Y4UWhfQWVxMjJIYTduTU5ZdGh6VlNHck9nbHFJalZabEhlaE9oNjd6bmFVbHlPamMyby1MOEYwUU9GdDBTM3NNUEZhUzI1UFU0?oc=5",
+        "source": "The Motley Fool",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Palantir's Q2 Beats, Guidance Raised: A Proof of AI Software Demand - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUU9oM3hoZ2pNQVI4ZndRVlhPSzc4TDlOSVBjQkZYTDJRRENzbHVocWlwNE1GcmE3VEoxWlFBMGRhTGhjSkJUeGxBb0FLLVdDazJOS1dCR3FYN1NKT25WMjBaa3VXRHQwLWx1c0Fka2JaNlh1aEVSYU1Ec0tGQ25nOVEyLWM2dkpSREI0NlpZMEpRUkJKbE1jdkFxa1pocnZoYmRvem9HNA?oc=5",
+        "source": "Moomoo",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "AI Trailblazers Nvidia, Palantir, Alphabet, and Meta Are Shaking Wall Street to Its Core With This $3.4 Billion Warning - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTVFieGJqV3dFYmNPbTJpTWlpakpUb3hlY1MzS3JwZzBqaVQtdFBOcTlQZkJ5V3k3NFJEMkVuVWJBbk5DQU1XSkV1X3d5MUZpVGVEeUE5VVE1VkFiUmVDX2tBQ09iSTlyZ0lya3R5ZlhFMEt4SXRnbUFUbFBZbUlYQVVMaHFkM25pN09lRg?oc=5",
+        "source": "AOL.com",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "TradingKey - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaXhzLUE1OHJqdVROcDNxVjNiTGNxeWx1Q2RoaEI5YVEycFN4ZmEyM3hOeWxGdWZOVXZkcVJIbnJ0MnliM3FyZUlhMkRDblRseXhEUnNBbnRzZExRUmpyN052d0tSWEJZZ25rSW1rWEtuaFBBaHNGcGw4XzRUNlVuU3Y5aDlTNGpoOUJEdXROZDJ1eXNITk1pc3ZhY1BRU3hUaEhsQ0R5NlZqZ2thNmROZ3hoWjNQTTBUNGEwUjJXUzNBV2xFSjRVbmkyVHlmQ052R3FF?oc=5",
+        "source": "TradingKey",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Palantir Market Cap Soars Past $380 Billion! Why Wall Street Is Bullish on Its FDE Model of Embedding Engineers at Client Sites - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1cnFMVndPTTFVaFI0cXhzOTBqTnZHeEU3a2VEWFJ1bnY0MGhVc3Mxcl9lT21Ya2p5TXFvNDg2R1lrRTJJN1dhWEIySzlPbkxPclk1T25ZWVlLX2xwZEVLbTF0WEFORXZmU1pxMncxT3g4RWVMT0E?oc=5",
+        "source": "finance.biggo.com",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Palantir CEO Alex Karp Takes a Shot at Silicon Valley Culture, Says Results \u2014 Not \u2018Steak Dinners\u2019 \u2014 Built the AI Giant: 'I'm Struggling With Our Current Popularity' - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjJhRFdZOUx1NTlQLWR5V0VhQjJnQUtBSWhhV0RyRlduQVV6NVJvWkhZcHlXZDN0SjlZVjVWQzY0S0w2eFVqc0g4cUpEbFM5R2c2WkhxTEcxcThnV1dPalFvMHE4TlZvamh4allZRndNeElmYVhoYkxadUtqOXF2cEd0REtBLWwtYmQwcElWWTdFSVlMRVpF?oc=5",
+        "source": "Yahoo Finance",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "Apple": [
+      {
+        "title": "OpenAI Asks Judge to Toss Apple Suit Alleging Trade Secret Theft - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPY2F6STVRR1pYdnZPZ2FPUlh4SllBNkFFY3hrQU5hQW5KeGpFTkYyTjV0bW1xVDVieFdkWFUzSWl3VnhoVjhkYnV4T3ZMYUk5M2paU25rYzVwOURhNk9DdmxCRVg3NXpBakFPdndfalRTcjd3RjNBTWJjaDhnN0J2d3E0d2RNU2VMU21POEZCOVdYZmVSdnJ5bUx4VUM0dnUyY3QwR01ZVy02ZTdFVkpJUUZ6WmhYUQ?oc=5",
+        "source": "Bloomberg.com",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "iPhone users may soon have to pay a monthly fee for Siri - Yahoo Tech",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOGZRNXJXUF9lMzdmZHBvZU5fTDZUNjgtVzQ5Q2Q1YkZ5TVhvYkxJeXRZelBDalBYamY3c1ZPYndleEkxN3NNT01lRTA2V0lqaHRCZWpxN1VLcFVFUzdpM1NjLUxPT0VGd1I1aDFGckt4QXlFVUFwdndKZVF4RDNsSGlNM2tJSXhCYnZaRkROeGNSZU1NUkpYR2Nn?oc=5",
+        "source": "Yahoo Tech",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "AI is finding Apple security flaws faster than Apple can sort through them - Yahoo Tech",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXZSZTZTUUtnV01zUFdxUGU2NzZ5alNkTmNZY1hJdDNpcy1YS3RkRWJGb1dnNUw3QkNpdmRuOUZycTBja09FNVBNYUV4WGpqYnVuMGlnVEZvY1BKZWlHQWV1QzBOeV9HWDFydWU4V0QtZl92c0EzWm96MklHQ3hWMmhhTmRKbnRTejJRQjg0VW5QWlc0UDFjMjFaVVNyVkJkTmc?oc=5",
+        "source": "Yahoo Tech",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "The MacBook Air is running in short supply, despite a price hike - Yahoo Tech",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZDcxb3kwMWZENWpIcGdpSy1Nd1IwTWhwNGw0dUJiYXRRUWZWcXJDYVdWR2w4M1pjRWpyaXhiWmJGRkxkVVpVallqSDdnZUY5azUyVVVkcWd2MTlpVjNPZnZvSVdOM3dYY2ZDOE5HSjhZYWJBbzFkenBCRXpwUlJDQzMyOXFpR3pnWG52eW1BMU5IUk41NFVvUEtSWjU4aU9JVjBz?oc=5",
+        "source": "Yahoo Tech",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "OpenAI Fires Shots At Apple, Shares Chats Refuting Theft Allegations - NDTV",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN0swV2ZLamphS1ZqMFljTks5RFhTQ2hvNzRuTk1ZOHRsSkE2a1F6c2RKV3Z5SU9lVzR0ek53SzZNS0FCdUp6bU9xUUZOdG5iLXI0WDVpRmF6VFprLWVTX08tbkhLQ2VuUERMVkJZbVkzRkFNZkRoS1pKSWFPclNEdWcwTXdRQURpMF8taVphLXp1aHB6OTNobWRsR0FGVTlBSlZaN3RGcHJzakt2QjJfTjZsaGR2WW45OFc4YW9R0gHGAUFVX3lxTFAxQ1BOaHp6TUJIREZ1NXc0c2IyUzhOblRBZlc4MmQ4RGw3U19MdklVUzFfNnZ4d1dxZElpVzBMWFVyc0ZUZlVNYmpUMGd1UUI5a3FIZWRFMWJCYzBmNmFuX29XMVhTNUZ6em9lS1VlUzc0VTM0a3VSRnNvTVJLdHNESU94b3VLN0JmOUdpdlE5WVgxazVzRUJONF9FdFhKMl9QWTAyVkFLTHVveGh5eTlDVUNyUVcwT21QZXFHSG45OGExX254UQ?oc=5",
+        "source": "NDTV",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Tim Cook Hints Heavy Apple Intelligence Users Will Soon Have to Pay - Hypebeast",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSVBCNVBNcHVKaEYwSHBRU3lqNzM2VkdDbFZlQVJTTjBCNDc5N21RTVJhc1laMVpyTS1Hem9pNWFzZmw3NkRqTkJtMDQtS201elVOT3d3VlE2SXJxUzJSbnZBYzM1V3YxTVhOT1ZSQ2I4S1dHc1FOX1lfVk1ZcEpNbA?oc=5",
+        "source": "Hypebeast",
+        "publishedDate": "2026-08-04"
+      }
+    ],
+    "AMD": [
+      {
+        "title": "Is the AI trade back? - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSXZnWk1zTmhBeFhDT2hVZ3lVQURfbHZLaGNJMER3Zk5jTHRIck42NnBlZm0xdFhZUlhlbGszRVN2cUtwZ3BaSnFDNHd6NFl2NWRUNG5yUHpHdmd4YkVneF9lUko2TDJDRzlZeFlfdWNUUWR5ZTBqRE9rUWdZMHMxd2Jnc2s?oc=5",
+        "source": "Financial Times",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Musk's Exclusive Nvidia Bet Shatters AMD's Earnings Glow; Cramer Urges: AI Market Is Big Enough, Buy All Three Chip Giants - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XZU01SzNGaGhSeThsMEhLWU5ha01NajNsald1enNJZjdaZ0tCWlBuYjAwNHhOUVk2RFNrM2JhbG9SWEY1enFiclpGZ0lhTTNLSi1WeVdnUjRUbVExOW01Z0xHNFpzVXlPeDNNdjU5TElMb29OMlE?oc=5",
+        "source": "finance.biggo.com",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sSTl3aGxwYWRDZUtoUElIb1h3SkgwWEJwTFA1ZzVQY3RRaTVfdEU1eHAzTk9URTJQYmN5Q1hhd0I4OG4xVGhGVVRPRW00bzBGMzNESndXY0xyVlpkTEF6ekNyMzRibU8tYTA5ZW5QczJMd9IBd0FVX3lxTE5RNWlETDdZZWNZNVFrM3RrOFBXMlIzMHFzVzZXVlhqVUtQVGFmOUlaaE1uT1FKZDJYSWdKUWFLMGd2WGdieFlVb0NQYThkRkZIUkNPRkJSMFRDS1pZYkdYZ2lLNG0wSTBLU3p0T1N6SUFiNTB2cWZz?oc=5",
+        "source": "CNBC",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "AMD falls as investors demand bigger AI payoff - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUxPTFhLdHFva2dJZXRNX0YwX2wyeERqR1paUWV2VVljaWZ6dFBDZVFONHdEWmVPaVNXeUR4MjJxdUlRb2ZfVmFTbWlETHdyTlY0NklfOEhrZW5TeThlLV9CRnNZcHU1bmtpU2lRUGExeFZfRnhnQXNsaE00X3FMdFpTLVpTQy1WRi1WdXNYOA?oc=5",
+        "source": "Reuters",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "AI chip stocks mixed after AMD dips as outlook fails to impress - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWdmRnhBczc3Q3d1Q0tDeUdIcWNCMENDM09aVWFVOVBOSHo5R2F0ZWRTLS0xZHhGTC1XcXZvY3lheU13YXpmU0VaMXlCdHUzUGUzLXppWmo2TVRMSGpfak9TZm9OTXY1b3lfZjB1N094V1B3YjREN1dGT29vM1ItZlZGSWFUSkhVLVh3X09DX2VOZFA0NFA5VkhBcWpBV3NnQWlF?oc=5",
+        "source": "Seeking Alpha",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "AMD Stock Slides As AI Chip Euphoria Faces Harsh Reset - StocksToTrade",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHdHSGloX1psbFROcl9lQzIxR3dqUGNwUEw2TFcxQVp6RHplZDZSQlZZXzNjYm1rT1RHQUkybjI3ZmxjUWJmU3BmWlpGb0VLemJXSTNVTmZUY2p6Ql9PbmRnRTFkLTYyNkdZay1YeHFmakdkNUhpbFA1NWFvOVN4bnhyU2VZUlU?oc=5",
+        "source": "StocksToTrade",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "Perplexity AI": [
+      {
+        "title": "US court temporarily lifts ban on AI shopping assistant Perplexity on Amazon - TechCentral.ie",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZkFzSkZ6MlpwOExkZDBCN0pDcWs4WEQ2Uy1lR0RiZXZHWmtxbUVlbG5VeFJhUmZ6Sk9xUjhHNWNhbGhMdUZNNlZUaFZyLTA2cmJWalQ4Z1FBT2UxTFBKV2lJOFc2YXpfMklCbUVJOVA0bGdZODlBRUt6UFk0cHN4RU5ZWHpYYWRhcUhaSnp1bHRsal8xd05uYndySDBSdlRDWkdVMmtQRQ?oc=5",
+        "source": "TechCentral.ie",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Amazon Loses Bid To Block Perplexity\u2019s AI Shopping Assistant - channelnews.com.au",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTlUybk5PRXU0TzNqZm9pdFJVWERuRDdlQUtmellIQUdyYS1RdEhHVVhZTzZmQWtfRUpaMkhaRkE5S2dxWXFpUmpYSjBHMk1uQW5JTGctdjMwb3pDcWh6MHZCeDY1YmVZUXhZMmVTMXFvSWxhUWJ2cnJWYThXNEQ2cTd0TG94OFZLbUE5N3FwNDg3d2FEdUE?oc=5",
+        "source": "channelnews.com.au",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "9th Circuit Allows Use of Perplexity AI Agent on Amazon - Law.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNazR2SkdSZVJhTG5rb1MwQXpLZm80bVZTeUpoUjE0WVVzTE5xOThmaTNzWl9FNUhwQlM4cWtCek1CaVBBU0p0aDNTX0c1dzgyWkliRmZPZl96Tm5WajJ5SEVQUFdWMkV5ZkJNSkV3MVI0Wko1bW1tNUdaNzFBX1JLOVcwWm9OSWFfUHpVQVpsSDN6M1BzLUFQeWt4QTNfWGpDa2w1VkpSM3BHQQ?oc=5",
+        "source": "Law.com",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "US court overturns Amazon injunction against Perplexity AI - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbUZDM2V1ZVFCWUtJV3dUWUh3QmgwaW9jcVVRZGxQUFE3SVVHQXZOZjRFb0tPc3Q3UXdza2pNX0k3QTcwS2gtNzdVNjFzLXVKMldPWTlrQmVacGJyRlJWTjViZU9kWnpFMnVnUGc5QmRWWUJhaFpvS1RmdU9pM1dKVjY4OHNsN3l4M0pYNWtvZ1R2dUY5eHUzTEVRUjFIeTZqdWc?oc=5",
+        "source": "Yahoo Finance",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Appeals Court Overturns Ban on Perplexity AI Shopping Agents on Amazon - PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXB0X2lYWVlKQWhDRzZEMXdmcXh1RkZpdGcybWszcGliNEs2YWYtS2V0M3pvMmlKU0dyLWV3Nmpnb1FCSk4yc2RNQTRfR0F4cmxLd1puTzlVM3o3X1AtbFBOaURVRUFmbmRScjB6OTFnZDNzOVRYMm9IdkpJN1BRUUlPeFVfeUN3Y3Z3MEp3aTR5Y1BoZXdhenJBelNJOF9wNlc5a2ZmdVpGdw?oc=5",
+        "source": "PYMNTS.com",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "AI shopping agents may be harder to shut out of ecommerce sites - eMarketer",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa2daOV9tdHVGb25nYjhnVTd1VUVGakFWdDVWaGhseTBTMjFqb0t0TkRHaFhuNnRXak9LNFAzeGdMbzhUODZmTWdJVlpMTV83M3hheXA0MldQYURKaUYyZy1WLXNtTm1ZMFNlN3R6RHJtYXBmNS10Z2FSMFJobVd4Z3VabnIxVWdJVldB?oc=5",
+        "source": "eMarketer",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "CoreWeave": [
+      {
+        "title": "AI cloud firm CoreWeave enters Indonesia with three data centres - Marketing-Interactive",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWFNpM2lmM0xQVWVxT3U4SUVqODZuWE9rWlhrVVk4UE1tN3hvamcyNWM4MDMtQnd3azJWVzFpVHAwZ3RUTnFQRm5uOE5GNUlJWFN2d3RYRnNvUzBCb3FoUWtpd1RfTE9FYnRscW83WVoxWUdWdVBBMWNzODM0WUZ1ZHVTZFN1T2hjTXdqNWp1Tl9XWi00SEQxa2hORFZDLVI1ZGdPNQ?oc=5",
+        "source": "Marketing-Interactive",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "CoreWeave or Nebius: Piper Sandler Picks the Superior Neocloud Stock to Buy - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkQxOU1sanppTXUyWmlBTHpkRXdmMUEwYnlqd0w5UkU4Qmd3QXVNVks1YXJRNEI5R0NjMkNCMmgzblJ6enpUdEpnM1ZmTVlfdU1sWEJnT2YxZHRMSEhRUVgyV2J1NHJCRzJwUHhiZm8xdHdFWjkyYXFfUGM3azNwQ1dIaFR2S1RkWlA3dXJ1RndOV1ZUekFQR00tSXpNTkVKV0E?oc=5",
+        "source": "Yahoo Finance",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "CoreWeave and Solidigm Sign Storage Agreement - CoreWeave",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGZtOEVjRjR5WW0tNUdVYXlSekVBb0hEUUt0RVJabnd5VEMySkJLN2xDU1ZQam1ZNWJPRnJrWkNNc05tVlZld1lBajBDcnZvUVZycktKN0w0TFI1NUVibXJtN0tZYmtHUzJBNkY2N0VoRnRSYlFQVTdxX3Z6VmVFMm5ablVXTWNTMkVOMG13d0hGdjkzRW1mdTVVanNUaktPWGZkOVhiSVVkVVd3SWhiSlQ1SDRnRG9GZDhHaUZZeGVRbGFZaWg4?oc=5",
+        "source": "CoreWeave",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "CoreWeave Signs Multi-Year Agreement With Solidigm to Strengthen Its Integrated AI Cloud Platform - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPclhxUGZla3ZfY1kwbW1meERXVHRRWGpSWDFPWkpydXR5Vy1CR1pNanlpQ1kyOGRVaEZ4S3VnRzFQNlloOG1aSFRrTTdBbjZvRkE4bzJoYXFmcFgxbjk0UjNwd2VaMFlObmduWEFoMVdiS0lKdXBxeS1CWDBaWXNmMm5PZldBeVhGQzd3QUt3QVg3UnNiQU41Vm4tRWNfZG9sdFFVQ0E3QQ?oc=5",
+        "source": "Yahoo Finance",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "CoreWeave inks multi-year accord with Solidigm to help scale AI storage capacity - ROI-NJ",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0N1UVhDTUVSYV9EMmZCLWZUczJBeXhycU5lbWhmb21odHlQSG90OFpyZWQ4Y3VNMXF0T3UtbWZaU1M3RWp1YTMxM2Fjd0k0eXNUX04tZjFkaXRvc3ZWWXdGWXZLSWx6cGNpaW80d3ZrNndmUmw5eERuSTJ0QVJfUTQwQzh6ZkxOUHRnazNxb0hLUmVTa2x5Um5hMHY0NDBKMlk4RDNaTmtLMnB0X2xsOVpZaVZ1Z3ZzODNSeQ?oc=5",
+        "source": "ROI-NJ",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Backblaze Q2 FY 2026: CoreWeave Deal Strengthens AI Storage Position - The Futurum Group",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOExSRkx1YUNjcTNjRk5pRHU0ZFBUTHk4RE1ORFBkeG9UU2NTeU9KVkpoVlF0Y2hHbTY0VDEzOWFXT01SWlhHZHpfQ3dGNGY2cTlXX3F5dGM1dXpVYXVNdlNoeWR6UnZOeWlCbmw1QXFwSE5PakxyaU1jMXNzVEMxVTB3NktJMmhtM0RkaEVxbXVWU3hFQ1JoRDBtcmk3c1hRTXI3ag?oc=5",
+        "source": "The Futurum Group",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "Mistral AI": [
+      {
+        "title": "Europe\u2019s AI sovereignty is under threat. Could Mistral be the answer? - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY2ZkQnJscmh3eW1VNzlFMk83VC1zM2laazZ3SVhRUkVfazA4cUczclhpdk1WVmhBMVNiMFQ4d0l6a2pjOWNMblhYS0g2bDlpRTRUT2J3V2Rnd25yM0ppRDNPaWg1d255MFh4Vk5NLUd4aXRBSHV5TVlSNlg5eURfaWVaekhocjA2WGpGbTZ2OHgxRjh2YjFnVjN2Mzh1UQ?oc=5",
+        "source": "Fortune",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Mistral introduces Shieldstral to provide lightweight policy-aware moderation for AI models - SiliconANGLE",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVVJjSVIwUWUyYms4d3B0OUJWS0U5bTEweTVpLXVXN1E1SGc5bHQyV2tSOWNCb0xNdnN1Y2x1V2dJOXFxUXpwbEF4eVVyRXE0b09pZTVkSUJlVkVGN28zWlVJcHJQRmZYVUVRMVZxT1c0ZWhxTzZldmZmR0lJUUFwVFpwS2p5RVExaGxoS215dlExbzlxSV9HZl9TT0t2cElVZjZSZVlQQmtsQnJJSmh3M2RFWkJyeFdjZ0VDcHRR?oc=5",
+        "source": "SiliconANGLE",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Mistral's open model Shieldstral matches much larger safety models at a fraction of the size - the-decoder.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObDctR3dlYU5HY2l5eG1SZ2JCQmJRSHVHRkpWR2hldFBKaVgwMElYVko5a3JmQlRsdVNWQjRqNG5Id0JSYkJhMFBmM2VZSEVlbmMycVpBZ1NoZ1F5eF9JcHpoLVNOYV9hWUpEYXRaZ0kzMTB6M0lybmxCTWlha1dwcGJ1OFhBZ19DVnVwTDgwdzNKOEZM?oc=5",
+        "source": "the-decoder.com",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "ABN AMRO and Mistral enter strategic partnership to strengthen European AI innovation - ABN AMRO",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYjlmcjNleHg4YlpCYlM2dmJrUDJsakhyNnR1ODNTZ1FOMzJIVWtYMFRVUnQwVVNhMV8yYWw2a29vQ24xdmRfaWlRWUlVRk5YUzlEcUdJMzRzV2NrYXZNb0dFV3JmNG9tV2x3ajh0RHVQb1JCVk5ZaGxhaVIzNTBJQko1VmRCMUNfaHJFc1p3YlVzbUlDMUQzM05kM3lmMWx1Zy1hd0dJbnpINmxYN3dRa3RCS0JZaTVv?oc=5",
+        "source": "ABN AMRO",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "NEWS: ABN Amro signs AI partnership with Mistral to cut reliance on non-European tech - AML Intelligence",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHVrcTJZVGRDTlRiQVA5bUNEaGxleVNJVzN3dTRHWmxDQ1NFYlVueUMwRXRtM2Fsd1cyS0RGMUFiT2Z0eXNoZzBDN3dNNVJaN3FLSkw5akFpc3BEZFREMzY5RE5XTXY4cDhzc2hoelg1SElLSl9DejVwWmdraVJpM2lIT2RfRmtJeFNrbVBCc3ZZNUhLVUs3S3JpUUgzbnFjQnBDbFdrekNfZ0MxWHpDX1IzR3ByeFZqWmlkcg?oc=5",
+        "source": "AML Intelligence",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Mistral releases Shieldstral for multimodal moderation - TestingCatalog AI News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHJGWDFURXE5YW5FaUd6aU1zclpYV084NUFDQmczS0ZnTHRaalRHZUFKakkzZ3NITnZYalNaekpycEVRMjhVT1EzMUNKZGxXbW1wVzBvdDVTZlB6LWtRb2l6ZDVWWm1uU0ZuRFRlZ3NPeHdaN2VUdVFjQ2lUR0U5emxEcnV2YThLbFNSRXlqQQ?oc=5",
+        "source": "TestingCatalog AI News",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "Tesla": [
+      {
+        "title": "SpaceX boosts Tesla Megapack purchases to $295M in Q2 to power AI buildout (SPCX:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzM1UXo2WTZmUGpJc0tJRm5jb05GcTI0c1NLRVlsNjVoMjJMTjFUNDZicXMxUDVtYVNKRmJhUGJjc2ROWVJ6R3VGX0pxUm1LOHVzOXV6YXNPUnl3VFJWSUMzZHhVZWtlZXBUMTk3U1E5c0YzVGx1Z0tJZEZQc21ubWoxOWRXWU51Zlg3cUl5QWdnQXFTNDFuTGZqbEk0WVcwcE50RXRpVjBHV0dtdUx5eA?oc=5",
+        "source": "Seeking Alpha",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Thinking of Buying Tesla Stock on the Dip? Here's One Green Flag and One Red Flag. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdERFbmNIanpxUkxyOHBZT3dWaHItcWZ2bXEySjdWRnoxejFiZkI1UU8zVGh6d0R3OFJHM2ExNWR2WjFBc3NSbzV2V3pnbkNici04RW1ONUpZbUlRbDJhLTd1cGRWdkdSdmRXOEZaYU1BbVhMLVZfVmxkdkEtWVNFMkpjczhJSTd1a0R2M21KS2hncHRKREVuQg?oc=5",
+        "source": "The Motley Fool",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Should You Forget Tesla Stock Near a 52-Week Low? - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hUjV4d3lLa25TUy1WUkI0bTBxc052RTV5YVBlenBoWlhwdk9ONWZYZFpYWDF6b0ZSbmhsb2NrYjh6eVJfbjk3OEtaaHJ6OGdrQXpyejdKRV9ITkhubmZJRnJheUdLQ3k3dVNGQUdvMjN4WHUyWHpzaEFR?oc=5",
+        "source": "AOL.com",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "SpaceX ramps up Tesla Megapack purchases in Q2 to power its AI data centers - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HUG9NNXlkckZyZGl0MzVqVVpXVV9XLThkdkZQOWRMaVJYT3RhYk1Tck1rZlVxVnJmZnJzbGt6M2pIVDNOTEtvaE9TaE1OblBfelR5aWx5TUdta2FvXzN2Xzd3QjVjc3lsTWZfSFVuMUhOR2x6OWp3Mm5VUjNBZmvSAYQBQVVfeXFMTVU1alVxT1pDZTd2eldJSkNpQVdPMEljVE5yVnl4a1o3bTlMMTZJMWJEc2FPOUgyeTNQdkkwcTJzUm9QcmFCdjhRVkZRZENJUEFWNjZ5SmpPSklLazNqLUhQTkc1eThMS0FpdkdWU0NweVBocVp2TnZCb3FJU1dhWTVsZk5j?oc=5",
+        "source": "CNBC",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Tesla and SpaceX Are Secretly Merging\u2014Not on Paper, But in AI Power - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaHpYX3NsdExwRG1kdE5SMjdsM1BBc3VrUHdHVDJOWkNUcFc5UG54czcyYi11WHdaMVE2M2laZ3U4XzVsTnRYVlBWV1oyajQ3cEU4TXFlM0dMWUtsb3BIenJZeTlyR3ZzWWVaalFiVG10VldNUUVQRTdCNGpLQWlVQlh5Q1c?oc=5",
+        "source": "Barron's",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Elon Musk Ties Tesla's Optimus to Starlink's Next Growth Phase - SpaceX (NASDAQ:SPCX) - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObk9aVmJnV25pZXdsS2FfcnEzX01ERXFkNTZJdDNfempLeFp5RENmRjJVSkw3Z3I5WXlIcDUyTmZ4LUU2NVN5eld6V1daZzdPQjhGanlHNWJpYVd4QkpCVnlFV3JRTjQ0RXJ3SjVzWkE2VVIzWV9XZ3dSYWFUTnhDVUo3eWdzTG1lM181RHZRVVNHWDZXVnFqZHpQamFzVVhzbVNUb3VR?oc=5",
+        "source": "Benzinga",
+        "publishedDate": "2026-08-05"
+      }
+    ]
+  },
+  "ipoTracker": {
+    "Anthropic": [
+      {
+        "title": "Forget the Anthropic IPO: 2 Magnificent AI Stocks to Buy and Hold Instead - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQazA3U0JmcTMxWlMtdl82dEFqcEltcGpSSGx6elYtUzRUMkRHd0p1U2pGb3pTOWlUR1NscGlWZ19ycGhpV1ZTRGpQLWpiMFVJZGk0b0o1NUtZY1ZKYW52UHhSeWJKLW4xSVViNkVqQ0J3djRPbGJwLUFjUWR3R1BZVThOZS03UFpZMWktdFZpOGI?oc=5",
+        "source": "The Motley Fool",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Got $500? 2 Magnificent AI Stocks to Buy Hand Over Fist Before the Anthropic IPO - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWluRGFYWnlRQlpiZmtfbEpnNGlMRkpWZXBnanF3ZUNBTm0ybDkyaVZpYUwwd1pLZlcxZmlNZlkyR2puaVlZS1pfV3NfanloV1ZSRDJCbEJFcV9mS0FydFB3bi1wWXpkZVVMcE41eVNfcFFvREc0amUyQklMeG1RZG1oeDByaG93eXJNSkt6akhWZkE?oc=5",
+        "source": "Yahoo Finance",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "xAI moat bigger than Anthropic, OpenAI, bullish on SpaceX: ERShares - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZThsSWl2Tm45cWZGd3E0aG1MUjhzRUQ3OXJBUjdRZFJYU2VvUGZJeGhQOWg3LVVwZDJEc3JjLWt1YVJOeHJyS2xLNmQ1cXRvaGdBRnhpTllJdXQ2eFI3ejg2NlFRbUtUcmllM0txRkQ1QlByenhMS3VtbkNkY2NZTlR6SS1yTV9QeTkwMUZLaWYxVHUwaG5UU3FkNHBoVDVtOE5kRlVGNkl6S3M?oc=5",
+        "source": "CNBC",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Got $500? 2 Magnificent AI Stocks to Buy Hand Over Fist Before the Anthropic IPO. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZE4xeEZVTmdmaTltYnBfQU0wY280bnJoVHJ5aXJzbzl2Qmp0OGhIMC1OYWkzOUU0NEtUY1FOajJUX0lJVXpjbThjQk15LWx6RVZmdVY1ZTVHMHJVTE0zQ0JpbHdMbklUYU9fcXVUQVplWDlBY3lZbURDZ0hyU2dyX0dMNGc1VDBIQ3c?oc=5",
+        "source": "The Motley Fool",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "SpaceX IPO fallout and what OpenAI and Anthropic\u2019s debuts could mean for equity markets - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdmM0Rng3UzN0bVB2aml1YVNxekNVZWxwdUFtSXlvUVdRS0dGeFRtU25UNHl6aE5DdF9QZVFseG16cTRKdEpMbi1xZTUzbGtKUXRxRnBiVEFGZFVsQ2IzeEU0ZTFUTHFWZ043ck5qSFFDakdTUWYxNVJXdllMM2xaTkxiQTE5dHNDNjBRVVNNTWVla1l4WGNaOHdncmV0eU5FWUZFLWI3ZWlvTVNCWmh2b09TbmxZQ09Fc291QTZtTnBwcmxRVXBFUjlfVEI0QXdGeWFmUFV4bVNXd1ZtNlMxVmRn?oc=5",
+        "source": "Investing.com",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "How Anthropic\u2019s Infrastructure Growth Shapes Its IPO Journey - The Gila Herald",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRTVJRmF3YXlvMjdTVVFrcnlGaG1VeUpQZVFMS2F3a1cxbjhkTnZReUdkakF3bWRUUWJVbVp5SkxON1F0dmE5bF91QzdRYXVPOVdKeFFqdkt1YUJOYmN0ZWhvQ2VRdlRuZXVHWFFIOS10SEFVT2VhWkt4aVFKbjlWMnVLYTR3SXZ6VnFn?oc=5",
+        "source": "The Gila Herald",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "OpenAI": [
+      {
+        "title": "OpenAI May Account for More Than Half of Microsoft's AI Revenue: Is Microsoft Paving the Way for Its IPO Behind This Rare Disclosure? - \u5bcc\u9014\u725b\u725b",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnFPVW9PeGFSNnF4ZEduV2dHalNkOWNUazYtRDVIVUItbjgwbkJQVm9Oc1JhOURXQ0xYMnBvMEQ2U1A4b2lQaFE4RVFVSUJsNHZ6QmdtVW1fQ1ptSXVNYllWX05OM1lwbG1wdzEtMXFneDd6dnNYNzJzTlZHZjRmOHhPbmdjOU9UN0hBcUNFeHZmZUJiajNXOA?oc=5",
+        "source": "\u5bcc\u9014\u725b\u725b",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "SpaceX IPO fallout and what OpenAI and Anthropic\u2019s debuts could mean for equity markets - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdmM0Rng3UzN0bVB2aml1YVNxekNVZWxwdUFtSXlvUVdRS0dGeFRtU25UNHl6aE5DdF9QZVFseG16cTRKdEpMbi1xZTUzbGtKUXRxRnBiVEFGZFVsQ2IzeEU0ZTFUTHFWZ043ck5qSFFDakdTUWYxNVJXdllMM2xaTkxiQTE5dHNDNjBRVVNNTWVla1l4WGNaOHdncmV0eU5FWUZFLWI3ZWlvTVNCWmh2b09TbmxZQ09Fc291QTZtTnBwcmxRVXBFUjlfVEI0QXdGeWFmUFV4bVNXd1ZtNlMxVmRn?oc=5",
+        "source": "Investing.com",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Amazon Investment Signals OpenAI IPO Or Meeting Milestones 07/31/2026 - MediaPost",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU2tJRWtoVHNTMGtha25GaGZ2cTNTdEF1UkYtaEpDTTZmU3VtemkyUmljUFVNUm1mQ1AwbUpock5xclMzT2d2dHRpUXVnT09PWV9UTzlzd2pTdGcwWFhJSm9zVGZOUXZnVWZuNXZubTJSQWpfZVJQMWtXNjNTVmF3MXQwVmFTbExWcmh5cWgwRWtqNkc0OEhVRkVaYmZ1MDF2eW1lZHFJaGRhQ2d3R1cxNHJhaEEtNkV0eFY4NXFjR1NkQQ?oc=5",
+        "source": "MediaPost",
+        "publishedDate": "2026-08-04"
+      },
+      {
+        "title": "SoftBank's AI funding plans to face reckoning at earnings - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLVVNdUd0Vmswa1FpLWI4VU9yZVRGVlZiQ2hvNXFPVTNqSkN0bl9XWEt3ZnhuSDJlSnhBNzZwWHVrYWRVZ2tIbkhkTXJTckxxVG9QWWR4dGI2VzVHcDFfcDNqcWJKdnRuOEE5NC1xbjdERVAxUkJpUlRWR21DdTFvNkQwWDJ3dS1pSHo0ZV82dHZOV1hmUk5aSXExcC1DejJSbzh0THRyb0pQdWdEMVE?oc=5",
+        "source": "Reuters",
+        "publishedDate": "2026-08-04"
+      },
+      {
+        "title": "'I'd Be Petrified': Steve Eisman Says Cheap Chinese AI Models Could Wreck OpenAI and Anthropic's Valuations - 247wallst.com",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNODl0a2t4d3VUUWVzZ0E3Q2lQVGVaTllhRUwzWVNQcERRZjY5Q2pDZ3lKcklNUEV0R0lVbmwwMG9nU3pjb0stNkhObXBVc3diX3pRMlBlVVppcjdOOXpsMmVNalhBcVZva3I4cmp5NVNpczVmRTAxSDhfMUxBSkJWT2dZLUVuZFM4WDAydnZBOV9qV3VsbTJVMnh6RlJFRWl6SkVCXzQyUHlWTU1RTUl1TWVsREtnVFVvVUk2ZFFNODE2QlNkLTF3MzJ4TkM4UTFhV1paVDFWcWdjLVVNLXJZ?oc=5",
+        "source": "247wallst.com",
+        "publishedDate": "2026-08-04"
+      },
+      {
+        "title": "A ton of money is flowing to a handful of startups. Where does that leave everyone else? - The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkx5ZFhINTZYRXpiS21zakttdlQzZEx3TGQ0SFdYcjk5RUFROGtlUjRRdERIM3FOWDByakpoUl9oVzBWSEJsU0xvQmQzbjZFQjFzLWZIY1lFYXUwZjR2OXFtdjB3a0o1VHNTNmlnbVZnZ0Q2ejJqUHlvX25jeDhJa25rVXZsWVNlVXcxWGtRSE5faFliM3drWmVRdXZIUHlyaksw?oc=5",
+        "source": "The Business Journals",
+        "publishedDate": "2026-08-04"
+      }
+    ],
+    "SpaceX / xAI": [
+      {
+        "title": "SpaceX posts loss of $541 million in first report since record-setting IPO - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmhrdVBMakZYaUhyVHc2LVkzQlNudTBEVTJ4Z2V0NDNreXJZd0FBTDVRY28yLWpVei0wUVBMSVZTUnFFNi1yaUxycmw0LS11Mnc3X01GRWp4c1dCc2JIRGt5OTVhOHJhdlkwNUt0QWJnYl9MRk1JZ1FtSU94TDRNUVlyR2pDQW1ybUYxT1dUekdQWElLVEtaZDRLaXE1eGxqdk5hTElVSDctaXpSNmk2QWlRS0p1cS1tSHhr?oc=5",
+        "source": "The Washington Post",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "xAI moat bigger than Anthropic, OpenAI, bullish on SpaceX: ERShares - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZThsSWl2Tm45cWZGd3E0aG1MUjhzRUQ3OXJBUjdRZFJYU2VvUGZJeGhQOWg3LVVwZDJEc3JjLWt1YVJOeHJyS2xLNmQ1cXRvaGdBRnhpTllJdXQ2eFI3ejg2NlFRbUtUcmllM0txRkQ1QlByenhMS3VtbkNkY2NZTlR6SS1yTV9QeTkwMUZLaWYxVHUwaG5UU3FkNHBoVDVtOE5kRlVGNkl6S3M?oc=5",
+        "source": "CNBC",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "Cerebras Systems": [
+      {
+        "title": "Cathie Wood Bought Cerebras Systems Stock the Same Week the AI Chip Startup's Shares Fell More Than 58% From Their First-Day IPO Pop - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbk9ZMjdlTDFYektCei1LY3hNUXFfUGw0M1lZVWI3UXB3ZEM5X2lvbHNWN3lfZ2h3bHRUekdUWE5ENnd0azZTQllwQWhQT0tEV3lEVDVUUmJCLVBMUUJ6SlNBUFJVLU9kOWFvb0VoWDBTcWYwNGRidURmUTJQUzV6SExiRnh1WlhNUFlzVkdHdEQ3S2FZamdvOA?oc=5",
+        "source": "The Motley Fool",
+        "publishedDate": "2026-08-03"
+      },
+      {
+        "title": "Cathie Wood Bought Cerebras Systems Stock the Same Week the AI Chip Startup's Shares Fell More Than 58% From Their First-Day IPO Pop - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHdOMnpyblZ1dENyaENvcFY3U0RxXzJDeURmT3VTOWZHcGtBYkJYdG5TWWxLejBSV0dSQkFBXzRpMWl2U2FRM25hZjFBanRZZ0VwZldfMWtLVXM0X2hjSkxKT1VYbE5rYzRMeV92WkJNWXdDd2E4dlNVZFJzZWxUYjd0MHFyYWlPWEVScWg1MEJtaDhqVWQ3dDVkM29EQmxjVnc?oc=5",
+        "source": "Yahoo Finance",
+        "publishedDate": "2026-08-03"
+      }
+    ],
+    "Databricks": [
+      {
+        "title": "WarrenAI on private companies: Anthropic, Stripe, Databricks and OpenAI compared - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOakVQaUVkWUFDemxTSEtkZmRodzZ3SWhsY3R1VkRBT0h3c1p3N1M0U3RkNVV5VTdFNWgyam9hd0JiZ0x2Qml0bUlETHBpeTJiUVBvU3pLdkpFU3BTQ2x2RG1yRDBjYVJ3VXJ0QVhpanJzXzd0enIxanZ1VEwySEFRR3lZMHF2aDlCYl9DZGpSZlp5UHhsSjI2VEk4ZjlhaVBMbHJPNzVmVTRWWFBldmVRYUhyRVVoWWM2cjhTd2l3dlBNV3RpYkR4aV9oU2dZc0RubVprb1pVcnRNQkJkdF9aRA?oc=5",
+        "source": "Investing.com",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "What\u2019s New In Investments, Funds? \u2013 Clear Street, Databricks, Raymond James - Family Wealth Report",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRU1SX2FsY202ei0wZVh1bEVmV0YzTGpkOUg4dGFubktzdExYUTEzbm0wTEQ1Zm5mckRIWG8yMlNZaXlJVlAxcXBJV2owcklXOGVMaVJHeXZjWmxsYTFRU1JkQW1MaFUxYnlabVR6dktWeE8zLU5xQ1RqaHJSaWstQTR4WFZLWUhqTkZ2Ul9Lalp5UTdsZV82ZmpqVW5jSmZHcGhfNk55TUZlRC12dmpVVG5NWDEyNmRNMmRZY3NuSmgwRlBiOUhvTmxXbXUxQTA2aE9PNGpNeDBSTGhlNjI5Yy0tX2RwVUtReUpMUw?oc=5",
+        "source": "Family Wealth Report",
+        "publishedDate": "2026-08-04"
+      },
+      {
+        "title": "Brokerage firm offers investors pre-IPO access to Databricks - jawlah.co",
+        "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBkQzBrcThJdXdyQkZUeVRnT0ozSkVFYjVsZW9tcmZCb1dSWFJxZFBCaGVWOTZvd3FPOVdQTS1udw?oc=5",
+        "source": "jawlah.co",
+        "publishedDate": "2026-08-02"
+      }
+    ],
+    "Scale AI": [
+      {
+        "title": "Cerebras Systems IPO 2026: Date, Price, Valuation, and Whether CBRS Is Worth Buying - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOX1AzQ3ZwckpWNk1qdnV5OE1nTlJHUHhVT3ZvbHBZdktYeVZnV1NlaHFmOUJIdE9GM2RMVnlERXppR1dfaFBwSms0SmY0ZS1tZHh1VlBuWm45WFNFR1VlVGxBZEV6Zl9YSlhlbWZLV1FHZ0RPMVh3TW9JLXRwZEtNeDJRaEwyaWRMYTZWZnUtemVmazRkYVdQWFRHQ1RLRTdaNUYwV2JpdjB4eUZpeU8tVktjRHNFQktlMjZXajZSMDVXdUhZMFpBYnZ1QlV2RURpNUlGMzJhUnBEYnJXczV0YUJWYWdRWFpyRGVQVWVJOTlSSWo0UzhPcktGSXI5N0pXN0NR?oc=5",
+        "source": "TradingKey",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "Perplexity AI": [],
+    "Hugging Face": [
+      {
+        "title": "SpaceX Exceeds Revenue Estimates in First Earnings Since IPO - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMzBQQk1TN3BLNVpiS1V4VTdNcDF3T2dxVU1ES1VXa0liYlh0ejJaeHlUYU50amlDTnY4eVVTSW5fRDJLdW1YOUgwbmFTbjdxNmlxMkItbDhJRmYxd01waGw4dDQzbmVOTTBNLUdSNF83dHRhNTFFQzI0Y3h0UHVOR3huVzl0dXg4SkU4cnBYNHZ4MXF0bG1VZTBxc1c0TVI3Q1pIWGdrUDVOYmFScjFhUjNpRENZQW8?oc=5",
+        "source": "Bloomberg.com",
+        "publishedDate": "2026-08-04"
+      },
+      {
+        "title": "MV Electrosystems IPO Allotment Today: How To Check Allotment Status Online, GMP Today, Listing Date - NDTV Profit",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSGpIY1gzQ3RCSjJaSk9icDZ6WVJPZjV1VmhEdEtHVEhWZzJOckdxS0NlazJXemdxakIwbzBvMmwyLXZtaTJMWU1vN05GOUNYaFladXRsWHZIQnpYb3JFaVJQOGx0SzM0emZMYjFSNk9obXp3YWFpUTdpbGNoc3U2alJ2RFZwcHQ2MncxOWFNcEdnMDFuckhVSTlOSHh0MWpBQklhLTJDeDQ0dGJ5MW5uTkNlc2dKR2tJYTE1SFhhRUNFblJFcnV1X05VMkpxeHJxeTMwUmYyTnhZVjg3WTFfb9IB4AFBVV95cUxNSGpIY1gzQ3RCSjJaSk9icDZ6WVJPZjV1VmhEdEtHVEhWZzJOckdxS0NlazJXemdxakIwbzBvMmwyLXZtaTJMWU1vN05GOUNYaFladXRsWHZIQnpYb3JFaVJQOGx0SzM0emZMYjFSNk9obXp3YWFpUTdpbGNoc3U2alJ2RFZwcHQ2MncxOWFNcEdnMDFuckhVSTlOSHh0MWpBQklhLTJDeDQ0dGJ5MW5uTkNlc2dKR2tJYTE1SFhhRUNFblJFcnV1X05VMkpxeHJxeTMwUmYyTnhZVjg3WTFfbw?oc=5",
+        "source": "NDTV Profit",
+        "publishedDate": "2026-08-04"
+      }
+    ]
+  },
+  "partnershipTracker": {
+    "Anthropic - xAI / SpaceX": [],
+    "Anthropic - AWS": [
+      {
+        "title": "AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows - Amazon Web Services (AWS)",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE1OY3Z5ckczdXRoRTFGakxFbjRMaHg3akQ5eFZfU29LaVVaUEJETVQ5QjdwY3VSV0tMNXF3ZGFfY0RPYkNESWtCUlpMVGx3aWd6eUdNUEdJWnE2eFJ6aEFNemx1Vk1hQlA4VzFqVzNjUUoyQndVY0UwQmlEdTJXMzVKOG1aTjl0Ti1pUm9LZUVScml0WWxVVUdKSlIzTjh1OTg2SC11WmZQQ3JyZ0tkVFlyTm43eFhVWDNERnNFSU9VckE?oc=5",
+        "source": "Amazon Web Services (AWS)",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "AWS partners with Anthropic and OpenAI to bring Continuum into coding tools - SiliconANGLE",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYUJLMXJNdTh5S3BZZklGc0xFT0pOcmF0WkNmOUVGNHdZelBINTBFS3NibU9FejMxMkVTWXlRdEszRjhYRGNUTHhLVWVjTUlEbm4xYnJXTGhHdVRCeE16T1BEeVZhVmxsZENaWS1LNmRsRTl6M0dEVGFSUmZLcVdZWjNVMGwyR1BteWpod2E3cFU3TnQ2YjJnanNsYw?oc=5",
+        "source": "SiliconANGLE",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Anthropic expands India presence with in-country Claude inference, strengthens enterprise partnerships - MediaNews4U",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ2ltSTlUZENoYTRHa3Q2TXh2a3Z2b29KV2k4a05JVmN2ekI2UnhlTkZhQjdoSm01REFiWExyZDdPMUdVM3FvalJXdUR5TUJTS1U0Mjd5QXdoWV9XcjZrWlJBamlNNVgxOXMxNUd0SmdTVnZxZlFCTGZvdk91RWR0amg5MEJYMG9vVjg3MkZGXy1yZ05CTDlKZGMtSHk4S1NuanFOQWxPYnp0dGlkdElmZVBDMzZrd0dkNVlUdWlabjlMZkN2X2NYOWFR?oc=5",
+        "source": "MediaNews4U",
+        "publishedDate": "2026-08-04"
+      },
+      {
+        "title": "Anthropic launches in-country Claude inference and new partnerships in India - CXOToday.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWp3TkhneGhSd1VjLWpPU2l0TG9tb29YNE11UmJZSzdBX21OTlllV1poM3gtUWhoQWpfNVlkNlJrMEZWSVhjZEFYbnNtWWR0NUxNRy1reV8tMFMyc2p6NU8yajlmRS1nOXVhWE5TdXVBSTFkNFlXZS1tYm85X3hrNWdJTS1EYTlxLWVyVFQ5QzItTmZid2RXU0wwaUdwT2w5bFpv?oc=5",
+        "source": "CXOToday.com",
+        "publishedDate": "2026-08-03"
+      }
+    ],
+    "Anthropic - Google - Broadcom": [],
+    "Anthropic - Microsoft - NVIDIA": [],
+    "OpenAI - Microsoft": [
+      {
+        "title": "Microsoft reveals it generated $24.1 billion in revenue from OpenAI in fiscal 2026 - Neowin",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZlFndS1jSzlmZzhidlNBMEwtOUZtMUZ4UXFkMmZRYXkxTURXcDVPZjlLQ1BET0g3WXptMFlkM05SdEhnTHZkc25Id3NkYS1iRmQ2MzFLODY5U1NyLTZpSmNlSjd2QVJ4VkZYMzFVMDdFZlF5cjJGa1JfMDgtdTBTSFBHUXhVc1VSTmFDcHNaQm51dFdsUEFOMGZZN1JmTTVfVlY4b25DVDFPeDFvdkZLZEY0bzQ1a003VEIydUswOVJhd9IBrAFBVV95cUxQVmdSNW1VNlZoa3ZfMDRnbUliWlJSZWhqOGxyazJva3R0TFk1NGxzY29Jek9KRzM5TlhlMTU0LUtsT1JkSFdCRjVObEFPSENaLUdHZDJuWnVlUmNlU2laZzBjb25tejFYdEtXX2JDUm0yTGdBZVMzSnFYSnFRMllCOVVnVjRzVWRKNmYtQVJwNG9yRGZ4dE5ZOXE2ekFndmEwWWVZRHBwTmx5TUFq?oc=5",
+        "source": "Neowin",
+        "publishedDate": "2026-08-06"
+      },
+      {
+        "title": "Microsoft Mandates OpenAI's GPT-5.6 as Default for Devs - The Tech Buzz",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ2pnWk82WW1uMERkMnJSaWt4NW1leXZndjJBd242bzQtZ2RmcEE2bDR4UTJtemFGQ0NpbENmbUszZ0g2aFROY1JlamZRV2RKY1hOcTI5SG1WOU5sT2VFM1Q1Ukh0aE9mUGloRVk5aDcwR1gzZ0hXckZibWJqeGRuVTdtcGNTbXZVbmptZXFEdGZDdw?oc=5",
+        "source": "The Tech Buzz",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Microsoft OpenAI AI Revenue Drives Major Growth in 2026 - The Cryptonomist",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vV2FURDdKVGcyeUtMVHk4SXUxTkd1SS1hZlBHemZmQy04R0xIZGZ4VFY1bVExMUY2a0hCdTduYjVyM2Y0MS1XbmdTRll6SF9aZXhRbTdLOFJKeW9JQk9jYkpiVTRidjZVSVR4My1RbS1UVnZi?oc=5",
+        "source": "The Cryptonomist",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "OpenAI - Amazon": [
+      {
+        "title": "AWS partners with Anthropic and OpenAI to bring AWS Continuum into developer workflows - Amazon Web Services (AWS)",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE1OY3Z5ckczdXRoRTFGakxFbjRMaHg3akQ5eFZfU29LaVVaUEJETVQ5QjdwY3VSV0tMNXF3ZGFfY0RPYkNESWtCUlpMVGx3aWd6eUdNUEdJWnE2eFJ6aEFNemx1Vk1hQlA4VzFqVzNjUUoyQndVY0UwQmlEdTJXMzVKOG1aTjl0Ti1pUm9LZUVScml0WWxVVUdKSlIzTjh1OTg2SC11WmZQQ3JyZ0tkVFlyTm43eFhVWDNERnNFSU9VckE?oc=5",
+        "source": "Amazon Web Services (AWS)",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "AWS partners with Anthropic and OpenAI to bring Continuum into coding tools - SiliconANGLE",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYUJLMXJNdTh5S3BZZklGc0xFT0pOcmF0WkNmOUVGNHdZelBINTBFS3NibU9FejMxMkVTWXlRdEszRjhYRGNUTHhLVWVjTUlEbm4xYnJXTGhHdVRCeE16T1BEeVZhVmxsZENaWS1LNmRsRTl6M0dEVGFSUmZLcVdZWjNVMGwyR1BteWpod2E3cFU3TnQ2YjJnanNsYw?oc=5",
+        "source": "SiliconANGLE",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Amazon completes $50bn OpenAI investment in massive cloud AI bet - Memeburn",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRTJtQXFfRGJYQlA3OTAxTnBkblIyeTZhcFBET1gyMC1kSjF0cHY4VFNNRjc1WEdhem56UG5veWxZSXRCVjNabmlNei15ZVFwSnMyMGVRX1RZQWlyTXdTMEh3TmVGaWNfb1U5SkxCcDRyNlM1Q2d6cWoteWNqTmFaRU1vUF9UY21jOXRGQVp3?oc=5",
+        "source": "Memeburn",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Amazon's AWS has formed partnerships with Anthropic and OpenAI. The three parties will collaborate around the AWS Continuum workflow. - Bitget",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUQWdjVGJPZWlYbEZtaXhjX3duSHhZRFpFYURsWGM4dEZ6WkNiVFcwMV9mTXV0MzhEZThyVHBHRTBZUUszdmJBdC1SQVhFMDUtM2JLRW8yRk9WWEhXY0NURzN3VG9jU1c2NVHSAWpBVV95cUxQVEFnY1RiT2VpWGxGbWl4Y193bkh4WURaRWFEbFhjOHRGelpDYlRXMDFfZk11dDM4RGU4clRwR0UwWVFLM3ZiQXQtUkFYRTA1LTNiS0VvMkZPVlhIV2NDVEczd1RvY1NXNjVR?oc=5",
+        "source": "Bitget",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Accelerating software development with OpenAI ChatGPT Codex on Amazon Bedrock - Amazon Web Services (AWS)",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1BuSFBaZm9DemlMR0FHZ084X0VFaFpUMFhmbWZhdUFpNTlLeTJ6YU9zRkJNbE9JOThtNER6dWVoZFJKWjcyYXRocGhzUG55ajc2LUd3N2hTdUpYYXlRZTRNSnpQd1lpVXFDaWRvTUZibjJsSE4xUTV6SGJGX3dzNEdNRlM1NFdWQUNONW93a0xtVW1TNnZpUkJ2Wmlzei15a3JqVlkwSnFicGNyMmxzbQ?oc=5",
+        "source": "Amazon Web Services (AWS)",
+        "publishedDate": "2026-08-04"
+      },
+      {
+        "title": "Amazon deepens OpenAI ties with US$50B AWS expansion - digitimes",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXB6R1lYRkpaZ0c3NWJEZUVJQmFmOXQ4ZVRoYmhabmlrRFljYVI2aUhOSEFRc21QN2R5Z3VVYVhUQk4yaVNDdUtmX3Jvc3lPNmhRbFhHMW1TdDNsWmFpUDRKTXJvTGtvTmRRT3FrbFhnSVlEQjg5QV81eVBfNXlDUklPMmdRWS16RTJtaHlB?oc=5",
+        "source": "digitimes",
+        "publishedDate": "2026-08-03"
+      }
+    ],
+    "OpenAI - NVIDIA": [
+      {
+        "title": "40 Firms Form Security Pact, 4 Labs Sit Out: DesignRush AI Roundup - news.designrush.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX1J2LUNpTE9YT1ExTXg5QWdpS3dzRzRQT0hCdkpUbF9BSFFhX0REaDNqeW80Q2szeThUWmNUOFdrbm15M1FzWVg5dVFCRC16MkVOVzA1Z0lGNmhIR0M5eHVpenhNWDZ0TW83OTlzMTFnVzZsdFdSeFp4QjlQOTh2QWNySFB5UWgxb1BrS3YxQTViek9BdlJuRA?oc=5",
+        "source": "news.designrush.com",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "OpenAI - AMD": [],
+    "OpenAI - Oracle / SoftBank / CoreWeave": [],
+    "Meta - CoreWeave": [],
+    "Anthropic - CoreWeave": [
+      {
+        "title": "CoreWeave Shares Jump 11% as Leidos Partnership Opens Door to Secure Federal AI Cloud Contracts - International Business Times Australia",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1RkZFJsdk45M3FVTlJhaGhtLXdMd1lNeWx0TS1VNWdURS00WGFHWUpXTXFGT1dRTDI5a2V2Y1dlNFNja2U0V1ZHU3Q2NWNYQ3M5TEtlRnpFbEcxRnJYUnJQVmQ2WW1MWEZJVS00WndQcFhzbXpxZ1F4TDQyVnh6RGJGbGIwMGY5?oc=5",
+        "source": "International Business Times Australia",
+        "publishedDate": "2026-08-03"
+      }
+    ],
+    "Anthropic - Palantir - AWS": [],
+    "Apple - OpenAI": [
+      {
+        "title": "From partners to adversaries: What's behind Apple taking OpenAI to court over trade secret theft - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcXZwZk5obGFLLURZdXplLXJ6SWFNclZCVk9pOVptd09CMkpQZDliLVhERVFvVDkyODNrWHFVZHdMS3Y3QngwaFl6SHdvOThiT19TcTA1TzIwc3dxYWl6UmFBQkw2VS15X3FLYzdJdmNkRU1EaXRGS0RjNjlQbWRuUXZXSHp3OWhDSHU3UldNdG9ab2RDWlpJbVV1aFA5R0xMRVNhMFFCaU13SHkwTU5XaWdtLUtmMDZrUFlPYVpHdzVUUkg5WktUdmpqMW5mb0RjMnJIVVI1RUVrN19QWWo1QVk2TEgyS1o1YVBaSkpvMXRZQld1b2tyUjhNLTRVajVyVGp4MDVHQ3Y?oc=5",
+        "source": "The Times of India",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Apple-OpenAI trade secret fight: Claims, chats, and timeline explained - Business Standard",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYUY5QTdSeFRMQXhNMndGYWhzdWFmUTZUMlpEeVBxLVQwcUI5Vk4waW1nV3hrSVVtN05ubHpKWnNOSFNVeDlGdzBTSVZ3X2VyNi0ySEpfQ3IzRF9TNWRzR29JaTlmVmpmQ2xUeHQ4TkE3Vm1jX0pOR3p6Ni1haVh6Sk4wYWh1MzJXUk1MUWJieUpOYWJOTUdNRFNYNGZ3bEdHYWhlUjFnMVBhOE4zZ3NFdk4zelFoT0FmSE1UbVVraUloQWsxNWpyT29aTjI0Vkl1T05CUXcySGV5ZkZua3FR0gHfAUFVX3lxTE5hRjlBN1J4VExBeE0yd0ZhaHN1YWZRNlQyWkR5UHEtVDBxQjlWTjBpbWdXeGtJVW03Tm5sekpac05IU1V4OUZ3MFNJVndfZXI2LTJISl9DcjNEX1M1ZHNHb0lpOWZWamZDbFR4dDhOQTdWbWNfSk5Heno2LWFpWHpKTjBhaHUzMldSTUxRYmJ5Sk5hYk5NR01EU1g0ZndsR0dhaGVSMWcxUGE4TjNnc0V2TjN6UWhPQWZITVRtVWtpSWhBazE1anJPb1pOMjRWSXVPTkJRdzJIZXlmRm5rcVE?oc=5",
+        "source": "Business Standard",
+        "publishedDate": "2026-08-05"
+      },
+      {
+        "title": "Sign in with ChatGPT Launches: What OpenAI Retains Is Not What Gets Shared - Tech Times",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXBSblFLWkJJbnJTY1YxYW5Ed29jcU9sdHJTeWV5M2lQMU5fcXpGRGpQemNOZ2Z5Yk1DX1FHaDlqMl9PeWxRNm9PVFZPaXdRTUVzMkJjX2pub0E4eTN5OFBheXBPVFlYZDJLcG45TVJWQkFVWl85elZieVBXTUdVQkdwVTdlS1hfY1BJWFJ5RUt0Z2dmN3YxNEl2dUJGTi1Xd25pLTZfUEpqVU54Q3pRUFhLbVJuWnRo?oc=5",
+        "source": "Tech Times",
+        "publishedDate": "2026-08-03"
+      }
+    ],
+    "AMD - Microsoft": [
+      {
+        "title": "AMD\u2019s Helios AI Rack Enters Full Production, Microsoft Locks In Azure Deployment - Shane the Gamer",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0tCYTc4T2t6VU1XYlpPcWdkSXFIU0JJazFoRVFNN3dsUjU0ek1iNjJmN2s0RmliVUNVV2pDQWo5eXpQdGZPOXFWaW0yOXQ1MHdPNk9KeDZSZHdmZHgzVVYtSnd2MnFVaWNYWXRvbl9uTUJ6ZFdqQks4TnFHRTd5YmJ1azhBTUJhY19qLWsxa0lHMWV2a1BKNERXcXotcE9jS2xDYmt2dUhfNW91cVpJVXFtaHF1WjQ?oc=5",
+        "source": "Shane the Gamer",
+        "publishedDate": "2026-08-05"
+      }
+    ],
+    "AMD - Meta": [],
+    "CoreWeave - NVIDIA": []
+  }
+}
